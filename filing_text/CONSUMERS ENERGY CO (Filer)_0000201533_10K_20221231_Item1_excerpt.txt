@@ -1,0 +1,716 @@
+Part I
+
+Item 1. Business
+
+General
+
+CMS Energy
+
+CMS Energy was formed as a corporation in Michigan in 1987 and is an energy company operating primarily in Michigan. It is the parent holding company of several subsidiaries, including Consumers, an electric and gas utility, and NorthStar Clean Energy (formerly known as CMS Enterprises Company), primarily a domestic independent power producer and marketer. Consumers serves individuals and businesses operating in the alternative energy, automotive, chemical, food, and metal products industries, as well as a diversified group of other industries. NorthStar Clean Energy, through its subsidiaries and equity investments, is engaged in domestic independent power production, including the development and operation of renewable generation, and the marketing of independent power production.
+
+CMS Energy manages its businesses by the nature of services each provides, and operates principally in three business segments: electric utility; gas utility; and NorthStar Clean Energy, its non‑utility operations and investments. Consumers’ consolidated operations account for the substantial majority of CMS Energy’s total assets, income, and operating revenue. CMS Energy’s consolidated operating revenue was $8.6 billion in 2022, $7.3 billion in 2021, and $6.4 billion in 2020.
+
+For further information about operating revenue, income, and assets and liabilities attributable to all of CMS Energy’s business segments and operations, see Item 8. Financial Statements and Supplementary Data—CMS Energy Consolidated Financial Statements and Notes to the Consolidated Financial Statements.
+
+Consumers
+
+Consumers has served Michigan customers since 1886. Consumers was incorporated in Maine in 1910 and became a Michigan corporation in 1968. Consumers owns and operates electric generation and distribution facilities and gas transmission, storage, and distribution facilities. It provides electricity and/or natural gas to 6.7 million of Michigan’s 10 million residents. Consumers’ rates and certain other aspects of its business are subject to the jurisdiction of the MPSC and FERC, as well as to NERC reliability standards, as described in Item 1. Business—CMS Energy and Consumers Regulation.
+
+Consumers’ consolidated operating revenue was $8.2 billion in 2022, $7.0 billion in 2021, and $6.2 billion in 2020. For further information about operating revenue, income, and assets and liabilities attributable to Consumers’ electric and gas utility operations, see Item 8. Financial Statements and Supplementary Data—Consumers Consolidated Financial Statements and Notes to the Consolidated Financial Statements.
+
+Consumers owns its principal properties in fee, except that most electric lines, gas mains, and renewable generation projects are located below or adjacent to public roads or on land owned by others and are accessed by Consumers through easements, leases, and other rights. Almost all of Consumers’ properties are subject to the lien of its First Mortgage Bond Indenture. For additional information on Consumers’ properties, see Item 1. Business—Business Segments—Consumers Electric Utility—Electric Utility Properties and Business Segments—Consumers Gas Utility—Gas Utility Properties.
+
+16
+
+* * *
+In 2022, Consumers served 1.9 million electric customers and 1.8 million gas customers in Michigan’s Lower Peninsula. Presented in the following map are Consumers’ service territories:
+
+                        
+--- --- --- --- --- --- --- --- --- --- --- ---  
+  
+![cms-20221231_g1.jpg](cms-20221231_g1.jpg)
+
+        
+      
+      
+      
+      
+      
+    Electric service territory  
+      
+    Gas service territory  
+      
+    
+
+Combination electric and
+
+gas service territory  
+  
+    
+      
+•    Electric generation and battery 
+
+storage facilities  
+  
+    
+      
+      
+      
+      
+      
+      
+  
+CMS Energy and Consumers—The Triple Bottom Line
+
+For information regarding CMS Energy’s and Consumers’ purpose and impact on the “triple bottom line” of people, planet, and profit, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Executive Overview.
+
+Business Segments
+
+Consumers Electric Utility
+
+Electric Utility Operations: Consumers’ electric utility operations, which include the generation, purchase, distribution, and sale of electricity, generated operating revenue of $5.4 billion in 2022, $5.0 billion in 2021, and $4.4 billion in 2020. Consumers’ electric utility customer base consists of a mix of primarily residential, commercial, and diversified industrial customers in Michigan’s Lower Peninsula.
+
+17
+
+* * *
+Presented in the following illustration is Consumers’ 2022 electric utility operating revenue of $5.4 billion by customer class:
+
+![cms-20221231_g2.jpg](cms-20221231_g2.jpg)
+
+Consumers’ electric utility operations are not dependent on a single customer, or even a few customers, and the loss of any one or even a few of Consumers’ largest customers is not reasonably likely to have a material adverse effect on Consumers’ financial condition.
+
+In 2022, Consumers’ electric deliveries were 37 billion kWh, which included ROA deliveries of three billion kWh, resulting in net bundled sales of 34 billion kWh. In 2021, Consumers’ electric deliveries were 36 billion kWh, which included ROA deliveries of three billion kWh, resulting in net bundled sales of 33 billion kWh.
+
+Consumers’ electric utility operations are seasonal. The consumption of electric energy typically increases in the summer months, due primarily to the use of air conditioners and other cooling equipment.
+
+18
+
+* * *
+Presented in the following illustration are Consumers’ monthly weather-normalized electric deliveries (deliveries adjusted to reflect normal weather conditions) to its customers, including ROA deliveries, during 2022 and 2021: 
+
+![cms-20221231_g3.jpg](cms-20221231_g3.jpg)
+
+Consumers’ 2022 summer peak demand was 8,061 MW, which included ROA demand of 532 MW. For the 2021-2022 winter season, Consumers’ peak demand was 5,559 MW, which included ROA demand of 447 MW. As required by MISO reserve margin requirements, Consumers owns or controls, through long-term PPAs and short-term capacity purchases, all of the capacity required to supply its projected firm peak load and necessary reserve margin for summer 2023.
+
+Electric Utility Properties: Consumers owns and operates electric generation and distribution facilities. For details about Consumers’ electric generation facilities, see the Electric Utility Generation and Supply Mix section that follows this Electric Utility Properties section. Consumers’ distribution system consists of:
+
+•212 miles of high-voltage distribution overhead lines operating at 138 kV
+
+•four miles of high-voltage distribution underground lines operating at 138 kV
+
+•4,430 miles of high-voltage distribution overhead lines operating at 46 kV and 69 kV
+
+•19 miles of high-voltage distribution underground lines operating at 46 kV
+
+•82,326 miles of electric distribution overhead lines
+
+•9,501 miles of underground distribution lines
+
+•1,093 substations with an aggregate transformer capacity of 27 million kVA
+
+•three battery facilities with storage capacity of 2 MWh
+
+Consumers is interconnected to the interstate high-voltage electric transmission system owned by METC and operated by MISO. Consumers is also interconnected to neighboring utilities and to other transmission systems.
+
+19
+
+* * *
+Electric Utility Generation and Supply Mix: Consumers’ Clean Energy Plan details its strategy to meet customers’ long-term energy needs and provides the foundation for its goal to achieve net-zero carbon emissions from its electric business by 2040. This goal includes not only emissions from owned generation, but also emissions from the generation of power purchased through long-term PPAs and from the MISO energy market.
+
+In June 2022, Consumers received approval of its 2021 IRP, which updated its Clean Energy Plan. With these updates, Consumers expects to meet 90 percent of its customers’ needs with clean energy sources by 2040 through execution of its plan, which calls for replacing its coal-fueled generation predominantly with investment in renewable energy. New technologies and carbon offset measures including, but not limited to, carbon sequestration, methane emission capture, forest preservation, and reforestation may be used to close the gap to achieving net-zero carbon emissions. Specifically, the Clean Energy Plan provides for the retirement of the D.E. Karn coal-fueled generating units in 2023 and the J.H. Campbell coal-fueled generating units in 2025. For further information on Consumers’ progress towards its net-zero carbon emissions goal, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Executive Overview.
+
+20
+
+* * *
+Presented in the following table are details about Consumers’ 2022 electric generation and supply mix:
+
+                                    
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---  
+Name and Location (Michigan)  Number of Units and Year Entered Service  2022  
+Generation Capacity  
+(MW)  
+
+1
+
+  
+
+
+  2022  
+Electric Supply  
+(GWh)    
+Coal steam generation            
+  
+J.H. Campbell 1 & 2 – West Olive2
+
+  2 Units, 1962-1967  610       2,869       
+  
+J.H. Campbell 3 – West Olive2,3
+
+  1 Unit, 1980  785       4,449       
+  
+D.E. Karn 1 & 2 – Essexville4
+
+  2 Units, 1959-1961  489       2,899       
+    1,884       10,217       
+Oil/Gas steam generation            
+D.E. Karn 3 & 4 – Essexville  2 Units, 1975-1977  1,213       167       
+Hydroelectric            
+Ludington – Ludington  6 Units, 1973  1,109     
+
+5
+
+  (370)    
+
+6  
+  
+Conventional hydro generation  35 Units, 1906-1949  78       381       
+    1,187       11       
+Gas combined cycle            
+Jackson – Jackson  1 Unit, 2002  535       2,205       
+Zeeland – Zeeland  3 Units, 2002  533       3,456       
+    1,068       5,661       
+Gas combustion turbines            
+Zeeland (simple cycle) – Zeeland  2 Units, 2001  317       860       
+Wind generation            
+  
+Cross Winds® Energy Park – Tuscola County
+
+  114 Turbines,   
+2014, 2018, and 2019  33       747       
+  
+Lake Winds® Energy Park – Mason County
+
+  56 Turbines, 2012  13       269       
+Gratiot Farms Wind Project – Gratiot County  60 Turbines, 2020  10       421       
+  
+Crescent Wind Farm – Hillsdale County
+
+  60 Turbines, 2021  8       392       
+    64       1,829       
+Solar generation            
+Solar Gardens – Allendale, Cadillac, and Kalamazoo  16,852 Panels, 2016-2021  3       7       
+Total owned generation    5,736       18,752       
+  
+Purchased power7
+
+            
+Coal generation – T.E.S. Filer City    60       500       
+  
+Gas generation – MCV Facility8
+
+    1,240       5,857       
+Other gas generation    155       1,325       
+  
+Nuclear generation9
+
+    —       2,692       
+Wind generation    60       1,017       
+Solar generation    71       227       
+Other renewable generation    204       1,197       
+    1,790       12,815       
+  
+Net interchange power10
+
+    —       3,943       
+Total purchased and interchange power    1,790       16,758       
+Total supply    7,526       35,510       
+Less distribution and transmission loss        1,940       
+Total net bundled sales        33,570       
+  
+21
+
+* * *
+1Represents generation capacity during the summer months (planning year 2022 capacity as reported to MISO and limited by interconnection service limits). For wind and solar generation, the amount represents the effective load-carrying capability.
+
+2Consumers plans to retire these generating units in 2025. 
+
+3Represents Consumers’ share of the capacity of the J.H. Campbell 3 unit, net of the 6.69‑percent ownership interest of the Michigan Public Power Agency and Wolverine Power Supply Cooperative, Inc, each a non-affiliated company.
+
+4Consumers plans to retire these generating units in 2023.
+
+5Represents Consumers’ 51‑percent share of the capacity of Ludington. DTE Electric holds the remaining 49‑percent ownership interest.
+
+6Represents Consumers’ share of net pumped-storage generation. The pumped-storage facility consumes electricity to pump water during off-peak hours for storage in order to generate electricity later during peak‑demand hours.
+
+7Represents purchases under long-term PPAs.
+
+8For information about Consumers’ long-term PPA related to the MCV Facility, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Contingencies and Commitments—Contractual Commitments.
+
+9Represents purchases from a nuclear generating facility that closed in May 2022. 
+
+10Represents purchases from the MISO energy market.
+
+22
+
+* * *
+Presented in the following table are the sources of Consumers’ electric supply for the last three years:
+
+                        
+--- --- --- --- --- --- --- --- --- --- --- ---  
+GWh  
+Years Ended December 31  2022  2021  2020  
+Owned generation        
+Coal  10,217     10,861     7,960     
+Gas  6,684     5,555     5,883     
+Renewable energy  2,217     1,974     1,505     
+Oil  4     7     6     
+  
+Net pumped storage1
+
+  (370)    (321)    (371)    
+Total owned generation  18,752     18,076     14,983     
+  
+Purchased power2
+
+        
+Gas generation  7,182     5,862     7,346     
+Nuclear generation  2,692     6,901     6,898     
+Renewable energy generation  2,441     2,408     2,225     
+Coal generation  500     494     513     
+  
+Net interchange power3
+
+  3,943     645     2,655     
+Total purchased and interchange power  16,758     16,310     19,637     
+Total supply  35,510     34,386     34,620     
+  
+1Represents Consumers’ share of net pumped-storage generation. During 2022, the pumped-storage facility consumed 1,339 GWh of electricity to pump water during off-peak hours for storage in order to generate 969 GWh of electricity later during peak-demand hours.
+
+2Represents purchases under long-term PPAs.
+
+3Represents purchases from the MISO energy market.
+
+During 2022, Consumers acquired 47 percent of the electricity it provided to customers through long-term PPAs and the MISO energy market. Consumers offers its generation into the MISO energy market on a day-ahead and real-time basis and bids for power in the market to serve the demand of its customers. Consumers is a net purchaser of power and supplements its generation capability with purchases from the MISO energy market.
+
+At December 31, 2022, Consumers had future commitments to purchase capacity and energy under long-term PPAs with various generating plants. These contracts require monthly capacity payments based on the plants’ availability or deliverability. The payments for 2023 through 2050 are estimated to total $8.5 billion and, for each of the next five years, range from $0.7 billion to $0.8 billion annually. These amounts may vary depending on plant availability and fuel costs. For further information about Consumers’ future capacity and energy purchase obligations, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Capital Resources and Liquidity—Other Material Cash Requirements and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Contingencies and Commitments—Contractual Commitments.
+
+During 2022, 29 percent of the energy Consumers provided to customers was generated by its coal-fueled generating units, which burned six million tons of coal and produced a combined total of 10,217 GWh of electricity. In order to obtain the coal it needs, Consumers enters into physical coal supply contracts.
+
+23
+
+* * *
+At December 31, 2022, Consumers had future commitments to purchase coal through 2024; payment obligations under these contracts totaled $104 million. Most of Consumers’ rail-supplied coal contracts have fixed prices, although some contain market-based pricing. At December 31, 2022, Consumers had 85 percent of its 2023 expected coal requirements under contract, as well as a 34-day supply of coal on hand.
+
+In conjunction with its coal supply contracts, Consumers leases a fleet of railcars and has transportation contracts with various companies to provide rail services for delivery of purchased coal to Consumers’ generating facilities. Consumers’ coal transportation contracts are future commitments and expire on various dates through 2025; payment obligations under these contracts totaled $428 million at December 31, 2022.
+
+During 2022, 19 percent of the energy Consumers provided to customers was generated by its natural gas‑fueled generating units, which burned 49 bcf of natural gas and produced a combined total of 6,684 GWh of electricity.
+
+In order to obtain the gas it needs for electric generation fuel, Consumers’ electric utility purchases gas from the market near the time of consumption, at prices that allow it to compete in the electric wholesale market. For the Jackson and Zeeland plants, Consumers utilizes an agent that owns firm transportation rights to each plant to purchase gas from the market and transport the gas to the facilities. For units 3 & 4 of D.E. Karn, Consumers holds gas transportation contracts to transport to the plant gas that Consumers or an agent purchase from the market.
+
+Electric Utility Competition: Consumers’ electric utility business is subject to actual and potential competition from many sources, in both the wholesale and retail markets, as well as in electric generation, electric delivery, and retail services.
+
+Michigan law allows electric customers in Consumers’ service territory to buy electric generation service from alternative electric suppliers in an aggregate amount capped at ten percent of Consumers’ sales, with certain exceptions. At December 31, 2022, electric deliveries under the ROA program were at the ten‑percent limit. Of Consumers’ 1.9 million electric customers, fewer than 300, or 0.02 percent, purchased electric generation service under the ROA program. For additional information, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook—Consumers Electric Utility Outlook and Uncertainties.
+
+Consumers also faces competition or potential competition associated with industrial customers relocating all or a portion of their production capacity outside of Consumers’ service territory for economic reasons; municipalities owning or operating competing electric delivery systems; and customer self-generation. Consumers addresses this competition in various ways, including:
+
+•aggressively controlling operating, maintenance, and fuel costs and passing savings on to customers
+
+•providing renewable energy options and energy waste reduction programs
+
+•providing competitive rate-design options, particularly for large energy-intensive customers
+
+•offering tariff-based incentives that support economic development
+
+•monitoring activity in adjacent geographical areas
+
+24
+
+* * *
+Consumers Gas Utility
+
+Gas Utility Operations: Consumers’ gas utility operations, which include the purchase, transmission, storage, distribution, and sale of natural gas, generated operating revenue of $2.7 billion in 2022, $2.1 billion in 2021, and $1.8 billion in 2020. Consumers’ gas utility customer base consists of a mix of primarily residential, commercial, and diversified industrial customers in Michigan’s Lower Peninsula.
+
+Presented in the following illustration is Consumers’ 2022 gas utility operating revenue of $2.7 billion by customer class: 
+
+![cms-20221231_g4.jpg](cms-20221231_g4.jpg)
+
+Consumers’ gas utility operations are not dependent on a single customer, or even a few customers, and the loss of any one or even a few of Consumers’ largest customers is not reasonably likely to have a material adverse effect on Consumers’ financial condition.
+
+In 2022, deliveries of natural gas through Consumers’ pipeline and distribution network, including off-system transportation deliveries, totaled 391 bcf, which included GCC deliveries of 34 bcf. In 2021, deliveries of natural gas through Consumers’ pipeline and distribution network, including off-system transportation deliveries, totaled 347 bcf, which included GCC deliveries of 33 bcf. Consumers’ gas utility operations are seasonal. The consumption of natural gas increases in the winter, due primarily to colder temperatures and the resulting use of natural gas as heating fuel. Consumers injects natural gas into storage during the summer months for use during the winter months. During 2022, 48 percent of the natural gas supplied to all customers during the winter months was supplied from storage.
+
+25
+
+* * *
+Presented in the following illustration are Consumers’ monthly weather-normalized natural gas deliveries (deliveries adjusted to reflect normal weather conditions) to its customers, including GCC deliveries, during 2022 and 2021:
+
+![cms-20221231_g5.jpg](cms-20221231_g5.jpg)
+
+Gas Utility Properties: Consumers’ gas transmission, storage, and distribution system consists of:
+
+•2,380 miles of transmission lines
+
+•15 gas storage fields with a total storage capacity of 309 bcf and a working gas volume of 151 bcf
+
+•28,170 miles of distribution mains
+
+•eight compressor stations with a total of 157,893 installed and available horsepower
+
+Under its Methane Reduction Plan, Consumers has set a goal of net-zero methane emissions from its natural gas delivery system by 2030. Consumers plans to reduce methane emissions from its system by about 80 percent by accelerating the replacement of aging pipe, rehabilitating or retiring outdated infrastructure, and adopting new technologies and practices. The remaining emissions will likely be offset by purchasing and/or producing renewable natural gas. For further information on Consumers’ progress towards its net-zero methane emissions goal, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Executive Overview.
+
+26
+
+* * *
+Gas Utility Supply: In 2022, Consumers purchased 86 percent of the gas it delivered from U.S. suppliers. The remaining 14 percent was purchased from authorized GCC suppliers and delivered by Consumers to customers in the GCC program. Presented in the following illustration are the supply arrangements for the gas Consumers delivered to GCC and GCR customers during 2022:
+
+![cms-20221231_g6.jpg](cms-20221231_g6.jpg)
+
+Firm gas transportation or firm city-gate contracts are those that define a fixed amount, price, and delivery time frame. Consumers’ firm gas transportation contracts are with Panhandle Eastern Pipe Line Company and Trunkline Gas Company, LLC, each a non‑affiliated company. Under these contracts, Consumers purchases and transports gas to Michigan for ultimate delivery to its customers. Consumers’ firm gas transportation contracts expire on various dates through 2024 with planned contract volumes providing 38 percent of Consumers’ total forecasted gas supply requirements for 2023. Consumers purchases the balance of its required gas supply under firm city-gate contracts and through authorized suppliers under the GCC program.
+
+Gas Utility Competition: Competition exists in various aspects of Consumers’ gas utility business. Competition comes from GCC and transportation programs; system bypass opportunities for new and existing customers; and from alternative fuels and energy sources, such as propane, oil, and electricity.
+
+27
+
+* * *
+NorthStar Clean Energy—Non-Utility Operations and Investments
+
+NorthStar Clean Energy, through various subsidiaries and certain equity investments, is engaged in domestic independent power production, including the development and operation of renewable generation, and the marketing of independent power production. NorthStar Clean Energy’s operating revenue was $445 million in 2022, $308 million in 2021, and $229 million in 2020.
+
+Independent Power Production: Presented in the following table is information about the independent power plants in which CMS Energy had an ownership interest at December 31, 2022:
+
+                                    
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---  
+Location  Ownership Interest  
+(%)  Primary Fuel Type  Gross Capacity  
+(MW)  
+
+1
+
+  
+
+
+  2022 Net Generation  
+(GWh)  
+Dearborn, Michigan  100     Natural gas  770       4,786     
+Gaylord, Michigan  100     Natural gas  134       14     
+Paulding County, Ohio  100     Wind  100       317     
+Comstock, Michigan  100     Natural gas  76       111     
+Delta Township, Michigan  100     Solar  24       40     
+Phillips, Wisconsin  100     Solar  3       5     
+Paulding County, Ohio  100     Solar and storage  3       2     
+  
+Coke County, Texas
+
+  51     Wind  525       1,894     
+Filer City, Michigan  50     Coal  73       498     
+New Bern, North Carolina  50     Wood waste  50       291     
+Flint, Michigan  50     Wood waste  40       163     
+Grayling, Michigan  50     Wood waste  38       219     
+Total      1,836       8,340     
+  
+1Represents the intended full-load sustained output of each plant. The amount of capacity relating to CMS Energy’s ownership interest was 1,478 MW and net generation relating to CMS Energy’s ownership interest was 6,826 GWh at December 31, 2022.
+
+The operating revenue from independent power production was $58 million in 2022, $48 million in 2021, and $32 million in 2020.
+
+Energy Resource Management: CMS ERM purchases and sells energy commodities in support of CMS Energy’s generating facilities with a focus on optimizing CMS Energy’s independent power production portfolio. In 2022, CMS ERM marketed two bcf of natural gas and 6,494 GWh of electricity. Electricity marketed by CMS ERM was generated by independent power production of NorthStar Clean Energy and by unrelated third parties. CMS ERM’s operating revenue was $387 million in 2022, $260 million in 2021, and $197 million in 2020.
+
+NorthStar Clean Energy Competition: NorthStar Clean Energy competes with other independent power producers. The needs of this market are driven by electric demand and the generation available.
+
+28
+
+* * *
+CMS Energy and Consumers Regulation
+
+CMS Energy, Consumers, and their subsidiaries are subject to regulation by various federal, state, and local governmental agencies, including those described in the following sections. If CMS Energy or Consumers failed to comply with applicable laws and regulations, they could become subject to fines, penalties, or disallowed costs, or be required to implement additional compliance, cleanup, or remediation programs, the cost of which could be material. For more information on the potential impacts of government regulation affecting CMS Energy and Consumers, see Item 1A. Risk Factors, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook, and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 2, Regulatory Matters.
+
+FERC and NERC
+
+FERC has exercised limited jurisdiction over several independent power plants and exempt wholesale generators in which NorthStar Clean Energy has ownership interests, as well as over CMS ERM, CMS Gas Transmission, and DIG. FERC’s jurisdiction includes, among other things, acquisitions, operations, disposals of certain assets and facilities, services provided and rates charged, and conduct among affiliates. FERC also has limited jurisdiction over holding company matters with respect to CMS Energy. FERC, in connection with NERC and with regional reliability organizations, also regulates generation and transmission owners and operators, load serving entities, purchase and sale entities, and others with regard to reliability of the bulk power system.
+
+FERC regulates limited aspects of Consumers’ gas business, principally compliance with FERC capacity release rules, shipping rules, the prohibition against certain buy/sell transactions, and the price-reporting rule.
+
+FERC also regulates certain aspects of Consumers’ electric operations, including compliance with FERC accounting rules, wholesale and transmission rates, operation of licensed hydroelectric generating plants, transfers of certain facilities, corporate mergers, and issuances of securities.
+
+MPSC
+
+Consumers is subject to the jurisdiction of the MPSC, which regulates public utilities in Michigan with respect to retail utility rates, accounting, utility services, certain facilities, certain asset transfers, corporate mergers, and other matters.
+
+The Michigan Attorney General, ABATE, the MPSC Staff, residential customer advocacy groups, environmental organizations, and certain other parties typically participate in MPSC proceedings concerning Consumers. These parties often challenge various aspects of those proceedings, including the prudence of Consumers’ policies and practices, and seek cost disallowances and other relief. The parties also have appealed significant MPSC orders.
+
+Rate Proceedings: For information regarding open rate proceedings, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 2, Regulatory Matters.
+
+29
+
+* * *
+Other Regulation
+
+The U.S. Secretary of Energy regulates imports and exports of natural gas and has delegated various aspects of this jurisdiction to FERC and the U.S. Department of Energy’s Office of Fossil Fuels.
+
+The U.S. Department of Transportation’s Office of Pipeline Safety regulates the safety and security of gas pipelines through the Natural Gas Pipeline Safety Act of 1968 and subsequent laws.
+
+The Transportation Security Administration, an agency of the U.S. Department of Homeland Security, regulates certain activities related to the safety and security of natural gas pipelines.
+
+CMS Energy and Consumers Environmental Strategy and Compliance
+
+CMS Energy and Consumers are committed to protecting the environment; this commitment extends beyond compliance with applicable laws and regulations. Consumers’ Clean Energy Plan details its strategy to meet customers’ long-term energy needs and provides the foundation for its goal to achieve net-zero carbon emissions from its electric business by 2040. This goal includes not only emissions from owned generation, but also emissions from the generation of power purchased through long-term PPAs and from the MISO energy market.
+
+Consumers expects to meet 90 percent of its customers’ needs with clean energy sources by 2040 through execution of its Clean Energy Plan, which calls for replacing its coal-fueled generation predominantly with investment in renewable energy. New technologies and carbon offset measures including, but not limited to, carbon sequestration, methane emission capture, forest preservation, and reforestation may be used to close the gap to achieving net-zero carbon emissions.
+
+In June 2022, Consumers received approval of its 2021 IRP, which updated its Clean Energy Plan. With these updates, Consumers will eliminate the use of coal-fueled generation in 2025 and forecasts renewable energy capacity levels of over 60 percent in 2040. For additional information on Consumers’ Clean Energy Plan, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook—Consumers Electric Utility Outlook and Uncertainties. 
+
+In addition to Consumers’ efforts to reduce the electric utility’s carbon footprint, it is also making efforts to reduce the gas utility’s methane footprint. Under its Methane Reduction Plan, Consumers has set a goal of net-zero methane emissions from its natural gas delivery system by 2030. Consumers plans to reduce methane emissions from its system by about 80 percent by accelerating the replacement of aging pipe, rehabilitating or retiring outdated infrastructure, and adopting new technologies and practices. The remaining emissions will likely be offset by purchasing and/or producing renewable natural gas. For additional information on Consumers’ Methane Reduction Plan, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook—Consumers Gas Utility Outlook and Uncertainties—Gas Environmental Outlook.
+
+CMS Energy, Consumers, and their subsidiaries are subject to various federal, state, and local environmental regulations for solid waste management, air and water quality, and other matters. Consumers expects to recover costs to comply with environmental regulations in customer rates but cannot guarantee this result. For additional information concerning environmental matters, see Item 1A. Risk Factors, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook, and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Contingencies and Commitments.
+
+30
+
+* * *
+CMS Energy has recorded a $45 million liability for its subsidiaries’ obligations associated with Bay Harbor and Consumers has recorded a $62 million liability for its obligations at a number of former MGP sites. For additional information, see Item 1A. Risk Factors and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Contingencies and Commitments.
+
+Costs related to the construction, operation, corrective action, and closure of solid waste disposal facilities for coal ash are significant. Consumers’ coal ash disposal areas are regulated under Michigan’s solid waste rules and by the EPA’s rules regulating CCRs. To address some of the requirements of these rules, Consumers has converted all of its fly ash handling systems to dry systems. In addition, Consumers’ ash facilities have programs designed to protect the environment and are subject to quarterly EGLE inspections. Consumers’ estimate of capital and cost of removal expenditures to comply with regulations relating to ash disposal is $205 million from 2023 through 2027. Consumers’ future costs to comply with solid waste disposal regulations may vary depending on future legislation, litigation, executive orders, treaties, or rulemaking.
+
+For further information concerning estimated capital expenditures related to environmental matters, see Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook—Consumers Electric Utility Outlook and Uncertainties—Electric Environmental Outlook.
+
+Insurance
+
+CMS Energy and its subsidiaries, including Consumers, maintain insurance coverage generally similar to comparable companies in the same lines of business. The insurance policies are subject to terms, conditions, limitations, and exclusions that might not fully compensate CMS Energy or Consumers for all losses. A portion of each loss is generally assumed by CMS Energy or Consumers in the form of deductibles and self-insured retentions that, in some cases, are substantial. As CMS Energy or Consumers renews its policies, it is possible that some of the present insurance coverage may not be renewed or obtainable on commercially reasonable terms due to restrictive insurance markets.
+
+Human Capital
+
+CMS Energy and Consumers employ a highly trained and skilled workforce comprised of union, non‑union, and seasonal employees. Presented in the following table are the number of employees of CMS Energy and Consumers:
+
+                        
+--- --- --- --- --- --- --- --- --- --- --- ---  
+December 31  2022  2021  2020  
+CMS Energy, including Consumers        
+        
+        
+Full-time and part-time employees  8,560     8,509     8,234     
+  
+Seasonal employees1
+
+  513     613     603     
+        
+Total employees  9,073     9,122     8,837     
+Consumers        
+        
+        
+Full-time and part-time employees  8,366     8,314     7,627     
+  
+Seasonal employees1
+
+  513     613     603     
+        
+Total employees  8,879     8,927     8,230     
+  
+1Consumers’ seasonal workforce peaked at 587 employees during 2022, 622 employees during 2021, and 603 employees during 2020. Seasonal employees work primarily during the construction season.
+
+31
+
+* * *
+At December 31, 2022, unions represented 41 percent of CMS Energy’s employees and 42 percent of Consumers’ employees. The UWUA represents Consumers’ operating, maintenance, construction, and customer contact center employees. The USW represents Zeeland plant employees. The UWUA and USW agreements expire in 2025.
+
+The safety of employees, customers, and the general public is a priority of CMS Energy and Consumers. Accordingly, CMS Energy and Consumers have worked to integrate a set of safety principles into their business operations and culture. These principles include complying with applicable safety, health, and security regulations and implementing programs and processes aimed at continually improving safety and security conditions. On an annual basis, CMS Energy and Consumers set various safety goals, with their primary measure being the OSHA recordable incident rate. The recordable incident rate was 1.17 in 2022 and 1.54 in 2021. The target recordable incident rate for 2023 is 1.07. Over the last ten years, Consumers’ OSHA recordable incident rate has decreased by 34 percent.
+
+Within the utility industry, there is strong competition for rare, high-demand talent, including those related to renewable energy generation, technology, and data analytics. In order to address this competition and to be able to meet their human capital needs, CMS Energy and Consumers provide compensation and benefits that are competitive with industry peers. Furthermore, CMS Energy and Consumers have developed a comprehensive talent strategy, the People Strategy, to attract, develop, and retain highly skilled employees. The strategy focuses on three areas, which are summarized below.
+
+•Cultivating a Purpose-Driven Culture: This goal is aimed at ensuring all co-workers understand how their work drives CMS Energy’s and Consumers’ key strategic goals. CMS Energy’s and Consumers’ progress toward a purpose-driven culture is measured through an engagement index and an empowerment index developed from data obtained through an annual employee engagement survey of union and non-union co-workers administered by a third party. For the year ended December 31, 2022, the employee engagement index score, which measures the percentage of employees that feel satisfied with the company, was 71 percent and ranked in the second quartile of general industry companies. The employee empowerment index score, which measures the percentage of employees that feel the workplace promotes empowerment, was 54 percent and ranked in the third quartile of general industry companies. The general industry benchmark was created by the third party who administered the survey through a targeted sampling of working adults within the U.S. who work for firms with widely respected reputations. CMS Energy and Consumers have a goal to achieve a first-quartile empowerment index score by 2030. 
+
+•Creating a Breakthrough Employee Experience: A breakthrough employee experience is one that instills pride and ownership in one’s work. To measure progress toward a breakthrough employee experience, CMS Energy and Consumers measure employees’ satisfaction with people processes, such as performance management and hiring and onboarding new employees. For the year ended December 31, 2022, the employee experience index was 54 percent; CMS Energy and Consumers have a goal to achieve a score of 80 percent by 2030.
+
+•Building Skill Sets at Scale: With an overarching goal of ensuring employees have the right skills to succeed, CMS Energy and Consumers measure progress in this area through achievement of workforce planning and hiring milestones and through a first-time skill attainment index to evaluate the effectiveness of training. CMS Energy and Consumers develop skill sets in co-workers through a variety of means, including union apprenticeship programs and yearly trainings for newly required skills. In 2021, CMS Energy and Consumers launched a full-scale development program for leaders to enable robust succession planning and improve employee engagement and empowerment.
+
+32
+
+* * *
+This talent strategy allows CMS Energy and Consumers to shape employees’ experience and enable leaders to coach and develop co-workers, source talent, and anticipate and adjust to changing skill sets in the business environment.
+
+Diversity, Equity, and Inclusion
+
+As a part of their People Strategy, CMS Energy and Consumers also employ a comprehensive diversity, equity, and inclusion strategy designed to embed diversity, equity, and inclusion into all aspects of their business. This is done through embedding standards for diversity, equity, and inclusion into all company processes and ensuring these standards are incorporated into all employee experiences. To measure their success, CMS Energy and Consumers utilize select questions in the annual engagement survey to create a diversity, equity, and inclusion index. For the year ended December 31, 2022, the diversity, equity, and inclusion index score was 72 percent.
+
+CMS Energy and Consumers are committed to building an inclusive workplace that embraces the diverse makeup of the communities that they serve. The following table presents the composition of CMS Energy’s and Consumers’ workforce:
+
+                  
+--- --- --- --- --- --- --- --- ---  
+December 31, 2022  CMS Energy, including  
+Consumers  Consumers  
+Percent female employees  27   %  28   %  
+Percent racially or ethnically diverse employees  12     12     
+Percent employees with disabilities  5     5     
+Percent veteran employees  11     11     
+  
+Co-workers are also empowered to engage in employee resource groups and events that encourage candid conversations around diversity, equity, and inclusion. There are eight employee resource groups available to all co-workers; these groups are, by date of origin:
+
+•the Women’s Advisory Panel, contributing to the achievement of the corporate strategy by supporting the retention, development, and success of women
+
+•the Minority Advisory Panel, promoting a culture of diversity and inclusion among all racial and ethnic minorities through education, leadership, development, and networking
+
+•the Women’s Engineering Network, connecting and empowering women in the science, technology, engineering, and mathematics fields, while building capabilities to support company objectives
+
+•the Veteran’s Advisory Panel, supporting former and active military personnel and assisting in recruiting and retaining veterans through career development
+
+•GEN-ERGY, a multigenerational group designed to bridge the gap of learning, networking, and mentoring across the generations of the workforce
+
+•the Pride Alliance of Consumers Energy, promoting an inclusive environment that is safe, supportive, and respectful for lesbian, gay, bi-sexual, and transgender persons and allies
+
+•capABLE, aimed at removing barriers and creating pathways to meaningful work for employees of all abilities
+
+•Interfaith, a space for co-workers of all backgrounds to gather and celebrate their unique beliefs, creating an environment of understanding and respect for all faiths, religions, and spiritual beliefs, including those with no faith affiliation
+
+33
+
+* * *
+Information About CMS Energy’s and Consumers’ Executive Officers
+
+Presented in the following table are the company positions held during the last five years for each of CMS Energy’s and Consumers’ executive officers as of February 3, 2023:
+
+            
+--- --- --- --- --- ---  
+Name, Age, Position(s)  Period  
+  
+Garrick J. Rochow (age 48)
+
+    
+CMS Energy    
+President, CEO, and Director  12/2020 – Present  
+Executive Vice President  1/2020 – 12/2020  
+Senior Vice President  7/2016 – 1/2020  
+Consumers    
+President, CEO, and Director  12/2020 – Present  
+Executive Vice President  1/2020 – 12/2020  
+Senior Vice President  7/2016 – 1/2020  
+NorthStar Clean Energy    
+Chairman of the Board, CEO, and Director  12/2020 – Present  
+  
+Rejji P. Hayes (age 48)
+
+    
+CMS Energy    
+Executive Vice President and CFO  5/2017 – Present  
+Consumers    
+Executive Vice President and CFO  5/2017 – Present  
+NorthStar Clean Energy    
+Executive Vice President, CFO, and Director  5/2017 – Present  
+EnerBank    
+Chairman of the Board and Director  10/2018 – 10/2021  
+  
+Tonya L. Berry (age 50)
+
+    
+CMS Energy    
+Senior Vice President  2/2022 – Present  
+Consumers    
+Senior Vice President  2/2022 – Present  
+Vice President  11/2018 – 2/2022  
+  
+Executive Director, Quality
+
+  
+
+7/2017 – 11/2018  
+  
+Catherine A. Hendrian (age 54)
+
+    
+CMS Energy    
+Senior Vice President  4/2017 – Present  
+Consumers    
+Senior Vice President  4/2017 – Present  
+  
+34
+
+* * *
+            
+--- --- --- --- --- ---  
+Name, Age, Position(s)  Period  
+  
+Brandon J. Hofmeister (age 46)
+
+    
+CMS Energy    
+Senior Vice President  7/2017 – Present  
+Consumers    
+Senior Vice President  7/2017 – Present  
+NorthStar Clean Energy    
+Senior Vice President  9/2017 – Present  
+  
+Shaun M. Johnson (age 44)
+
+    
+CMS Energy    
+Senior Vice President and General Counsel  5/2019 – Present  
+Vice President and Deputy General Counsel  4/2016 – 5/2019  
+Consumers    
+Senior Vice President and General Counsel  5/2019 – Present  
+Vice President and Deputy General Counsel  4/2016 – 5/2019  
+NorthStar Clean Energy    
+Senior Vice President, General Counsel, and Director  4/2019 – Present  
+Vice President and General Counsel  10/2018 – 4/2019  
+EnerBank    
+Senior Vice President and General Counsel  8/2018 – 6/2020  
+  
+Venkat Dhenuvakonda Rao (age 52)
+
+    
+CMS Energy    
+Senior Vice President  9/2016 – Present  
+Consumers    
+Senior Vice President  9/2016 – Present  
+NorthStar Clean Energy    
+Director  11/2017 – Present  
+Senior Vice President  9/2016 – Present  
+  
+Brian F. Rich (age 48)
+
+    
+CMS Energy    
+Senior Vice President and Chief Customer Officer  8/2019 – Present  
+Senior Vice President and Chief Information Officer  7/2016 – 8/2019  
+Consumers    
+Senior Vice President and Chief Customer Officer  8/2019 – Present  
+Senior Vice President and Chief Information Officer  7/2016 – 8/2019  
+  
+LeeRoy Wells, Jr. (age 44)
+
+    
+CMS Energy    
+Senior Vice President  12/2020 – Present  
+Consumers    
+Senior Vice President  12/2020 – Present  
+Vice President  8/2017 – 12/2020  
+  
+35
+
+* * *
+            
+--- --- --- --- --- ---  
+Name, Age, Position(s)  Period  
+  
+Scott B. McIntosh (age 47)
+
+    
+CMS Energy    
+Vice President, Controller, and CAO  9/2021 – Present  
+Vice President and Controller  6/2021 – 9/2021  
+Vice President  9/2015 – 6/2021  
+Consumers    
+Vice President, Controller, and CAO  9/2021 – Present  
+Vice President and Controller  6/2021 – 9/2021  
+Vice President  9/2015 – 6/2021  
+NorthStar Clean Energy    
+Vice President, Controller, and CAO  9/2021 – Present  
+Vice President and Controller  6/2021 – 9/2021  
+Vice President  9/2015 – 6/2021  
+  
+There are no family relationships among executive officers and directors of CMS Energy or Consumers. The list of directors and their biographies will be included in CMS Energy’s and Consumers’ definitive proxy statement for their 2023 Annual Meetings of Shareholders to be held May 5, 2023. The term of office of each of the executive officers extends to the first meeting of each of the Boards of Directors of CMS Energy and Consumers after the next annual election of Directors of CMS Energy and Consumers (to be held on May 5, 2023).
+
+Available Information
+
+CMS Energy’s internet address is www.cmsenergy.com. CMS Energy routinely posts important information on its website and considers the Investor Relations section, www.cmsenergy.com/investor-relations, a channel of distribution for material information. Information contained on CMS Energy’s website is not incorporated herein. CMS Energy’s and Consumers’ annual reports on Form 10‑K, quarterly reports on Form 10‑Q, current reports on Form 8-K, and any amendments to those reports filed pursuant to Section 13(a) or 15(d) of the Exchange Act are accessible free of charge on CMS Energy’s website. These reports are available soon after they are electronically filed with the SEC. Also on CMS Energy’s website are CMS Energy’s and Consumers’:
+
+•Corporate Governance Principles
+
+•Articles of Incorporation
+
+•Bylaws
+
+•Charters and Codes of Conduct (including the Charters of the Audit Committee, Compensation and Human Resources Committee, Finance Committee, and Governance, Sustainability and Public Responsibility Committee, as well as the Employee, Board of Directors, and Third Party Codes of Conduct)
+
+CMS Energy will provide this information in print to any stockholder who requests it.
+
+The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The address is www.sec.gov.
+
+36
+
+* * *
+Item 1A. Risk Factors

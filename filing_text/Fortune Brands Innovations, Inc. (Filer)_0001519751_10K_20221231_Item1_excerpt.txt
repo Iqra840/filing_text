@@ -1,0 +1,275 @@
+PART I
+
+Item 1. Business.
+
+Cautionary Statement Concerning Forward-Looking Statements
+
+This Annual Report on Form 10-K contains certain “forward-looking statements” made pursuant to the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Forward-looking statements include all statements that are not historical statements of fact and those regarding our intent, belief or expectations for our business, operations, financial performance or financial condition, in addition to statements regarding our general business strategies, the market potential of our brands, trends in the housing market, the potential impact of costs, including material and labor costs, the potential impact of inflation, expected capital spending, expected pension contributions, the expected impact of acquisitions, dispositions and other strategic transactions including the expected benefits and costs of the spin-off of MasterBrand, Inc. and the tax-free nature of the spin-off transaction, the anticipated effects of recently issued accounting standards on our financial statements, and other matters that are not historical in nature. Statements that include the words “believes,” “expects,” “anticipates,” “intends,” “projects,” “estimates,” “plans,” “outlook,” “positioned” and similar expressions or future or conditional verbs such as “will,” “should,” “would,” “may” and “could” are generally forward-looking in nature and not historical facts. Where, in any forward-looking statement, we express an expectation or belief as to future results or events, such expectation or belief is based on current expectations, plans, estimates, assumptions and projections of our management about our industry, business and future financial results available at the time this report is filed with the Securities and Exchange Commission (the “SEC”). Although we believe that these statements are based on reasonable assumptions, they are subject to numerous factors, risks and uncertainties that could cause actual outcomes and results to be materially different from those indicated in such statements, including but not limited to those listed in the section below entitled “Risk Factors.” We undertake no obligation to, and expressly disclaim any such obligation to, update, amend, clarify or revise any forward-looking statements to reflect changed assumptions, the occurrence of anticipated or unanticipated events, new information or changes to future results over time or otherwise, except as required by law.
+
+Unless the context otherwise requires, references in this Annual Report on Form 10-K to “Fortune Brands,” the “Company,” “we,” “our” or “us” refer to Fortune Brands Innovations, Inc. (formerly known as Fortune Brands Home & Security, Inc.) and its consolidated subsidiaries.
+
+Our Company
+
+We are a leading home, security and commercial building products company that competes in attractive long-term growth markets in our product categories. We sell our products through a wide array of sales channels, including kitchen and bath dealers, wholesalers oriented toward builders or professional remodelers, industrial and locksmith distributors, “do-it-yourself” remodeling-oriented home centers, showrooms, e-commerce and other retail outlets.
+
+Historically, Fortune Brands operated a Cabinets business segment that manufactured and sold cabinets and vanities for the kitchen, bath and other parts of the home. On December 14, 2022, the Company completed the separation of its Cabinets business, MasterBrand, Inc. ("MasterBrand"), via a tax-free spin-off transaction (the "Separation"). The Separation created two independent, publicly traded companies. Immediately following completion of the Separation, the Company changed its name from "Fortune Brands Home & Security, Inc." to "Fortune Brands Innovations, Inc." and its stock ticker symbol changed from "FBHS" to "FBIN" to better reflect its focus on activities core to brands and innovation. As a result of the Separation, our former Cabinets segment was disposed of, and the operating results of the Cabinets business are reported as discontinued operations for all periods presented within this Annual Report on Form 10-K. All amounts, percentages and disclosures for all periods presented reflect only the continuing operations of the Company unless otherwise noted. See Note 5, Discontinued Operations, in the consolidated financial statements in Item 8 for additional information.
+
+3
+
+* * *
+
+In addition, during 2022, the Company underwent a reorganization and shifted from a decentralized structure with separate businesses to a more aligned operating model that prioritizes activities that are core to brand, innovation, and channel and placed our global supply chain resources under one leadership team to fully leverage the scale and execution excellence of our total business. We believe that the newly aligned structure will allow the Company to better drive accelerated growth and productivity.
+
+Our Strategy
+
+Building on leading business and brand positions in attractive growth and return categories. We have leading brands with what we believe to be sustainable competitive advantages in many of our product categories, which we sell primarily in North America and China. We believe that established brands are meaningful to both consumers and trade customers in their respective categories and that we have the opportunity to, among other things, gain share in the marketplace and continue to strengthen many of our brands through cross-branding, expanding into adjacent product categories, and expanding in international and e-commerce markets. For example, we are continuing to align our Water Innovations, Outdoors and Security products with long-term secular trends within connected products, outdoor living, sustainability, water management, material conversion, and safety and wellness. We are committed to continuing to invest in our capacity and supply chain through strategic sourcing, automation, machine learning, artificial intelligence, data-driven insights and processes, and leveraging our global scale to strengthen our business and continue to meet demand for our products.
+
+Developing innovative products and processes for customers and consumers. We have a long track record of successful product and process innovations that introduce valued new products to our customers and consumers, including products that save water, utilize recycled materials, conserve energy and protect people. We are committed to continuing to invest in new product development and enhance customer service to strengthen our leading brands and penetrate adjacent markets, including in the digital space and connected products.
+
+Building an aligned organization using the Fortune Brands Advantage to drive results. While our business segments are focused on distinct product categories and are responsible for their own performance, the Fortune Brands Advantage is an operating model consisting of a set of unifying capabilities that we believe are critical to our strategic growth across all of our businesses. The Fortune Brands Advantage currently consists of four critical pillars:
+
+•
+
+Category Management - Partnering with our channel partners to drive optimal performance and best serve our consumers through actionable category insights.
+
+•
+
+Business Simplification \- Simplifying workstreams to be even more efficient. As part of the Company’s reorganization and shift to a more aligned operating model under one leadership team, we expect to further prioritize activities that are core to brand, innovation, and channel.
+
+•
+
+Global Supply Chain Excellence \- Leveraging our robust, global supply chain to strategically drive scale efficiencies with cutting-edge capabilities.
+
+•
+
+Digital Transformation \- Supporting our products of the future with best-in-class services, technology, data and analytics and using data science to unlock valuable consumer and business insights. We are advancing our digital strategy to fuel growth and aim to become a digital leader in our industry. We continue to invest in our digital capabilities to leverage our scale across technology, data and talent to further drive sustainable productivity and efficiency, enhance employee development, satisfaction and retention, and accelerate and sustain growth in e-commerce and connected products, sourcing and data science. This includes integrating our digital organization to improve speed to market and further develop a culture that fosters innovation, collaboration and value creation, and developing products supported by service technology, data and analytics. 
+
+4
+
+* * *
+
+We continue to grow our competencies in these areas, allowing each of our businesses to take advantage of available opportunities for revenue growth and margin improvement, no matter the market environment.
+
+Driving value through talent. The Company has built a diverse and talented leadership team that is well positioned to execute on our transformation to a more aligned operating model. We believe that investing in our employees is a critical component of our business strategy. We endeavor to do this through talent acquisition, development, succession planning and fostering a diverse and inclusive workforce.
+
+Enhancing returns and deploying our cash flow to high-return opportunities. We continue to believe our most attractive opportunities are to invest in profitable organic growth initiatives, pursue accretive strategic acquisitions, non-controlling equity investments, and joint ventures, and return cash to stockholders through a combination of dividends and repurchases of our common stock.
+
+We believe that advancing environmental, social and governance (“ESG”) initiatives and conducting business ethically is an important factor in allowing us to attract and retain the best talent. We continue to look for ways to improve our ESG programs and practices by focusing on ways to improve water conservation, waste reduction, and carbon and climate impact, keep our employees safe, and create a culture where all employees are treated with dignity and respect.
+
+Business Segments
+
+Following the Separation, we have two business segments: Water Innovations (previously referred to as Plumbing) and Outdoors & Security.
+
+Our segments compete on the basis of innovation, fashion, quality, price, service and responsiveness to distributor, retailer and installer needs, as well as end-user consumer preferences. Our markets are very competitive. Approximately 20% of 2022 net sales were to international markets, and sales to two of the Company’s customers, Lowe’s Companies, Inc. (“Lowe’s”) and The Home Depot, Inc. (“The Home Depot”), accounted for 12.0% and 11.7% of the Company’s net sales, respectively, in 2022. Sales to all U.S. home centers in the aggregate were approximately 27% of net sales in 2022. In 2022, sales to our top ten customers represented approximately one-half of total sales.
+
+Water Innovations. Our Water Innovations segment manufactures or assembles and sells faucets, accessories, kitchen sinks and waste disposals, predominantly under the Moen, ROHL, Riobel, Victoria+Albert, Perrin & Rowe, Aqualisa and Shaws brands. Although this segment sells products principally in the U.S., China and Canada, this segment also sells in Europe, Mexico, Southeast Asia and South America. Approximately 29% of 2022 net sales were to international markets. This segment sells directly through its own sales force and indirectly through independent manufacturer's representatives, primarily to wholesalers, home centers and mass merchandisers. This segment is increasingly investing in digital trends and “smart” home capabilities. In aggregate, sales to The Home Depot and Lowe’s comprised approximately 22% of net sales of the Water Innovations segment in 2022. This segment’s chief competitors include Masco, Kohler, LIXIL Group, InSinkErator (owned by Whirlpool Corporation), Huida, Hgill, and Jomoo and imported private-label brands.
+
+Outdoors & Security. Our Outdoors & Security segment manufactures and sells fiberglass and steel entry door systems under the Therma-Tru brand, storm, screen and security doors under the Larson brand, composite decking, railing and cladding under the Fiberon brand, and urethane millwork under the Fypon brand. It also manufactures, sources and distributes locks, safety and security devices, and electronic security products under the Master Lock and American Lock brands and fire-resistant safes, security containers and commercial cabinets under the SentrySafe brand. This segment sells products principally in the U.S., Canada, Europe, Central America and Australia. Approximately 10% of 2022 net sales were to international markets. This segment’s principal customers are home centers, hardware and other retailers, millwork building products and wholesale distributors, industrial distributors and specialty dealers that provide products to the residential new construction market, as well as to the remodeling and renovation markets. In addition, it sells lock systems and fire-resistant safes to locksmiths, industrial and institutional users, and original equipment manufacturers. In aggregate, sales to The Home Depot and Lowe’s comprised approximately 26% of net sales of the Outdoors & Security segment in 2022.
+
+5
+
+* * *
+
+Therma-Tru, Larson, Fiberon and Fypon brands compete with Masonite, JELD-WEN, Andersen, Trex, Azek, Plastpro, Pella, and various regional and local suppliers. The Master Lock brand competes with Abus, W.H. Brady, Hampton, Allegion, Assa Abloy and various imports. The SentrySafe brand competes with Magnum, Fortress and Interlocks.
+
+Other Information
+
+Raw materials. The table below indicates the principal raw materials used by each of our segments. These materials are available from a number of sources. Volatility in the prices of commodities and energy used in making and distributing our products impacts the cost of manufacturing our products.
+
+    
+--- ---  
+  
+Segment
+
+  
+
+Raw Materials  
+  
+Water Innovations
+
+  
+
+Brass, zinc, resins, stainless steel and aluminum  
+  
+Outdoors & Security
+
+  
+
+Wood, aluminum, steel, plastics, resins, glass, vinyl and insulating foam  
+  
+Intellectual property. Product innovation and branding are important to the success of our business. In addition to the brand protection offered by our trademarks, patent protection helps distinguish our unique product features in the market by preventing copying and making it more difficult for competitors to benefit unfairly from our design innovation. We hold U.S. and foreign patents covering various features used in products sold within all of our business segments. Although each of our segments relies on a number of patents and patent groups that, in the aggregate, provide important protections to the Company, no single patent or patent group is material to any of the Company’s segments.
+
+Human capital resources. As of December 31, 2022, Fortune Brands had more than 11,200 full-time and part-time employees worldwide (excluding contract workers). Approximately 59% of our workforce is composed of hourly production and distribution associates and the remaining population is composed of associates in an office role. Approximately 3% of employees in the U.S. work under collective bargaining agreements. Below is a summary of the number of employees by segment and role:
+
+                                     
+--- --- --- --- --- --- --- --- --- --- --- --- ---  
+  
+Segment
+
+  
+
+  
+
+Production and Distribution
+
+  
+
+  
+
+  
+
+Office
+
+  
+
+  
+
+  
+
+Total
+
+    
+  
+Water Innovations
+
+  
+
+  
+
+  
+
+1,724
+
+  
+
+  
+
+  
+
+  
+
+2,123
+
+  
+
+  
+
+  
+
+  
+
+3,847
+
+    
+  
+Outdoors & Security
+
+  
+
+  
+
+  
+
+4,915
+
+  
+
+  
+
+  
+
+  
+
+2,310
+
+  
+
+  
+
+  
+
+  
+
+7,225
+
+    
+  
+Corporate
+
+  
+
+  
+
+  
+
+—
+
+  
+
+  
+
+  
+
+  
+
+164
+
+  
+
+  
+
+  
+
+  
+
+164
+
+    
+  
+We believe our associates are the key to our success. We invest in our teams and develop our associates to become the next generation of leaders to fuel innovation and drive Company growth. The Company also endeavors to create a home for all that keeps our employees safe, treats them with dignity and respect, and fosters a culture of performance. We also endeavor to create a culture where doing the right thing is embedded in the way we conduct business. Fortune Brands does this through the programs summarized below, and the objectives and related risks of each is overseen by our Board of Directors or its committees.
+
+Health and Safety
+
+Safety is a critical element to Fortune Brands’ growth strategy, integral to Company culture and one of our core values. This is reflected in our goal of zero safety incidents and through our efforts to create an injury-free workplace. Our Employee Safety & Environmental Stewardship Principles set standards for how we maintain a safe work environment and guides our business operations. The Company also has an Environmental, Health & Safety Leadership council composed of representatives from across the Company’s businesses that share best practices and is responsible for driving environmental, health and safety strategy. This helps drive our best-in-class programs designed to reinforce positive behaviors, to empower our employees to actively take part in maintaining a safe work environment, to heighten awareness and to mitigate risk on critical safety components. Within each of our manufacturing and distribution facilities, we have site-specific safety and environmental plans designed to reduce risk. Through a continued commitment to improve our safety performance, we have historically been successful in reducing the number of injuries sustained by our employees. Two of our primary safety measures are the Total Recordable Incidence Rate ("TRIR") and Lost Time Rate ("LTR"). For the year
+
+6
+
+* * *
+
+ended December 31, 2022, our TRIR was 1.16, compared to 1.65 for the year ended December 31, 2021, and our LTR was 0.45, compared to 0.66 for the year ended December 31, 2021. The year-over-year decrease in these numbers is reflective of the focus on improving newly acquired businesses.
+
+Attracting and Retaining Superior Talent
+
+Fortune Brands is committed to investing in the physical, emotional and financial well-being of our employees and we believe that this is a critical component of our business strategy. To attract and retain superior talent at all levels of the Company, our total rewards are designed to be market competitive, align employee incentives with Company performance and support our employees across many aspects of their lives. We have a strong pay-for-performance culture that is supported by incentive programs that take into consideration business results and employee performance. We also offer a range of benefits including retirement savings plans, comprehensive healthcare and mental-health benefits including medical, dental and vision coverage, health savings and spending accounts, and employee assistance services. In 2022, we took steps to enhance our benefit plans to further enhance inclusivity by providing enhanced parental support benefits for our U.S. associates, including fertility benefits and specialized support from adoption and surrogacy assistance to pregnancy and post-partum. Many of our businesses also offer paid parental leave.
+
+Creating a Culture of Diversity, Equity and Inclusion (“DEI”)
+
+We continue to take measured actions that create an inclusive culture and diverse workforce, that increase representation and engagement of underrepresented associates and that are reflective of our consumers and communities. We believe that attracting and retaining talented and diverse employees will enable us to be more innovative and responsive to consumer needs and deliver strong performance and growth.
+
+Fortune Brands has a comprehensive diversity, equity and inclusion strategy to increase representation of underrepresented associates. The Company is committed to increasing representation of professionals of color and women through new hires and promotions, ensuring an inclusive culture by reducing the barriers to inclusion through our policies, programs, business practices and education and by demonstrating support for racial equality in our communities through outreach and investment. As of December 31, 2022, Fortune Brands’ workforce is composed of 40% women. Approximately 25% of hourly production and distribution employees are people of color and 10% of employees in an office role are people of color. All people leaders were included in our unconscious bias learning program over the past two years, and bi-annual engagement survey fosters our employee listening strategy, providing routine feedback and meaningful action to drive improvement in our culture and DEI awareness.
+
+The Company also continued to expand its employee resource groups and diverse partnerships during 2022. We now have a dedicated employee resource group for our Women, Black, Hispanic, LGBTQ, Military, and Parents and Caregivers employees that are focused on activating and educating leaders and accelerating an inclusive culture. Our partnerships with Network of Executive Women (Next Up), Plexus and The Historic Alliance for Career Advancement (HACE) support our employee resource groups and talent acquisition teams. These actions supplement the Company’s (i) inclusive culture councils, which are responsible for setting priorities and initiatives that support an inclusive work environment, and (ii) employee resource groups that support DEI initiatives and provide networking and professional development opportunities.
+
+Talent Development and Succession
+
+We aim to inspire and equip our associates to be successful in their current roles within the organization and help them to develop the skills to build on opportunities to grow their career. We understand our most critical roles that serve as points of leverage to deliver value and place our best people in those roles, while attracting new talent and capabilities in support of continuous improvement in all we do. Fortune Brands uses performance management programs to support a high-performance culture, strengthening our employee engagement and helping to retain our top talent. The Company provides associates with relevant skills training and provides leadership training for production and distribution associates in a
+
+7
+
+* * *
+
+supervisory role and for mid-level office associates. The Company also makes a significant investment in assessing our talent against the jobs both in the near term and the future and ensuring our leaders are prepared for greater levels of responsibility and can successfully transition into new roles.
+
+Succession planning for critical roles is an important part of our talent program. Succession and development plans are created and monitored to ensure progress is made along established timelines.
+
+Seasonality. All of our operating segments traditionally experience lower sales in the first quarter of the year when new home construction, repair and remodel activity, and security buying are at their lowest. As a result of sales seasonality and associated timing of working capital fluctuations, our cash flow from operating activities is typically higher in the second half of the year.
+
+Environmental matters. We believe that the cost of complying with the present environmental protection laws, before considering estimated recoveries either from other potentially responsible parties under Superfund or similar state laws or from insurance, will not have a material adverse effect on our competitive position, results of operations, cash flows or financial condition.
+
+Available Information. The Company’s website address is www.FBIN.com. The Company’s annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to these reports are available free of charge on the Company’s website as soon as reasonably practicable after the reports are filed or furnished electronically with the SEC. Reports filed with the SEC are also made available on its website at www.sec.gov.
+
+8
+
+* * *
+
+Item 1A. Risk Factors.

@@ -1,0 +1,567 @@
+Item 1A.
+
+  
+
+Risk Factors  
+  
+In addition to the other information included in this Annual Report, the following factors should be considered in evaluating our business and future prospects. Any of the following risks, either alone or taken together, could materially harm our business, financial condition, and results of operations. If one or more of these or other risks or uncertainties materialize, or if our underlying assumptions prove to be incorrect, our business, financial condition, and results of operations could be materially harmed. 
+
+Risk Factor Summary
+
+Our business is subject to many risks and uncertainties. The following are the types of forward-looking statements we make throughout this Annual Report, including in these Risk Factors, and a summary of the types of risks that could impact us and cause actual results to differ from those described in such forward-looking statements:
+
+opportunities for future acquisitions, both within and outside the water and wastewater industries, the success of pending acquisitions and the impact of future acquisitions;
+
+acquisition-related costs and synergies; 
+
+the sale of water, wastewater, and gas subsidiaries;
+
+the impact of conservation awareness of customers and more efficient fixtures and appliances on water and natural gas usage per customer;
+
+the impact of our business on the environment, and our ability to meet our climate change goals;
+
+our authority to carry on our business without unduly burdensome restrictions;
+
+our capability to pursue timely rate increase requests;
+
+the capacity of our water supplies, water facilities, wastewater facilities, and natural gas supplies and storage facilities;
+
+the impact of decisions of governmental and regulatory bodies, including decisions to raise or lower rates and decisions regarding potential acquisitions;
+
+the impact of public health threats, such as the COVID-19 pandemic, or the measures implemented by the Company as a result of these threats; 
+
+developments, trends and consolidation in the water, wastewater, and natural gas utility and infrastructure industries;
+
+the impact of changes in and compliance with governmental laws, regulations and policies, including those dealing with the environment, health and water quality, taxation, and public utility regulation;
+
+the development of new services and technologies by us or our competitors;
+
+the availability of qualified personnel;
+
+the condition of our assets;
+
+recovery of capital expenditures and expenses in rates;
+
+projected capital expenditures and related funding requirements;
+
+the availability and cost of capital financing;
+
+dividend payment projections;
+
+the impact of geographic diversity on our exposure to unusual weather;
+
+the continuation of investments in strategic ventures;
+
+our ability to obtain fair market value for condemned assets;
+
+the impact of fines and penalties;
+
+the impact of legal proceedings;
+
+general economic conditions, including inflation; 
+
+the impairment of goodwill resulting in a charge to earnings;
+
+the impact of federal and/or state tax policies and the regulatory treatment of the effects of those policies; and
+
+the amount of income tax deductions for qualifying utility asset improvements and the Internal Revenue Service’s ultimate acceptance of the deduction methodology.
+
+20
+
+* * *
+Because forward-looking statements involve risks and uncertainties, there are important factors that could cause actual results to differ materially from those expressed or implied by these forward-looking statements, including but not limited to:
+
+the success in the closing of, and the profitability of future acquisitions;
+
+changes in general economic, business, credit and financial market conditions;
+
+our ability to manage the expansion of our business;
+
+changes in environmental conditions, including the effects of climate change;
+
+our ability to integrate and otherwise realize all of the anticipated benefits of businesses, technologies or services which we may acquire;
+
+the decisions of governmental and regulatory bodies, including decisions on regulatory filings, including rate increase requests and decisions regarding potential acquisitions;
+
+our ability to file rate cases on a timely basis to minimize regulatory lag;
+
+the impact of inflation on our business and on our customers;
+
+abnormal weather conditions, including those that result in water use restrictions or reduced or elevated natural gas consumption;
+
+the seasonality of our business;
+
+our ability to treat and supply water or collect and treat wastewater;
+
+our ability to source sufficient natural gas to meet customer demand in a timely manner;
+
+the continuous and reliable operation of our information technology systems, including the impact of cyber security attacks or other cyber-related events, and risks associated with new systems implementation or integration;
+
+impacts from public health threats, such as the COVID-19 pandemic, including on consumption, usage, supply chain, and collections.
+
+changes in governmental laws, regulations and policies, including those dealing with taxation, the environment, health and water quality, and public utility regulation;
+
+the extent to which we are able to develop and market new and improved services;
+
+the effect of the loss of major customers;
+
+our ability to retain the services of key personnel and to hire qualified personnel as we expand;
+
+labor disputes; 
+
+increasing difficulties in obtaining insurance and increased cost of insurance;
+
+cost overruns relating to improvements to, or the expansion of, our operations; 
+
+inflation in the costs of goods and services; 
+
+the effect of natural gas price volatility, including the potential impact of high commodity prices on usage or rate case outcomes; 
+
+civil disturbance or terroristic threats or acts; 
+
+changes to the rules or our assumptions underlying our determination of what qualifies for an income tax deduction for qualifying utility asset improvements;
+
+changes in, or unanticipated, capital requirements;
+
+changes in our credit rating or the market price of our common stock;
+
+changes in valuation of strategic ventures;
+
+changes in accounting pronouncements; 
+
+litigation and claims; and
+
+restrictions on our subsidiaries’ ability to make dividends and other distributions.
+
+21
+
+* * *
+Risks Related to Acquisitions
+
+One of the important elements of our growth strategy is the acquisition of regulated utility systems. Any acquisition we decide to undertake may involve risks. Further, competition for acquisition opportunities from other regulated utilities, governmental entities, and strategic and financial buyers may hinder our ability to grow our business. Lastly, competition and industry trends could impact our ability to retain existing customers or acquire new customers, which could have an adverse impact on our business, results of operations and financial condition. 
+
+One important element of our growth strategy is the acquisition and integration of regulated utility systems in order to broaden our service areas. We will not be able to acquire other businesses if we cannot identify suitable acquisition opportunities or reach mutually agreeable terms with acquisition candidates. It is our intent, when practical, to integrate any businesses we acquire with our existing operations. Investing in and integrating acquisitions could require us to incur significant costs and cause diversion of our management's time and resources, and we may be unable to successfully integrate our business with acquired businesses or to realize anticipated benefits of acquisitions. Acquisitions by us could also result in:
+
+dilutive issuances of our equity securities;
+
+incurrence of debt, contingent liabilities, and environmental liabilities;
+
+unanticipated capital expenditures;
+
+failure to maintain effective internal control over financial reporting;
+
+recording goodwill and other intangible assets for which we may never realize their full value and may result in an asset impairment that may negatively affect our results of operations;
+
+fluctuations in quarterly results; 
+
+other acquisition related expenses; and
+
+exposure to unknown or unexpected risks and liabilities.
+
+Some or all of these items could harm our business, financial condition, results of operations, and cash flows, and our ability to finance our business and to comply with regulatory requirements. The businesses we acquire may not achieve sales and profitability that would justify our investment, and any difficulties we encounter in the integration process, including in the integration of processes necessary for internal control and financial reporting, could interfere with our operations, reduce our operating margins and harm our internal controls. 
+
+Some states in which we operate allow the respective public utility commissions to use fair market value to set ratemaking rate base instead of the traditional depreciated original cost of water or wastewater assets for certain qualifying municipal acquisitions. Depending on the state, there are varying rules and circumstances in which fair value is determined. A number of states’ regulations allow ratemaking rate base to equal the lower of the average of the appraisals or the purchase price, subject to regulatory approval. There may be situations where we may pay more than the ultimate fair value of the utility assets as set by the regulatory commission, despite the fair value legislation suggesting its full recovery. In these situations, goodwill may be recognized to the extent there is an excess purchase price over the fair value of net tangible and identifiable intangible assets acquired through a business acquisition. Our financial condition and results of operations could be harmed by an inability to earn a return on, and recover our purchase price as a component of rate base. Regulatory actions or changes in significant assumptions, including discount and growth rates, utility sector market performance and comparable transaction multiples, projected operating and capital cash flows, and fair value of debt, could also potentially result in future impairments which could be material.
+
+22
+
+* * *
+We compete with governmental entities, other regulated utilities, and strategic and financial buyers, for acquisition opportunities. As consolidation becomes more prevalent in the utility industry and competition for acquisitions increases, the prices for suitable acquisition candidates may increase to unacceptable levels and limit our ability to grow through acquisitions. In addition, our competitors may impede our growth by purchasing utilities near our existing operations, thereby preventing us from acquiring them. Governmental entities or environmental / social activist groups have challenged, and may in the future challenge our efforts to acquire new service territories, particularly from municipalities or municipal authorities. Additionally, on occasion we have entered into agreements to acquire water or wastewater utility systems that have been challenged by municipalities or other parties, or where referenda are required, which may impact our ability to complete the acquisition. Higher purchase prices and resulting rates may limit our ability to invest additional capital for system maintenance and upgrades in an optimal manner. Our growth could be hindered if we are not able to compete effectively for new companies and/or service territories with other companies or strategic and financial buyers that have lower costs of operations or capital, or that submit more attractive bids. Any of these risks may harm our business, financial condition, and results of operations.
+
+We face the risk that large natural gas customers may bypass gas distribution services by gaining distribution directly from interstate pipelines, other gas distributors, or other energy sources. Increased competition or other changes in legislation, regulation, or policies could have a material adverse effect on our business, financial condition, or results of operations. Moreover, changes in wholesale natural gas prices compared with prices for electricity, fuel oil, coal, propane, or other energy sources may affect the retention of natural gas customers and may adversely impact our future financial condition and results of operations.
+
+The integration of acquisitions can be a multi-year activity depending upon the complexity and significance of the acquisition.
+
+One element of our strategic plans is our growth through acquisition strategy. Acquisitions in the utility industry are time consuming and complex, with the number of regulatory approvals needed. A significant acquisition can require significant time and resources, including devotion of management time, to integrate the acquired business. 
+
+Risks Related to Health and Safety and Environmental Concerns
+
+Some scientific experts are predicting a worsening of weather volatility in the future, possibly created by climate change due to greenhouse gases. Changing severe weather patterns could require additional expenditures to reduce the risk associated with any increasing storm, flood, and drought occurrences.
+
+The issue of climate change is receiving ever increasing attention worldwide. Many climate change predictions, if true, present several potential challenges to utilities, such as: increased frequency and duration of droughts, increased precipitation and flooding, potential degradation of water quality, and changes in demand for services. We maintain an ongoing facility planning process, and this planning or the enactment of new standards may result in the need for additional capital expenditures or raise our operating costs. Because of the uncertainty of weather volatility related to climate change, we cannot predict its potential impact on our business, financial condition, or results of operations. Although any potential expenditures and operating costs may be recovered in the form of higher rates, there can be no assurance that the various state utility commissions that govern our business would approve rate increases to enable us to recover such expenditures and costs. Without adequate rate recovery, our costs of complying with climate change weather related measures may negatively impact our business, financial condition, or results of operations.
+
+Climate change laws and regulations have been passed and are being proposed that require compliance with greenhouse gas emissions standards, as well as other climate change initiatives, which could impact our business, financial condition or results of operations. 
+
+Climate change is receiving ever increasing attention worldwide. Many scientists, legislators, and others attribute global warming to increased levels of greenhouse gases (GHG), including carbon dioxide. Climate change laws and regulations enacted and proposed could limit and impose costs tied to GHG emissions from covered entities and require additional monitoring/reporting. They could also provide a cost advantage to alternative energy sources and impact the competitive position of natural gas. We produce an environmental, social, and governance report, which provides an overview of our energy usage and GHG emissions. At this time, the existing GHG laws and regulations are not expected to materially 
+
+23
+
+* * *
+harm the Company’s operations or capital expenditures; however, the uncertainty of future climate change regulatory requirements still remains. We cannot predict the potential impact of future laws and regulations on our business, financial condition, or results of operations. Although these future expenditures and costs for regulatory compliance may be recovered in the form of higher rates, there can be no assurance that the various state utility commissions that govern our business would approve rate increases to enable us to recover such expenditures and costs. Another potential risk related to climate change could be more frequent and more severe weather events, which could increase our costs to repair damaged facilities and restore service to our customers. If we are unable to provide utility services to our customers, our financial results would be impacted by lost revenues, and we would have to seek regulatory approval to recover restoration costs. 
+
+Climate change and other environmental, social, and governance matters are increasingly important to many investors, and we may fail to provide information desired by all investors or achieve our ESG goals.
+
+Climate change and other environmental, social, and governance, or ESG, matters are increasingly important to many investors, including our current investors. We have focused attention on ESG matters and the communication of our ESG goals, targets, and activities to investors. These goals and targets reflect our current plans and aspirations. Our ability to achieve such goals and aspirations is subject to numerous risks and uncertainties, many of which rely on the collective efforts of others or may be outside of our control. As such, we cannot offer assurances that the results reflected or implied by any such statements will be realized or achieved. Moreover, standards and expectations for ESG matters continue to evolve and may be subject to varying interpretations, which may result in significant revisions to our goals or progress. We may also be unable to satisfactorily meet evolving standards, regulations, and disclosure requirements related to ESG. Any failure, or perceived failure, to meet evolving stakeholder expectations, additional regulations and industry standards and disclosures, or achieve our ESG goals and targets could have an adverse effect on our business, results of operations, financial condition, or stock price.
+
+Our water supply, including water provided to our customers, is subject to various potential contaminants which may result in disruption in our services, additional costs, loss of revenue, fines, laws and/or regulations, and litigation which could harm our business, reputation, financial condition, and results of operations.
+
+Our water supplies, including water provided to our customers, are subject to possible contaminants, including those from: 
+
+naturally occurring compounds or man-made substances; 
+
+chemicals and other hazardous materials; 
+
+lead and other materials;
+
+pharmaceuticals and personal care products; and 
+
+possible deliberate or terrorist attacks. 
+
+24
+
+* * *
+Depending on the nature of the water contamination, we may have to interrupt the use of that water supply until we are able to substitute, where feasible, the flow of water from an uncontaminated water source, including if practicable, the purchase of water from other suppliers, or continue the water supply under restrictions on use for drinking or broader restrictions against all use except for basic sanitation and essential fire protection. We may experience a loss of revenue and incur significant costs, including, but not limited to, costs for water quality testing and monitoring, “do not consume” expenses, treatment of the contaminated source through modification of our current treatment facilities or development of new treatment methods, the purchase of alternative water supplies, or litigation related matters, including governmental enforcement actions. In addition, the costs we could incur to decontaminate a water source or our water distribution system and dispose of waste could also be significant. The costs resulting from the contamination may not be recoverable in rates we charge our customer, or may not be recoverable in a timely manner. Further, we may incur a loss of revenue in the event we elect to waive customers’ water and wastewater charges. If we are unable to adequately treat the contaminated water supply or substitute a water supply from an uncontaminated water source in a timely or cost-effective manner, there may be an adverse effect on our business, reputation, financial condition, and results of operations. We could also be subject to: 
+
+claims for consequences arising out of human exposure to contamination and/or hazardous substances in our water supplies, including toxic torts; 
+
+claims for other environmental damage; 
+
+claims for customers’ business interruption as a result of an interruption in water service; 
+
+claims for breach of contract; 
+
+criminal enforcement actions; 
+
+regulatory fines; or 
+
+other claims. 
+
+We incur substantial costs on an ongoing basis to comply with all laws and regulations. New or stricter laws and/or regulations could increase our costs. Although we may seek to recover these costs through an increase in customer rates, there is no guarantee that the various state regulators would approve such an increase.
+
+The events in Flint, Michigan, which commenced in 2014, and other communities have brought attention to the issue of lead in drinking water from home plumbing. We have been working to prevent lead leaching from home plumbing sources by reducing water corrosivity and adding chemicals that can prevent leaching of lead in pipes and homes. We have a program to evaluate all changes in water sources prior to initiating a change in water supply. We also focus on identifying and removing lead service lines and encouraging customers to replace the customer-owned portion of the service line if it is lead as they are identified during our main replacement program or during other maintenance activities. In 2019, we initiated a “do not consume” advisory for some of our customers served by our Illinois subsidiary, which resulted in a loss of revenues and increased operating costs and for which we anticipate an additional recovery of other costs and losses. The do not consume advisory was lifted in 2019 and, in 2022, the water system was determined to be in compliance with the federal Lead and Copper Rule. We filed a claim with our insurance carrier for costs and losses incurred in 2019 related to the do not consume advisory, for which we recovered a portion of the costs and losses and for which we anticipate an additional recovery of other costs and losses.
+
+We are devoting our attention to various emerging contaminants, including the Per- and Polyfluoroalkyl Substances (PFAS) family of chemicals and other chemicals and substances that do not have any regulatory standard in drinking water. We comply with governmental agency guidance that recommends the standard of protection from these contaminants, and we monitor proposed standards and other governmental agency guidance regarding these contaminants. Additionally, commencing in 2020, we initiated a company-wide program to address these contaminants uniformly across our regulated water utilities by selecting standards adopted or proposed by New Jersey, which are the most stringent standards adopted in any state in which we do business. As a result, we are planning a capital program in the range of tens of millions of dollars over several years to install mitigation technology at our water treatment facilities where the source water is found to exceed the standard we have determined to follow. There is no guarantee that the various state regulators would approve the costs associated with our treatment of the emerging contaminants without the establishment of treatment standards by the appropriate governmental entities, or for standards set by other governmental entities. Accordingly, we have commenced legal action, and anticipate filing additional legal actions, aimed at recovering the costs associated with the treatment in our systems of emerging contaminants from polluting entities.
+
+25
+
+* * *
+We may incur costs to defend our position and/or incur reputational damage even if we are not liable for consequences arising out of human exposure to contamination and/or hazardous substances in our water supplies, other environmental damage, or our customer’s business interruption. Our insurance policies may not be sufficient to cover the costs of our defense or, in the event we are liable, these claims, and losses incurred may make it difficult for us to secure insurance in the future at acceptable rates. Such claims or actions could harm our business, reputation, financial condition, and results of operations.
+
+In the future, we expect Federal regulations establishing national limits on PFAS chemicals. If these limits are more stringent than our standards, we would expect to comply with the Federal regulations and file for recovery of any incremental capital or operating expenses in our routine regulatory proceedings. 
+
+Transporting, distributing and storing natural gas involves numerous risks that may result in accidents and other operating risks and costs.
+
+Natural gas transportation, distribution and storage activities inherently involve a variety of hazards and operational risks, such as leaks, accidental explosions, damage caused by third parties and mechanical problems, which could cause substantial financial losses. These risks could result in serious personal injury, loss of human life, significant damage to property, environmental pollution, impairment of operations, and substantial losses. The location of pipelines and storage facilities near populated areas, including residential areas, commercial business centers and industrial sites, could increase the level of damages resulting from these risks. These activities may also subject the Company to litigation or administrative proceedings. Such litigation or proceedings could result in substantial monetary judgments, fines or penalties against the Company or otherwise be resolved on unfavorable terms.
+
+We are subject to federal and state laws and regulations requiring the Company to maintain certain safety and system integrity measures by identifying and managing storage and pipeline risks. In addition, companies that supply and transport gas to Peoples are also subject to similar regulations and other restrictions related to their activities. Compliance with these laws and regulations, or future changes in these laws and regulations, may, directly or indirectly, result in increased capital, operating, and other costs which may not be recoverable in a timely manner or at all from customers in rates. In accordance with customary industry practices, we maintain insurance against a significant portion, but not all, of these risks and losses. To the extent any of these events occur or regulations change, it could adversely affect our business, reputation, financial condition, and results of operations.
+
+Risks Related to the Operation and Regulation of our Business
+
+General economic conditions may affect our financial condition and results of operations. 
+
+A general economic downturn may lead to a number of impacts on our business and may affect our financial condition and results of operations. Such impacts may include: 
+
+a reduction in discretionary and recreational water use by our residential water customers, particularly during the summer months when such discretionary usage is normally at its highest;
+
+a reduction in natural gas use by our residential customers, particularly during the winter months when such usage is normally at its highest; 
+
+a decline in usage by industrial and commercial customers as a result of decreased business activity or a shift to alternative energy sources; 
+
+an increased incidence of customers’ inability to pay or delays in paying their utility bills, or an increase in customer bankruptcies, which may lead to higher bad debt expense, increased financing costs, and reduced cash flow; 
+
+a lower natural customer growth rate due to a decline in new housing starts; and 
+
+a decline in the number of active customers due to housing vacancies. 
+
+General economic turmoil may also lead to an investment market downturn, which may result in our pension and other post-retirement plans’ asset market values suffering a decline and significant volatility. A decline in our plans’ asset market values could increase our required cash contributions to the plans and expense in subsequent years. Inflation 
+
+26
+
+* * *
+levels in excess of historical levels could also lead to regulatory lag and thus impact our earned returns and financial results. 
+
+Moreover, inflation and rising interest rates have recently become areas of increasing economic concern. Changes in the cost of providing our products and services, including price increases in operating and capital costs, as well as increases in labor costs or borrowing costs, may negatively impact our financial condition and results of operations. We review the adequacy of our rates as approved by public utility commissions in relation to the increasing cost of providing services and the inherent regulatory lag in adjusting those rates. Rate increases are not retroactive and often lag increases in costs caused by inflation. On occasion, our regulated utility companies may enter into rate settlement agreements, which require us to wait for a period of time to file the next base rate increase request. These agreements may result in regulatory lag whereby inflationary increases in expenses or higher borrowing costs may not be reflected in rates, and may not yet be requested, or a gap may exist between when a capital project is completed and the start of its recovery in rates. Even during periods of moderate inflation, the effects of inflation can have a negative impact on our operating results. The ability to control operating expenses is an important factor that will influence future results. 
+
+The rates we charge our customers are subject to regulation. If we are unable to obtain government approval of our requests for rate increases or if approved rate increases are untimely or inadequate to recover and earn a return on our capital investments, to recover expenses or taxes, or to take into account changes in water, wastewater, or natural gas usage, our profitability may suffer.
+
+The rates we charge our customers are subject to approval by utility commissions in the states in which we operate. We file rate increase requests, from time to time, to recover our investments in utility plant and expenses. Our ability to maintain and meet our financial objectives is dependent upon the recovery of, and return on, our capital investments and expenses through the rates we charge our customers. Once a rate increase petition is filed with a utility commission, the ensuing administrative and hearing process may be lengthy and costly, and our costs may not always be fully recoverable. The timing of our rate increase requests are therefore partially dependent upon the estimated cost of the administrative process in relation to the investments and expenses that we expect to recover through the rate increase. In addition, the amount or frequency of rate increases may be decreased or lengthened as a result of many factors including changes in regulatory oversight in the states in which we operate utilities and income tax laws, including regulations regarding tax-basis depreciation as it applies to our capital expenditures or qualifying utility asset improvements. We can provide no assurances that any future rate increase request will be approved by the appropriate utility commission; and, if approved, we cannot guarantee that these rate increases will be granted in a timely or sufficient manner.
+
+In Virginia, North Carolina and Kentucky, we may bill our water utility customers, in certain circumstances, in accordance with a rate filing that is pending before the respective regulatory commission, which would allow for interim rates. Furthermore, some utility commissions authorize the use of expense deferrals and amortization in order to provide for an impact on our operating income by an amount that approximates the requested amount in a rate request. The additional revenue billed and collected prior to the final ruling is subject to refund to customers based on the outcome of the ruling. The revenue recognized and the expenses deferred by us reflect an estimate as to the final outcome of the ruling. If the request is denied completely or in part, we could be required to refund to customers some or all of the revenue billed to date, and write-off some or all of the deferred expenses. 
+
+27
+
+* * *
+Changes in our earnings may differ from changes in our rate base.
+
+Our business is capital intensive and requires significant capital investments for additions to or replacement of property, plant and equipment. These capital investments create assets that are used and useful in providing regulated utility service, and as a result, increase our rate base, on which we generate earnings through the regulatory process. Changes in our reported earnings, however, may differ from changes in our rate base in a given period due to several factors, including rate case timing and the terms of such rate cases; over-or under-earnings in a given period due to changes in operating costs; the effects of tax rates or tax treatment of capital investments, including the effect of repair tax; capital expenditures that are not eligible for a DSIC between rate cases; acquisitions which have not yet been included in rate base; and issuances of equity. We anticipate that we may experience periods in which growth in earnings is less than growth in rate base; such differences may be material and may persist over multiple reporting periods.
+
+Our ability to meet customers’ natural gas requirements may be impaired if contracted natural gas supplies and interstate pipelines services are not available, are not delivered in a timely manner or if federal regulations decrease its available capacity, which may result in a loss of customers and an adverse effect on our financial conditions and results of operations.
+
+We are responsible for acquiring sufficient natural gas supplies, interstate pipeline capacity and storage capacity to meet current and future customers’ peak, annual and seasonal natural gas requirements. We rely on third-party service providers, as we purchase a portion of our natural gas supply from interstate sources and rely on interstate pipelines to transport natural gas to our distribution system, in addition to local production that is delivered directly into our pipeline system. The Federal Energy Regulatory Commission (FERC) regulates the transportation of the natural gas received from interstate sources, and any change in regulatory policies could increase our transportation costs or decrease our available pipeline capacity. A decrease in interstate pipeline capacity available, an increase in competition for interstate pipeline transportation service or other interruptions to pipeline gas supplies could reduce our normal interstate supply of natural gas. Additionally, federal or state legislation could restrict or limit natural gas drilling, which could decrease the supply of available natural gas. If we are unable to maintain access to a reliable and adequate natural gas supply or sufficient pipeline capacity to deliver that supply, we may be unable to meet our customers’ requirements, resulting in a loss of customers and an adverse effect on our financial conditions and results of operations.
+
+Peoples has traditionally used local production as a source of supply to fulfill a portion of its supply requirements. In order to absorb local gas into its system, Peoples has in place a network of pipelines and related facilities that move the gas either to customers located where gas is produced or to the more populated areas of the service territory where the greatest level of consumption occurs, and, in summer months, to Peoples’ on-system and off-system storage facilities. This network of facilities includes gathering lines, compressor stations, and transmission lines. Peoples has entered into gas purchase agreements with various producers to supply this local production. A decrease in this supply could occur, for example, if the local gas producers no longer drill wells to offset natural well production decline or if such producers decide to cease production or produce into another pipeline. State and federal legislation or regulations could also limit drilling activities and in turn limit gas supply. If supply is limited, we would be faced with purchasing gas supplies likely at a higher cost, may be unable to find alternative gas supply, and accordingly, may be unable to meet customer requirements, resulting in a loss of customers and an adverse effect on our financial condition and results of operations.
+
+Any failure of our water and wastewater treatment plants, network of water and wastewater pipes, or water reservoirs could result in damages that may harm our business, financial condition, and results of operations. 
+
+Our operating subsidiaries treat water and wastewater, distribute water, and collect wastewater through an extensive network of pipes, and store water in reservoirs. A failure of a major treatment plant, pipe, or reservoir could result in claims for injuries or property damage. The failure of a major treatment plant, pipe, or reservoir may also result in the need to shut down some facilities or parts of our network in order to conduct repairs. Such failures and shutdowns may limit our ability to supply water in sufficient quality and quantities to our customers or collect and treat wastewater in accordance with standards prescribed by governmental regulators, including state utility commissions, and may harm our business, financial condition, and results of operations. Any business interruption or other losses might not be covered by insurance policies or be recoverable in rates, and such losses may make it difficult for us to secure insurance in the future at acceptable rates.
+
+28
+
+* * *
+Our facilities could be the target of a possible terrorist or other deliberate attack which could harm our business, financial condition and results of operations.
+
+In addition to the potential contamination of our water supply or deliberate gas explosions as described in separate risk factors herein, we maintain security measures at our facilities and have heightened employee and public safety official awareness of potential threats to our utility systems. We have and will continue to bear increases in costs for security precautions to protect our facilities, operations, and supplies, most of which have been recoverable under state regulatory policies. While the costs of increases in security, including capital expenditures, may be significant, we expect these costs to continue to be recoverable in utility rates. Despite our security measures, we may not be in a position to control the outcome of terrorist events, or other attacks on our utility systems, should they occur. Such an event could harm our business, financial condition, and results of operations.
+
+Our business is impacted by weather conditions and is subject to seasonal fluctuations, which could harm demand for water and natural gas services and our business, financial condition, and results of operations.
+
+Demand for our water during the warmer months is generally greater than during cooler months due primarily to additional requirements for water in connection with irrigation systems, swimming pools, cooling systems, and other outside water use. Throughout the year, and particularly during typically warmer months, demand will vary with temperature, rainfall levels, and rainfall frequency. In the event that temperatures during the typically warmer months are cooler than normal, if there is more rainfall than normal, or rainfall is more frequent than normal, the demand for our water may decrease and harm our business, financial condition, and results of operations. In Illinois, our operating subsidiary has adopted a revenue stability mechanism which allows us to recognize state PUC authorized revenue for a period which is not based upon the volume of water sold during that period, and effectively reduces the impact of weather and consumption variability.
+
+Peoples’ revenues are seasonal and temperature sensitive and vary from year-to-year, depending on weather conditions, with a substantial portion of Peoples’ revenue occurring in the first and fourth quarters of the year due to colder temperatures and increased heating needs. In 2022, this amounted to 74%, for the first and fourth quarters. This has the effect of reducing our quarterly revenues in the spring and summer months. In addition, warmer-than-normal-weather conditions can decrease the amount of natural gas Peoples sells in any year, which could adversely affect our business, financial condition, and results of operations. Finally, significantly colder-than-normal weather conditions can materially increase natural gas usage, resulting in challenges for our operations and our ability to serve our customers.
+
+Decreased residential customer water and natural gas usage as a result of conservation efforts, and the impact of more efficient appliances and furnaces, may harm demand for our utility services and may reduce our revenues and earnings. 
+
+There has been a general decline in water usage per residential customer as a result of an increase in conservation awareness, and the impact of an increased use of more efficient plumbing fixtures and appliances. These gradual, long-term changes are normally taken into account by the utility commissions in setting rates, whereas short-term changes in water usage, if significant, may not be fully reflected in the rates we charge. We are dependent upon the revenue generated from rates charged to our residential customers for the volume of water used. If we are unable to obtain future rate increases to offset decreased residential customer water consumption to cover our investments, expenses, and return for which we initially sought the rate increase, our business, financial condition, and results of operations may be harmed.
+
+In addition, over time, average customer gas consumption has declined, as more energy efficient appliances and furnaces have been installed and conservation programs have been implemented. If we are unable to compete effectively or if customers further reduce their gas needs, we may lose existing customers, sell less gas to our customers and/or fail to acquire new customers, which could have a material adverse effect on our business, financial condition, and results of operations.
+
+29
+
+* * *
+Drought conditions and government imposed water use restrictions may impact our ability to serve our current and future customers, and may impact our customers’ use of our water, which may harm our business, financial condition, and results of operations.
+
+We depend on an adequate water supply to meet the present and future demands of our customers. Drought conditions could interfere with our sources of water supply and could harm our ability to supply water in sufficient quantities to our existing and future customers. An interruption in our water supply could harm our business, financial condition, and results of operations. Moreover, governmental restrictions on water usage during drought conditions may result in a decreased demand for our water, even if our water supplies are sufficient to serve our customers during these drought conditions, which may harm our business, financial condition, and results of operations.
+
+The failure of, or the requirement to repair, upgrade or dismantle any of our dams or reservoirs may harm our business, financial condition, and results of operations. 
+
+Several of our water systems include impounding dams and reservoirs of various sizes. Although we believe our dam review program, which includes regular inspections and other engineering studies, will ensure our dams are structurally sound and well-maintained, the failure of a dam could result in significant downstream damage and could result in claims for property damage or for injuries or fatalities. We periodically inspect our dams and purchase liability insurance to cover such risks, but depending on the nature of the downstream damage and cause of the failure, the policy limits of insurance coverage may not be sufficient, and losses incurred may make it difficult for us to secure insurance in the future at acceptable rates. A dam failure could also result in damage to, or disruption of, our water treatment and pumping facilities that are often located downstream from our dams and reservoirs. Significant damage to these facilities, or a significant decline in the storage of the raw water impoundment, could affect our ability to provide water to our customers until the facilities and a sufficient raw water impoundment can be restored. The estimated costs to maintain our dams are included in our capital budget projections and, although such costs to date have been recoverable in rates, there can be no assurance that rate increases will be granted in a timely or sufficient manner to recover such costs in the future, if at all.
+
+Our operations are geographically concentrated in Pennsylvania, which make us susceptible to risks affecting Pennsylvania.
+
+Although we operate water, wastewater, and natural gas utility infrastructure in a number of states, our operations are concentrated in Pennsylvania. As a result, our financial results are largely subject to political, resource supply, labor, utility cost and regulatory risks, economic conditions, natural disasters, and other risks affecting Pennsylvania.
+
+Federal and state environmental laws and regulations impose substantial compliance requirements on our operations. Our operating costs could be significantly increased in order to comply with new or stricter regulatory standards imposed by federal and state environmental agencies.
+
+Our water, wastewater, and natural gas services are governed by various federal and state environmental protection and health and safety laws and regulations, including the federal Safe Drinking Water Act, the Clean Water Act, Clean Air Act, Resource Conservation and Recovery Act and similar state laws, and federal and state regulations issued under these laws by the EPA and state environmental regulatory agencies. These laws and regulations establish, among other things, criteria and standards for drinking water and for discharges into the waters of the U.S. as well as dam safety, air emissions, and residuals management. Pursuant to these laws, we are required to obtain various environmental permits from environmental regulatory agencies for our operations. The Company routinely seeks to acquire wastewater systems, some of which may have combined wastewater and stormwater systems which may overflow and be subject to increased regulation by the U.S. EPA. We cannot assure you that we will be at all times in total compliance with these laws, regulations and permits. If we fail to comply with these laws, regulations or permits, we could be fined or otherwise sanctioned by regulators and such noncompliance could result in civil suits. Environmental laws and regulations are complex and change frequently. These laws, and the enforcement thereof, have tended to become more stringent over time. While we have budgeted for future capital and operating expenditures to comply with these laws and our permits, it is possible that new or stricter standards could be imposed that will require additional capital expenditures or raise our operating costs. Although these expenditures and costs may be recovered in the form of higher rates, there can be no assurance that the various state utility commissions that regulate our business would approve rate increases to enable us to 
+
+30
+
+* * *
+recover such expenditures and costs. In summary, we cannot assure you that our costs of complying with, current and future environmental and health and safety laws will not harm our business, financial condition, and results of operations.
+
+Additionally, following the Peoples Gas Acquisition, the discovery of presently unknown environmental conditions, including former manufactured gas plant sites, and claims under environmental laws and regulations may result in expenditures and liabilities, which could be material, and could materially harm our business, financial condition and results of operations. 
+
+We are increasingly dependent on the continuous and reliable operation of our information technology systems, including those of our third-party vendors, and a disruption of these systems, resulting from cyber security attacks, risks associated with new systems implementation or integration, or other events, could harm our business.
+
+We rely on our information technology systems, including those of our third-party vendors, in connection with the operation of our business, especially with respect to customer service and billing, accounting and, in some cases, the monitoring and operation of our treatment, storage and pumping facilities, and our natural gas pipelines. In addition, we rely on our systems to track our utility assets and to manage maintenance and construction projects, materials and supplies, and our human resource functions. A loss of these systems, or major problems with the operation of these systems, could harm our business, financial condition, and results of operations. We could also be adversely affected by system or network disruptions if new or upgraded information technology systems are defective, not installed properly, or not properly integrated into operations. In addition, our information technology systems may be vulnerable to damage or interruption from the following types of cyber security attacks or other events:
+
+power loss, computer systems failures, and internet, telecommunications or data network failures;
+
+operator negligence or improper operation by, or supervision of, employees;
+
+physical and electronic loss of data;
+
+computer viruses, cyber security attacks, intentional security breaches, hacking, denial of service actions, misappropriation of data and similar events; 
+
+difficulties in the implementation of upgrades or modification to our information technology systems; and
+
+hurricanes, fires, floods, earthquakes and other natural disasters.
+
+Although we do not believe that our systems are at a materially greater risk of cyber security attacks than other similar organizations, our information technology systems may be vulnerable to damage or interruption from the types of cyber security attacks or other events listed above or other similar actions, and such incidents may go undetected for a period of time. Such cyber security attacks or other events may result in: 
+
+the loss or compromise of customer, financial, employee, or operational data; 
+
+disruption of billing, collections or normal field service activities; 
+
+disruption of electronic monitoring and control of operational systems; 
+
+delays in financial reporting and other normal management functions; and
+
+disruption in normal system operations. 
+
+Possible impacts associated with a cyber security attack or other events may include: remediation costs related to lost, stolen, or compromised data; repairs to data processing or physical systems; increased cyber security protection costs; adverse effects on our compliance with regulatory and environmental laws and regulation, including standards for drinking water; litigation; loss of revenue; and reputational damage. We maintain insurance to help defray costs associated with cyber security attacks or other events, but we cannot provide assurance that such insurance will provide coverage for any particular type of incident or event or that such insurance will be adequate, and losses incurred may make it difficult for us to secure insurance in the future at acceptable rates.
+
+31
+
+* * *
+We have a cyber security controls framework in place. We monitor our control effectiveness in an increasing threat landscape and continuously take action to improve our security posture. We cannot assure you that, despite such measures, a form of system failure or data security breach will not have a material adverse effect on our financial condition and results of operations.
+
+Our water or wastewater utility systems may be subject to condemnations or other methods of taking by governmental entities. 
+
+In the states where our subsidiaries operate water or wastewater utility systems, it is possible that portions of our subsidiaries’ operations could be acquired by municipal governments by one or more of the following methods: 
+
+eminent domain;
+
+the right of purchase given or reserved by a municipality or political subdivision when the original franchise was granted; and
+
+the right of purchase given or reserved under the law of the state in which the subsidiary was incorporated or from which it received its permit. 
+
+The price to be paid upon such an acquisition by the municipal government is usually determined in accordance with applicable law under eminent domain. In other instances, the price may be negotiated, fixed by appraisers selected by the parties or computed in accordance with a formula prescribed in the law of the state or in the particular franchise or charter. We believe that our operating subsidiaries would be entitled to receive fair market value for any assets that are condemned. However, there is no assurance that the fair market value received for assets condemned would be in excess of book value. 
+
+In a very small number of instances, in one of our southern states where there are municipally-owned water or wastewater systems near our operating divisions, the municipally-owned system may either have water distribution or wastewater collection mains that are located adjacent to our division's mains or may construct new mains that parallel our mains. In these circumstances, on occasion, the municipally-owned system may attempt to offer service to customers who are connected to our mains, resulting in our mains becoming surplus or underutilized without compensation.
+
+The final determination of our income tax liability may be materially different from our income tax provision.
+
+Significant judgment is required in determining our provision for income taxes. Our calculation of the provision for income taxes is subject to our interpretation of applicable business tax laws in the jurisdictions in which we file. In addition, our income tax returns are subject to periodic examination by the Internal Revenue Service and other taxing authorities. In December 2012, Aqua Pennsylvania changed its tax method of accounting to permit the expensing of qualifying utility asset improvement costs that were previously being capitalized and depreciated for tax purposes. Subsequently, the Company’s Ohio and North Carolina regulated subsidiaries similarly changed their tax method of accounting, in March 2020 Peoples Natural Gas changed its tax method of accounting, and in 2022 Peoples Gas Company and Aqua New Jersey changed their tax methods of accounting. Our determination of what qualifies as a capital cost versus a tax deduction for utility asset improvements is subject to subsequent adjustment and may impact the income tax benefits that have been recognized. 
+
+Although we believe our income tax estimates, including any tax reserves for uncertain tax positions or valuation allowances on deferred tax assets are appropriate, there is no assurance that the final determination of our income tax liability will not be materially different; either higher or lower, from what is reflected in our income tax provision. In the event we are assessed additional income taxes, our business, financial condition, and results of operations could be harmed.
+
+Wastewater operations entail significant risks and may impose significant costs.
+
+Wastewater collection and treatment involve various unique risks. If collection or treatment systems fail or do not operate properly, or if there is a spill, untreated or partially treated wastewater could discharge onto property or into nearby streams and rivers, causing various damages and injuries, including environmental damage. These risks are most acute during periods of substantial rainfall or flooding, which are the main causes of wastewater overflow and system failure. 
+
+32
+
+* * *
+Liabilities resulting from such damages and injuries could harm our business, financial condition, and results of operations. 
+
+Work stoppages and other labor relations matters could harm our operating results.
+
+Approximately 51% of our Regulated Water and Regulated Natural Gas segments’ workforce are unionized under 20 labor contracts with labor unions, which expire between at various times up until 2027. In light of rising costs for healthcare and retirement benefits, contract negotiations in the future may be difficult. We are subject to a risk of work stoppages and other labor actions as we negotiate with the unions to address these issues, which could harm our business, financial condition, and results of operations. We cannot assure you that issues with our labor forces will be resolved favorably to us in the future or that we will not experience work stoppages.
+
+Workforce-related risks may affect our results of operations.
+
+We are subject to various workforce-related risks, including the risk that we will be unable to attract and retain qualified personnel for our water, wastewater, and natural gas operations, that we will be unable to effectively transfer the knowledge and expertise of an aging workforce to new personnel as those workers retire, and that we will be unable to reach collective bargaining arrangements with the unions that represent certain of our workers, which could result in work stoppages. Additionally, we rely on outside resources to supplement our workforce, including construction crews which are key to our infrastructure replacement program. We face the same risks associated with these outside resources as we do with our own workforce. As a result, we may be unable to hire or retain an adequate number of individuals who are knowledgeable about public utilities, water or the natural gas industry or face a lengthy time period associated with skill development and knowledge transfer. Failure to address these risks may result in increased operational and safety risks as well as increased costs. Even with reasonable plans in place to address succession planning and workforce training, we cannot control the future availability of qualified labor. If we are unable to successfully attract and retain an appropriately qualified workforce, it could adversely affect our financial condition and results of operations.
+
+Significant or prolonged disruptions in the supply of important goods or services from third parties could harm our business, financial condition, and results of operations.
+
+We are dependent on a continuing flow of important goods and services from suppliers for our businesses. A disruption or prolonged delays in obtaining important supplies or services, such as maintenance services, purchased water, chemicals, utility pipe, valves, hydrants, electricity, or other materials, could harm our utility services and our ability to operate in compliance with all regulatory requirements, which could harm our business, financial condition, and results of operations. In some circumstances, we rely on third parties to provide important services (such as customer bill print and mail activities, payment processing, or utility service operations in some of our divisions) and a disruption in these services could harm our business, financial condition, and results of operations. Some possible reasons for a delay or disruption in the supply of important goods and services include:
+
+our suppliers may not provide materials that meet our specifications in sufficient quantities;
+
+our suppliers may provide us with water that does not meet applicable quality standards or is contaminated;
+
+our suppliers may provide us with natural gas not meeting quality standards or is of insufficient volume or pressure;
+
+our suppliers may face production or shipping delays due to the COVID-19 pandemic, natural disasters, strikes, lock-outs, political disputes, or other such actions;
+
+one or more suppliers could make strategic changes in the lines of products and services they offer; and
+
+some of our suppliers, such as small companies, may be more likely to experience financial and operational difficulties than larger, well-established companies, because of their limited financial and other resources.
+
+As a result of any of these factors, we may be required to find alternative suppliers for the materials and services on which we rely. Accordingly, we may experience delays in obtaining appropriate materials and services on a timely basis and in sufficient quantities from such alternative suppliers at a reasonable price, which could interrupt services to our customers and harm our business, financial condition, and results of operations.
+
+33
+
+* * *
+We depend significantly on the services of the members of our management team, and the departure of any of those persons could cause our operating results to suffer.
+
+Our success depends significantly on the continued individual and collective contributions of our management team. The loss of the services of any member of our management team or the inability to hire and retain experienced management personnel could harm our business, financial condition, and results of operations.
+
+We may incur significant costs and liabilities resulting from pipeline integrity and other similar programs and related repairs.
+
+Certain of Peoples’ pipeline operations are subject to pipeline safety laws and regulations. The Department of Transportation’s Pipeline and Hazardous Materials Safety Administration has adopted regulations requiring pipeline operators to develop integrity management programs, including more frequent inspections and other measures, for transmission pipelines located in “high consequence areas,” which are those areas where a leak or rupture could do the most harm. The regulations require pipeline operators, including Peoples, to, among other things:
+
+perform ongoing assessments of pipeline integrity;
+
+develop a baseline plan to prioritize the assessment of a covered pipeline segment;
+
+identify and characterize applicable threats that could impact a high consequence area;
+
+improve data collection, integration, and analysis;
+
+develop processes for performance management, record keeping, management of change and communication;
+
+repair and remediate pipelines as necessary; and
+
+implement preventative and mitigating action.
+
+We are required to maintain pipeline integrity testing programs that are intended to assess pipeline integrity. Peoples is also required to establish and maintain a Distribution Integrity Management Program for all distribution assets. This program requires protocols for identifying risks and threats to the distribution systems. The program incorporates a relative risk model to measure risk reduction to these threats. Any repair, remediation, preventative or mitigating actions may require significant capital and operating expenditures. Should we fail to comply with applicable statutes and related rules, regulations and orders, we could be subject to significant penalties and fines.
+
+Our liquidity and, in certain circumstances, results of operations may be adversely affected by the cost of purchasing natural gas during periods in which natural gas prices are rising significantly.
+
+The Peoples’ regulated companies purchase their natural gas supply primarily through a combination of requirements contracts, some of which contain minimum purchase obligations, monthly spot purchase contracts and forward purchase contracts. The price paid for natural gas acquired under forward purchase contracts is fixed prior to the delivery of the natural gas. Additionally, a portion of natural gas purchases is injected into natural gas storage facilities in the non-heating months and withdrawn from storage for delivery to customers during the heating months.
+
+Our short-term borrowing requirements and liquidity are also significantly affected by the seasonal nature of the natural gas business. Changes in the price of natural gas due to, for example, extreme weather events, geopolitical forces, or regulatory policy changes, and the amount of natural gas needed to supply customers’ needs due to, for example, colder than expected seasonal temperatures, could significantly affect the price and amount of natural gas we are required to purchase and the timing of such purchases, and, in turn, affect our borrowing requirements and liquidity position. If we fail to secure sufficient natural gas supplies at appropriate prices (due to, for example, more extreme winter conditions), we may be required to purchase additional natural gas supplies or purchase natural gas at elevated prices, which could adversely affect our borrowing levels, liquidity and financial condition.
+
+Peoples’ tariff rate schedules contain Purchased Gas Adjustment (PGA) clauses that permit filings for rate adjustments to recover the cost of purchased gas. Subject to regulatory approval, as described below, changes in the cost of purchased gas are flowed through to customers and may affect uncollectible amounts and cash flows and can therefore impact our financial condition and results of operations.
+
+34
+
+* * *
+The state regulatory commissions approve the PGA changes on an interim basis, subject to refund and the outcome of a subsequent audit and prudence review. Due to such review process, there is a risk of a disallowance of full recovery of these costs. We are also subject to regulations and standards regarding the amount of lost and unaccounted for gas that may be recovered from customers. Any material disallowance of purchased gas costs would adversely affect our financial condition and results of operations.
+
+Increases in the prices that we charge for gas may also adversely affect our business because increased prices could lead customers to reduce usage and cause some customers to have difficulty paying the resulting higher bills. These higher prices may increase bad debt expenses and ultimately reduce earnings. Additionally, rapid increases in the price of purchased gas may result in an increase in short-term debt.
+
+Our non-regulated natural gas operations purchase natural gas utilizing a combination of requirements contracts, some of which contain minimum purchase obligations, monthly spot purchase contracts and forward purchase contracts. Although price risk for the non-regulated companies is mitigated to a degree by efforts aimed at balancing supply and demand, there are practical limitations on the ability to accurately predict demand and any failure to do so could adversely affect our financial condition and results of operations.
+
+An impairment in the carrying value of our goodwill could negatively impact our consolidated results of operations and net worth.
+
+We have significant amounts of goodwill resulting from the acquisition of utility systems and businesses. As of December 31, 2022, the net carrying value of goodwill amounted to $2,340,792,000 or 15% of our total assets. Of the balance, $2,277,447,000 relates to our Regulated Natural Gas reporting unit. Goodwill is initially recorded at fair value, not amortized and reviewed for impairment at least annually or more frequently if impairment indicators arise. Indicators that are considered significant include changes in performance relative to expected operating results, significant negative industry or economic trends, including rising interest rates, or a significant decline in our stock price and/or market capitalization for a sustained period of time. If certain factors arise, we may be required to record a significant non-cash charge to earnings in our consolidated financial statements during the period in which an impairment of our goodwill is determined. Any such non-cash charge could have a material adverse impact on our results of operations and net worth.
+
+Risk Related to Public Health Threats
+
+Global or regional health pandemics, epidemics or similar public health threats, including the COVID-19 pandemic, could negatively impact our business, outlook, financial condition, results of operations and liquidity.
+
+Public health threats, such as the COVID-19 pandemic, and the measures implemented to contain its spread, continue to have widespread impacts on the global economy, our employees, customers, and third-party business partners. Public health threats could, in the future, materially impact our business in numerous ways, including, but not limited to, those outlined below:
+
+reduced demand from our commercial customers and shifts in demand for our regulated utility services;
+
+delay the timeliness of our service to customers because of shutdowns and/or illness and travel restrictions among our employees or employees of other companies on whom we rely;
+
+negatively impact the financial condition of our customers and their ability to pay for our products and services, and our ability to disconnect service for non-payment may be limited, and state regulators may impose bill deferral programs;
+
+may limit or curtail significantly or entirely the ability of public utility commissions to approve or authorize applications and other requests we may make with respect to our regulated water and natural gas businesses; and
+
+delays in our supply chain and our ability to complete maintenance, repairs, and capital programs, which could result in disruptions and increased costs.
+
+35
+
+* * *
+These and other impacts of the COVID-19 pandemic or other global or regional health pandemics, epidemics or similar public health threats could also have the effect of heightening many of the other risks described in “Risk Factors” in this Annual Report and the other reports we file from time to time with the SEC. We might not be able to predict or respond to all impacts on a timely basis to prevent near- or long-term adverse impacts to our results of operations, financial condition and liquidity. The ultimate impact of public health threats, such as the COVID-19 pandemic, on our business depends on factors beyond our knowledge or control, including the duration and severity of the outbreak as well as third-party actions taken to contain its spread and mitigate its public health effects. Any of these factors could have a negative impact on our business, outlook, financial condition, and results of operations, which impact could be material.
+
+Risks Related to the Company’s Capital Needs and Common Stock
+
+We have substantial indebtedness, as a result, it may be more difficult for the Company to pay or refinance its debts or take other actions, and the Company may need to divert cash to fund debt service payments.
+
+The Company has incurred significant additional indebtedness to finance the Peoples Gas Acquisition and to fund the debt refinancing of the Company’s outstanding existing debt (the Company Debt Refinancing). Additionally, in connection with the Peoples Gas Acquisition, the Company assumed approximately $1,106,000,000 of Peoples’ indebtedness. As of December 31, 2022, we had $6,617,395,000 of long-term debt outstanding.
+
+The substantial indebtedness could:
+
+make it more difficult and/or costly for the Company to pay or refinance its debts as they become due, particularly during adverse economic and industry conditions, because a decrease in revenues or increase in costs could cause cash flow from operations to be insufficient to make scheduled debt service payments;
+
+limit the Company’s flexibility to pursue other strategic opportunities or react to changes in its business and the industry sectors in which it operates and, consequently, put the Company at a competitive disadvantage to its competitors that have less debt;
+
+require a substantial portion of the Company’s available cash to be used for debt service payments, thereby reducing the availability of its cash to fund working capital, capital expenditures, development projects, acquisitions, dividend payments, and other general corporate purposes, which could harm the Company’s prospects for growth;
+
+result in a downgrade in the credit ratings on the Company’s indebtedness, which could limit the Company’s ability to borrow additional funds on favorable terms or at all and increase the interest rates under its credit facilities and under any new indebtedness it may incur;
+
+make it more difficult for the Company to raise capital to fund working capital, make capital expenditures, pay dividends, pursue strategic initiatives or for other purposes;
+
+result in higher interest expense, which could be further increased in the event of increases in interest rates on the Company’s current or future borrowings; and
+
+require that additional materially adverse terms, conditions or covenants be placed on the Company under its debt instruments, which covenants might include, for example, limitations on additional borrowings and specific restrictions on uses of its assets, as well as prohibitions or limitations on its ability to create liens, pay dividends, receive distributions from its subsidiaries, redeem or repurchase its stock or make investments, any of which could hinder its access to capital markets and limit or delay its ability to carry out its capital expenditure program or otherwise limit its flexibility in the conduct of its business and make it more vulnerable to economic downturns and adverse competitive and industry conditions.
+
+Based on the current and expected results of operations and financial condition of the Company, the Company believes that its cash flows from operations, together with the proceeds from borrowings, and issuances of equity and debt securities in the capital markets will generate sufficient cash on a consolidated basis to make all of the principal and interest payments when such payments are due under the Company’s and its current subsidiaries’ existing credit facilities, indentures and other instruments governing their outstanding indebtedness. However, the Company’s expectation is based upon numerous estimates and assumptions and is subject to numerous uncertainties. 
+
+36
+
+* * *
+Our business requires significant capital expenditures that are partially dependent on our ability to secure appropriate funding. Disruptions in the capital markets may limit our access to capital. If we are unable to obtain sufficient capital, or if the cost of borrowing increases, it may harm our business, financial condition, results of operations, and our ability to pay dividends. 
+
+Our business is capital intensive. In addition to the capital required to fund customer growth through our acquisition strategy, on an annual basis, we invest significant sums for additions to or replacement of property, plant and equipment. We obtain funds for our capital expenditures from operations, contributions and advances by developers and others, debt issuances, and equity issuances. We have paid dividends consecutively for 78 years, and our Board of Directors recognizes the value that our common shareholders place on both our historical payment record and on our future anticipated dividend payments. Our ability to continue our growth through acquisitions and to maintain and meet our financial objectives is dependent upon the availability of adequate capital, and we may not be able to access the capital markets on favorable terms or at all. Additionally, if in the future, our credit facilities are not renewed or our short-term borrowings are called for repayment, we would need to seek alternative financing sources; however, there can be no assurance that these alternative financing sources would be available on terms acceptable to us. In the event we are unable to obtain sufficient capital, we may need to take steps to conserve cash by reducing our capital expenditures or dividend payments and our ability to pursue acquisitions may be limited. The reduction in capital expenditures may result in reduced potential earnings growth, affect our ability to meet environmental laws and regulations, and limit our ability to improve or expand our utility systems to the level we believe appropriate. There is no guarantee that we will be able to obtain sufficient capital in the future on reasonable terms and conditions for expansion, construction, and maintenance. In addition, delays in completing major capital projects could delay the recovery of the capital expenditures associated with such projects through rates. 
+
+If the cost of borrowing increases, we might not be able to recover increases in our cost of capital through rates. The inability to recover higher borrowing costs through rates, or the regulatory lag associated with the time that it takes to begin recovery, may harm our business, financial condition, results of operations and cash flows.
+
+Our inability to comply with debt covenants under our loan and debt agreements could result in prepayment obligations.
+
+We are obligated to comply with debt covenants under some of our loan and debt agreements. Failure to comply with covenants under our loan and debt agreements could result in an event of default, which if not cured or waived, could result in us being required to repay or finance these borrowings before their due date, limit future borrowings, cause us to default on other obligations, and increase borrowing costs. If we are forced to repay or refinance (on less favorable terms) these borrowings, our business, financial condition, and results of operations could be harmed by reduced access to capital and increased costs and rates.
+
+The price of our common stock may be volatile. This volatility may affect the price at which one could sell our common stock, and the sale or resale of substantial amounts of our common stock could adversely affect the market price of our common stock.
+
+The sale or issuance of substantial amounts of our common stock, or the perception that additional sales or issuances could occur, could adversely affect the market price of our common stock, even if the business is doing well. In addition, the availability for sale of substantial amounts of our common stock could adversely impact its market price. Any of the foregoing may also impair our ability to raise additional capital through the sale of our equity securities.
+
+    
+  
+--- ---  
+  
+Item 1B
+
+  
+
+Unresolved Staff Comments  
+  
+    
+  
+None
+
+    
+  
+--- ---  
+  
+37
+
+* * *
+Item 2. 
+
+  
+
+Properties

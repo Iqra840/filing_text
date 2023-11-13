@@ -1,0 +1,1581 @@
+PART I
+
+ITEM 1. BUSINESS
+
+Forward-Looking and Cautionary Statements
+
+Except for statements of historical fact, certain information in this document contains “forward-looking statements” that involve substantial risks and uncertainties. You can identify these statements by forward-looking words such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “intend,” “may,” “should,” “would,” or similar words. The statements that contain these or similar words should be read carefully because these statements discuss our future expectations, contain projections of our future results of operations, or of our financial position, or state other “forward-looking” information. Clean Coal believes that it is important to communicate our future expectations to our investors. However, there may be events in the future that we are not able to accurately predict or control. Further, we urge you to be cautious of the forward-looking statements that are contained in this Annual Report because they involve risks, uncertainties and other factors affecting our technology, planned operations, market growth, products and licenses. These factors may cause our actual results and achievements, whether expressed or implied, to differ materially from the expectations we describe in our forward-looking statements. The occurrence of any of these events could have a material adverse effect on our business, results of operations and financial position.
+
+Overview
+
+Over the past decade, Clean Coal Technologies, Inc. has developed processes that address what we believe are the key technology priorities of the global coal industry. We currently have three processes in our intellectual property portfolio:
+
+The original process, called Pristine, is designed to remove moisture and volatile matter, rendering a high-efficiency, cleaner thermal coal. The process has been tested successfully on bituminous and subbituminous coals, and lignite from various parts of the United States and from numerous countries around the world.
+
+Our second process, called Pristine-M, is a low-cost coal dehydration technology. In tests, this process has succeeded in drying coal economically and stabilizing it using volatile matter released by the feed coal. Construction of our coal testing plant was completed in December 2015 and was successfully tested through April 2016 at AES Coal Power Utility in Oklahoma. Additional tests commenced and were completed in the fourth quarter of 2017. This test facility has been moved from AES to Wyoming where reassembly has commenced and testing of international coal is expected upon completion of the reassembly. Changes identified to the process by the University of Wyoming and our EPC contractors will be included in the reassembly and it is expected to provide a higher quality end product with a lower capital cost for a commercial unit. The reassembly was delayed due to the pandemic but is expected to be completed in Q3 2023.
+
+Our third process, called Pristine-SA, is designed to eliminate 100% of the volatile matter in the feed coal and to achieve stable combustion by co-firing it with biomass or natural gas. The process is expected to produce a cleaner fuel that eliminates the need for emissions scrubbers and the corollary production of toxic coal ash. We anticipate that treated coal that is co-fired with other energy resources will burn as clean as natural gas.
+
+Anticipated Benefits of the Technology:
+
+  
+
+•
+
+  
+
+Reduction of undesired emissions and greenhouse gases through the removal of compounds that are not required for combustion in conventional boilers.  
+  
+--- --- ---  
+  
+  
+
+•
+
+  
+
+Cost savings and environmental impact reduction. Our pre-combustion solution is expected to be significantly less expensive than post-combustion solutions such as emissions scrubbers. Not only are the latter prohibitively expensive, they produce coal ash containing the “scrubbed” compounds, which is dumped in toxic waste disposal sites where it may pose continuing environmental risk. Coal treated using our processes may eliminate the need for post-combustion emissions scrubbers and the resulting toxic ash. By beneficiating the coal it requires less coal to be consumed to achieve the same energy output. This will save on transportation and handling costs.  
+  
+--- --- ---  
+  
+  
+
+•
+
+  
+
+Potential use of compounds removed from treated coal. Volatile matter captured in the Pristine process is removed in the form of hydrocarbon liquids that we believe will be easily blended with crude oil or used as feedstock for various products. For example, sulfur, which can be removed using the Pristine process, is a basic feedstock for fertilizer. The harvesting of hydrocarbon liquids from abundant, cheaper coal is a potentially lucrative side benefit of our processes. All coal by-products including Rare Earth Minerals extraction will be tested in the second-generation facility.  
+  
+--- --- ---  
+  
+1
+
+* * *
+Successful testing of the Pristine M process resulted in an increase in BTU of the processed coal and a reduction in moisture content making it less expensive to transport (as moisture has been removed) with the end product being a dust free stabilized enhanced coal which we believe will address the issue of coal dust pollution during transportation.
+
+  
+
+•
+
+  
+
+Energy Independence. To the extent that volatile matter is removed from coal, coal’s use as an energy resource is greatly improved, enabling the United States and other coal-rich countries to move towards energy independence owing to coal’s greater abundance. Extraction of by-products including Rare Earth Minerals is also expected to provide coal derivative product independence.  
+  
+--- --- ---  
+  
+Development Status:
+
+Pristine process. Pristine process successfully lab tested on small scale and through advanced computer modeling. As at November, 2020, various aspects of the Pristine process were successfully tested at our test facility at the AES coal Power plant in Oklahoma as part of the overall testing of Pristine M. The second-generation facility in Wyoming is expected to perform a more detailed testing of the Pristine process. The build out and delivery of the Rotary Kiln will enable the test facility to reach significantly higher temperatures to test with more accuracy the Pristine process.
+
+Pristine-M. Testing of the Pristine M process on Powder River Basin coal at the AES facility in Oklahoma was completed in December 2017. The Pristine M process was successfully tested and the process, engineering and science were independently proven. The test facility was moved from the AES location to Wyoming where reassembly commenced in Q4 2019 and testing of international coal is expected upon completion of reassembly. The reassembly was delayed due to the pandemic but it is expected to be completed in Q3 2023. Over several months in 2018 and early 2019 the University of Wyoming independently validated the Pristine M process in their laboratory. By coating the exterior of the coal during the stabilization period with heavy hydrocarbons the process produces dust free stabilized coal for transportation.
+
+Pristine-SA process. Pristine SA process analysis is at a very early stage. Further research and development is expected using the test facility at its permanent location in Wyoming. The introduction of the Rotary Kiln and the higher temperatures it can achieve will enable a more accurate testing protocol for this process.
+
+Business Outlook
+
+  
+
+•
+
+  
+
+Wyoming New Power, a related party company, has agreed to sign a two million ton per annum license agreement to use Pristine M at a location in Wyoming. They have paid a non-refundable $100,000 deposit on the license agreement. The definitive license agreement is expected to be signed following the receipt of commercial design which will incorporate the suggested changes proposed by the University of Wyoming and our EPC contractor. Wyoming New Power is a Related Party because it is controlled by a party that also controls the entity, which is the major lender and significant stockholder of the Company.  
+  
+--- --- ---  
+  
+  
+
+•
+
+  
+
+Jindal Steel & Power is expected to send though their coal for sampling immediately following the plants re-assembly. The bespoke commercial facility design is expected after the testing.
+
+In Q2, 2019 the Company signed a non binding MOU with Universitas Indonesia in a combined effort to assess the impact of our technology on Indonesian Coal both from a coal beneficiation perspective and also coal by-products.
+
+The second-generation test facility will have the capability of producing Char. There is local Wyoming demand for this product that the company expects to sell.  
+  
+--- --- ---  
+  
+  
+
+•
+
+  
+
+The Company entered into a partnership with the University of Wyoming with the sole focus of using our suite of technologies to increase the use of and value of Wyoming Powder River Basin coal. Primary focus is on utilizing our technology to extract valuable derivative products from coal. Changes to the process have been identified by the University and the company EPC engineers and will be incorporated in the reassembly of the facility in Wyoming. The University confirmed in Q2, 2019 that they had successfully validated the Pristine M process in their laboratory and as a result entered into an agreement with the Company. The agreement between the University and the Company is for the reassembly of the second generation test facility. The University will advance to the EPC contractor on a two to one basis. As of the date of this filing the University has advanced a total of approx. $1,300,000 directly to the manufacturer of the Rotary Kiln. The company has recognized in its accounts a payable due to the University of Wyoming of $1,000,000 which will be part of a co-share use of the kiln. The kiln and all its relevant control panels was delivered to our site at Gillette, Wyoming in June 2020.  
+  
+--- --- ---  
+  
+2
+
+* * *
+  
+
+•
+
+  
+
+The Company has been engaged with AusTrade (The Australian Trade and Investment Commission) and through that relationship has partnered with three separate universities in Australia. Like the University of Wyoming these Universities have a focus on their local coal both from a beneficiation perspective and also extracting derivative by products from coal using our technology. The Company received full Australian patents in Q2, 2019 so the company plans to move forward with this relationship in Q3, 2023 following the assembly of the second-generation test facility.  
+  
+--- --- ---  
+  
+  
+
+•
+
+  
+
+The Company continues in discussions with the Minister for Coal in India and a number of the Energy governmental bodies in India. Coal samples are expected to be sent for testing once the Second Generation Test Facility is assembled which is expected in Q3, 2023 but subject to potential delays due to the current pandemic.  
+  
+--- --- ---  
+  
+  
+
+•
+
+  
+
+Meetings occurred in Q2, 2019 with the US DOE, DOD and Wyoming State Representatives to further our technology to benefit US coal. These discussions continue through March 2023 in light of coal mining bankruptcies in Wyoming.  
+  
+--- --- ---  
+  
+Technology
+
+Our original Pristine coal treating process extracts the volatile matter (solidified gases or pollutant material) from a wide variety of coal types by heating the mineral as it transitions through several disparate heat chambers, causing the volatile matter to turn to gas and escape the coal, leaving behind a cleaner-burning fuel source. Historically, the primary technological challenge of extracting this volatile matter has been maintaining the structural and chemical integrity of the carbon, while achieving enough heat to turn the volatile matter into a gaseous state. Heating coal to temperatures well in excess of 700° Fahrenheit is necessary to quickly turn volatile matter gaseous. However, heating coal to these temperatures has generally caused the carbon in the coal to disintegrate into an unusable fine powder (coal dusting). Our patented flow process transitions the coal through several atmospherically independent heat chambers controlled at increasingly higher temperatures. These heat chambers are infused with inert gases, primarily carbon dioxide (CO2), preventing the carbon from combusting. We have identified the optimum combination of atmospheres, levels of inert gases, transport speed, and temperatures necessary to quickly extract and capture volatile matter, while maintaining the structural and chemical integrity of the coal. Using our technology, we are able to capture the volatile gases that escape the coal, and to utilize some of these gases to fuel the process, while others are captured in the form of usable byproducts, to potentially provide an ancillary revenue stream. Depending on the characteristics of the coal being cleaned, the flow processing time is expected to be in the range of 6 to 8 minutes.
+
+Our process derivatives are broadly characterized by the following three elements which vary according to the characteristics of the feed coal:
+
+A first stream is predominantly water that is extracted from the coal. Although expected to be 100% pure (water removed from coal is condensed from its vapor state), it may contain some contaminants.
+
+A second stream, produced in the de-volatizing stage of the process, is the condensed light hydrocarbons gases that we call “coal-derived liquids”, or CDLs. These could prove to be the most valuable component of the process. It is anticipated that the CDLs will resemble a crude oil (probably sweet crude if the sulfur content of the feed coal is low) resulting in a readily-marketable product. In the Pristine-M process, de-volatization is controlled and optimized to meet the needs of drying and stabilizing the coal, minimizing the production of gas or liquid byproducts.
+
+The third stream is the heavy tar-like liquid potentially marketable to the asphalt and coal tar industry. This stream is entirely absent in the Pristine-M process which is focused only on the task of drying and stabilizing.
+
+The Pristine technology has three distinct primary applications: the cleaning of coal for direct use as fuel for power stations and other industrial and commercial applications; the extraction of potentially valuable chemical by-products for commercial sale; and the use of processed coal as a feed stock for gasification and liquefaction (CTG & CTL) projects.
+
+Pristine-M De-Watering Process. During the fourth quarter of 2011, the Company filed a provisional patent application for a new technology focused on the de-watering of coal. The new process, Pristine-M, is unique in that it retains elements of the original process but has discovered a technology that stabilizes the dried coal, rendering it impermeable and easy to transport with low to no risk of spontaneous combustion. The latter results have proved elusive for the majority of companies that have entered the market with coal de-watering technologies.
+
+3
+
+* * *
+The Pristine-M process, sharing some of the scientific principles and engineering components that underpin the Pristine process, is also a modular design that includes a section where the coal is partially de-volatized and then coupled to as many drying and stabilization modules as may be required to achieve a client’s desired level of production. Each of the modules is designed to handle 30-tons/hr and, similar to the Pristine process, relies on components that are primarily available off-the-shelf and have already stood the test of time as to their reliability and durability.
+
+Pristine-SA Process. In June 2013, we filed a provisional patent application for a new process to be called Pristine-SA. The new process is designed to produce a coal product that is devoid of all volatiles and comes together with a solution for ensuring efficient and clean combustion on a level with natural gas. Now that the application on the basic concept has been filed, we expect to continue further research and development to address Pristine-SA’s potential application in various fuel and non-fuel product areas.
+
+Our technology has been tested and proven under laboratory and pilot scale conditions in Pittsburg, PA, and the results studied by LEIDOS (previously SAIC) as well as certain potential strategic partners as part of their due diligence on CCTI and the CCTI technology. To date, testing of about 40 coal types from all over the world has been completed. We have also benchmarked our technology against the Carnegie Mellon simulation model with excellent results. Testing has shown no evidence of coal dusting, self-combustion, moisture re-absorption, or other technical concerns that might hinder commercialization. We have successfully tested Powder River Basin coal at out testing facility at AES Oklahoma. The test facility was moved to Wyoming where assembly completion of the second generation test facility is expected in the third quarter of 2023.
+
+While we believe that all of our Pristine technologies offer vast potential for commercialization, our market entry strategy right now is focused on the Pristine -M technology that we believe offers an immediate opportunity to monetize our intellectual property. The specific opportunity is in Asia that, at the moment, is focused almost entirely on the need to produce a dry and stable coal to meet the growing need of coal-fired power plants. Indonesia is currently one of the largest suppliers of thermal coal to India and China, but Indonesian coal suffers from its high moisture content and low calorific content. Since January 2017 we have engaged in advanced discussions with the representatives from the US DOE and also key representatives from Wyoming. As we successfully tested PRB at our test facility at AES it has led to a unique opportunity to upgrade PRB coal and export it through several ports in the US and also from Canadian and Mexican ports. Since our successful tests at AES coal power utility we believe that the issues currently facing the upgrading of coal and its stabilization have been effectively addressed by the Pristine-M technology and we continue to work with both US government bodies and US producers along with key international energy providers.
+
+Initial designs have been completed for both the Pristine and the Pristine-M processes. The Pristine design provides for the deployment of standard operational modules, each with annual capacity of 166,000 metric tons, providing the flexibility to be configured in accordance with customers’ individual production capacity requirements. The coal cleaning process will typically be energy self-sufficient, relying upon captured methane and other byproducts to fuel the coal cleaning process. Since 2018 our EPC contractor in conjunction with the University of Wyoming have been working to further enhance the process and update the commercial designs that were previously produced. Following nine months of work with the University of Wyoming and our engineers we have identified changes to the original test facility that is expected to further increase the beneficiated processed coal. These changes have been incorporated in the reassembly of the second generation test facility in Wyoming.
+
+Business Activities and Strategy
+
+The Company’s business model at this stage is simple: to license our technology to third parties and exact a license fee, as well as a royalty fee, based on plant production. Over time, as the company builds up equity capital and cash reserves, opportunities to penetrate the coal business at different points of the value chain will be considered. Among these, direct investments in low-cost reserves, partnerships in mining or industrial projects, or trading may be contemplated.
+
+Research and development will be a key focus going forward. The highest priority will be on the commercialization of our Pristine M process, but there are various other product areas including biomass where our technology may prove relevant.
+
+Competitive Strengths
+
+We believe our technology and designs represent the only process that can effectively separate and capture undesired chemical compounds prior to carbon combustion in a commercially viable manner. Our process differs from competing processes through its ability to maintain the structural integrity of coal during the heating process. This is achieved through a unique design that inserts inert gas into the heating chambers, and maintains the inert atmosphere in each chamber. By inserting an inert gas into the chambers, the process allows for rapid heating of the coal and prevents coal combustion and significant coal dusting. Competing technologies have used differing methods of preventing coal combustion and dusting, albeit with limited success. Some of the particular strengths of our process include:
+
+4
+
+* * *
+Pollution reduction: By heating coal prior to combustion, we are able to extract volatile matter (pollutants in the form of solidified gases) from the coal in a controlled environment, transforming coal with high levels of impurities, contaminants and other polluting elements into a more efficient, cleaner source of high energy, lower polluting fuel. Testing has demonstrated that our process removes a substantial percentage of harmful pollutants, including mercury. The processed end product is dust free so concerns about coal dust loss during transportation is eliminated.
+
+Lower cost of operation: We believe that our process will be a relatively low-cost solution to the reduction of pollution at coal-fired power facilities. Our engineering consulting firm, believes that our coal cleaning process will typically not require any external energy and can be fully fueled by the methane and other byproducts that the process captures from raw coal. This effective use of byproducts contrasts markedly with emissions scrubbers that generally use a portion of the generated power and have high initial capital and maintenance costs. In addition, our process may have certain advantages in terms of the pollutants removed that can be utilized in a complementary manner with other processes including scrubbers.
+
+Increased flexibility in feedstock: Our process eliminates both the moisture and volatile matter in raw coal, increasing the heat capacity of standard sub-bituminous low-rank raw coal from approximately 8,800 BTUs to between 11,000-12,000 BTUs. We believe the process can increase heat capacity of lignite raw coal ranging from 4,000-7,000 BTUs to a range of 9,000-10,000 BTUs. As the worldwide supply of high-BTU bituminous coal dwindles, our technology may enable coal-fired plants to effectively utilize the abundance of low-rank coal. Results will differ depending on the coal being processed.
+
+Favorable price arbitrage: Low-rank coal in Asia with a heat content of 7,000 – 9,000 BTUs currently sells for at a significant discount to high-BTU bituminous coal with a heat capacity of 10,000+ BTUs, as can be observed in various international price indices, among them, the Baltic Dry Bulk Index. Our process essentially transforms low-grade coal into bituminous coal at a direct operating cost of an estimated $3.50 per ton, capturing the value of higher-grade coal prices.
+
+Potential tax benefits: This will be clearer under the new US Administration and the new laws being passed.
+
+Competition
+
+At this filing, the coal upgrade industry globally, excluding coking processes, remains in its infancy. The penetration rate of technologies focused on de-watering coal is well under 1% based on annual production of thermal coals measured in the billions of tons. There are numerous competitors in the pre-combustion, upgrade segment but many of these have failed, are inactive, or in pilot mode. The Company believes that given its successful testing of its Pristine M process it will be able to enjoy early-mover advantage in 2023.
+
+The difficulties experienced by the Company’s competitors fall into three categories: the technologies have failed to scale up; they are expensive and, therefore, challenge the economics of the process; or they have failed to produce a stable end product, that is, a product that does not reabsorb moisture and is safe to transport with minimal risk of spontaneous combustion. From a scale-up perspective, CCTI’s Pristine M technology faces a much smaller challenge as it is a modular system built around well-known and proven components. From our 2-ton per hour prototype to our 30-ton per hour standard commercial module, initial scale-up is a 1:15 proposition that is considered very modest from an engineering perspective. Scalability issues are mitigated by the modular nature of the industrial design that, once the basic module is operational, further scale up is achieved by adding identical modules. We consider it a major competitive advantage that our clients who build large capacity, single-unit plants based on what are likely to be new and untested components.
+
+From a plant reliability and maintenance perspective, our modular design brings many advantages that the Company believes enhance the competitiveness of its offering. The major benefits are the ability to carry on maintenance on one module while the other modules continue to operate. Down-time can be minimized. Similarly, if a component breaks down, it does not incapacitate the entire plant. It is localized to a single module.
+
+From a planning perspective, mine operators would be able to expand their capacity piecemeal rather than in step-wise fashion by large-scale increments. This mitigates much of the financial risk normally attendant on large-scale plant expansions and, over time, our modular design may prove to be one of the most significant competitive advantages of our process.
+
+Another significant competitive advantage of either of the Company’s processes is that these do not require crushing of the coal, thereby minimizing if not entirely eliminating the need for costly briquetting. CCTI’s plant economics are compelling as they derive much of the process heat from the feed coal itself, rendering the processes very energy efficient. The processes require a modest amount of electric power and a small number of operatives. Consequently, our operating costs are very competitive.
+
+5
+
+* * *
+The Pristine process not only removes the moisture, but also removes undesired volatiles which we capture as a chemical “soup” that may be further refined by us, or sold directly to chemical manufacturers, or refineries as a complementary revenue source. The Pristine process addresses a very different market need than the Pristine M Technology and therefore enables CCTI to offer a more diverse product slate to our potential customers than most, if not all, our existing competitor base.
+
+We consider our most direct competition in the reduction of coal emissions comes from companies offering pre-combustion cleaning designed to remove impurities. However, post-combustion filtering or “scrubbers” designed to filter released gases are a clear alternative for coal-fired power producers. We are not in competition with suppliers of emissions scrubbers, except to the extent that that burning a cleaner fuel is more economical than post-combustion solutions.
+
+The best known present and past competitors in the pre-combustion area include Evergreen Energy, Inc. (“Evergreen”), Kobe Steel (“Kobe”), GTL Energy (“GTL”) and White Energy (“White Energy”), both the latter of which are Australian companies. Neither Encoal or SynCoal are currently operational having experienced serious problem in the area of product stability. There are operators that utilize older, less efficient technologies such as the Fleissner process, but these are not as effective the newer technologies. Evergreen, based in Denver, Colorado, developed a technology primarily focused on reducing the moisture in raw coal to increase its heating capacity. The company declared bankruptcy in 2012 after suffering problems having to do with the stability of the end product. CoalTek, based in Tucker, Georgia, claims its patent-pending process uses electromagnetic energy to reduce contaminants and moisture in coal prior to combustion. While public information is limited, we believe the amount of energy necessary to run the electromagnetic process may offset any economic benefits of the upgraded coal. The Australian processes use a combination of heat and compaction to remove moisture from coal. The company is not in commercial mode. White Energy claims that compaction generates close bonding between the dried coal particles to form a high density, higher energy content briquette. Energy requirements for heating coal an operating a pelletizer are typically large but no basis or explanation is provided for the favorable cost numbers published by White Energy. During 2012, White Energy was forced to abandon further investment in its flagship 1 million ton facility in Indonesia that suffered serious operational problems. The Kobe process is proven. However, the plant is complex and, consequently, very expensive. This was indicated by the fact a one significant plant in Indonesia shuttered a Kobe plant during 2012 owing to unfavorable process economics.
+
+Indirect competition comes from alternative low-pollution energy sources, including: wind, bio-fuels and solar; all of which need additional technological advancements, cost reduction and universal acceptance to be able to produce power at the scale of coal-fueled plants, which today produce over 40% of world’s electricity according to U.S. Department of Energy.
+
+Patents
+
+Our technology is the subject of U.S. patent #6,447,559, “Treatment of Coal” which was filed on November 3, 2000 based on provisional application 60/163,566 filed November 5, 1999, and issued in 2002. We also filed PCT international patent application PCT/US00/41772 based on this U.S. patent on November 2, 2000, and, in accordance with this, patents have been applied for in all countries where we believe our technology has application. On February 1, 2011 CCTI was awarded a continuation patent US #7,879,117.
+
+On April 15, 2008, the Company filed a PCT International application PCT/US2008/060364based on our revised design, and national patent applications based on this PCT International application have been filed in India, China, Indonesia, Australia, South Africa, Colombia, Brazil, Chile, and the Republic of Mongolia. These were filed by our patent attorneys Nixon &Vanderhye P.C. at a cost of $33,000. On October 15, 2010, the Company filed the PCT US national phase application for its revised design as contained in PCT/US2008/060364.
+
+The April 15, 2008 application details the process of using byproducts to power the process, and details a simpler, vertical factory design with proprietary seals that help preserve the atmosphere of each chamber, compared to a horizontal design in the original filing. This application goes into great detail regarding the byproducts of the coal and their capture.
+
+The patent details a process wherein coal is heated to different temperatures in various chambers with controlled low-oxygen atmospheres. There are seals between these chambers, serving to maintain the heat and gas content in each chamber. The invention notes the controlled de-volatilization and removal of moisture and organic volatiles, while maintaining the structural integrity of the coal and reducing the level of disintegration into powder form. The invention also notes the significantly decreased time in treating coal as compared to alternative approaches, most of which focus on moisture removal as a means of increasing calorific or BTU value.
+
+6
+
+* * *
+In September, 2011, the Company filed provisional patent application Serial No. 61/531,791 that seeks to protect a new invention for the reduction of moisture inherent in coal, and stabilization of the final product. A corresponding PCT International application PCT/US2012/054160 was filed in September, 2012 and counterpart national patent applications have been filed in US, EP, Eurasia, Australia, Canada, India, Philippines, South Africa, Colombia, Mexico, Panama, Japan, South Korea, Indonesia Mongolia, Malaysia, Sri Lanka. Testing to date indicates that our stabilized product will be resistant to moisture re-absorption and safe to handle, even over long distances. The new invention draws from the scientific knowledge embedded in our existing patent, but it is an entirely new concept that is easily differentiated from the offerings of our competitors. The most novel aspect relates to the stabilization of the end product and to the ability to enhance the heat content of the coal beyond what would be normally achieved by moisture removal alone. The product is banded Pristine–M.
+
+From a commercial perspective, Pristine-M is proving to be attractive to clients not only because of its characteristics, but because the industrial design is simple, elegant and inexpensive. We estimate that operating costs based on US labor rates is $3.50 per to which includes $2.00 per ton on-going maintenance. The cost of the commercial plant is expected to be highly competitive, based on preliminary estimates. Changes being incorporated to the second generation test facility is expected to reduce the capital cost of a commercial unit.
+
+A new provisional patent application Serial No. 61/829,006 was filed by the Company in May, 2013 directed to the treatment of coal. Counterpart foreign patents has been filed based on that technology. In the second quarter of 2013, we filed a provisional patent application for a new process to be called Pristine-SA. The new process is designed to produce a coal product that is devoid of all volatiles and comes together with a solution for ensuring efficient and clean combustion on a level with natural gas. Now that the application on the basic concept has been filed, we expect to continue further research and development to address Pristine-SA’s potential application in various fuel and non-fuel product areas.
+
+We expect to file for additional patents as we continue the commercialization of our technology and factory design. We intend to continue to seek worldwide protection for all our technology. The following table provides a summary of our technology to date.
+
+In 2019, the company was successfully awarded full patents for the following countries; Indonesia, Philippines, Republic of Korea, United States, New Zealand and Hong Kong. The duration of most patents is 20 years from date of application.
+
+In 2021, the company was successfully awarded full patents for Canada and South Africa.
+
+In September 2021, the company applied for a provisional global patent with the U.S Patent and Trademark Office and was assigned USPTO application number 63/248,035. This patent incorporates the additional changes to the company process which includes but not limited to the introduction of a rotary kiln.
+
+COUNTRY
+
+  
+
+APPLN NO
+
+  
+
+APPLN DATE
+
+  
+
+GRANT DATE
+
+  
+
+STATUS  
+  
+--- --- --- --- ---  
+  
+CHIN - (China P.R.)
+
+  
+
+00818174.8
+
+  
+
+11/02/2000
+
+  
+
+02/03/2016
+
+  
+
+G - (Granted)  
+  
+USA - (United States)
+
+  
+
+09/704,738
+
+  
+
+11/03/2000
+
+  
+
+09/10/2002
+
+  
+
+G - (Granted)  
+  
+CANA - (Canada)
+
+  
+
+2,389,970
+
+  
+
+11/02/2000
+
+  
+
+03/27/2012
+
+  
+
+G - (Granted)  
+  
+EPC - (European Patent Convention)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+INDO - (Indonesia)
+
+  
+
+W-00200201274
+
+  
+
+11/02/2000
+
+  
+
+  
+
+F - (Pending)  
+  
+USA - (United States)
+
+  
+
+11/344,179
+
+  
+
+02/01/2006
+
+  
+
+02/01/2011
+
+  
+
+G - (Granted)  
+  
+INDI - (India)
+
+  
+
+7426/DELNP/2010
+
+  
+
+04/15/2008
+
+  
+
+02/15/2016
+
+  
+
+G - (Granted)  
+  
+CHIN - (China P.R.)
+
+  
+
+200880129212.2
+
+  
+
+04/15/2008
+
+  
+
+12/25/2013
+
+  
+
+G - (Granted)  
+  
+INDO - (Indonesia)
+
+  
+
+W00201003932
+
+  
+
+04/15/2008
+
+  
+
+  
+
+F - (Pending)  
+  
+SAFR - (South Africa)
+
+  
+
+2010/07455
+
+  
+
+04/15/2008
+
+  
+
+04/25/2012
+
+  
+
+G - (Granted)  
+  
+COLO - (Colombia)
+
+  
+
+10-142509
+
+  
+
+04/15/2008
+
+  
+
+11/24/2017
+
+  
+
+G - (Granted)  
+  
+BRAZ - (Brazil)
+
+  
+
+PI0822577-0
+
+  
+
+04/15/2008
+
+  
+
+08/15/2017
+
+  
+
+G - (Granted)  
+  
+CHIL - (Chile)
+
+  
+
+01145-2010
+
+  
+
+10/19/2010
+
+  
+
+01/05/2017
+
+  
+
+G - (Granted)  
+  
+MONG - (Mongolia)
+
+  
+
+4510
+
+  
+
+04/15/2008
+
+  
+
+10/25/2010
+
+  
+
+G - (Granted)  
+  
+CHIN - (China P.R.)
+
+  
+
+201110142494.3
+
+  
+
+11/02/2000
+
+  
+
+10/14/2015
+
+  
+
+G - (Granted)  
+  
+HONG - (Hong Kong)
+
+  
+
+11110274.3
+
+  
+
+09/29/2011
+
+  
+
+08/15/2014
+
+  
+
+G - (Granted)  
+  
+7
+
+* * *
+HONG - (Hong Kong)
+
+  
+
+12102379.3
+
+  
+
+03/08/2012
+
+  
+
+10/21/2016
+
+  
+
+G - (Granted)  
+  
+--- --- --- --- ---  
+  
+EPC - (European Patent Convention)
+
+  
+
+13153292.1
+
+  
+
+01/30/2013
+
+  
+
+  
+
+F - (Pending)  
+  
+ALBA - (Albania)
+
+  
+
+AL//P/2013/0342
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+ATRA - (Austria)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+CYPR - (Cyprus)
+
+  
+
+CY20131101169
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+GERM - (Germany)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+SPAI - (Spain)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+GBRI - (Great Britain)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+GREC - (Greece)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+IREL - (Ireland)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+ITAL - (Italy)
+
+  
+
+502013902221416
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+LATV - (Latvia)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+MACE - (Macedonia)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+PORT - (Portugal)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+ROMA - (Romania)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+SWED - (Sweden)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+SLOV - (Slovenia)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+TURK - (Turkey)
+
+  
+
+00992027.3
+
+  
+
+11/02/2000
+
+  
+
+10/02/2013
+
+  
+
+G - (Granted)  
+  
+USA - (United States)
+
+  
+
+14/282,558
+
+  
+
+05/20/2014
+
+  
+
+10/25/2016
+
+  
+
+G - (Granted)  
+  
+EPC - (European Patent Convention)
+
+  
+
+12845210.9
+
+  
+
+09/07/2012
+
+  
+
+  
+
+F - (Pending)  
+  
+EURA - (Eurasian Patent Convention)
+
+  
+
+201490565
+
+  
+
+09/07/2012
+
+  
+
+07/31/2017
+
+  
+
+G - (Granted)  
+  
+ASTL - (Australia)
+
+  
+
+2012333101
+
+  
+
+09/07/2012
+
+  
+
+10/27/2016
+
+  
+
+G - (Granted)  
+  
+CANA - (Canada)
+
+  
+
+2,848,068
+
+  
+
+09/07/2012
+
+  
+
+  
+
+F - (Pending)  
+  
+INDI - (India)
+
+  
+
+1722/DELNP/2014
+
+  
+
+09/07/2012
+
+  
+
+  
+
+F - (Pending)  
+  
+PHIL - (Philippines)
+
+  
+
+1-2014-500512
+
+  
+
+09/07/2012
+
+  
+
+09/16/2019
+
+  
+
+G - (Granted)  
+  
+USA - (United States)
+
+  
+
+14/343,568
+
+  
+
+09/07/2011
+
+  
+
+12/31/2019
+
+  
+
+G - (Granted)  
+  
+SAFR - (South Africa)
+
+  
+
+2014/02154
+
+  
+
+09/07/2012
+
+  
+
+06/28/2017
+
+  
+
+G - (Granted)  
+  
+COLO - (Colombia)
+
+  
+
+14068729
+
+  
+
+09/07/2012
+
+  
+
+11/23/2015
+
+  
+
+G - (Granted)  
+  
+MEXI - (Mexico)
+
+  
+
+MX/a/2014/002717
+
+  
+
+09/07/2012
+
+  
+
+10/18/2018
+
+  
+
+G - (Granted)  
+  
+PANA - (Panama)
+
+  
+
+90134-01
+
+  
+
+09/07/2012
+
+  
+
+  
+
+F - (Pending)  
+  
+JAPA - (Japan)
+
+  
+
+2014-529896
+
+  
+
+09/07/2012
+
+  
+
+12/05/2017
+
+  
+
+G - (Granted)  
+  
+KORS - (Republic of Korea)
+
+  
+
+10-2014-7008281
+
+  
+
+09/07/2012
+
+  
+
+4/05/2019
+
+  
+
+G - (Granted)  
+  
+INDO - (Indonesia)
+
+  
+
+P00201401962
+
+  
+
+09/07/2012
+
+  
+
+10/30/2019
+
+  
+
+G - (Granted)  
+  
+MONG - (Mongolia)
+
+  
+
+5304
+
+  
+
+03/25/2014
+
+  
+
+04/09/2015
+
+  
+
+G - (Granted)  
+  
+MAYS - (Malaysia)
+
+  
+
+PI2014000646
+
+  
+
+09/07/2012
+
+  
+
+  
+
+F - (Pending)  
+  
+SRIL - (Sri Lanka)
+
+  
+
+17613
+
+  
+
+09/07/2012
+
+  
+
+02/26/2015
+
+  
+
+G - (Granted)  
+  
+AU – (Australia)
+
+  
+
+2018282423
+
+  
+
+12/20/2018
+
+  
+
+  
+
+F - (Pending)  
+  
+HONG - (Hong Kong)
+
+  
+
+15100135.9
+
+  
+
+01/07/2015
+
+  
+
+08/15/2019
+
+  
+
+G - (Granted)  
+  
+ASTL - (Australia)
+
+  
+
+2015202493
+
+  
+
+05/08/2015
+
+  
+
+09/14/2017
+
+  
+
+G - (Granted)  
+  
+USA - (United States)
+
+  
+
+14/891,893
+
+  
+
+05/30/2014
+
+  
+
+  
+
+F - (Pending)  
+  
+ASTL - (Australia)
+
+  
+
+2014273996
+
+  
+
+05/30/2014
+
+  
+
+02/14/2019
+
+  
+
+G - (Granted)  
+  
+CANA - (Canada)
+
+  
+
+2,912,824
+
+  
+
+05/30/2014
+
+  
+
+07/20/2021
+
+  
+
+G - (Granted)  
+  
+CHIN - (China P.R.)
+
+  
+
+201480030985.0
+
+  
+
+05/30/2014
+
+  
+
+  
+
+F - (Pending)  
+  
+8
+
+* * *
+COLO - (Colombia)
+
+  
+
+15-304594
+
+  
+
+05/30/2014
+
+  
+
+  
+
+F - (Pending)  
+  
+--- --- --- --- ---  
+  
+EPC - (European Patent Convention)
+
+  
+
+14803703.9
+
+  
+
+05/30/2014
+
+  
+
+  
+
+F - (Pending)  
+  
+HONG - (Hong Kong)
+
+  
+
+16112584.9
+
+  
+
+11/02/2016
+
+  
+
+  
+
+F - (Pending)  
+  
+INDI - (India)
+
+  
+
+11109/DELNP/2015
+
+  
+
+05/30/2014
+
+  
+
+  
+
+F - (Pending)  
+  
+INDO - (Indonesia)
+
+  
+
+P00201508659
+
+  
+
+05/30/2014
+
+  
+
+10/30/2019
+
+  
+
+G - (Granted)  
+  
+JAPA - (Japan)
+
+  
+
+2016-517043
+
+  
+
+05/30/2014
+
+  
+
+11/30/2018
+
+  
+
+G - (Granted)  
+  
+NEWZ - (New Zealand)
+
+  
+
+714208
+
+  
+
+05/30/2014
+
+  
+
+10/01/2019
+
+  
+
+G - (Granted)  
+  
+RUSS - (Russian Federation)
+
+  
+
+2015155730
+
+  
+
+05/30/2014
+
+  
+
+04/10/2018
+
+  
+
+G - (Granted)  
+  
+SAFR - (South Africa)
+
+  
+
+2015/08515
+
+  
+
+05/30/2014
+
+  
+
+01/29/2021
+
+  
+
+G - (Granted)  
+  
+KORS - (Republic of Korea)
+
+  
+
+10-2015-7037018
+
+  
+
+05/30/2014
+
+  
+
+  
+
+G - (Granted)  
+  
+CHIN - (China P.R.)
+
+  
+
+201610015312.9
+
+  
+
+01/11/2016
+
+  
+
+04/10/2018
+
+  
+
+G - (Granted)  
+  
+INDI - (India)
+
+  
+
+201618002729
+
+  
+
+01/25/2016
+
+  
+
+  
+
+F - (Pending)  
+  
+USA - (United States)
+
+  
+
+15/297,210
+
+  
+
+10/19/2016
+
+  
+
+  
+
+F - (Pending)  
+  
+HONG - (Hong Kong)
+
+  
+
+16113567.8
+
+  
+
+11/29/2016
+
+  
+
+  
+
+F - (Pending)  
+  
+Governmental Regulations
+
+Environmental Regulation Affecting our Potential Market
+
+We believe that under the Biden administration legislation and regulations will have a negative impact on fossil fuel-fired, and specifically coal-fired, power generating facilities nationally and internationally. According to the U.S. Environmental Protection Agency, or EPA, power generation emits substantial levels of sulfur dioxide, nitrogen oxides, mercury and carbon dioxide into the environment. Regulation of these emissions affected the potential market for coal processed using our technology by imposing limits and caps on fossil fuel emissions. The most significant, existing national legislation and regulations affecting our potential market include the Clean Air Act, the Clean Air Interstate Rule and the Clean Air Mercury Rule, which are described further below.
+
+Environmental Regulation Affecting the Construction and Operation of Plants Using our Technology
+
+In the United States, future production plants using our technology will require numerous permits, approvals and certificates from appropriate federal, state and local governmental agencies before construction of each facility can begin and will be required to comply with applicable environmental laws and regulations (including obtaining operating permits) once facilities begin production. The most significant types of permits that are typically required for commercial production facilities include an operating and construction permit under the Clean Air Act, a wastewater discharge permit under the Clean Water Act, and a treatment, storage and disposal permit under the Resource Conservation and Recovery Act. Some federal programs have delegated regulatory authority to the states and, as a result, facilities may be required to secure state permits. Finally, the construction of new facilities may require review under the National Environmental Policy Act, or a state equivalent, which requires analysis of environmental impacts and, potentially, the implementation of measures to avoid or minimize these environmental impacts. We are working closely with Wyoming to assess all permitting requirements.
+
+Any international plants will also be subject to various permitting and operational regulations specific to each country. International initiatives, such as the Kyoto Protocol/Copenhagen Accord, are expected to create increasing pressures on the electric power generation industry on a world-wide basis to reduce emissions of various pollutants, which management expects will create additional demand for our technology.
+
+Research and Development
+
+In association with our engineering consultants and the University of Wyoming we have identified a number of changes to the original test facility. While our budget does not currently allow us to allocate a specific funding for Research and Development (“R&D”), we will incorporate these changes to the assembly of the second generation test facility in Wyoming in the third quarter of 2023 During 2011 we invented the new Pristine M technology which following its successful testing in 2016 and 2017 we believe has already put us at the forefront of the global moisture removal technologies. The second generation test facility is expected to enable the extraction of coal by-products and potentially Rare Earth Minerals for testing and research in partnership with the University of Wyoming.
+
+9
+
+* * *
+In the future, we anticipate a growing R&D budget that seeks to fully develop the potential of our three main processes. We will continue to evaluate our progress in new and existing technologies and will seek to fund additional needs as they arise.
+
+Employees
+
+As of December 31, 2022, we had two full-time executives, President and CEO Robin Eves, Chief Operations Officer and Chief Financial Officer, Aiden Neary, who both have written employment agreements. Messrs. Eves and Neary received no compensation for their participation on the Board of Directors.
+
+The terms of the agreements described above were negotiated by and between the individuals and our Board of Directors based on the qualifications and requirements of each individual and the needs of the Company; however, the negotiations may not be deemed to have been at arm’s length.
+
+10
+
+* * *
+ITEM 1A. RISK FACTORS

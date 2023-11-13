@@ -1,0 +1,346 @@
+PART I
+
+Item 1. Business.
+
+Overview
+
+Ceridian is a global human capital management (“HCM”) software company. Dayforce, our flagship Cloud HCM platform, provides human resources (“HR”), payroll, benefits, workforce management, and talent intelligence functionality. In addition to Dayforce, we sell Powerpay, a Cloud HR and payroll solution for the Canadian small business market, through both direct sales and established partner channels. We also continue to support customers using our legacy North America Bureau solutions, which we generally stopped actively selling to new customers following the acquisition of Dayforce, and customers using our acquired Bureau solutions in the Asia Pacific Japan ("APJ") region. We invest in maintenance and necessary updates to support our Bureau customers and continue to migrate them to Dayforce. Revenue from our Cloud and Bureau solutions include investment income generated from holding customer funds before funds are remitted to taxing authorities, also referred to as float revenue or float.
+
+Our five strategic growth levers drive our long-term perspectives, near-term decision making and stockholder alignment:
+
+•
+
+Acquiring new customers in the markets where we have seen success to-date;
+
+•
+
+Extending the Dayforce platform, thereby allowing us to deliver more value to our current and prospective customers; 
+
+•
+
+Expanding within the Enterprise segment;
+
+•
+
+Accelerating our global expansion both by serving local customers in new geographies, and by extending our scope to service global multinational customers; and finally,
+
+•
+
+Driving incremental value for our customers by innovating in adjacent markets around our core HCM suite, such as the Dayforce Wallet. 
+
+Products and Services
+
+Dayforce
+
+Dayforce, our principal Cloud HCM platform, is a single application that provides continuous real-time calculations across all modules to enable, for example, payroll administrators access to data through the entire pay period, and managers access to real-time data to optimize work schedules. Dayforce offers a comprehensive range of functionality, including global HR, payroll and tax, workforce management, benefits, and talent intelligence on web and native iOS and Android platforms. Our Dayforce mobile app enables employees not only to request and to trade schedules, but also to see the real-time impact of schedule changes on their pay. Our Dayforce platform is used by organizations, regardless of industry or size, to optimize management of the entire employee lifecycle, including attracting, engaging, paying, deploying, and developing their people. In 2022, we received several accolades for our Dayforce solution, including being named as a Leader in the 2022 Gartner Magic Quadrant™ for Cloud HCM Suites for 1,000+ Employee Enterprises for the third consecutive year; Leader in Nucleus Research’s 2022 Human Capital Management Value Matrix and 2022 Workforce Management Technology Value Matrix; Leader in the Human Capital Management – Enterprise Data Quadrant by SoftwareReviews; and Canadian HR Reporter’s 5-Star Software and Technology Provider for 2022.
+
+Human Resources
+
+Dayforce Human Resources functionality provides customers with a single, complete record for all employees. Our HR functionality is centered on a comprehensive, flexible workflow engine that streamlines and automates administrative tasks. The component maintains a record of critical forms for the employee, such as signed workplace policy agreements, Occupational Safety and Health Administration regulations, and direct deposit information.
+
+In addition to its primary record-keeping functionality, Dayforce HR comes with an organizational management system that allows managers to view the profiles of their team members, which includes contact and time off details, as well as pay, benefits, and performance data. It is also accessible to employees, who can view the organizational chart, appropriate information about other employees in the organization, and their own pay and time details. There are several self-service options available in the product as well, such as change of address or adding a dependent, making it easy for employees to keep their profiles up to date.
+
+3   ![img214278449_2.jpg](img214278449_2.jpg) 2022 Form 10-K
+
+* * *
+Payroll and Tax
+
+Dayforce empowers employers to manage their global payroll needs within a single system. Through our Dayforce platform, users with localized payroll functionality are able to make updates to time and pay in real-time. Dayforce supports payroll in over 160 countries around the world, whilst providing employers with a centralized global view of their payroll data. This global payroll model is powered by a combination of Ceridian-owned and partner unified payroll engines with an automated data exchange that affords users and administrators to have a consistent, intuitive single user experience. As of December 31, 2022, native payroll was available in eight countries (United States, Canada, United Kingdom, Ireland, Australia, New Zealand, Mauritius, and Singapore), where Dayforce’s continuous calculation engine offers flexibility, accuracy, and efficiency in the payroll process. In these native markets, we also manage the movement and remittance of taxes to federal and local tax authorities on behalf of our customers. With a flexible rules-based configuration, and regional partnerships, Dayforce helps organizations with regulation and compliance concerns regardless of where employees work or live. We are continuing to innovate and expand into new markets to enhance the customer experience for large enterprises operating globally.
+
+Workforce Management
+
+Dayforce Workforce Management provides functionality to help organizations to equitably manage their workforces, improve operational efficiency, and enhance compliance by configuring the system to meet complex employment and working time rules and policies. Through Dayforce, users are offered time and attendance, absence management, scheduling, task management, and labor planning. A variety of options are available for organizations to capture time and attendance data such as physical clocks and the mobile app.
+
+Dayforce Wallet
+
+Dayforce Wallet is a digital payment solution for customers using Dayforce Payroll. A benefactor of Dayforce’s continuous calculation engine, Dayforce Wallet offers employees on-demand access to their earned pay anytime, anywhere, in an intuitive mobile app experience. Rather than a plug-in or integration, Dayforce Wallet and Dayforce Payroll leverage the same underlying technology and system of record, providing real-time payroll accuracy. All on-demand payments are processed as regular pay runs and account for the appropriate taxes, deductions and garnishments in real-time, meaning there’s minimal impact to payroll administrators and no change to the employer’s cash flow.
+
+Dayforce Wallet is designed to empower employees with greater financial flexibility and choice. The solution can be used for regular payroll, off-cycle payments, as a pay-card solution, and for on-demand pay. The Dayforce Wallet app allows employees to make any day payday by tracking their earned pay in real-time and requesting a payout of all or a portion of their earnings from the pay period. The app also allows employees to transfer funds to other financial institutions, manage and pay bills, leverage cashback rewards, and view their transaction history. As a fee-free means of bridging the gap between paydays, Dayforce Wallet offers an effective alternative to cash advances, high-interest credit cards, and payday loans, helping reduce employees’ financial stress and drive employee engagement.
+
+Dayforce Wallet was launched in the U.S. in 2020, in Canada in 2021, and in the United Kingdom in 2022. We continue to introduce new features and enhancements (which vary by country/region) to the Dayforce Wallet, such as Dayforce Wallet Rewards, referrals, and access for workers aged 14-17 years old to use the Dayforce Wallet with parental consent. We believe these features will enhance our Dayforce Wallet consumer experience and help bring greater financial flexibility and control to even more employees through Dayforce.
+
+Benefits
+
+Dayforce Benefits assists users from enrollment to ongoing benefits administration, including eligibility, open enrollment and Affordable Care Act ("ACA") management. Our proprietary Benefits Decision Support scoring system guides employees through a self-service experience, giving information about each of the available benefit plans and the impact of plan options, to help them choose the best option for their specific needs.
+
+The system integrates with hundreds of benefits carriers, contains a library of qualifiers to help define eligibility rules, and leverages real-time connections to payroll and HR to inform eligibility and calculate employee deductions. In addition, we offer Benefits Intelligence, which leverages enrollment data to get visibility into elections at the plan and option levels to help administrators analyze their program.
+
+4   ![img214278449_2.jpg](img214278449_2.jpg) 2022 Form 10-K
+
+* * *
+Talent Intelligence
+
+Dayforce Talent Intelligence, a suite of next generation talent acquisition and talent management solutions powered by Artificial Intelligence (“AI”) and driven by data, helps organizations recruit, retain, and reskill their workforce. Talent Intelligence transforms talent management and recruitment strategies by using AI in conjunction with talent data from across the employee lifecycle to provide organizations insights that enable them to make more efficient, accurate, and fair talent decisions. Talent Intelligence can also objectively measure workforce demographics while identifying inequity in everything from payroll to promotion opportunities to help employers create actionable policy changes. Users can leverage Talent Intelligence tools for recruiting, onboarding, engagement, performance management, succession planning, compensation management, and employee career planning and skills development.
+
+Powerpay
+
+We offer Powerpay for Canadian organizations with fewer than 100 employees. Powerpay is a Cloud platform that provides scalable and straightforward payroll and HR solutions. Specifically designed for small businesses, Powerpay enables clients to pay their employees accurately and on-time.
+
+Bureau
+
+Our Bureau solutions offer payroll and payroll-related services using legacy technology and on-premise technology from our acquired businesses. We invest in maintenance and necessary updates to support our Bureau customers. We generally stopped selling our legacy North America Bureau payroll solutions to new customers in the United States in 2012, and in Canada in 2015, and we also intend to stop actively selling our acquired Bureau payroll solutions to new customers on a stand-alone basis. In addition to customers who use our payroll services, certain customers use our legacy Bureau tax filing services on a stand-alone basis; and in 2019 we started to sell stand-alone legacy Bureau tax services again as well as begin the process of modernizing the technology platforms used to provide those services. Beginning in 2023, with the technology migration complete, we will begin classifying recurring revenues from stand-alone tax customers as Dayforce revenue on a go-forward basis.
+
+Customers
+
+Dayforce is designed to serve organizations with 100 to over 100,000 employees. The Dayforce customer base has increased from 482 as of December 31, 2012 to 5,993 customers* on the platform as of December 31, 2022. For 2022, our 5,993 Dayforce customers* represented approximately 5.9 million global employees*. We define a customer as a single organization, such as a company, a non-profit association, an educational institution, or government entity. We also have approximately 38,500 Powerpay customer accounts. No single customer accounted for more than 10% of our revenues during the year ended December 31, 2022.
+
+Sales and Marketing
+
+We sell our Cloud solutions through a direct sales force and a variety of third-party channels, organized by customer size and geography. We market Dayforce to organizations with more than 100 employees. We market Powerpay to organizations with fewer than 100 employees in Canada. The majority of our revenue growth comes from new Cloud customers.
+
+Services and Support
+
+We offer a broad portfolio of services aimed to ensure customer success. We believe it’s important to work closely with our customers to understand their needs and deliver technology solutions and support that address them. We continue to increase our global reach in supporting and serving our customers. As part of our international strategy, we work with partners to perform services in certain geographies where we do not currently have international operations or the particular service required by our customers.
+
+* Excluding the 2021 acquisitions of Ascender and ADAM HCM
+
+5   ![img214278449_2.jpg](img214278449_2.jpg) 2022 Form 10-K
+
+* * *
+Implementation and Professional Services
+
+Our internal implementation team leverages proprietary onboarding technology for new customer activation and professional services work. Our internal team is supplemented by third party services partners and system integration partners (“SI”). Our implementation services include solution configuration and activation for new customers. Professional services include add-on implementation services for existing customers, ongoing product configuration changes when the customer does not have the resources to do it themselves, product usage consulting and a variety of additional services, such as report writing, usage audits, and process improvement.
+
+Customer Support
+
+Our global customer support organization provides 24/7 application support from locations across North America and in the United Kingdom, Mauritius, Australia, Singapore, Philippines, and India. Our support function is organized into teams of representatives with deep domain expertise across our platform. These teams are aligned to groups of customers based on geography, product type, and client vertical to provide a combination of deep product and industry knowledge, consistent relationships, and high availability.
+
+Technology, Hosting, and Research and Development (“R&D”)
+
+Technology and innovation are at the core of Ceridian. Our innovation and development process is customer-driven. We work directly with customers to understand their needs and to deliver solutions that address their challenges, taking into consideration the entire user experience, without being constrained by individual modules or applications. We are committed to protecting our customer information, along with our employee and contractor information and other business data.
+
+Our R&D team is responsible for the design, development, and testing of our applications. We believe that our modern Cloud technology stack, agile design and development methodology, and efficient software deployment process enable us to innovate quickly in response to industry trends. We host Cloud-based applications and serve the majority of our customers from data centers operated by third party providers, primarily Microsoft Azure, AWS, VMWare Cloud on AWS, and Navisite. While we control and have access to our servers and all of the components of our network that are located in our external data centers, we do not control the operation of these facilities. Additionally, we host our internal systems through data centers that we operate and lease in the United States and APJ.
+
+Intellectual Property
+
+Our success depends, in part, on our ability to protect our proprietary technology and intellectual property. We rely on a combination of patents, copyrights, trade secrets, and trademarks, as well as confidentiality and nondisclosure agreements and other contractual protections, to establish and to safeguard our intellectual property rights.
+
+Competition
+
+The market for HCM technology solutions is highly competitive and subject to changing technology and shifting client needs. We compete with firms that provide both integrated and point solutions for HCM, as well as with local providers in each jurisdiction that we operate. Globally, we compete with legacy payroll service providers, as well as Cloud-enabled client-server HCM providers. We also face competition from modern HCM providers, whose solutions have been specifically built as single application platforms in the Cloud. In addition, we face competition from large, long-established enterprise application software vendors.
+
+Competition in the global HCM market is primarily based on product and service quality, including ease of use and accessibility of technology, breadth of offerings, reputation, and price. We believe that we are competitive in each of these areas and that our single application always-on technology and product innovations, combined with our commitment to service and our geographic reach, distinguishes us from our competitors.
+
+6   ![img214278449_2.jpg](img214278449_2.jpg) 2022 Form 10-K
+
+* * *
+Seasonality
+
+We have in the past and expect in the future to experience seasonal fluctuations in our revenues and new customer contracts with the fourth quarter historically being our strongest quarter for new customer contracts, renewals, and customer go-lives. Although the growth of our Cloud solutions and the ratable nature of our fees makes this seasonality less apparent in our overall results of operations, we expect our revenue to fluctuate quarterly and to be higher in the fourth and first quarters of each year. Fourth quarter revenue is driven by year-end processing fees and Dayforce customer go-lives; and first quarter revenue is driven by revenue earned for printing of year-end tax packages.
+
+Environmental, Social, and Governance ("ESG") and Human Capital
+
+At Ceridian, we believe that transparency and accountability are essential to any company’s success. Our ESG and Human Capital approach is guided by five pillars: Governance and Trust; Our People; Tech for Good; Our Communities; and the Environment.
+
+Governance and Trust
+
+We safeguard the trust given to us by our partners, our customers, and their employees. That means upholding the highest standards of corporate governance and ethics, ensuring customer data is protected, and developing products that are reliable and effective.
+
+Our People
+
+As of December 31, 2022, we had 8,526 employees, including 4,436 in North America, 2,547 in APJ, and 1,543 in Europe, the Middle East, and Africa ("EMEA"). We provide a wide range of compensation and benefits to our employees which enhance the workplace experience and drive our Makes Work Life Better™ brand. In addition to salaries, these benefits (which vary by country/region) include annual bonuses, equity awards, a global employee stock purchase program, retirement savings plans, healthcare and insurance benefits, fertility and family building benefits, health savings and flexible savings spending accounts, unlimited time away from work, parental leave, flexible and remote work options, employee assistance programs, and tuition reimbursement.
+
+Promoting diversity, equity and inclusion ("DEI") within our workforce is also a priority for Ceridian. We have a company-wide employee Global Diversity Advisory Council, and we provide funding to our nine inclusive-building employee resource YOUnity groups. In 2022, we also launched a new Achieving Corporate Equity program that empowers high-potential talent from underrepresented or underserved communities to rise within our organization. As of December 31, 2022, women represent approximately 49% of our global workforce, including approximately 44% of employees in manager-level roles and above, and approximately 38% in vice president-level roles and above. At Ceridian, in the United States, approximately 12% of our workforce is Black or African American, 15% is Asian, 6% is Hispanic or Latino, 2% is multiracial, less than 1% is Native Hawaiian or Pacific Islander, American Indian or Alaska Native, and approximately 62% is White. In the United States, people of color represent approximately 26% of employees in manager-level roles and above, and approximately 28% of employees in vice president-level roles and above.
+
+The health, safety, and wellbeing of our employees is of paramount importance to us. In 2022, we hosted our first-ever global Mental Health Summit and offered two paid wellness days to all employees. We also expanded access to a platform that provides digital and in-person solutions that help support overall wellbeing to all employees. We developed a new emergency communications system to ensure connectivity and support for our employees both during and after natural disasters and other dangerous events. We ensure that all necessary policies and procedures are in place at our facilities to protect employee health and safety, which includes those for vaccination, testing, masking, and physical distancing that conform to COVID-19 government requirements.
+
+We are committed to providing meaningful learning and leadership development opportunities to our workforce. In 2022, nearly 200,000 hours of in-person trainings, digital learning, and webinars related to leadership and learning development topics were completed by over 95% of our employees. We also continued the global expansion of our professional skills curriculum courses for all employees and leadership development programming.
+
+7   ![img214278449_2.jpg](img214278449_2.jpg) 2022 Form 10-K
+
+* * *
+Tech for Good
+
+We believe that Tech for Good and responsible innovation can have a positive impact on all stakeholders. In 2022, we published our AI Ethics Principles, which will inform our management philosophy, guide our approach to product development, and provide our customers and partners with a framework that enables feedback and reflects our commitment to trust. Our Dayforce Wallet product provides individuals with on-demand access to their earned pay, which enables them to better cover both everyday expenses as well as urgent or unplanned costs. Our Dayforce Engagement product’s Inclusivity Survey provides organizations with actionable inclusivity data to ensure their efforts to make progress on DEI are successful.
+
+Our Communities
+
+We are committed to giving back to the communities in which we live and work. Through our employee-led charity, Ceridian Cares, we provide financial support to individuals and families struggling with basic needs and quality of life. In 2022, the organization granted over $1 million to people in need across the United States and Canada, reaching the exciting milestone of over $5 million in grants given to over 3,500 people since inception. Additionally, Ceridian and our employees donated a combined total of nearly $1 million to the Ceridian Cares Foundation and hundreds of other nonprofits around the world in 2022. We supported over 700 non-profits globally and contributed more than 5,000 volunteer hours to projects on five continents.
+
+Environment
+
+We are actively working to reduce our Scope 1 and 2 emissions. This includes our ongoing efforts to consolidate our physical footprint globally to meet the needs of an increasingly virtual-first era.
+
+We encourage you to review our Ceridian ESG Report for more detailed information which can be found on our website at https://www.ceridian.com/company/corporate/corporateresponsibility. In addition, past ESG reports, our Task Force on Climate-related Financial Disclosures Index, SASB Index, consolidated EEO-1 report, and ESG-related policies and principles can be found here. Our website and the information contained on, or that can be accessed through, the website is not deemed to be incorporated by reference into, and is not considered part of, this Form 10-K.
+
+Available Information
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy and information statements, Section 16 reports, and amendments to reports and any registration statements filed or furnished pursuant to Sections 13(a), 14 and 15(d) of the Exchange Act are available, free of charge at http://investors.ceridian.com as soon as reasonably practicable after we file such material with, or furnish it to, the Securities and Exchange Commission (“SEC”), and are also available on the SEC’s website at http://www.sec.gov.
+
+Our fourth amended and restated certificate of incorporation, our second amended and restated bylaws, charters of our Acquisition and Finance, Audit, Compensation, and Corporate Governance and Nominating Committees of our Board of Directors (our “Board”), our Corporate Governance Guidelines, and our Code of Conduct, as well as any waivers from and amendments to our Code of Conduct are available on our website at https://investors.ceridian.com/corporate-governance/governance-documents. Our website and the information contained on, or that can be accessed through, the website is not deemed to be incorporated by reference into, and is not considered part of, this Form 10-K.
+
+8   ![img214278449_2.jpg](img214278449_2.jpg) 2022 Form 10-K
+
+* * *
+Executive Officers
+
+Our executive officers as of March 1, 2023 are as follows:
+
+             
+--- --- --- --- ---  
+  
+Name
+
+  
+
+  
+
+Age
+
+  
+
+  
+
+Position  
+  
+David D. Ossip
+
+  
+
+  
+
+56
+
+  
+
+  
+
+Chair and Co-Chief Executive Officer  
+  
+Leagh E. Turner
+
+  
+
+  
+
+51
+
+  
+
+  
+
+Co-Chief Executive Officer  
+  
+Christopher R. Armstrong
+
+  
+
+  
+
+54
+
+  
+
+  
+
+Executive Vice President and Chief Operating Officer  
+  
+Noémie C. Heuland
+
+  
+
+  
+
+45
+
+  
+
+  
+
+Executive Vice President and Chief Financial Officer  
+  
+Stephen H. Holdridge
+
+  
+
+  
+
+62
+
+  
+
+  
+
+President, Customer and Revenue Operations  
+  
+Jeffrey S. Jacobs
+
+  
+
+  
+
+47
+
+  
+
+  
+
+Head of Accounting and Financial Reporting  
+  
+Joseph B. Korngiebel
+
+  
+
+  
+
+52
+
+  
+
+  
+
+Executive Vice President, Chief Product and Technology Officer  
+  
+William E. McDonald
+
+  
+
+  
+
+58
+
+  
+
+  
+
+Executive Vice President, General Counsel and Corporate Secretary  
+  
+David D. Ossip
+
+Mr. Ossip is our Chair and Co-Chief Executive Officer. Mr. Ossip has held the position of Chair since August 2015 and Co-Chief Executive Officer since February 2022. Mr. Ossip has served as Chief Executive Officer from July 2013 until February 2022. Mr. Ossip joined the Company following the Company’s acquisition of Dayforce Corporation in 2012, where he held the position of Chief Executive Officer. Mr. Ossip serves as a director of Dragoneer Growth Opportunities Corp. III, a NASDAQ listed special acquisition company. Mr. Ossip previously served as a director for Dragoneer Growth Opportunities Corp, a NYSE listed company, and Dragoneer Growth Opportunities Corp II, a NASDAQ listed company.
+
+Leagh E. Turner
+
+Ms. Turner is our Co-Chief Executive Officer since February 2022 and has been a member of our Board of Directors since February 2022. Ms. Turner joined Ceridian in 2018, serving as President from August 2018 until February 2022 and Chief Operating Officer from February 2020 until February 2022. Prior to joining Ceridian, Ms. Turner held the position of global Chief Operating Officer, strategic customer program of SAP, an enterprise software and programming company, from October 2016 to August 2018. Ms. Turner is a member of the board of directors for Manulife Financial Corporation, a NYSE listed company.
+
+Christopher R. Armstrong
+
+Mr. Armstrong is our Executive Vice President, Chief Operating Officer, a position he has held since February 2022. Mr. Armstrong joined Ceridian in 2004, and since then has held several commercial and operational leadership roles, including Executive Vice President, Chief Customer Officer from February 2020 until February 2022, Executive Vice President, Chief Operating Officer from May 2019 until February 2020, Executive Vice President, Operations from March 2018 until May 2019, and Executive Vice President, Customer Support from April 2016 until March 2018.
+
+Noémie C. Heuland
+
+Ms. Heuland is our Executive Vice President and Chief Financial Officer, positions she has held since October 2020. Prior to joining the Company, Ms. Heuland held the position of Senior Vice President, Chief Financial Officer of SAP Latin America and Caribbean region since April 2018. In addition, Ms. Heuland held the positions of Vice President, Chief Financial Officer of SAP Latin America and Caribbean North and South from April 2015 to March 2018. Ms. Heuland is a certified public accountant.
+
+Stephen H. Holdridge
+
+Mr. Holdridge is our President, Customer and Revenue Operations since February 2023. Mr. Holdridge joined Ceridian in January 2020, serving as Global Head of Services until February 2022 and Executive Vice President, Chief Customer Officer from February 2022 until February 2023. Prior to joining the Company, Mr. Holdridge held the position of Senior Executive Vice President, Worldwide Services at MicroStrategy, Inc. from November 2017 until July 2019.
+
+9   ![img214278449_2.jpg](img214278449_2.jpg) 2022 Form 10-K
+
+* * *
+Jeffrey S. Jacobs
+
+Mr. Jacobs is our Head of Accounting and Financial Reporting and serves as the principal accounting officer, positions he has held since May 2020. Mr. Jacobs served as our Vice President, Finance from December 2016 until May 2020. Mr. Jacobs is a certified public accountant (inactive).
+
+Joseph B. Korngiebel
+
+Mr. Korngiebel is our Executive Vice President, Chief Product and Technology Officer, positions he has held since August 2020. Prior to joining the Company, Mr. Korngiebel held various positions at Workday, Inc. since March 2006, including Chief Technology Officer from May 2017 until July 2020.
+
+William E. McDonald
+
+Mr. McDonald is our Executive Vice President and General Counsel, positions he has held since July 2021, and Corporate Secretary, a position he has held since February 2016. Mr. McDonald served as Senior Vice President, Deputy General Counsel from February 2016 until July 2021.
+
+10   ![img214278449_2.jpg](img214278449_2.jpg) 2022 Form 10-K
+
+* * *
+Item 1A. Risk Factors.

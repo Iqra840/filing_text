@@ -1,0 +1,1303 @@
+Item 1A. 
+
+  
+
+Risk Factors  
+  
+--- ---  
+  
+Investing in our common stock involves a high degree of risk. You should carefully consider the following material risks, together with the other matters described in this Annual Report and in our financial statements and the related notes thereto in evaluating our current business and future performance. We cannot assure you that any of the events discussed in the risk factors below will or will not occur. If we are not able to successfully address any of the following risks, we could experience significant changes in our business, operations and financial performance. In such circumstances, the trading price of our common stock could decline, and in some cases, such declines could be significant, and you could lose part or all of your investment. In addition to the risks described below, other unforeseeable risks that we currently believe are immaterial may arise that adversely affect our operating results. Certain statements contained in this Annual Report (including certain statements used in the discussion of our risk factors) constitute forward-looking statements. Please refer to the section entitled “Cautionary Note Regarding Forward-Looking Statements” appearing on page 4 of this Annual Report for important information regarding reliance on forward-looking statements.
+
+Risk Factor Summary
+
+The following is a summary of the material risks to which we may be exposed. These risks are more fully described after this summary.
+
+Risks Related to Our Business and Financial Condition
+
+  
+
+●
+
+  
+
+We may not succeed in implementing our business strategy.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We have a history of net losses, and we may not achieve or maintain profitability.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We could fail to manage our growth.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Our revenue growth depends in part on market and regulatory acceptance of the C1-cell protein production platform and our other technologies to develop and manufacture animal and/or human biopharmaceutical products and non-pharmaceutical products.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We may fail to commercialize the C1-cell protein production platform or our other technologies for the expression of therapeutic proteins, antibodies, vaccines, and metabolites or other non-pharmaceutical biologic products.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+If our competitors develop technologies and products more quickly and market more effectively than our product candidates, our commercial opportunity will be reduced or eliminated.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Alternative technologies may not require microbial or other cell produced proteins, such as our proprietary C1 cells.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Our SARS-CoV-2 vaccine candidates are at the Phase 1 clinical stage and have not been approved for sale. We have not developed, manufactured or commercialized any vaccine product in the past, and we may be unable to produce a vaccine that can be used to successfully prevent the SARS-CoV-2 virus or its variants of concern, in a timely and economical manner, if at all.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+The results of nonclinical studies and early-stage clinical trials may not be predictive of future results.  
+  
+  
+
+●
+
+  
+
+We may need substantial additional capital in the future to fund our business.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Changes in global economic and financial markets may have a negative effect on our business.  
+  
+--- --- ---  
+  
+
+●
+
+  We face risks related to health epidemics, pandemics and other widespread outbreaks of contagious disease or other biological threats, as well as armed conflict escalated between Russia and Ukraine, any of which could significantly disrupt our operations and have a material adverse effect on our business, employees, directors, consultants, collaborators and other third parties, including business development activities and research and development projects conducted by third party contract research organizations parties.  
+--- --- ---  
+  
+
+●
+
+  
+
+Our sales and operations are subject to the risks of doing business internationally.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+If we lose key personnel, including key management or board members, or are unable to attract and retain additional personnel, it could delay our technology and product development programs and harm our R&D efforts, and we may be unable to pursue research funding, licenses and other forms of collaborations or develop our own products.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We may be sued for product liability.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Foreign currency fluctuations could adversely affect our results.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Our ability to use our net operating loss carryforwards to offset future taxable income may be subject to certain limitations.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We may make acquisitions, investments and strategic alliances that may use significant resources, result in disruptions to our business or distractions of our management, may not proceed as planned, and could expose us to unforeseen liabilities.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We rely significantly on information technology and any failure, inadequacy, interruption or security lapse of that technology, including any cybersecurity incidents, could harm our ability to operate our business effectively.  
+  
+--- --- ---  
+  
+Risks Related to Dependence on Third Parties
+
+  
+
+●
+
+  
+
+We are dependent on collaborations with third parties, and if we fail to maintain or successfully manage existing, or enter into new, strategic collaborations, we may not be able to develop and commercialize many of our technologies and products and achieve profitability.   
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We have limited or no control over the resources that any collaborator or licensee may devote to our programs, and reductions in collaborators’ R&D budgets may affect our businesses.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We heavily rely on contracts with third-party contract research organizations (“CROs”) and other third-party service providers to conduct our research and development, pre-clinical, CMC and cGMP manufacturing, fill and finish, and potential clinical trials, which may not be available to the Company on commercially reasonable terms or at all.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Conflicts with the CROs, other service providers, collaborators and/or licensees could harm our business.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We rely on our collaborators and other third parties to deliver timely and accurate information in order to accurately report our financial results as required by law.  
+  
+--- --- ---  
+  
+12 
+
+* * *
+
+Risks Related to Government Regulations and Environmental, Social, and Governance Issues
+
+  
+
+●
+
+  
+
+Potential future regulations limiting our ability to sell genetically engineered products could harm our business.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Public views on ethical and social issues may limit use of our technologies.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Our results of operations may be adversely affected by environmental, health and safety laws, regulations and liabilities.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Increasing scrutiny and changing expectations from customers, regulators, investors, and other stakeholders with respect to our environmental, social and governance practices may impose additional costs on us or expose us to new or additional risks.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We have no experience submitting applications to the FDA or similar regulatory authorities in the past and could be subject to lengthy and/or unfavorable regulatory proceedings.  
+  
+--- --- ---  
+  
+Risks Relating to Intellectual Property
+
+  
+
+●
+
+  Failure to protect our intellectual property and the intellectual property of certain third parties could harm our competitive position.  
+--- --- ---  
+  
+
+●
+
+  
+
+Litigation or other proceedings or third-party claims of intellectual property infringement could require us to spend significant time and resources and could prevent us and our collaborators from commercializing our or their technologies and products or negatively impact our stock price.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Confidentiality agreements with employees and others may not adequately prevent disclosures of trade secrets and other proprietary information.  
+  
+--- --- ---  
+  
+Risks Related to Our Common Stock
+
+  
+
+●
+
+  
+
+The price of our shares of common stock is likely to be volatile, and you could lose all or part of your investment.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Our quarterly and annual operating results may be volatile.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We do not expect to pay cash dividends in the future.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Our anti-takeover defense provisions may deter potential acquirers and depress our stock price.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Concentration of ownership among our existing officers, directors and principal stockholders may prevent other stockholders from influencing significant corporate decisions and depress our stock price.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Future issuances of shares of our common stock may negatively affect our stock price.  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+The Company is exposed to credit risk and fluctuations in the values of its investment portfolio.   
+  
+--- --- ---  
+  
+
+●
+
+  
+
+We are a smaller reporting company, and the reduced disclosure requirements applicable to smaller reporting companies may make our common stock less attractive to investors.  
+  
+--- --- ---  
+  
+Risks Related to Our Business and Financial Condition
+
+We may not succeed in implementing our business strategy.
+
+In connection with the December 31, 2015 sale of substantially all of the assets of our industrial technology business to Danisco (the “DuPont Transaction”), Danisco obtained certain rights to utilize the C1-cell protein production platform for development and production of pharmaceutical products, for which it will make royalty payments to Dyadic upon commercialization. At the same time, Dyadic retained the co-exclusive rights to the C1-cell protein production platform for use in all human and animal pharmaceutical applications, with Dyadic currently having the exclusive ability to enter into sub-license agreements in that field (subject to the terms of the license and certain exceptions). We cannot predict whether Danisco intends to or will pursue the use of the C1-cell protein production platform to develop or manufacture pharmaceutical products or whether or when we might receive royalties from Danisco. In certain circumstances, Dyadic may owe a royalty to either Danisco or certain licensors of Danisco, depending upon whether Dyadic elects to utilize certain patents owned or licensed by Danisco. Consequently, our business has changed dramatically as compared to the past, as we no longer have any product revenue related to our enzyme business. We also now apply the C1-cell protein production platform in the biopharmaceutical market, which has higher risks and a higher barrier to entry.
+
+13 
+
+* * *
+
+As we attempt to adapt the C1-cell protein production platform and our other technologies for use in the biopharmaceutical and other markets, our business is subject to the execution, integration, and research and development risks that early-stage companies customarily face with new technologies, products and markets. These risks relate to, among other things, our ability to successfully further develop the C1-cell protein production platform and our other technologies, products and processes, assemble and maintain adequate production and research and development (“R&D”) capabilities, comply with regulatory requirements, construct effective channels of distribution and manage growth. We have encountered and will continue to encounter risks and difficulties frequently experienced by early-stage companies in expanding and upgrading our intellectual property, regulatory, marketing, sales and R&D capabilities, improving our accounting and financial reporting and internal controls infrastructure, and adapting to the rapidly evolving industries in which we operate. Additionally, we are subject to competition from much larger companies with more resources than we have. Also, the market for developing and manufacturing pharmaceutical proteins produced from a filamentous fungus, such as the C1 fungus, is a market that is not yet established and is subject to a high level of regulatory hurdles from the U.S. Food and Drug Administration (the “FDA”) and other governmental bodies, and there is a risk that such technologies will not be adopted by the pharmaceutical industry or governmental agencies and therefore not succeed and/or not grow at the rates projected or at all.
+
+We have also developed the Dapibus™ filamentous fungal based microbial protein production platform use in non-pharmaceutical applications, such as food, nutrition, and wellness. 
+
+We have not yet commercialized any products based on our platforms and technologies, and we may never be able to do so.
+
+We do not know when or if we and/or our current and/or future collaborators and licensees will complete any of our or their product development efforts, obtain regulatory approval for any product candidates incorporating our technologies or successfully commercialize any approved products. Even if we and/or our licensees and collaborators are successful in developing products that are approved for marketing, we and they will still require that these products gain regulatory approval and market acceptance. The biopharmaceutical industry is a high-risk industry in that even if we are successful at expressing certain proteins, these proteins may fail to be advanced or approved for use or sale for many reasons including their characteristics, biological activity, biological comparability, biological similarity, stability, glycosylation structures, containments, purity, performance, safety and regulatory reasons.
+
+Because of the numerous risks and uncertainties associated with pharmaceutical product development, we are unable to predict the timing or amount of increased expenses or when, or if, we will be able to achieve certain technology, product and/or commercial milestones, access fees and royalties, launch products and/or processes, or achieve profitability. In addition, our expenses could increase if we are required by the FDA or other domestic and foreign regulatory authorities to perform studies or trials in addition to those currently expected, or if there are delays in completing additional safety studies such as toxicology and pathogenicity studies, clinical trials, preclinical studies, animal or human studies or the development of any of our or our collaborators’ product candidates.
+
+We have a history of net losses, and we may not achieve or maintain profitability.
+
+As of December 31, 2022, we have an accumulated deficit of approximately $73.5 million. Our profitability has strongly relied on, and will be even more reliant going forward on, third party industry and government research funding, licensing partnerships and other forms of collaborations. We believe that it is likely that if we do not sign license agreements or other forms of collaborations, we will incur losses because of our planned levels of R&D and additional general and administrative expenditures that we believe are necessary to operate our business and further develop the C1-cell protein production platform and our other technologies for use in the pharmaceutical and non-pharmaceutical industries. The amount of our future net losses will depend, in part, on the rate of increase in our expenses along with other potential cost of unforeseen circumstances, our ability to generate research funding, government grants, receipt of access fees, milestones, royalty and other payments, and whether we are able to generate revenues by entering into license agreements or other forms of collaborations, launch new products and/or processes from future licensees or collaborators, and our ability to raise additional capital. The net losses we anticipate incurring over the next several years will have an adverse effect on our stockholders’ equity and working capital.
+
+The R&D efforts needed to enhance and leverage the C1-cell protein production platform and our other technologies, such as Dapibus™, for use in developing and manufacturing human and animal biopharmaceuticals and other non-pharmaceutical products will require significant funding and increased staffing. Therefore, we expect near-term operating and research expenses to continue, and maybe even accelerate, as we further develop our research and business plans, and our goals and objectives. Consequently, we will require significant additional revenue to achieve profitability. We cannot provide assurance that we will be able to generate any revenues from our focus and efforts as we intend to apply the C1-cell protein production platform and our other technologies into the biopharmaceutical and non-pharmaceutical industries. If we fail to enter into new license agreements or other forms of collaborations or generate revenues and profit from additional research projects and government grants, the market price of our common stock will likely decrease. Further regulatory complications, competition from other technologies, or delays in our research programs and the adoption and use of the C1-cell protein production platform and our other technologies by the biopharmaceutical and non-pharmaceutical industries may force us to reduce our staffing and research and development efforts, which may further affect our ability to generate cash flow.
+
+We could fail to manage our growth.
+
+We will need to take the following steps, among others, to manage our growth. If we fail to achieve one or more of these, it could have a material adverse effect on our business, financial condition and results of operations.
+
+  
+
+●
+
+  
+
+Balance our cash burn with technology and product development;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Maintain and add additional CROs (Contract Research Organizations), other third-party service providers or other technology collaborators;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Maintain and add additional collaborators, strategic partners technology licensees or other forms of structures;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Recruit, hire and maintain the required employees necessary to maintain and grow our business and to advance our technologies and products;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Achieve technical and commercial success in our research and product development programs;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Access required manufacturing capacity;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Access additional capital;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Recruit and maintain consultants, board members and scientific advisory board members; and  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+Manage scientific risks and uncertainties that may arise during our R&D and regulatory programs.  
+  
+--- --- ---  
+  
+14 
+
+* * *
+
+Our revenue growth depends in part on market and regulatory acceptance of the C1-cell protein production platform and our other technologies to develop and manufacture animal and/or human biopharmaceutical and non-pharmaceutical products.
+
+The success of our biopharmaceutical business will depend on our ability to develop, register, and introduce similar, new and improved technologies and products in a timely manner, at significantly lower manufacturing costs that address the evolving requirements of the pharmaceutical industry and potential customers. There is no assurance that the C1-cell protein production platform or any product expressed from C1, or our other technologies, will perform the same or better, save our customers money relative to existing gene expression technologies or those of our competitors, provide our customers with other benefits, obtain governmental safety and regulatory approvals, be registered or gain market acceptance. If we fail to develop similar, new and better performing technologies, products and processes at significantly lower manufacturing costs, make fermentation yield improvements on our existing production processes, generate the necessary safety and regulatory data or gain registration and market acceptance of the C1-cell protein production platform, or our other technologies, products or processes, we could fail to recoup our R&D investments and fail to capitalize on potential opportunities or gain market share from our competitors. Any failure, for technological, quality, safety, regulatory, or other reasons, to develop and launch improved technologies and new products, could negatively impact our business, financial condition and results of operation.
+
+The dynamic and conservative nature of the biopharmaceutical industry, the unpredictable nature of the product development process and the time and cost of new technology adoption in the biopharmaceutical industry may affect our ability to meet the requirements of the marketplace or achieve market and/or regulatory acceptance. 
+
+The expenses or losses associated with unsuccessful technology and product development activities or lack of market acceptance of our new technologies and products could harm our business, financial condition and results of operations.
+
+We may fail to commercialize the C1-cell protein production platform or our other technologies for the expression of therapeutic proteins, antibodies, vaccines, and metabolites or other non-pharmaceutical biologic products.
+
+We have not yet completed the necessary safety, efficacy, cost and regulatory studies, or the commercialization of any therapeutic proteins, antibodies and vaccines, and metabolites or other non-pharmaceutical biologic products based on C1 or our other technologies, such as Dapibus™.
+
+To date, drug companies have developed and commercialized only a small number of gene-based products in comparison to the total number of drug molecules available in the marketplace. Our biopharmaceutical business should be evaluated as having the same risks as those inherent to early-stage biotechnology companies because the application of the C1-cell protein production platform for the expression of pre-clinical and clinical quantities of therapeutic proteins, antibodies and vaccines is still in early development.
+
+Successful development of the C1-cell protein production platform and our other technologies, such as Dapibus™, for biopharmaceutical and non-pharmaceutical purposes will require significant research, development and capital investment, including testing, to prove its safety, efficacy and cost-effectiveness. In general, our experience has been that each step in the process has been longer and costlier than originally projected, and we anticipate that this is likely to remain the case with respect to the continuing development efforts of our biopharmaceutical and non-pharmaceutical business.
+
+If our competitors develop technologies and products more quickly and market more effectively than our product candidates, our commercial opportunity will be reduced or eliminated. 
+
+The biopharmaceutical industry is characterized by rapid technological change, and the area of gene and protein research and platform development is a rapidly evolving field. Any biopharmaceutical products we or our current or collaborators or licensees develop through the C1-cell protein production platform, or through our other technologies, will compete in highly competitive and regulated markets. Many of the organizations competing with us in the market for such products have more capital resources, larger R&D and marketing staff, facilities and capabilities, and greater experience in research and development, regulatory approval, manufacturing and commercialization of technology and products. Accordingly, our competitors may be able to develop technologies and products more rapidly. Our future success will depend on our ability to maintain a competitive position with respect to technological advances in terms of product and process quality, stability, safety, productivity and cost. If a competitor develops superior technology or products, or more cost-effective alternatives to our and our collaborators’ or licensees’ technologies, products or processes, it could have a material adverse effect on our business, financial condition and results of operations. Well-known and highly competitive biotechnology companies offer comparable or alternative technologies for the same products and services as our biopharmaceutical and non-pharmaceutical business. We anticipate that we and our current or future collaborators and licensees will continue to encounter increased competition as new companies enter these markets and as the development of biological processes and products evolves.
+
+Alternative technologies may not require microbial or other cell produced proteins, such as our proprietary C1 cells.
+
+Research is being conducted with cell or gene-based therapies and other technologies that offer a possible alternative to producing proteins as they are being produced today based on microbial, organic matter containing Carbon, Hydrogen, and Oxygen or other organisms, such as our proprietary C1 cells. Alternative methods may allow genes to be directly inserted into cells that can be implanted into animals and humans directly, displacing the need for the existing methods used for the development of biologic vaccines and drugs. If they are successful, these new methods may supplant or greatly reduce the need for microorganisms, Carbon, Hydrogen, and Oxygen or other organisms, including our C1 cells, to produce these proteins externally as the injected cells in animals and humans may be able to do so internally. 
+
+15 
+
+* * *
+
+Our SARS-CoV-2 vaccine candidates are at the Phase 1 clinical stage and have not been approved for sale. We have not developed, manufactured or commercialized any vaccine product in the past, and we may be unable to produce a vaccine that can be used to successfully prevent the SARS-CoV-2 virus or its variants of concern, in a timely and economical manner, if at all.
+
+Our DYAI-100, SARS-CoV-2 vaccine candidate has received regulatory approval for Phase 1 clinical trial in South Africa, and we have completed dosing of all patients by the end of February 2023. However, we could experience delays in clinical trials or unsatisfactory clinical trial results. Moreover, adverse events, or the perception of adverse events, relating to vaccine product candidates and delivery technologies may negatively impact our ability to develop commercially successful products and also may lead to greater government regulation, which could have a material effect on our ability to develop and market our SARS-CoV-2 vaccine product candidates.
+
+Uncertainties exist surrounding the longevity and severity of COVID-19 as a global health concern. The success of our efforts to develop and commercialize our vaccine product candidates could fail for a number of reasons. Accordingly, we may be unable to produce a vaccine that successfully targets SARS-CoV-2 in a timely and economical manner, if at all. For example, we expect to commit significant financial resources and personnel to the development of SARS-CoV-2 vaccine product candidates, which may cause delays in or otherwise negatively impact our other product candidate development program. The outcome of any research and development program is highly uncertain. Only a small fraction of biotechnology and vaccine development programs ultimately result in commercial products or even product candidates, and a number of events could delay our development efforts and negatively impact our ability to obtain regulatory approval for, and to manufacture, market and sell, a vaccine. Additionally, our ability to develop an effective vaccine will depend on our ability to work on an accelerated timeline, with limited access to financial resources beyond those that we currently possess, and in competition with a significant number of better-funded and more experienced vaccine-development companies. Moreover, given the COVID-19 pandemic is now relatively contained and the risk of further spread is diminished, we may be unable to identify strategic partners willing to work with and support us in our development efforts and/or the market that we anticipate for this product candidate may not exist or may be much smaller than we previously anticipated. Alternatively, even if a market exists, our vaccine product candidates could be found to be ineffective or unsafe, or otherwise fail to receive necessary regulatory clearances. Our vaccine product candidates, even if safe and effective, could be difficult to manufacture on a large scale or uneconomical to market, or our competitors could develop superior products more quickly and efficiently or more effectively market their competing products. Accordingly, our inability to develop a commercially-successful vaccine product could materially harm our business.
+
+The results of nonclinical studies and early-stage clinical trials may not be predictive of future results.
+
+The results of nonclinical studies may not be predictive of the results of clinical trials, and the results of any early-stage clinical trials we commence may not be predictive of the results of the later-stage clinical trials. Vaccine and drug candidates in later stages of clinical trials may fail to show the desired safety and efficacy despite having progressed through nonclinical studies and initial clinical trials. There is a high failure rate for drugs proceeding through clinical trials, and a number of companies in the pharmaceutical and biotechnology industries have suffered significant setbacks in clinical development even after achieving promising results in earlier studies. There can be no assurance that any of our current or future clinical trials will ultimately be successful or support further clinical development of any of our vaccine and drug candidates. Even if our clinical trials are completed, the results may not be sufficient to obtain regulatory approval of any products. Any such setbacks in our clinical development could have a material adverse effect on our business and operating results.
+
+We may need substantial additional capital in the future to fund our business.
+
+Our future capital requirements may be substantial, particularly as we continue to further develop, engineer and optimize the C1-cell protein production platform and our other proprietary technologies, products and processes for licensing for research and development, and commercialization of potential animal and human pharmaceutical products.
+
+We currently have very little leverage, and if our capital resources are insufficient to meet our capital requirements, we will have to raise additional funds to continue the development of our technologies and complete the development and commercialization of products, if any, resulting from our technologies. If the acquisition of additional funds is not possible or if we engage in future equity financings, dilution to our existing stockholders may result. If we raise capital through debt financing, we may be subject to restrictive covenants that limit our ability to conduct our business. We may not be able to raise funds on terms that are favorable to us, if at all. If we fail to raise sufficient funds and incur losses, our ability to fund our operations, take advantage of strategic opportunities, develop products or technologies, or otherwise respond to competitive pressures could be significantly limited. If this happens, we may be forced to delay or terminate research or development programs or the commercialization of products resulting from our technologies, curtail or cease operations or obtain funds through collaborative and licensing arrangements that may require us to relinquish commercial rights, sell certain assets of the company which will limit future opportunities, or grant licenses on terms that are not favorable to us. Without sufficient funding or revenue, we may have to curtail, cease, or dispose of one or more of our operations, which would have a material adverse effect on our business, financial condition, and future prospects.
+
+Changes in global economic and financial markets may have a negative effect on our business.
+
+Our business is subject to a variety of market forces including, but not limited to, domestic and international economic, political and social conditions. Many of these forces are beyond our control. Any change in market conditions that negatively impacts our operations or the demand of our current or prospective customers could adversely affect our business operations.
+
+Changes in the global financial, pharmaceutical and biotech markets may make it difficult to accurately forecast operating results. These changes have had, and may continue to have, a negative effect on our business, results of operations, financial condition and liquidity. In the event of a downturn in global economic activity, current or potential business partners may go out of business, may be unable to fund purchases or determine to reduce purchases, all of which could lead to reduced demand for our products and increased payment delays or defaults. We are also limited in our ability to reduce costs to offset the results of a prolonged or severe economic downturn given certain fixed costs associated with our operations and difficulties if we over strained our resources. The timing and nature of a sustained recovery in the credit and financial markets remains uncertain, and there can be no assurance that market conditions will significantly improve in the near future or that our results will not continue to be materially and adversely affected.
+
+16 
+
+* * *
+
+We face risks related to health epidemics, pandemics and other widespread outbreaks of contagious disease or other biological threats, as well as armed conflict escalated between Russia and Ukraine, any of which could significantly disrupt our operations and have a material adverse effect on our business, employees, directors, consultants, collaborators and other third parties, including business development activities and research and development projects conducted by third party contract research organizations parties.
+
+Significant outbreaks of contagious diseases, and other adverse public health developments, could have a material impact on our business operations, financial condition, and operating results. The COVID-19 pandemic has significantly impacted the operation of business in the United States and Europe, where several of our key executive management members and our third-party contract research organizations are located. The COVID-19 pandemic and various governmental responses in the United States and Europe has adversely affected our ability to carry on certain business development activities in the past, including restrictions in business-related travel, delays or disruptions in our on-going research projects, and unavailability of the employees of the Company or third-party contract research organizations with whom we conduct business, due to illness or quarantines, among others, and it may adversely affect our business operations if any health epidemics and pandemics and other widespread outbreaks of contagious disease or other biological threats in the future.
+
+In addition, we rely on third parties in the United States and Europe to conduct our research and development projects and to provide other services, and COVID-19 has affected and may continue to affect service providers of such third-party contract research organizations and therefore negatively affect the operations of our on-going research projects, which could materially and negatively affect our business, financial condition, and results of operations.
+
+The COVID-19 pandemic has adversely affected and may continue to adversely affect the economies and financial markets worldwide, resulting in an economic downturn that could impact our business, financial condition and results of operations. As a result, our ability to fund through public or private equity offerings, debt financings, and through other means at acceptable terms, if at all, may be disrupted, in the event our financing needs for the foreseeable future are not able to be met by our existing balances of cash, cash equivalents and investments. In addition, the COVID-19 pandemic has posed and may continue to pose significant challenges for our supply chains, particularly as a result of mandatory shutdowns in locations where our products are manufactured or held for distribution. The extent to which COVID-19 could impact our business and research and development activities will depend on future developments, which are uncertain and cannot be predicted with confidence, and will depend on many factors. As such, we cannot presently predict the scope and extent of any potential business shutdowns or disruptions.
+
+The Company is currently working on several COVID-19 related vaccine and antibody opportunities. However, there is no assurance that any of these opportunities will materialize or that the C1-cell protein production platform or any product expressed from C1 or any of the various other steps in a vaccine or drug development process will perform, provide benefits, obtain governmental safety and regulatory approvals, be registered or gain market acceptance. In addition, our C1-cell protein production platform has yet to be used to produce a vaccine, antibody or other biologic product that has entered the clinical trial phase, and we are competing with more experienced companies for grants or funding of this type. As a result, there is no assurance that we will receive these grants or funding resulting from these proposals.
+
+In February 2022, armed conflict escalated between Russia and Ukraine. The sanctions announced by the U.S. and other countries following Russia’s invasion of Ukraine against Russia to date include restrictions on selling or importing goods, services, or technology in or from affected regions and travel bans and asset freezes impacting connected individuals and political, military, business, and financial organizations in Russia. The U.S. and other countries could impose wider sanctions and take other actions should the conflict further escalate. It is not possible to predict the broader consequences of this conflict, which could include further sanctions, embargoes, regional instability, geopolitical shifts and adverse effects on macroeconomic conditions, currency exchange rates and financial markets, all of which could impact our business, financial condition, and results of operations. Our business is not directly impacted by the war as we do not operate in either Russia or the Ukraine. However, the war might potentially amplify the disruptive impact of the COVID pandemic.
+
+Our sales and operations are subject to the risks of doing business internationally.
+
+Our sales and operations are subject to the risks of doing business internationally, as we have customers and partners located outside of the United States. Conducting business internationally exposes us to a variety of risks, including:
+
+  
+
+•
+
+  
+
+changes in or interpretations of foreign regulations that may adversely affect our ability to sell our products, repatriate profits to the United States or operate our foreign-located facilities;  
+  
+--- --- ---  
+  
+
+•
+
+  
+
+the imposition of tariffs;  
+  
+--- --- ---  
+  
+
+•
+
+  
+
+the imposition of limitations on, or increase of, withholding and other taxes on remittances and other payments by foreign subsidiaries or joint ventures;  
+  
+  
+
+•
+
+  
+
+uncertainties relating to foreign laws, regulations and legal proceedings including tax, import/export, anti-corruption and exchange control laws;  
+  
+  
+
+•
+
+  
+
+the availability of government subsidies or other incentives that benefit competitors in their local markets that are not available to us;  
+  
+  
+
+•
+
+  
+
+increased demands on our limited resources created by our operations may constrain the capabilities of our administrative and operational resources and restrict our ability to attract, train, manage and retain qualified management, technicians, scientists and other personnel;  
+  
+  
+
+•
+
+  
+
+economic or political instability in foreign countries;  
+  
+  
+
+•
+
+  
+
+difficulties associated with staffing and managing foreign operations; and  
+  
+  
+
+•
+
+  
+
+the need to comply with a variety of United States and foreign laws applicable to the conduct of international business, including import and export control laws and anti-corruption laws.  
+  
+If we lose key personnel, including key management or board members, or are unable to attract and retain additional personnel, it could delay our technology and product development programs and harm our R&D efforts, and we may be unable to pursue research funding, licenses and other forms of collaborations or develop our own products.
+
+Our planned activities will require retention, and ongoing recruiting of additional expertise in specific areas applicable to our industries, technologies and products being developed. These activities will not only require the development of additional expertise by existing management personnel, but also the addition of new research and scientific, regulatory, licensing, sales, marketing, management, accounting and finance and other personnel. The inability to acquire or develop this expertise or the loss of principal members of our management, board of directors, consultants, accounting and finance, sales, and scientific staff could impair the growth, if any, of our business. Competition for experienced personnel from numerous companies, academic institutions and other research facilities may limit our ability to attract and retain qualified management, directors, consultants, and scientific personnel on acceptable terms. Failure to attract and retain qualified personnel would inhibit our ability to maintain and pursue collaborations and develop our products and core technologies.
+
+Personnel changes may disrupt our operations. Hiring and training new personnel will entail costs and may divert our resources and attention from revenue-generating efforts. In addition, we periodically engage consultants to assist us in our business and operations. These consultants operate as independent contractors, and we therefore do not have as much control over their activities as we do over the activities of our employees. Our directors and consultants may be affiliated with or employed by other parties, and some may have consulting or other advisory arrangements with other entities that may conflict or compete with their obligations to us.
+
+17 
+
+* * *
+
+We may be sued for product liability.
+
+We or our current and future collaborators and licenses may be held liable if any product we or they develop, or any product which is made with the use or incorporation of, any of our technologies, causes injury or is found otherwise unsuitable or unsafe during product testing, manufacturing, marketing or sale. These claims could be brought by various parties, including other companies who purchase products from our current and future collaborators and licenses or by end users of the products.
+
+While we maintain product liability insurance, it may not fully cover all of our potential liabilities and our liability could in some cases exceed our total assets, which would have a material adverse effect on our business, results of operations, financial condition and cash flows, or cause us to go out of business. Further, insurance coverage is expensive and may be difficult to obtain and may not be available to us or to our collaborators and licensees in the future on acceptable terms, or at all. Inability to obtain sufficient insurance coverage at an acceptable cost to protect against potential product liability claims could prevent or inhibit the commercialization of products developed by us, or our collaborators and licensees.
+
+Foreign currency fluctuations could adversely affect our results.
+
+In the conduct of our business, in certain instances, we are required to receive payments or pay our obligations in currencies other than U.S. dollars. Especially since a large portion of our research and development is done in Europe, our CROs and certain consultants request payments in Euros. As a result, we are exposed to changes in currency exchange rates with respect to our business transactions denominated in non-US dollars. Fluctuations in currency exchange rates have in the past and may in the future negatively affect our revenue, expenses and our financial position and results of operations as expressed in U.S. dollars.
+
+Our ability to use our net operating loss carryforwards ( “ NOLs ” ) to offset future taxable income may be subject to certain limitations.
+
+In general, under Section 382 of the Internal Revenue Code, a corporation that undergoes an “ownership change” is subject to limitations on its ability to utilize its NOLs, to offset future taxable income. If the Internal Revenue Service challenges our analysis that our existing NOLs are not subject to limitations arising from previous ownership changes, our ability to utilize NOLs could be limited by Section 382 of the Internal Revenue Code. Future changes in our stock ownership, some of which are outside of our control, could result in an ownership change under Section 382 of the Internal Revenue Code. Furthermore, our ability to utilize NOLs of companies that we may acquire in the future may be subject to limitations.
+
+We may make acquisitions, investments and strategic alliances that may use significant resources, result in disruptions to our business or distractions of our management, may not proceed as planned, and could expose us to unforeseen liabilities.
+
+We may seek to expand our business through the acquisition of, investment in and strategic alliances with companies, technologies, products, and services. If we are able to identify suitable acquisition, investment or strategic alliance targets, we may be unable to successfully negotiate their acquisition at a price or on terms and conditions acceptable to us.
+
+We cannot assure you that, following an acquisition, investment or strategic alliance, we will achieve expected research and development results, anticipated synergies, revenues, specific net income or loss levels that justify such transaction or that the transaction will result in increased earnings, or reduced losses, for the combined company in any future period. Moreover, we may need to raise additional funds through public or private debt or equity financing to acquire any businesses or to provide funding for such business, which would result in dilution for stockholders or the incurrence of indebtedness and may not be available on terms which would otherwise be acceptable to us. We may not be able to oversee such investments nor operate acquired businesses profitably or otherwise implement our growth strategy successfully.
+
+We rely significantly on information technology and any failure, inadequacy, interruption or security lapse of that technology, including any cybersecurity incidents, could harm our ability to operate our business effectively.
+
+Despite the implementation of security measures, our internal computer systems and those of third parties with which we contract are vulnerable to damage from cyber-attacks, computer viruses, unauthorized access, natural disasters, terrorism, war and telecommunication and electrical failures. System failures, accidents or security breaches could cause interruptions in our operations and could result in a material disruption of our research activities and business operations, in addition to possibly requiring substantial expenditures of resources to remedy. To the extent that any disruption or security breach were to result in a loss of, or damage to, our data or applications, or inappropriate disclosure of confidential or proprietary information, we could incur liability and delays in our research efforts and financial reporting compliance, as well as significant increase in costs to recover or reproduce the data.
+
+Risks Related to Dependence on Third Parties
+
+We are dependent on collaborations with third parties, and if we fail to maintain or successfully manage existing, or enter into new, strategic collaborations, we may not be able to develop and commercialize many of our technologies and products and achieve profitability. 
+
+Our R&D revenue is generated from a small number of research collaborations. These collaborations could be delayed or be discontinued, as they have in the past, at any time with little advance notice. If these research collaborations are lost or do not perform as expected, it could have a material adverse effect on our business, financial condition and operating results.
+
+Our ability to enter into, maintain and manage collaborations in our target markets is fundamental to the success of our business. We currently rely on, and expect to continue to rely on, our current and future partners, in part, for research and development, manufacturing and distribution, sales and marketing services, and application and regulatory know how. In addition, we intend to enter into additional collaborations to conduct research, develop, produce, market, license and sell our technologies and products and processes we anticipate developing. However, we may not be successful in entering into collaborative arrangements with third parties. Any failure to enter into such arrangements on favorable terms could delay or hinder our ability to develop and commercialize our technologies, products and processes and could increase our costs of research and development and commercialization.
+
+18 
+
+* * *
+
+We have limited or no control over the resources that any collaborator or licensee may devote to our programs, and reductions in collaborators’ R&D budgets may affect our businesses.
+
+Any of our current or future collaborators or licensees may breach or terminate their agreements with us or otherwise fail to perform and conduct their required activities successfully and in a timely manner. Our collaborators or licensees may elect not to develop products arising out of our collaborative or license arrangements or may choose not to devote sufficient resources to the development, manufacture, market or sale of these products. If any of these events occur, we or our collaborators or licensees may not develop our technologies or commercialize our or their products.
+
+Fluctuations in the R&D budgets of government agencies, our customers, licensees, collaborators and research partners could have a significant impact on the interest in and demand for our technology. Our businesses could be seriously damaged by significant decreases in life sciences and/or pharmaceutical R&D expenditures by government agencies and existing and potential partners.
+
+We heavily rely on contracts with third-party contract research organizations (“CROs”) and other third party service providers to conduct our research and development, pre-clinical, CMC and cGMP manufacturing, fill and finish, and potential clinical trials, which may not be available to the Company on commercially reasonable terms or at all.
+
+As a result of the DuPont Transaction, we no longer own a research and development laboratory and we became dependent upon the performance and research capacity of a number of third-party contract research organizations and other service providers to conduct our research and development projects, pre-clinical, CMC and cGMP manufacturing, fill and finish, and potential clinical trials, which include services and programs in connection with the modification and enhancement of the Company’s C1-cell protein production platform and to support our business development efforts for C1’s use in biopharmaceutical applications. The licensing and service arrangements with these third parties are not guaranteed to be obtained, renewed or continued on reasonable terms, if at all. The Company may be unable to obtain, maintain or expand its access to third party CROs and other service providers to conduct these services. Failure to obtain, maintain and expand access to certain third party CROs and other service providers could have a material adverse impact on the Company’s research projects, financial condition and operating results. In addition, from time to time there are disagreements with such third parties that if not resolved can have a material adverse effect on our business, financial condition and operating results.
+
+We are heavily dependent upon the availability and performance of third-party research organizations. If we require research capacity and/or capabilities and are unable to obtain it in sufficient quantity, and quality or at terms and conditions that are acceptable to the Company or our third party collaborators, we may not be able to offer our technologies or products for license, or sale, or we may be required to make substantial capital investments to build out that capacity or to contract with other research organizations on terms that may be less favorable than our current arrangements. In addition, if we contract with other research organizations, we may experience delays of several months in qualifying them or in starting up research programs at these facilities, which could harm our relationships with our licensees, collaborators or customers, and we may be required to make a capital investment in connection with these arrangements. This could have a material adverse effect on our business, revenues or operating results.
+
+Additionally, if we were to be unsuccessful in retaining a CRO with the requisite experience and skills we require and were required to build our own research facility, it could take a year or longer before such owned research facility were able to be brought online to carry out the necessary technology and product development efforts of the Company. 
+
+Conflicts with the CROs, other service providers, collaborators and/or licensees could harm our business.
+
+An important part of our strategy includes involvement in proprietary research programs. We may pursue opportunities in the pharmaceutical field that could conflict with those of our collaborators and licensees. Moreover, disagreements with Danisco, our current and/or future CROs, other service providers, collaborators or licensees could develop over rights to our intellectual property, over further licensing of our technologies to other parties in certain pharmaceutical fields, or for other reasons. Any conflict with Danisco, our current and/or future CROs, other service providers, collaborators or licensees could reduce our ability to obtain future collaboration agreements and negatively impact our relationship with existing collaborators or licensees, which could reduce our revenues and profits.
+
+Some of our current and/or future CROs, other service providers, collaborators and/or licensees could also become competitors in the future. Our current and/or future CROs, other service providers, collaborators and/or licensees could develop competing technologies or products, preclude us from entering into collaborations or license agreements with their customers, fail to obtain timely regulatory approvals, terminate their agreements with us prematurely or fail to devote sufficient resources to the development and commercialization of their technology and products and processes. Any of these developments could harm our technology development and value, product development efforts, revenue, profits and overall business.
+
+19 
+
+* * *
+
+We rely on our collaborators and other third parties to deliver timely and accurate information in order to accurately report our financial results as required by law.
+
+We need to receive timely, accurate and complete information from a number of third parties in order to accurately and timely report our financial results. We rely on third parties to provide us with complete and accurate information regarding research developments and data, revenues, expenses and payments owed to or by us on a timely basis. We rely on the proper controls and procedures related to obtaining and reporting information from our CROs, licensees and collaborators related to research results and other data, when milestones are earned, if any, when royalties are earned, if any, as well as other types of potential revenues and expenses. If the information that we receive is not accurate, our consolidated financial statements may be materially incorrect and may require restatement. As a result, we may have difficulty in completing accurate and timely financial disclosures, which could have a material adverse effect on our business, financial condition and results of operations and the market price of our common stock.
+
+Risks Related to Government Regulations and Environmental, Social, and Governance Issues
+
+Potential future regulations limiting our ability to sell genetically engineered products could harm our business.
+
+We, our current and future collaborators and licensees expect to develop biologic products using genetically engineered microorganisms (“GMOs”). Products derived from GMOs may in some instances be subject to bans or additional regulation by federal, state, local and foreign government agencies. These agencies may not allow us or our collaborators and licensees to produce and market products derived from GMOs in a timely manner or under technically or commercially feasible conditions.
+
+Compliance with FDA, Environmental Protection Agency (“EPA”) and EU regulations could result in expenses, delays or other impediments to our product development programs or the commercialization of resulting products. The FDA currently applies the same regulatory standards to products made through genetic engineering as those applied to products developed through traditional methodologies. Regardless of GMO status, a product may be subject to lengthy FDA reviews and unfavorable FDA determinations due to safety concerns or changes in the FDA’s regulatory policy. The EPA regulates biologically-derived enzyme-related chemical substances not within the FDA’s jurisdiction. An unfavorable EPA ruling could delay commercialization or require modification of the production process or product in question, resulting in higher manufacturing costs, thereby making the product uneconomical. The EU and other countries also have regulations regarding the development, production and marketing of products from GMOs, which may be as or more restrictive than U.S. regulations.
+
+Further, we, Danisco, and our current and future collaborators and licensees are subject to regulations in the other countries in which we operate outside of the U.S. and EU, which may have different rules and regulations depending on the jurisdiction. Different countries have different rules regarding which products qualify as GMOs. If any of these countries expand the definition of GMO and increase the regulatory burden on GMO products, our business could be harmed.
+
+Other changes in regulatory requirements, laws and policies, or evolving interpretations of existing regulatory requirements, laws and policies, may result in increased compliance costs, delays, capital expenditures and other financial obligations that could adversely affect our business or financial results.
+
+20 
+
+* * *
+
+Public views on ethical and social issues may limit use of our technologies.
+
+Our success will depend in part upon our ability, and our current and future collaborators’ or licensees’ ability, to develop pharmaceutical and non-pharmaceutical products discovered, developed and manufactured through the C1-cell protein production platform, and our other technologies. Governmental authorities could, for social, ethical or other purposes, limit the use of genetic processes or prohibit the practice of using a modified C1 organism to produce biologic vaccines, drugs and other biologic products. Concerns about the C1-cell protein production platform and our other technologies, and particularly about the expression of genes from C1 for pharmaceutical purposes, could adversely affect their market acceptance.
+
+The commercial success of our current and future collaborations and our licensees’ potential products will depend in part on public acceptance of the use of genetically engineered products including enzymes, vaccines, drugs and other protein products produced in this manner. Claims that genetically engineered products are unsafe for consumption or pose a danger to the environment, animals or humans may influence public attitudes. Our and our licensees’ genetically engineered products may not gain public acceptance. Negative public reaction to GMOs and products could result in increased government regulation of genetic research and resulting products, including stricter labeling laws or other regulations, and could cause a decrease in the demand for our products. If we and/or our collaborators are not able to overcome the ethical, legal, and social concerns relating to genetic engineering, some or all of our products and processes may not gain public acceptance, which could have a material adverse effect on our business, financial condition and results of operations.
+
+Our results of operations may be adversely affected by environmental, health and safety laws, regulations and liabilities.
+
+We and the CROs, collaborators and licensees are subject to various federal, state and local environmental laws and regulations relating to the discharge of materials into the air, water and ground, the generation, storage, handling, use, transportation and disposal of hazardous materials, and the health and safety of our employees. These laws, regulations and permits can often require expensive pollution control equipment or operational changes to limit actual or potential impacts to the environment. A violation of these laws and regulations or permit conditions could result in substantial fines, criminal sanctions, permit revocations and/or facility shutdowns.
+
+In addition, new laws, new interpretations of existing laws, increased government enforcement of environmental laws, or other developments could require us or our CROs or other service providers to make additional significant expenditures. Present and future environmental laws and regulations and interpretations thereof, more vigorous enforcement of policies and discovery of currently unknown conditions may require substantial expenditures that could have a material adverse effect on our results of operations and financial position. Additionally, any such developments may have a negative impact on our contract manufacturers, which could harm our business.
+
+Increasing scrutiny and changing expectations from customers, regulators, investors, and other stakeholders with respect to our environmental, social and governance practices may impose additional costs on us or expose us to new or additional risks. 
+
+Companies are facing increasing scrutiny from customers, regulators, investors, and other stakeholders related to their environmental, social and governance practices. Investor advocacy groups, investment funds and influential investors are also increasingly focused on these practices, especially as they relate to the environment, health and safety, supply chain management, diversity and human rights. Failure to adapt to or comply with regulatory requirements or investor or stakeholder expectations and standards could negatively impact our reputation and the price of our common stock.
+
+In addition, our customers may adopt policies that include social and environmental requirements, or may seek to include such provisions in their contract terms and conditions. These social and environmental responsibility provisions and initiatives are subject to change and vary from jurisdiction to jurisdiction, and certain elements may be difficult and/or cost prohibitive for us to comply with given the inherent complexity and the global scope of our operations. In certain circumstances, in order to meet the requirements or standards of our customers, we may be obligated to modify our sourcing practices or make other operational choices which may require additional investments and increase our costs or result in inefficiencies.
+
+Any of the factors mentioned above, or the perception that we or those with whom we conduct business have not responded appropriately to the growing concern for such issues, regardless of whether we are legally required to do so, may damage our reputation and have a material adverse effect on our business, financial condition, results of operations cash flows and/or the price of our common stock.
+
+We have no experience submitting applications to the FDA or similar regulatory authorities in the past and could be subject to lengthy and/or unfavorable regulatory proceedings.
+
+While we understand that many of our current and future collaborators or licensees may have a proven track record of experience submitting application to the FDA or other applicable regulatory authorities, we have no such experience in the past. Neither we nor any collaborator or licensee has yet submitted any application with the FDA or any other regulatory authority for any product candidate generated through the use of the C1-cell protein production platform as it relates to the development and manufacture of pharmaceutical products. The FDA may not have substantial experience with technology similar to ours, which could result in delays or regulatory action against us. We and our current and future collaborators and licensees may not be able to able to obtain regulatory approval for C1 expressed products, which would harm our business.
+
+The C1-cell protein production platform has been tested for use in the manufacturing of an enzyme in the production of wine, beer and fruit juices, and has generated promising safety and toxicity data for that enzyme. The C1-cell protein production platform could produce vaccines, antibodies, or therapeutic products and enzymes that have safety, toxicity, pathogenicity, immunogenicity and other issues associated with them. The C1-cell protein production platform and our other technologies may be subject to lengthy regulatory reviews and unfavorable regulatory determinations if they raise safety questions which cannot be satisfactorily answered or if results from studies do not meet regulatory requirements. An unfavorable regulatory ruling could be difficult to resolve and could delay or possibly prevent a product from being commercialized, or even delay or prevent the use of the C1-cell protein production platform or our other technologies to produce future products, which would have a material adverse effect on our growth and prospects. Additionally, future products produced by us or our current and future collaborators or licensees using the C1-cell protein production platform or our other technologies may not be approved by the FDA or other regulatory agencies in the U.S. or worldwide. There is no assurance that safety, toxicity, pathogenicity, immunogenicity and other issues will not arise in current or future product development and manufacturing programs due to media, fermentation, inherent properties or genetic changes in the C1 and other strains and fermentation processes.
+
+21 
+
+* * *
+
+If these therapeutic protein products, antibodies or vaccines or other non-pharmaceutical products are not approved by regulators, we or our current and future customers or collaborators and licensees will not be able to commercialize them, and we may not receive research funding, upfront license fees, milestone and royalty payments, which are based upon the successful advancement of these products through the drug development and approval process. Even after investing significant time and expense, any regulatory approval may also impose limitations on the uses for which we can market a product, and any marketed product and its manufacturer are subject to continual review. Discovery of previously unknown problems with a product or manufacturer may result in new restrictions on the product, manufacturer and manufacturing facility, including withdrawal of the product from the market. In certain countries, regulatory agencies also set or approve prices, which may result in low or unprofitable margins and would have a material adverse effect on our business, financial condition and results of operations.
+
+Risks Relating to Intellectual Property
+
+Failure to protect our intellectual property and the intellectual property of certain third parties could harm our competitive position.
+
+Our success will depend in part on our ability to obtain patents and on our and Danisco’s (as part of the DuPont Transaction, patents were assigned to Danisco) and our current and future collaborators’ and licensees’ ability to maintain adequate protection of our and their intellectual property. If we, Danisco, or our current and future collaborators and licensees do not adequately protect our intellectual property, competitors may be able to practice our technologies and erode our competitive advantage. The laws of some foreign countries do not protect proprietary rights to the same extent as the laws of the United States, and many companies have encountered significant problems in protecting their proprietary rights in these foreign countries.
+
+However, the patent positions of biotechnology companies, including our patent position, are generally uncertain and involve complex legal and factual questions. We will be able to protect our proprietary rights from unauthorized use by third parties only to the extent that our, and in certain instances the C1 patents assigned to Danisco, and our current and future collaborators’ and licensees’ proprietary technologies, are covered by valid and enforceable patents or are effectively maintained as trade secrets. We intend, from time to time, to apply for patents covering both our technologies and our products, while at other times, we only maintain such knowledge as trade secrets without applying for patents, as we deem appropriate. However, existing and future patent applications may be challenged and are not guaranteed to result in the issuing of patents. Even if a patent is obtained, it may not be sufficiently broad to prevent others from practicing our technologies or from developing competing products. Others, including Danisco and our current and future collaborators and licensees, may independently develop similar or alternative technologies or design around our, Danisco’s or our current and future collaborators’ and licensees’ patented technologies. In addition, Danisco, our current and future collaborators, licensees, or other third parties may challenge or invalidate our patents, or our patents may fail to provide us with any competitive advantages. If any third party is able to gain intellectual property protections for technology similar to our own, they may be successful in blocking us and our licensees from using the C1-cell protein production platform or our other technologies and/or commercializing products derived from them.
+
+We cannot ensure that any of our pending patent applications will result in issued patents, or even if issued, predict the breadth of the claims upheld in our and other companies’ patents. Given that the degree of future protection for our proprietary rights is uncertain, we cannot ensure that we were the first to invent the inventions covered by our pending patent applications, or that we were the first to file patent applications for these inventions or the patents we have obtained.
+
+In addition, Dyadic will continue to review its existing and potential patent positions and rights. Based on our analysis if and when the commercial opportunities and patent enforceability are questionable, we may abandon certain patents in some countries. There is a risk that we will abandon potentially valuable patents.
+
+Litigation or other proceedings or third-party claims of intellectual property infringement could require us to spend significant time and resources and could prevent us and our collaborators from commercializing our or their technologies and products or negatively impact our stock price.
+
+Our commercial success depends in part on neither infringing patents and proprietary rights of third parties, nor breaching any licenses that we have entered into with regard to our technologies and products. Others have filed, and in the future are likely to file, patent applications covering genes or gene fragments, genetic elements, screening, gene expression and fermentation processes and other intellectual property that we may wish to utilize with the C1-cell protein production platform or our other technologies or products and systems that are similar to those developed with its use. If these patent applications result in issued patents and we wish to use the claimed technology, we may need to obtain a license from the appropriate third party.
+
+Third parties do and may continue to assert that we and/or our current and future collaborators and licensees are employing their proprietary technology without authorization. In addition, third parties may obtain patents in the future and claim that use of our technologies infringes these patents. We could incur substantial costs and diversion of management and technical personnel in defending ourselves against any of these claims or enforcing our patents and other intellectual property rights. Parties making claims against us may be able to obtain injunctive or other equitable relief, which could effectively block our ability to further develop, commercialize and sell products, and could result in the award of substantial damages against us. If a claim of infringement against us is successful, we may be required to pay damages and obtain one or more licenses from third parties. In the event that we are unable to obtain these licenses at a reasonable cost, we and/or current and future collaborators and licensees could encounter delays in product commercialization while we attempt to develop alternative methods or products. Defense of any lawsuit or failure to obtain any of these licenses could prevent us from commercializing available products.
+
+In addition, unauthorized parties may attempt to steal, copy or otherwise obtain and use our C1 microbial strains, genetic elements, development and manufacturing processes, other technology or products. Monitoring unauthorized use of our intellectual property is difficult, and we cannot be certain that the steps we have taken will prevent unauthorized use of our technologies, particularly in certain foreign countries where the local laws may not protect our proprietary rights as fully as in the United States. Moreover, third parties could practice our inventions in territories where we do not have patent protection. Such third parties may then try to import into the United States or other territories products, or information leading to potentially competing products, made using our inventions in countries where we do not have patent protection for those inventions. If competitors are able to use our technologies, our ability and our current and future collaborators’ and licensees’ ability to compete effectively could be harmed. Moreover, others may independently develop and obtain patents for technologies that are similar to or superior to our technologies. If that happens, we may need to license these technologies, and we may not be able to obtain licenses on reasonable terms, if at all, which could harm our business, financial condition and results of operations.
+
+22 
+
+* * *
+
+Confidentiality agreements with employees and others may not adequately prevent disclosures of trade secrets and other proprietary information.
+
+We rely in part on trade secret protection to protect our confidential and proprietary information and processes. However, trade secrets are difficult to protect. We have taken measures to protect our trade secrets and proprietary information, but these measures may not be effective. We require employees and consultants to execute confidentiality agreements upon the commencement of an employment or consulting arrangement with us. These agreements generally require that all confidential information developed by the individual or made known to the individual by us during the course of the individual’s relationship with us be kept confidential and not disclosed to third parties. These agreements also generally provide that inventions conceived by the individual in the course of rendering services to us shall be our exclusive property. Nevertheless, our proprietary information may be disclosed, third parties could reverse engineer our biocatalysts and others may independently develop substantially equivalent proprietary information and techniques or otherwise gain access to our trade secrets. Costly and time-consuming litigation could be necessary to enforce and determine the scope of our proprietary rights, and failure to obtain or maintain trade secret protection could adversely affect our competitive business position.
+
+Risks Related to Our Common Stock
+
+The price of our shares of common stock is likely to be volatile, and you could lose all or part of your investment.
+
+The trading price of our common stock has been, and is likely to continue to be, volatile. Biotechnology company stocks generally tend to experience extreme price fluctuations. The valuations of many biotechnology companies without consistent product sales and earnings are extraordinarily high based on conventional valuation standards such as price-to-earnings and price-to-sales ratios. These trading prices and valuations may not be sustained. Factors that may result in fluctuations in our stock price include, but are not limited to, the following:
+
+  
+
+•
+
+  
+
+Changes in the public’s perception of the prospects of biotechnology companies;  
+  
+--- --- ---  
+  
+
+•
+
+  
+
+Sales of our common stock in the public market by such stockholders or other significant stockholders, executive officers, or directors;  
+  
+  
+
+•
+
+  
+
+Announcements of new technological innovations, patents or new products or processes by us, Danisco or our current or future collaborators, licensees and competitors;  
+  
+  
+
+•
+
+  
+
+Announcements by us, Danisco or our collaborators and licensees relating to our relationships with third parties;  
+  
+  
+
+•
+
+  
+
+Coverage of, or changes in financial estimates by us or securities and industry analysts;  
+  
+  
+
+•
+
+  
+
+Conditions or trends in the biotechnology industry;  
+  
+  •   Changes in investor interest in the areas in which we and/or our collaborators and licensees are applying our technologies, such as COVID-19;   
+  •   Changes in the state of the COVID-19 pandemic or other diseases and/or types of vaccines and/or treatments related thereto;  
+  
+
+•
+
+  
+
+Changes in the market valuations of other biotechnology companies;  
+  
+  
+
+•
+
+  
+
+Limitations or expanded uses in the areas within the biopharmaceutical or other industries into which we can apply our technologies and products;  
+  
+  
+
+•
+
+  
+
+Actual or anticipated changes in our growth rate relative to our competitors;  
+  
+  
+
+•
+
+  
+
+Developments in domestic and international governmental policy or regulations;  
+  
+  
+
+•
+
+  
+
+Announcements by us, Danisco, our current and future collaborators and licensees, or our competitors of significant acquisitions, divestures, strategic partnerships, license agreements, joint ventures or capital commitments;  
+  
+  
+
+•
+
+  
+
+The position of our cash, cash equivalents and marketable securities;  
+  
+  
+
+•
+
+  
+
+Any changes in our debt position;  
+  
+  
+
+•
+
+  
+
+Developments in patent or other proprietary rights held by us, Danisco or by others;  
+  
+  
+
+•
+
+  
+
+Negative effects related to the stock or business performance of Danisco, our current and future collaborators and licensees, or the abandonment of projects using our technology by our collaborators and/or licensees;  
+  
+  
+
+•
+
+  
+
+Scientific risks inherent to emerging technologies such as the C1-cell protein production platform or our other technologies;  
+  
+  
+
+•
+
+  
+
+Set-backs, and/or failures, and or delays in our or our current and future collaborators’ and licensees’ R&D and commercialization programs;  
+  
+  
+
+•
+
+  
+
+Delays or failure to receive regulatory approvals by us, Danisco and/or our current and future collaborators and licensees;  
+  
+  
+
+•
+
+  
+
+Loss or expiration of our or Danisco’s intellectual property rights;  
+  
+  
+
+•
+
+  
+
+Theft, misappropriation or expiration of owned or licensed proprietary and intellectual property, genetic and biological material owned by us and/or Danisco US, Inc., and VTT Technical Research Centre of Finland Ltd;  
+  
+  
+
+•
+
+  
+
+Lawsuits initiated by or against us, Danisco, or our current and future collaborators and licensees;  
+  
+  
+
+•
+
+  
+
+Period-to-period fluctuations in our operating results;  
+  
+  
+
+•
+
+  
+
+Future royalties from product sales, if any, by Danisco, our current or future strategic partners, collaborators or licensees;  
+  
+  
+
+•
+
+  
+
+Future royalties may be owed to Danisco by us, our collaborators, licenses, or sub-licensees under certain circumstances related to our Danisco Pharma License;  
+  
+  
+
+•
+
+  
+
+Short positions taken in our common stock;  
+  
+  
+
+•
+
+  
+
+Sales of our common stock or other securities in the open market;  
+  
+  
+
+•
+
+  
+
+Stock buy-back programs;  
+  
+  
+
+•
+
+  
+
+Stock splits; and  
+  
+  
+
+•
+
+  
+
+Decisions made by the board related to potential registration of Dyadic’s stock under the Securities Act of 1933 (as amended (the “Securities Act”), and/or up listing to another stock exchange.  
+  
+If we were to become party to a securities class action suit, we could incur substantial legal fees and our management’s attention and resources could be diverted from operating our business to responding to litigation.
+
+23 
+
+* * *
+
+Our quarterly and annual operating results may be volatile.
+
+Our quarterly and annual operating results have fluctuated in the past and are likely to do so in the future. These fluctuations could cause our stock price to vary significantly or decline. Some of the factors that could impact our operating results include:
+
+  
+
+•
+
+  
+
+Expiration of or cancellations of our research contracts with current and future collaborators and/or licensees, which may not be renewed or replaced;  
+  
+--- --- ---  
+  
+
+•
+
+  
+
+Setbacks or failures in our and our current and future collaborators’ and licensees’ research, development and commercialization efforts;  
+  
+--- --- ---  
+  
+
+•
+
+  
+
+Setbacks, or delays in our research and development efforts to develop and produce biologics;  
+  
+  
+
+•
+
+  
+
+Setbacks, or delays in our research and development efforts to re-engineer the C1-cell protein production platform or our other technologies for their applications and use in developing and producing biologics;  
+  
+  
+
+•
+
+  
+
+The speed, and success rate of our discovery and research and development efforts leading to potential licenses, or other forms of collaborations, access fees, milestones and royalties;  
+  
+  
+
+•
+
+  
+
+The timing and willingness of current and future collaborators and licensees to utilize C1 to develop and commercialize their products which would result in potential upfront fees, milestones and royalties;  
+  
+  
+
+•
+
+  
+
+General and industry specific economic conditions, which may affect our current and future collaborators’ and licensees’ R&D expenditures;  
+  
+  
+
+•
+
+  
+
+The adoption and acceptance of the C1-cell protein production platform and our other technologies by biopharmaceutical and non-pharmaceutical companies and regulatory agencies;  
+  
+  
+
+•
+
+  
+
+The addition or loss of one or more of the collaborative partners, grants, research funding, or licensees we are working with to further develop and commercialize our technologies and products in the pharmaceutical industry;  
+  
+  
+
+•
+
+  
+
+Our ability to file, maintain and defend our intellectual property and to protect our proprietary information and trade secrets;  
+  
+  
+
+•
+
+  
+
+Our ability to develop technology, products and processes that do not infringe on the intellectual property of third parties;  
+  
+  
+
+•
+
+  
+
+The improvement and advances made by our competitors to CHO, E.coli, yeast, inset cells, plant and other expression systems;  
+  
+  
+
+•
+
+  
+
+The introduction by our competitors of new discovery and expression technologies competitive with the C1-cell protein production platform;  
+  
+  
+
+•
+
+  
+
+Our ability to enter into new research projects, grants, licenses or other forms of collaborations and generate revenue from such parties;  
+  
+  
+
+•
+
+  
+
+Scientific risk associated with emerging technologies such as the C1-cell protein production platform;  
+  
+  
+
+•
+
+  
+
+Failure to bring on the necessary research and manufacturing capacity, e.g., CRO, CMO (contract manufacturing organization), and CDMO (contract development and manufacturing organization), if required;  
+  
+  
+
+•
+
+  
+
+Uncertainty regarding the timing of research funding, grants or upfront license fees for new C1-cell protein production platform, our other technologies, collaborations, license agreements or expanded license agreements; and  
+  
+  
+
+•
+
+  
+
+Delays or failure to receive upfront fees, milestones and royalties and other payments.  
+  
+Due to the possibility of fluctuations in our revenues and expenses, we believe that quarter-to-quarter comparisons of our operating results are not necessarily a good indication of our future performance. Our operating results in some quarters, or even in some years, may not meet the expectations of stock market analysts and investors, potentially causing our stock price to decline.
+
+We do not expect to pay cash dividends in the future.
+
+We have never paid cash dividends on our stock and do not anticipate paying any dividends for the foreseeable future. The payment of dividends on our stock, if ever, will depend on our earnings, financial condition and other business and economic factors deemed relevant for consideration by our board of directors. If we do not pay dividends, our stock may be less valuable because a return on investment will only occur if and to the extent that our stock price appreciates.
+
+Our anti-takeover defense provisions may deter potential acquirers and depress our stock price.
+
+Certain provisions of our certificate of incorporation, bylaws and Delaware law, as well as certain agreements we have with our executives, could make it substantially more difficult for a third party to acquire control of us. These provisions include the following:
+
+  
+
+•
+
+  
+
+We may issue preferred stock with rights senior to those of our common stock;  
+  
+--- --- ---  
+  
+
+•
+
+  
+
+We have a classified board of directors;  
+  
+  
+
+•
+
+  
+
+Action by written consent by stockholders is not permitted;  
+  
+  
+
+•
+
+  
+
+Our board of directors has the exclusive right to fill vacancies and set the number of directors;  
+  
+  
+
+•
+
+  
+
+Cumulative voting by our stockholders is not allowed; and  
+  
+  
+
+•
+
+  
+
+We require advance notice for nomination of directors by our stockholders and for stockholder proposals.  
+  
+24 
+
+* * *
+
+These provisions may discourage certain types of transactions involving an actual or potential change in control. These provisions may also limit our stockholders’ ability to approve transactions that they may deem to be in their best interests and discourage transactions in which our stockholders might otherwise receive a premium for their stock over the current market price.
+
+Concentration of ownership among our existing officers, directors and principal stockholders may prevent other stockholders from influencing significant corporate decisions and depress our stock price.
+
+Our executive officers, directors and principal stockholders (5% stockholders) together control approximately 34.5% of our 28,563,100 shares of outstanding common stock as of December 31, 2022.
+
+Our Founder and Chief Executive Officer Mark Emalfarb, through the Mark A. Emalfarb Trust U/A/D October 1, 1987, as amended (the “MAE Trust”) of which he is the trustee and beneficiary, owned approximately 15.4% of our outstanding common stock as of December 31, 2022. Further, the Francisco Trust U/A/D February 28, 1996 (the “Francisco Trust”), whose beneficiaries are the descendants and spouse of Mr. Emalfarb, owned approximately 12.4% of our outstanding common stock as of December 31, 2022. We have historically been partially controlled, managed and partially funded by Mr. Emalfarb, and affiliates of Mr. Emalfarb. Collectively, Mr. Emalfarb and stockholders affiliated with Mr. Emalfarb controlled approximately 27.8% of our outstanding common stock as of December 31, 2022.
+
+Mr. Emalfarb may be able to control or significantly influence all matters requiring approval by our stockholders, including the election of directors and the approval of mergers or other business combination transactions. The interests of Mr. Emalfarb may not always coincide with the interests of other stockholders, and he may take actions that advance his personal interests and are contrary to the desires of our other stockholders.
+
+If our existing officers, directors and principal stockholders act together, they will be able to exert a significant degree of influence over our management and affairs and over matters requiring stockholder approval, including the election of directors and approval of significant corporate transactions. In addition, this concentration of ownership may delay or prevent a change in control and might affect the market price of our stock, even when a change may be in the best interests of all stockholders. Certain of our principal stockholders may elect to increase their holdings of our common stock, which may have the impact of delaying or preventing a change of control. Moreover, the interests of this concentration of ownership may not always coincide with our interests or the interests of other stockholders, and, accordingly, they could cause us to enter into transactions or agreements, which we would not otherwise consider.
+
+Future issuances of shares of our common stock may negatively affect our stock price.
+
+The sale of additional shares of our common stock, or the perception that such sales could occur, could harm the prevailing market price of shares of our common stock. These sales, or the possibility that these sales may occur, also might make it more difficult for us to sell equity securities in the future at a time and at a price that we deem appropriate.
+
+As of December 31, 2022, there were 28,563,100 shares of our common stock outstanding. Approximately 34.5% of these outstanding common shares are beneficially owned or controlled by our executive officers, directors and principal stockholders. 
+
+Our common stock has a relatively small public float. As a result, sales of substantial amounts of shares of our common stock, or even the potential for such sales, may materially and adversely affect prevailing market prices for our common stock. In addition, any adverse effect on the market price of our common stock could make it difficult for us to raise additional capital through sales of equity securities.
+
+The Company is exposed to credit risk and fluctuations in the values of its investment portfolio.
+
+The Company’s investments can be negatively affected by liquidity, credit deterioration, financial results, market and economic conditions, political risk, sovereign risk, interest rate fluctuations or other factors. As a result, the value and liquidity of the Company’s cash, cash equivalents, and marketable and non-marketable securities may fluctuate substantially, which could result in significant losses and could have a material adverse impact on the Company’s financial condition and operating results.
+
+We are a smaller reporting company, and the reduced disclosure requirements applicable to smaller reporting companies may make our common stock less attractive to investors.
+
+We are a smaller reporting company and are therefore entitled to rely on certain reduced disclosure requirements, such as an exemption from providing selected financial data and executive compensation information. We are also exempt from the requirement to obtain an external audit on the effectiveness of internal control over financial reporting provided in Section 404(b) of the Sarbanes-Oxley Act. These exemptions and reduced disclosures in our filings with the Securities and Exchange Commission due to our status as a smaller reporting company mean our auditors do not review our internal control over financial reporting, and may make it harder for investors to analyze our results of operations and financial prospects. We cannot predict if investors will find our common stock less attractive because we may rely on these exemptions. If some investors find our common stock less attractive as a result, there may be a less active trading market for our common stock, and our stock prices may be more volatile.
+
+25 
+
+* * *
+
+Item 1B.
+
+  
+
+Unresolved Staff Comments  
+  
+--- ---  
+  
+None.
+
+Item 2.
+
+  
+
+Properties

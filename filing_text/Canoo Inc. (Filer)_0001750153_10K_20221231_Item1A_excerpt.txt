@@ -1,0 +1,1095 @@
+ITEM 1A. RISK FACTORS
+
+Our operations and financial results are subject to various risks and uncertainties including those described below. You should consider them carefully, in addition to other information contained in this Annual Report on Form 10-K, including our consolidated financial statements and related notes. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we currently believe to be immaterial may also become important factors that adversely affect our business. If any of these risks occur, it may materially harm our business, financial condition, liquidity and results of operations. As a result, the market price of our securities could decline, and you could lose all or part of your investment.
+
+Summary of Risk Factors
+
+Below is a summary of material factors that make an investment in our Common Stock speculative or risky. Importantly, this summary does not address all the risks and uncertainties that we face. Additional discussion of the risks and uncertainties summarized in this risk factor summary, as well as other risks and uncertainties that we face, can be found under “Cautionary Note Regarding Forward-Looking Statements” and Part I, Item 1A, “Risk Factors” in this Annual Report on Form 10-K. The below summary is qualified in its entirety by those more complete discussions of such risks and uncertainties. You should consider carefully the risks and uncertainties described under Part I, Item 1A, “Risk Factors” in this Annual Report on Form 10-K as part of your evaluation of an investment in our Common Stock.
+
+•We are an early stage company with a history of losses and expect to incur significant expenses and continuing losses for the foreseeable future.
+
+•We may be unable to adequately control the costs associated with our operations.
+
+•Our current business plans require a significant amount of capital. If we are unable to obtain sufficient funding or do not have access to capital, we will be unable to execute our business plans and our prospects, financial condition and results of operations could be materially adversely affected.
+
+•Our management has performed an analysis of our ability to continue as a going concern and has identified substantial doubt about our ability to continue as a going concern. If we are unable to obtain sufficient 
+
+19
+
+* * *
+additional funding or do not have access to additional capital, we will be unable to execute our business plans and could be required to terminate or significantly curtail our operations.
+
+•We have been notified by The Nasdaq Stock Market LLC of our failure to comply with certain continued listing requirements and, if we are unable to regain compliance with all applicable continued listing requirements and standards of Nasdaq, our Common Stock could be delisted from Nasdaq, which would have an adverse impact on the trading, liquidity, and market price of our Common Stock.
+
+•Adverse developments affecting the financial services industry, such as actual events or concerns involving liquidity, defaults or non-performance by financial institutions could adversely affect our current financial condition and projected business operations.
+
+•We have not achieved positive operating cash flow and, given our projected funding needs, our ability to generate positive cash flow is uncertain.
+
+•Our financial results may vary significantly from period to period due to fluctuations in our operating costs, product demand and other factors. 
+
+•Our limited operating history makes evaluating our business and future prospects difficult and increases the risk of your investment.
+
+•We previously identified material weaknesses in our internal control over financial reporting. Although the weaknesses previously identified have been remediated, if we identify additional material weaknesses in the future or otherwise fail to maintain an effective system of internal controls, we may not be able to accurately or timely report our financial condition or results of operations, which may adversely affect our business and stock price.
+
+•If we fail to manage our growth effectively, we may not be able to design, develop, manufacture, market and launch our EVs successfully.
+
+•We are highly dependent on the services of our key employees and senior management and, if we are unable to attract and retain key employees and hire qualified management, technical and EV engineering personnel, our ability to compete could be harmed.
+
+•We face significant barriers to manufacture and bring our EVs to market, and if we cannot successfully overcome those barriers our business will be negatively impacted.
+
+•Our ability to develop and manufacture EVs of sufficient quality and appeal to customers on schedule and on a large scale is unproven and still evolving.
+
+•We will depend initially on revenue generated from a single EV model and in the foreseeable future will be significantly dependent on a limited number of models.
+
+•There is no guarantee that we will be able to develop our software platform, Canoo Digital Ecosystem, or that if we are able to develop it, that we will obtain the revenue and other benefits we expect from it.
+
+•We may fail to attract new customers in sufficient numbers or at sufficient rates or at all or to retain existing customers, if any, and may face risks if we are dependent on a small number of customers for a significant portion of our revenues.
+
+•If our EVs fail to perform as expected, our ability to develop, market and deploy our EVs could be harmed.
+
+•Our distribution model may expose us to risk and if unsuccessful may impact our business prospects and results of operations.
+
+•We face legal, regulatory and legislative uncertainty in how our go-to-market models will be interpreted under existing and future law, including, the potential inability to protect our intellectual property rights, and we may be required to adjust our consumer business model in certain jurisdictions as a result.
+
+20
+
+* * *
+•If we fail to successfully build and tool our manufacturing facilities or if our manufacturing facilities become inoperable, we will be unable to produce our vehicles and our business will be harmed.
+
+•We may not be able to realize the non-dilutive financial incentives offered by the States of Oklahoma and Arkansas where we will develop our own manufacturing facilities.
+
+•Developing our own manufacturing facilities for production of our EVs could increase our capital expenditures and delay or inhibit production of our EVs.
+
+•We have no experience to date in high volume manufacture of our EVs.
+
+•We may experience significant delays in the design, production and launch of our EVs, which could harm our business, prospects, financial condition and operating results.
+
+•Increases in costs, disruption of supply or shortage of raw materials and other components used in our vehicles, in particular lithium-ion battery cells, could harm our business.
+
+•We depend upon third parties to manufacture and to supply key components and services necessary for our vehicles. We do not have long-term agreements with all of our manufacturers and suppliers, and if these manufacturers or suppliers become unwilling or unable to provide these key components and services we would not be able to find alternative sources in a timely manner and our business would be adversely impacted.
+
+•We are or may be subject to risks associated with strategic alliances or acquisitions and may not be able to identify adequate strategic relationship opportunities, or form strategic relationships, in the future.
+
+•The automotive market is highly competitive and technological developments by our competitors may adversely affect the demand for our EVs and our competitiveness in this industry.
+
+•Our EVs are based on the use of complex and novel steer-by-wire technology that is unproven on a wide commercial scale and rely on software and hardware that is highly technical, and if these systems contain errors, bugs or vulnerabilities, or if we are unsuccessful in addressing or mitigating technical limitations in our systems, our business could be adversely affected.
+
+•We are subject to cybersecurity risks to our operational systems, security systems, infrastructure, integrated software in our EVs and customer data processed by us or third-party vendors.
+
+Risks Related to Our Business and Financial Results  
+
+
+We are an early stage company with a history of losses and expect to incur significant expenses and continuing losses for the foreseeable future.  
+
+
+We incurred a net loss and comprehensive loss of $487.7 million and $346.8 million, for the years ended December 31, 2022 and 2021, respectively. We believe we will continue to incur operating and net losses and comprehensive losses each quarter, at least until we significantly advance operations and produce and deliver our EVs to the market on a large scale. Due to various circumstances we have in the past, and may in the future, delay the launch and delivery of our vehicles, or may not be able to deliver them at all. Even if we are able to successfully develop our EVs and attract customers for our vehicle and product offerings, there can be no assurance that we will be financially successful. Our potential profitability is dependent upon the successful development and successful commercial introduction and acceptance of our EVs, which may not occur.
+
+We expect the rate at which we will incur losses to be significantly higher in future periods as we:
+
+•continue to design, develop, manufacture and market our EVs;
+
+•continue to utilize third-parties for supply, parts of our product development process and pre-production manufacturing;
+
+21
+
+* * *
+•expand and scale our production capabilities, including costs associated with developing and equipping our own manufacturing facilities (or if required, outsourcing some of the manufacturing of our EVs);
+
+•build up inventories of parts and components for our EVs;
+
+•manufacture an inventory of our EVs;
+
+•continue to design, develop, and launch our software offerings and other non-vehicle products;
+
+•expand our installation and servicing and repair capabilities;
+
+•increase our sales and marketing activities and develop our distribution infrastructure; and
+
+•increase our general and administrative functions to support our growing operations and to operate as a public company.
+
+Because we will incur the costs and expenses from these efforts before we receive substantial amounts of incremental revenue with respect thereto, our losses in future periods will continue to be significant. In addition, we may find that these efforts are more expensive than we currently anticipate or that these efforts may not result in revenue, which would further increase our losses.
+
+We may be unable to adequately control the costs associated with our operations.
+
+We require significant capital to develop and grow our business, including acquiring, developing and tooling our production facilities, developing and producing our EVs, establishing or expanding design, research and development, production, sales, customer experience and service facilities and building our brand. We have incurred and expect to continue incurring significant expenses which will impact our profitability, including expenses to develop and tool our facilities, research and development expenses (including related to developing and commercializing our Lifestyle Vehicle, including the Lifestyle Delivery Vehicle, MPDV and Pickup, configurations thereof, and other future vehicles), raw material procurement costs, sales and distribution expenses as we build our brand and market our EVs and other products, and general and administrative expenses as we scale our operations, identify and commit resources to investigate new areas of demand and incur costs as a public company. Furthermore, although we believe the intended modularity of our EV platform will allow us to reduce costs to develop and manufacture new vehicles, we cannot guarantee that this will be the case and the development and manufacture of new vehicle models may require greater capital expenditure than anticipated. In addition, we may incur significant costs associated with developing and operating both effective sales channels as well as a robust service and maintenance network for our EVs. Our ability to become profitable in the future will not only depend on our ability to complete the design and development of our EVs to meet projected performance metrics, identify and investigate new areas of demand and successfully market our EVs, but also to sell our EVs at prices needed to achieve our expected margins and control our capital expenditures and costs, including the risks and costs associated with developing our facilities, operating, maintaining and financing our fleet of EVs. If we are unable to efficiently design, develop, manufacture, market, deploy, distribute and service our EVs, our margins, profitability and prospects would be materially and adversely affected.
+
+Our current business plans require a significant amount of capital. If we are unable to obtain sufficient funding or do not have access to capital, we may not be able to execute our business plans and our prospects, financial condition and results of operations could be materially adversely affected.
+
+  
+
+
+We have experienced operating losses, and we expect to continue to incur operating losses as we implement our business plans. We expect our capital expenditures to continue to be significant in the foreseeable future as we expand our business. We expect to expend capital with significant outlays directed both toward bringing our current vehicle programs to market as well as developing additional vehicles, along with related products and service offerings. The fact that we have a limited operating history means we have limited historical data on the demand for our EVs and other products. As a result, our future capital requirements may be uncertain and actual capital requirements may be different from those we currently anticipate. In addition, new opportunities for growth in future product lines and markets may arise and may require additional capital.
+
+  
+
+
+During the fourth quarter of 2022, our principal sources of liquidity were proceeds from the ATM Offering (Note 14) and Yorkville PPA (Notes 9 and 14), as well as our unrestricted cash balance in the amount of $36.6 million as of December 31, 2022. As an early-stage growth company, our ability to access capital is critical. We expect that we will need 
+
+22
+
+* * *
+to raise additional capital in order to continue to execute our business plans in the future, and we plan to seek equity and/or debt financing, including by offering additional equity, and/or equity-linked securities, through one or more credit facilities and potentially by offering debt securities, to finance a portion of our future expenditures. The global macroeconomic environment and the resulting negative impacts on capital markets as well as other geopolitical forces may make it more difficult for us to raise additional funds. 
+
+  
+
+
+The sale of additional equity or equity-linked securities could dilute our stockholders. The incurrence of indebtedness would result in increased debt service obligations and could result in operating and financing covenants that would restrict our operations or our ability to pay dividends to our stockholders. Our ability to obtain the necessary additional financing to carry out our business plans or to refinance, if necessary, any outstanding debt when due is subject to a number of factors, including general market conditions, which continue to experience volatility and disruptions as a result of inflation and interest rate changes, and investor acceptance of our business model. These factors may make the timing, amount, terms and conditions of such financing unattractive or unavailable to us. If we are unable to raise sufficient funds on favorable terms, we may have to significantly reduce our spending, delay or cancel our planned activities or substantially change our corporate structure. We might not be able to obtain any such funding or we might not have sufficient resources to conduct our business as projected, both of which could mean that we would be forced to curtail or discontinue our operations and our prospects, financial consolidated results of operations could be materially adversely affected, in which case our investors could lose some or all of their investment.
+
+  
+
+
+Our management has performed an analysis of our ability to continue as a going concern and has identified substantial doubt about our ability to continue as a going concern. If we are unable to obtain sufficient additional funding or do not have access to capital, we may be required to terminate or significantly curtail our operations.
+
+  
+
+
+Based on their assessment, our management has raised concerns about our ability to continue as a going concern. Management continues to explore raising additional capital through a combination of debt financing, other non-dilutive financing and/or equity financing to supplement the Company’s capitalization and liquidity. However, as substantial doubt about our ability to continue as a going concern exists, our ability to finance our operations through the sale and issuance of additional debt or equity securities or through bank or other financing could be impaired and management cannot conclude as of the date of this filing that its plans are probable of being successfully implemented. As of the date of this report, we believe that our existing cash resources and additional sources of liquidity are not sufficient to support planned operations for the next 12 months. Our ability to continue as a going concern will depend on our ability to obtain additional capital. 
+
+  
+
+
+During the fourth quarter of 2022, our principal sources of liquidity were proceeds from the ATM Offering (Note 14) and Yorkville PPA (Notes 9 and 14), as well as our unrestricted cash balance in the amount of $36.6 million as of December 31, 2022. The decision regarding future sales of shares through the ATM Offering is subject to market conditions, such as trading volume, price of our Common Stock and other factors beyond our control, as well as conditions included in the programs’ governing documents. As of March 27, 2023, we had issued an aggregate of 36.3 million shares under the ATM Offering. There is no guarantee that we will be able to sell any additional shares and receive any additional proceeds from the ATM Offering. Therefore, our current sources of financing remain limited. 
+
+  
+
+
+We continue to explore potential sources of capital financing. However, additional capital may not be available on favorable terms, or at all, and additional equity financing, including shares issued under the ATM Offering, will further dilute our current stockholders. If we raise additional funds by issuing debt securities or preferred stock, or by incurring additional loans, these forms of financing would have rights, preferences, and privileges senior to those of holders of our Common Stock. If adequate capital is not available to us in the amounts needed, we could be required to terminate or significantly curtail our operations in which case our investors could lose some or all of their investment.
+
+  
+
+
+Adverse developments affecting the financial services industry, such as actual events or concerns involving liquidity, defaults or non-performance by financial institutions could adversely affect our current financial condition and projected business operations.
+
+  
+
+
+Actual events involving limited liquidity, defaults, non-performance or other adverse developments that affect financial institutions, transactional counterparties or other companies in the financial services industry or the financial services industry generally, or concerns or rumors about any events of these kinds or other similar risks, have in the past and may in the future lead to market-wide liquidity problems. In addition, there is the possibility that we may not be able to access a portion of our existing cash and cash equivalents and investments in marketable securities due to market conditions. For example, on March 10, 2023, the Federal Deposit Insurance Corporation, or the FDIC, took control and was appointed receiver of Silicon Valley Bank, one of our banking partners. If other banks and financial institutions enter receivership or become insolvent in the future in response to financial conditions affecting the banking system and financial markets, our ability to access our cash and cash equivalents and investments in marketable securities may be threatened and could have a material adverse effect on our business and financial condition.
+
+  
+
+
+23
+
+* * *
+We have not achieved positive operating cash flow and, given our projected funding needs, our ability to generate positive cash flow is uncertain.
+
+We have had negative cash flow from operating activities of $400.5 million and $300.8 million for the years ended December 31, 2022 and 2021, respectively. We expect to continue to have negative cash flow from operating and investing activities for 2023 as we will continue to incur research and development, sales and marketing, and general and administrative expenses and make capital expenditures in our efforts to develop and tool our facilities for production, increase sales, engage in development work and ramp up operations, including capital expenditures directed towards the manufacturing of our EVs. Our business also will at times require significant amounts of working capital to support the growth of additional EV platforms and vehicle models. An inability to generate positive cash flow may adversely affect our ability to raise needed capital for our business on reasonable terms, diminish supplier or customer willingness to enter into transactions with us, and have other adverse effects that may decrease our long-term viability. There can be no assurance that we will achieve positive cash flow in the near future or at all.
+
+Our financial results may vary significantly from period to period due to fluctuations in our operating costs, product demand and other factors.
+
+We expect our period-to-period financial results to vary based on our operating costs and product demand, which we anticipate will fluctuate as the pace at which we continue to design, develop and manufacture new EVs, increase production capacity and establish or expand design, research and development, production, sales and service facilities. Fluctuations in our period-to-period financial results may be further exacerbated as a result of factors beyond our control, including inflation, changes in interest rates, demand for components and materials, and cost of labor. Additionally, our revenue from period to period may fluctuate as we identify and investigate areas of demand, adjust volumes and add new product derivatives based on market demand and margin opportunities, develop and introduce new EVs or introduce existing EVs to new markets for the first time. As a result of these factors, we believe that quarter-to-quarter comparisons of our financial results are not and will not be necessarily meaningful for the foreseeable future and that these comparisons cannot be relied upon as indicators of future performance. Moreover, our financial results may not meet expectations of equity research analysts, ratings agencies or investors, who may be focused only on quarterly financial results. If any of this occurs, the trading price of our Common Stock could fall substantially, either suddenly or over time.
+
+Our limited operating history makes evaluating our business and future prospects difficult and increases the risk of your investment.
+
+You must consider the risks and difficulties we face as an early stage company with a limited operating history. If we do not successfully address these risks, our business, prospects, financial condition and operating results will be materially and adversely harmed. Legacy Canoo was incorporated in November 2017, and we became a public company in late 2020. As a result, we have a very limited operating history on which investors can base an evaluation of our business, prospects, financial condition and operating results. There are no assurances that we will be able to secure future business with customers.
+
+It is difficult to predict our future revenue and appropriately budget for our expenses, and we have limited insight into trends that may emerge and affect our business. In the event that actual results differ from our estimates or we adjust our estimates in future periods, our operating results and financial position could be materially affected.
+
+We previously identified material weaknesses in our internal control over financial reporting. Although the weaknesses previously identified have been remediated, if we identify additional material weaknesses in the future or otherwise fail to maintain an effective system of internal controls, we may not be able to accurately or timely report our financial condition or results of operations, which may adversely affect our business and stock price.  
+
+
+In connection with the preparation and audit of our consolidated financial statements for the year ended December 31, 2019, we identified material weaknesses in our internal control over financial reporting. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our annual or interim consolidated financial statements will not be prevented or detected on a timely basis. 
+
+Although the identified weaknesses have been remediated, we cannot assure you that we will not identify other material weaknesses in the future and that the measures we may take in that case, will be sufficient to remediate any control deficiencies. The effectiveness of our internal control over financial reporting is subject to various inherent limitations, including cost limitations, judgments used in decision making, assumptions about the likelihood of future events, the 
+
+24
+
+* * *
+possibility of human error and the risk of fraud. If we identify additional material weaknesses, our ability to record, process and report financial information accurately, and to prepare financial statements within the time periods specified by the forms of the U.S. Securities and Exchange Commission (the “SEC”) could be adversely affected which, in turn, may adversely affect our reputation and business and the market price of our Common Stock. In addition, any such failures could result in litigation or regulatory actions by the SEC or other regulatory authorities, loss of investor confidence, delisting of our securities and harm our reputation and financial condition, or diversion of financial and management resources from the operation of our business.
+
+If we fail to manage our growth effectively, we may not be able to design, develop, manufacture, market and launch our EVs successfully.
+
+Any failure to manage our growth effectively could materially and adversely affect our business, prospects, operating results and financial condition. We intend to expand our operations significantly. We expect our future expansion to include:
+
+•developing our facilities;
+
+•expanding the management team;
+
+•hiring and training new personnel;
+
+•forecasting production and revenue;
+
+•controlling expenses and investments in anticipation of expanded operations;
+
+•establishing or expanding design, production, sales and service facilities;
+
+•implementing and enhancing administrative infrastructure, systems and processes; and
+
+•expanding into new markets.
+
+We are highly dependent on the services of our key employees and senior management and, if we are unable to attract and retain key employees and hire qualified management, technical personnel, our ability to compete could be harmed.
+
+  
+
+
+Our success depends, in part, on our ability to retain our key personnel. The unexpected loss of or failure to retain one or more of our key employees could adversely affect our business. In particular, we are highly dependent on the services and reputation of Tony Aquila, our Chief Executive Officer and Executive Chair. Mr. Aquila is a significant influence on and driver of our business plan. If Mr. Aquila were to discontinue his service due to death, disability or any other reason, or if his reputation is adversely impacted by personal actions or omissions or other events within or outside his control, we would be significantly disadvantaged.
+
+  
+
+
+Our success also depends, in part, on our continuing ability to identify, hire, attract, train and develop other highly qualified personnel. We intend to continue to hire a significant number of additional personnel, including software engineers, design and production personnel and service technicians for our EVs and related products, including our software offerings. Competition for individuals with experience designing, producing and servicing EVs and automotive software is intense particularly given current labor shortages. As a result, it may be challenging to attract, hire and retain skilled personnel, in particular automotive engineering and software engineers. The geographic location of the areas where we operate or intend to operate, including Arkansas, Oklahoma, Michigan, Texas and Southern California may exacerbate these challenges given that availability of skilled personnel with experience in EVs and automotive software may not be as readily or historically available in certain of those locations. 
+
+  
+
+
+Moreover, in the near term, the successful launch and ramp up of our manufacturing operations will require the hiring of substantial numbers of new personnel. Because our EVs are based on a different technology platform than traditional internal combustion engines, individuals with sufficient training in alternative fuel and EVs may not be available to hire, and as a result, we expect to expend significant time and expense training any newly hired employees. The timely and successful launch of our manufacturing operations, and thus our vehicle programs, is dependent upon on our ability to identify, hire, attract, train and retain enough qualified personnel to develop our facilities and initiate production of our EVs at scale.
+
+25
+
+* * *
+We face significant barriers to manufacture and bring our EVs to market, and if we cannot successfully overcome those barriers our business will be negatively impacted.
+
+The EV industry has traditionally been characterized by significant barriers to entry, including the ability to meet performance requirements or industry specifications, acceptance by end users, large capital requirements, investment costs of design and production, long lead times to bring EVs to market from the concept and design stage, the need for specialized design and development expertise, regulatory requirements, establishing a brand name and image the need to establish sales capabilities, and increasing competition of more established companies. If we are not able to overcome these barriers, our business, prospects, financial condition and operating results will be negatively impacted and our ability to grow our business will be harmed.
+
+  
+
+
+Outstanding amounts under the PPA will make us more vulnerable to downturns in our financial condition.
+
+  
+
+
+As of March 24, 2023, there are no Pre-Paid Advances outstanding under the PPA. Under the terms of the PPA, there are certain conditions precedent to each Pre-Paid Advance, including, among others, that the market price of our Common Stock is greater than $1.50 per share as measured by the average daily VWAP for each of the three consecutive trading days immediately prior to the date of determination. As such, additional capital under the PPA will not be available to the Company without Yorkville waiving the share price condition discussed in the preceding sentence unless the market price of our Common Stock increases above $1.50. If there are subsequent Pre-Paid Advances under the PPA, our cash flow from operations may be insufficient to meet our payment obligations under the PPA, in which case we could incur an event of the default under the PPA which would cause all outstanding amounts to become immediately due and payable. Furthermore, under the terms of the PPA, if there are any amounts outstanding under a Pre-Paid Advance, we would be unable to continue issuing shares of Common Stock under the ATM Offering without prior consent from Yorkville. Any subsequent debt we may owe Yorkville under the PPA or any other debt owed to other parties could make us more vulnerable to a downturn in our operating results or a downturn in economic conditions. If our cash flow from operations is insufficient to meet any debt service requirements or we incur an event of default, we could be required to refinance our obligations, or dispose of assets in order to meet debt service requirements.
+
+  
+
+
+Customers who have committed to purchase significant amounts of our vehicles may purchase significantly fewer vehicles than we currently anticipate or none at all. In that case, our business, prospects, financial condition, results of operations, and cash flows could be materially and adversely affected.
+
+  
+
+
+Our future success depends on us commencing commercial sales and attracting a large number of customers for our EVs. In the near-term, if we are able to complete the development of our MPP and EVs, we have secured commitments from Walmart, Zeeba and Kingbee to purchase vehicles. Pursuant to EV Fleet Purchase Agreements, such parties agreed to purchase certain specific number of EVs, in each case with an option to purchase additional EVs. Such parties’ purchases are subject to us meeting certain acceptance and performance criteria with respect to EVs. If we are unable to meet such requirements, such parties may terminate the EV Fleet Purchase Agreements or decide to purchase fewer vehicles than expected. Walmart also has the right to terminate the Walmart EV Fleet Purchase Agreement for convenience upon at least 30 days’ written notice. Furthermore, these parties may not have the financial resources to purchase vehicles from us. If these parties terminate the EV Fleet Purchase Agreements or purchase less EVs than expected or none at all, we will not realize the revenue that we expect to realize from these agreements.
+
+  
+
+
+In addition, the automotive market is highly competitive, and our relationship with Walmart will limit our access to certain customers that could represent substantial business opportunities. Under the Walmart EV Fleet Purchase Agreement, we granted Walmart exclusivity rights, which restrict our ability to contract with Amazon.com, Inc., its subsidiaries, or affiliates. If due to the exclusivity granted to Walmart, we cannot sell our EVs to these customers, our operations may be adversely impacted. Furthermore, our commercial relationship with Walmart, together with its ownership of our Common Stock as a result of the exercise of the Warrant we issued to Walmart, may deter Walmart’s competitors or other third parties from contracting with us. 
+
+  
+
+
+As a result of the EV Fleet Purchase Agreements, we will make substantial capital investments and strategic business decisions. If we are unable to maintain our relationships with Walmart, Zeeba or Kingbee or other similar parties, our business, prospects, financial condition, results of operations, and cash flows could be materially and adversely affected.
+
+26
+
+* * *
+Risks Related to our Customers and Products
+
+Our ability to develop and manufacture EVs of sufficient quality and appeal to customers on schedule and on a large scale is unproven and still evolving.
+
+Our future business depends in large part on our ability to execute our plans to design, develop, manufacture, market, deploy and service our EVs and other product offerings.
+
+In late 2022, we conducted limited production of our Lifestyle Delivery Vehicle at our Michigan facility. In 2023, we expect that additional production of the Lifestyle Delivery Vehicle will be offered, with our other vehicle models and configurations to come shortly thereafter. However, we have significant milestones to achieve before then and we have had to delay and reassess our launch dates various times in the past. Our continued development and manufacturing of our first volume manufactured EVs and our future EVs are and will be subject to risks, including with respect to:
+
+•appropriate design and timely development and tooling of our manufacturing facilities or availability of alternatives to production, if we face challenges that impact the timely development of our facilities;
+
+•the equipment we plan to use being able to accurately manufacture our EVs within specified design tolerances;
+
+•the compatibility of our proprietary modular EV platform with each of our currently planned vehicles and future vehicle designs;
+
+•long- and short-term durability of our EVs to withstand day-to-day wear and tear;
+
+•compliance with environmental, workplace safety and similar regulations;
+
+•engineering, designing and testing and securing delivery of critical systems and components on acceptable terms and in a timely manner;
+
+•delays in delivery of final systems and components by our suppliers;
+
+•shifts in demand for our current products and future derivatives built off our EV platform;
+
+•our ability to attract, recruit, hire and train skilled employees;
+
+•quality controls, particularly as we plan to expand our production capabilities;
+
+•delays or disruptions in our supply chain;
+
+•other delays and cost overruns; and
+
+•our ability to secure additional funding, if necessary.
+
+  
+
+
+We also currently plan to retain third-party vendors and service providers to engineer, design and test some of the critical systems and components of our EVs. While this allows us to draw from such third parties’ industry knowledge and expertise, there can be no assurance such systems and components will be successfully developed to our specifications or delivered in a timely manner to meet our program timing requirements.
+
+We will depend initially on revenue generated from a single EV model and in the foreseeable future will be significantly dependent on a limited number of models.
+
+Our business will initially depend substantially on the success of our first vehicle releases, primarily our Lifestyle Delivery Vehicles. We expect to be ready to deliver the Lifestyle Vehicle and its variants first; however, at this time, there is no absolute certainty regarding timing of production of this model or our other models. Historically, automobile customers have come to expect a variety of vehicle models offered in a manufacturer’s fleet and new and improved vehicle models to be introduced frequently. In order to meet these expectations as well as evolving areas of market demand and margin opportunities, we plan in the future to introduce on a regular basis new EV models as well as enhance versions of existing vehicle models. The introduction of new EV models on the consumer side may limit customers’ willingness to 
+
+27
+
+* * *
+purchase older model EVs. To the extent our product variety and cycles do not meet consumer expectations or cannot be manufactured on our projected timelines and in line with cost and volume targets, our financial results may be materially adversely affected. Given that for the foreseeable future, our business will depend on a limited number of models, to the extent a particular model is not well-received by the market, our sales volume could be materially and adversely affected. This could have a material adverse effect on our business, prospects, financial condition and operating results.
+
+There is no guarantee that we will be able to develop our software platform, Canoo Digital Ecosystem, or that if we are able to develop it, that we will obtain the revenue and other benefits we expect.
+
+In addition to our vehicle technology, we are developing a software platform intended to aggregate car data from both our EVs and other vehicles to deliver certain information to our customers. We believe this software will be an important component to maximize utility and value from the vehicle ownership experience. Leveraging our data aggregation platform, we are planning to create an “application store,” the Canoo Digital Ecosystem, to centralize vehicle information for customers. We expect some functionalities will be packaged with the vehicle, while others are expected to be offered as upgradeable options. In addition, we plan to assess partnerships with third parties for certain services accessed through our software, such as financing or insurance. If we are unable to develop our software platform or market the Canoo Digital Ecosystem, or if customers do not consider it valuable or do not use it as intended, we may not achieve the benefits we expect and our revenues may be lower than expected, all of which could adversely affect our business, prospects, financial condition, results of operations, and cash flows.
+
+  
+
+
+We may fail to attract new customers in sufficient numbers or at sufficient rates or at all or to retain existing customers, if any, and may face risks if we are dependent on a small number of customers for a significant portion of our revenues.
+
+We must continually add new customers both to replace departing customers and to expand our current customer base. We may not be able to attract new customers in sufficient numbers to do so. Even if we are able to attract new customers to replace departing customers, these new customers may not maintain the same level of commitment. In addition, we may incur marketing or other expenses, including referral fees, to attract new customers, which may further offset revenue from customers. For these and other reasons, we could experience a decline in revenue growth, which could adversely affect our results of operations.
+
+If consumers do not perceive our product offerings to be of value or our EV offerings are not favorably received by them, we may not be able to attract and retain customers. If our efforts to satisfy and retain our existing customers are not successful, we may not be able to attract new customers, and as a result, our ability to maintain and/or grow our business will be adversely affected. Customer retention will also be largely dependent on the quality and effectiveness of our customer service and operations, which may be handled internally by our personnel and also by third-party service providers. Outsourcing of certain customer service and claims administration functions may reduce our ability to ensure consistency in our overall customer service processes. In addition, competitors may provide a better value or services. If we are unable to successfully compete with current and new competitors in both retaining existing customers and attracting new customers, our business will be adversely affected.
+
+In addition, because we intend to focus a portion of our selling efforts on commercial fleets, particularly with respect to the Lifestyle Delivery Vehicle and MPDV, we may at times depend upon purchases from a small number of customers, or a single customer, particularly as we begin to develop our brand reputation and customer base. We may make capital investments and strategic business decisions as a result of a substantial relationship with one or more of such customers. If we are unable to maintain a strong relationship with such customers or if anticipated sales volumes with such customers decrease or do not meet expectations, whether or not for reasons outside of our control, our revenue and operations could be adversely affected.
+
+Furthermore, our results of operations could be adversely affected by declines in demand for our product offerings or failures to effectively respond to changes in customer demand. Demand for our product offerings may be negatively affected by a number of factors, including geopolitical uncertainty, competition, cybersecurity incidents, decline in our reputation and saturation in the markets where we operate. Prevailing general and local economic conditions may also negatively affect the demand for our EV offerings.
+
+28
+
+* * *
+Our business and prospects depend significantly on our ability to build the Canoo product and servicing brand. We may not succeed in continuing to establish, maintain and strengthen the Canoo brand, and our brand and reputation could be harmed by negative publicity regarding Canoo or our EVs.
+
+Our business and prospects are heavily dependent on our ability to develop, maintain and strengthen the Canoo brand. If we are unable to maintain and strengthen our brand, we may lose the opportunity to sell to targeted customers. Promoting and positioning our brand depends significantly on our ability to provide high quality EVs and engage with our customers as intended, and we have limited experience in these areas. In addition, our ability to develop, maintain and strengthen the Canoo brand will depend heavily on the success of our customer sales and development. Such efforts mainly include building a community of online and offline users engaged with our mobile application and branding initiatives, such as targeted marketing programs through direct marketing to potential partners and localities. Such efforts may be non-traditional and may not achieve the desired results. To reach targeted sales goals, we may be required to change our customer development and branding practices, which could result in substantially increased expenses, including, for example, the increased need to use traditional media such as television, radio and print and engage celebrity talent or brand ambassadors. Many consumers value safety and reliability as important factors in choosing a vehicle and may be reluctant to acquire a vehicle from a new and unproven automotive maker. In addition, our novel technology and design may not align with existing consumer preferences. If we do not develop and maintain a strong brand and product alignment with potential customers, our business, prospects, financial condition and operating results will be materially and adversely impacted.
+
+In addition, if incidents occur or are perceived to have occurred, whether or not such incidents are within our control, we could be subject to adverse publicity. Given the popularity of social media, any negative publicity, whether true or not, could quickly proliferate and harm consumer perceptions and confidence in the Canoo brand. Furthermore, there is the risk of potential adverse publicity related to our manufacturing or other partners whether or not such publicity related to their collaboration with us. Our ability to successfully position our brand could also be adversely affected by perceptions about the quality of our competitors’ vehicles.
+
+In addition, from time to time, our EVs may be evaluated and reviewed by third parties. Any negative reviews or reviews which compare us unfavorably to competitors could adversely affect consumer perception about our EVs.
+
+If our EVs fail to perform as expected, our ability to develop, market and deploy our EVs could be harmed.
+
+Our EVs may contain defects in design and production that may cause them not to perform as expected or may require repair. We currently have a limited frame of reference by which to evaluate the performance of our EVs. There can be no assurance that we will be able to detect and fix any defects in our EVs. We may experience recalls in the future, which could adversely affect our brand and could adversely affect our business, prospects, financial condition and operating results. Our EVs may not perform consistent with customers’ expectations or consistent with other vehicles which may become available. Any product defects or any other failure of our EVs and software to perform as expected could harm our reputation and result in adverse publicity, lost revenue, delivery delays, product recalls, negative publicity, product liability claims and significant warranty and other expenses and could have a material adverse impact on our business, prospects, financial condition and operating results. Additionally, problems and defects experienced by other electric consumer vehicles could by association have a negative impact on perception and customer demand for our EVs.
+
+Our distribution model may expose us to risk and if unsuccessful, may impact our business prospects and results of operations.
+
+We expect to offer certain of our vehicles through direct sales through our website for fleets, individuals, and volume orders. Direct sales to customers rather than through franchised dealerships, is a model of vehicle distribution that is relatively new and is different from the predominant current distribution model for automobile manufacturers and, with limited exceptions, unproven. In addition, we are also exploring vehicle sales through alternative distribution channels, including physical retailers and online sales platforms, as well as franchise dealers.
+
+We have no historical experience in selling or leasing vehicles directly or through alternative channels, and therefore this model may require significant expenditures and provide for slower expansion than the traditional dealer franchise system. For example, we will not be able to utilize long established sales channels developed through a franchise system to increase sales volume. Moreover, we will be competing with companies with well established distribution channels. Our success will depend in large part on our ability to effectively develop our own sales channels and marketing strategies.
+
+29
+
+* * *
+Implementing a direct sales and leasing model is subject to numerous significant challenges, including obtaining permits and approvals from government authorities, and we may not be successful in addressing these challenges in all cases. Further, there are substantial automotive franchise laws in place in many geographies around the world and we might be exposed to significant franchise dealer litigation risks, which risks may be further increased if we ultimately elect to pursue a direct sales and leasing model in certain jurisdictions in lieu of a dealer franchise model.
+
+If our direct sales and leasing model or alternative distribution channels do not develop as expected or develop more slowly than expected, we may be required to modify or abandon such models, which could materially and adversely affect our business, prospects, financial condition, results of operations, and cash flows.
+
+In addition, a portion of our distribution may be conducted under a consumer subscription model. A consumer subscription model is a distinct approach to automotive sales. In a subscription model, we would provide customers direct access to our owned EV fleet rather than selling or leasing our EVs via direct sales. The subscription model of vehicle distribution is relatively new and unproven and may provide for slower expansion than a traditional dealer franchise model. In addition, as the EVs in a subscription fleet age, consumers may be unwilling to pay the same subscription price as they are for a new vehicle, and if we are forced to discount our subscription prices, it may limit our ability to become profitable. If consumers determine that there is not a compelling reason to switch from the traditional automotive purchasing models, our subscription model may not develop as expected and we may not be able to conduct sales through such a model, which may have an adverse impact on our results of operations.
+
+We face legal, regulatory and legislative uncertainty in how our go-to-market models will be interpreted under existing and future law and we may be required to adjust our business model in certain jurisdictions as a result.
+
+Direct sales models and subscription models are each relatively novel in the automotive industry and may be subject to challenge under foreign, federal, state, local or municipal laws or regulatory restrictions in certain jurisdictions. We may be required to seek regulatory or policy changes to clarify uncertainties in existing law or to comply with certain existing state and local laws and regulations regarding advertising, sales, referrals, contract and pricing disclosures, delivery of EVs to consumers, operating showrooms, data collection, vehicle tracking, service and repair, recall or other aspects of a non-traditional go-to-market model. In addition, dealer and other trade associations may mount challenges to such a model by challenging the legality of our operations in court and may undertake regulatory and legislative efforts to propose laws that, if enacted, would prohibit or severely limit our ability to operate. The application of state laws, including the regulatory and legislative process, to our operations and prospect continues to be difficult to predict.
+
+If we cannot overcome such legal, regulatory and legislative barriers in certain jurisdictions, we may be required to adjust our consumer go-to-market strategies or timetable in order to comply with the laws and regulations of such jurisdictions or, in certain other jurisdictions, we may be prohibited from operating altogether. For customers residing in any jurisdictions in which we will not be allowed to market or directly sell EVs based on our direct sales model or a subscription model, as the case may be, we may have to arrange alternate sales and distribution methods, or cease sales and marketing efforts altogether. These workarounds could add significant complexity, and as a result, costs, to our business.
+
+We expect that we will incur significant costs in defending our right to operate in accordance with a direct sales model or subscription model in many jurisdictions, which subjects us to substantial risk as it may provide for slower and more costly expansion of our business than may be possible by utilizing more traditional approaches. To the extent that efforts to block or limit our operations are successful, or if we are required to comply with regulatory and other requirements applicable to vehicle leasing, franchise laws or rental car services, our revenue and growth would be adversely affected.
+
+Future product recalls could materially adversely affect our business, prospects, financial condition and operating results.
+
+Any product recall in the future, whether it involves our or a competitor’s product, may result in negative publicity, damage our brand and materially adversely affect our business, prospects, financial condition and operating results. In the future, we may voluntarily or involuntarily, initiate a recall if any of our EVs or any of their parts prove to be defective or noncompliant with applicable federal motor vehicle safety standards. These types of disruptions could jeopardize our ability to fulfill existing contractual commitments or satisfy demand for our EVs and could also result in the loss of business to our competitors. Such recalls also involve significant expense and diversion of management attention and other resources, which could adversely affect our brand image, as well as our business, prospects, financial condition 
+
+30
+
+* * *
+and operating results. If a large number of vehicles are the subject of a recall or if needed replacement parts are not in adequate supply, we may not be able to repair and re-deploy recalled vehicles for a significant period of time.
+
+If we are unable to establish and maintain confidence in our long-term business prospects among customers and analysts and within our industry or are subject to negative publicity, then our financial condition, operating results, business prospects and access to capital may suffer materially.
+
+Customers may be less likely to purchase our EVs if they are not convinced that our business will succeed or that our service and support and other operations will continue in the long term. Similarly, suppliers and other third parties will be less likely to invest time and resources in developing business relationships with us if they are not convinced that our business will succeed. Accordingly, in order to build and maintain our business, we must maintain confidence among customers, suppliers, analysts, ratings agencies and other parties in our EVs, long-term financial viability and business prospects. Maintaining such confidence may be particularly complicated by certain factors including those that are largely outside of our control, such as our limited operating history, customer unfamiliarity with our EVs, any delays in developing our manufacturing facilities and launching or scaling production as well as delivery and service operations to meet demand, competition and uncertainty regarding the future of hybrid electric and EVs, including our EVs and our production and sales performance compared with market expectations.
+
+We have not yet executed on our EV aftermarket servicing and customer deployment of our integrated software. If we or our partners are unable to adequately service our EVs, our business, prospects, financial condition and operating results may be materially and adversely affected.
+
+We do not yet have experience in servicing or repairing our EVs for customers. We will launch of EV aftermarket servicing and customer deployment of our integrated software in tandem with our first customer deliveries. If our we or our partners do not adequately scale, it may negatively affect our business, financial condition and operating results. Additionally, servicing EVs is different than servicing vehicles with internal combustion engines and requires specialized skills, including high voltage training and servicing techniques. We plan to leverage our own service facilities or partner with third-parties, where possible, to perform some or all of the servicing on our EVs, and there can be no assurance that we will be able to enter into effective arrangement with any such third-party provider. Although such servicing partners may have experience in servicing other vehicles, they will initially have limited experience in servicing our vehicles. There can be no assurance that our service arrangements will adequately address the service requirements of our customers to their satisfaction, or that we and our servicing partners will have sufficient resources, experience or inventory to meet these service requirements in a timely manner. Any continued global and local disruptions in supply chains, due to the pandemic and other factors, may adversely affect our timely capacity to service our vehicles. In addition, if we are unable to roll out and establish a widespread service network that complies with applicable laws, customer satisfaction could be adversely affected, which in turn could materially and adversely affect our reputation and thus our sales, results of operations and prospects.
+
+While we expect some Canoo Digital Ecosystem functionalities to be packaged with the vehicle, others are expected to be offered as upgradeable options accessed as a subscription service. Our customers will depend on our customer support team to resolve technical and operational issues with respect to the integrated software functionality underlying our EVs or the additional functionality accessed through subscription. We will need to accurately predict service costs and customer usage in order to provide customer support and vehicle maintenance in a cost-effective manner. Customer behavior and usage may result in higher than expected maintenance and repair costs, which may negatively affect our financial condition and operating results.
+
+As we continue to grow, additional pressure may be placed on our customer support team or partners, and we may be unable to respond quickly enough to accommodate short-term increases in customer demand for technical support. We also may be unable to modify the future scope and delivery of our technical support to compete with changes in the technical support provided by our competitors. Increased customer demand for support, without corresponding revenue, could increase costs and negatively affect our operating results. If we are unable to successfully address the service requirements of our customers or establish a market perception that we do not maintain high-quality support, we may be subject to claims from our customers, including loss of revenue or damages, and our business, prospects, financial condition and operating results may be materially and adversely affected.
+
+31
+
+* * *
+Our customers may face challenges with charging solutions for our EV.
+
+The successful growth of the EV market, including for us, depends on the availability of comprehensive charging solutions conveniently accessible. We will seek to reduce range anxiety by designing our vehicles to be able to use a wide range of charging solutions and by connecting charging availability to our mobile application. The success of these efforts is highly dependent on government and private sector efforts to build out widely accessible charging infrastructure. We have very limited experience connecting charging solutions to customers which is subject to challenges, including:
+
+•the logistics of securing agreements with third-party providers who are rolling out and supporting networks of charging solutions in areas with our customers;
+
+•inadequate capacity or over capacity in certain areas, security risks or risk of damage to vehicles, the potential for lack of customer acceptance of charging solutions, including the risk that customers may be conditioned to favor or expect proprietary charging solutions;
+
+•the building out of, and access to, sufficient charging infrastructure;
+
+•excessive costs surpassing our estimates and expectations;
+
+•obtaining any required permits for our customers to access charging solutions, which may include land use rights and filings; and
+
+•the risk that government support for EV and alternative fuel solutions and charging infrastructure may deploy slower than promised and may not continue.
+
+While the prevalence of charging stations generally has been increasing, charging station locations are significantly less widespread than gas stations. Some potential customers may choose not to purchase our vehicles because of the lack of a more widespread charging infrastructure. Further, to provide our customers with access to sufficient charging infrastructure, we will rely on the availability of, and successful integration of our vehicles with, third-party charging networks. Any failure of third-party charging networks to meet customer expectations or needs, including quality of experience, could impact the demand for EVs, including ours. For example, where charging bays exist, the number of vehicles could oversaturate the available charging bays, leading to increased wait times and dissatisfaction for customers. In addition, given our limited experience with charging solutions, there could be unanticipated challenges which may hinder our ability to connect customers to charging solutions or make accessing charging solutions costlier than anticipated. To the extent we are unable to meet user expectations or experience difficulties in connecting customers to charging solutions, our reputation and business, prospects, financial condition, results of operations, and cash flows may be materially and adversely affected.
+
+Insufficient reserves to cover warranty expense, future part replacement needs or other vehicle repair requirements, including any potential software upgrades, could materially adversely affect our business, prospects, financial condition and operating results.
+
+Once we begin commercial production of our EVs, we will need to maintain reserves to cover warranty, part replacement and other vehicle repair needs, including any potential software upgrades or warranty claims. If our reserves are inadequate to cover future warranty and maintenance requirements on our EVs, our business, prospects, financial condition and operating results could be materially and adversely affected. We may become subject to significant and unexpected expenses as well as claims from our customers, including loss of revenue or damages. There can be no assurance that then-existing reserves will be sufficient to cover all claims.
+
+Preorders for EVs are cancellable.
+
+Our EVs are still in development. As a result, we offer reservations, or preorders, for our Lifestyle Vehicle and its variants, our Multi-Purpose Delivery Vehicles and our Pickup that are cancellable without penalty, including full refund of any deposit payments (generally $100 per vehicle reserved). Given the anticipated lead times between preorders and the date of delivery of our EVs, there is a heightened risk that customers who preorder a vehicle may ultimately decide not to convert into binding contracts to purchase to our EVs due to potential changes in customer preferences, competitive developments and other factors. As a result, no assurance can be made that preorders will not be cancelled or that preorders 
+
+32
+
+* * *
+will result in a final purchase, and any such cancellations could harm our business, prospects, financial condition and operating results.
+
+Risks Related to our Production Processes and Supply Chain
+
+If we fail to successfully build and tool our manufacturing facilities or if our manufacturing facilities become inoperable, we will be unable to produce our vehicles and our business will be harmed.
+
+We have entered into facility leases for our battery assembly operations and vehicle manufacturing operations in Pryor, OK and Oklahoma City, OK respectively. Construction and tooling of our facilities for production of our vehicles and our future expansion plans are complicated and present significant challenges. Among such challenges, our launch plans contemplate a compressed time period between the construction and tooling of our sites and the start of commercial production. As with any large-scale capital project, our construction and tooling efforts could be subject to delays, cost overruns or other complications. In order to commence commercial production at our facilities in Oklahoma, we will also need to hire and train a significant number of employees and integrate a yet-to-be-fully-developed supply chain. A failure to commence commercial production on schedule would lead to additional costs and would delay our ability to generate meaningful revenues. In addition, it could prevent us from gaining the confidence of potential customers, spur cancellations of reservations for our vehicles and open the door to increased competition. All of the foregoing could hinder our ability to successfully launch and grow our business and achieve a competitive position in the market.
+
+In addition, there can be no assurance that we will be able to establish each of our planned production facilities within the planned timelines, or at all. The expense and time required to bring these facilities online and to assure that EVs manufactured at such facilities comply with our quality standards and regulatory requirements could be greater than currently anticipated. Implementing our own manufacturing and production facilities increases our capital expenditures and could delay production of our EVs. If we are unable to complete our facilities in accordance with our anticipated timelines, we may be unable to produce and deliver our EVs to the market within our planned timelines.
+
+In addition, if any of our manufacturing facilities are not constructed in conformity with our requirements, repair or remediation may be required to support our planned phased manufacturing build-out and could require us to take vehicle production offline, delay implementation of our planned phased manufacturing build-out, or construct alternate facilities, which could materially limit our manufacturing capacity, delay planned increases in manufacturing volumes, or adversely affect our ability to timely sell and deliver our electric vehicles to customers. Any repair or remediation efforts could also require us to bear substantial additional costs, including both the direct costs of such activities and potentially costly litigation or other legal proceedings related to any identified defect, and there can be no assurance that our insurance policies or other recoveries would be sufficient to cover all or any of such costs. Any of the foregoing consequences could have a material adverse effect on our business, prospects, results of operations and financial condition and could cause our results of operations to differ materially from our projections.
+
+  
+
+
+We may not be able to realize the non-dilutive financial incentives offered by state and local governments and other partners in Oklahoma and Arkansas. Developing our own manufacturing facilities for production of our EVs could increase our capital expenditures and delay or inhibit production of our EVs.
+
+  
+
+
+In 2021 and 2022, we finalized the selection of the State of Oklahoma as the location for certain facilities for the development, manufacture, sale and service of our EVs. In November 2021, we finalized the selection of the State of Arkansas as the location for our corporate headquarters and other facilities. As part of the negotiations with the State of Oklahoma and the State of Arkansas, these States, as well as local governments and other partners, have offered non-dilutive financial incentives to support our facilities, which we expect could be realized through a period of time based upon the achievement of certain milestones.
+
+Certain agreements with state and local governments and other partners in Arkansas and Oklahoma remain preliminary and there is no assurance that we will be able to enter into definitive agreements reflecting the non-dilutive financial incentives we have been offered. There is also no guarantee that if we are able to enter into definitive agreements, we will be able to achieve the milestones or other requirements established by state and local governments and other partners in Arkansas and Oklahoma to realize the full value of the financial incentives. Other factors beyond our control could also impact the ability of the States to materialize such incentives. As a result, there is no guarantee that we will realize the non-dilutive incentives offered to us.
+
+  
+
+
+We and our third-party suppliers will rely on complex machinery for production, which involves a significant degree of risk and uncertainty in terms of operational performance and costs.
+
+33
+
+* * *
+We and our third-party suppliers will rely on complex machinery, for the production and assembly of our EVs and their subassemblies and components, which will involve a significant degree of uncertainty and risk in terms of operational performance and costs. Our manufacturing facilities and the facilities of our third-party suppliers consist or will consist of large-scale machinery combining many components. These components may suffer unexpected malfunctions from time to time and will depend on repairs and spare parts to resume operations, which may not be available when needed. Unexpected malfunctions of these components may significantly affect the intended operational efficiency.
+
+Our facilities may also be harmed or rendered inoperable by natural or man-made disasters, including but not limited to earthquakes, tornadoes, flooding, fire, power outages, environmental hazards and remediation, costs associated with decommissioning of equipment, labor disputes and strikes, difficulty or delays in obtaining governmental permits and licenses, damages or defects in electronic systems, industrial accidents or health epidemics, such as the recent COVID-19 pandemic, which may render it difficult or impossible for us to manufacture our vehicles for some period of time. The inability to produce our vehicles or the backlog that could develop if our manufacturing plant is inoperable for even a short period of time may result in the loss of customers or harm our reputation. Although we maintain insurance for damage to our property and the disruption of our business, this insurance may not be sufficient to cover all of our potential losses and may not continue to be available to us on acceptable terms, if at all. Should operational risks materialize, they may result in the personal injury to or death of our workers, the loss of production equipment, damage to manufacturing facilities, monetary losses, delays and unanticipated fluctuations in production, environmental damage, administrative fines, increased insurance costs and potential legal liabilities, all which could have a material adverse effect on our business, results of operations, cash flows, financial condition or prospects.
+
+We have no experience to date in high volume manufacture of our EVs.
+
+We do not know whether we will be able to develop efficient, automated, low-cost production capabilities and processes and reliable sources of component supply, that will enable us to meet the quality, price, engineering, design and production standards, as well as the production volumes, required to successfully mass market our EVs. Even if we are successful in developing our high volume production capability and processes and reliably source our component supply, we do not know whether we will be able to do so in a manner that avoids significant delays and cost overruns, including as a result of factors beyond our control such as problems with suppliers and vendors, or force majeure events, or in time to meet our EV commercialization schedules or to satisfy the requirements of customers and potential customers. Any failure to develop such production processes and capabilities within our projected costs and timelines could have a material adverse effect on our business, prospects, financial condition and operating results.
+
+We may experience significant delays in the design, production and launch of our EVs, which could harm our business, prospects, financial condition and operating results.
+
+We have delayed launch of our vehicles in the past and may delay in the future. Any delay in the financing, design, development, production and release of our EVs, could materially damage our brand, business, prospects, financial condition and operating results. There are often delays in the design, development, production and release of new vehicles, and to the extent we delay the launch of our EVs, whether as a matter of corporate strategy or outside circumstances, our growth prospects could be adversely affected as we may fail to grow our market share. In particular, if we face challenges or delays in the build out of our manufacturing operations, including initially our advanced industrialization facility in Arkansas and later our mega microfactory facility in Oklahoma, we may face potentially significant production delays which could adversely affect our business. In addition, if we are not able to manufacture EVs at scale that meet our specifications on timelines required to meet market demand, we may need to expand our manufacturing capabilities, which could cause delays in our vehicle programs and would cause us to incur additional costs. Furthermore, we rely on third-party suppliers for the provision and development of many of the key components and materials used in our EVs, and to the extent they experience any delays, we may need to seek alternative suppliers. If we experience delays by our suppliers or other third-party partners, we could experience delays in delivering on our timelines.
+
+Increases in costs, disruption of supply or shortage of raw materials and other components used in our vehicles, in particular lithium-ion battery cells, could harm our business.
+
+We incur significant costs related to procuring raw materials required to manufacture and assemble our vehicles and operate our business. The prices for these raw materials fluctuate depending on factors beyond our control including market conditions and global demand for these materials. Increases in prices could adversely affect our business, prospects, financial condition, results of operations, and cash flows. Further, any delays or disruptions in our supply chain could harm our business. The COVID-19 pandemic has caused initial disruptions to and delays in our operations, including shortages 
+
+34
+
+* * *
+and delays in the supply of certain parts, including semiconductors and other materials and equipment necessary for the production of our vehicles and development of our manufacturing facilities. Increased production of EVs by our competitors could also result in price fluctuations and shortages of supply of raw materials and components important to our business.
+
+Among other materials, our business depends on the continued supply of lithium battery cells for our vehicles. We are exposed to multiple risks relating to such supply, including:
+
+  
+
+
+•the inability of battery cell manufacturers to build or operate battery cell manufacturing plants to supply the numbers of battery cells (including the applicable chemistries) sufficient to support the growth of the electric vehicle industry as demand for such cells increases;
+
+  
+
+
+•an increase in the cost, or decrease in the available supply, of raw materials used in the cells;
+
+•disruption in the supply of cells due to quality issues or recalls by battery cell manufacturers; and
+
+•fluctuations in the value of any foreign currencies in which battery cell and related raw material purchases are or may be denominated against the U.S. dollar.
+
+Our business is dependent on the continued supply of battery cells for the battery packs used in our EVs and we have contracted with Panasonic for the initial supply of our battery cells. While we are excited about this partnership, if Panasonic is unable to supply battery cells because of shortages of raw materials, increased demand from other EV manufacturers, delays in shipping and transportation or other factors, we could be required to find alternative sources. We may not be able to find an alternative supplier in time or at all. Any disruption in our supply of battery cells could disrupt production of our EVs. 
+
+Furthermore, fluctuations or shortages in petroleum and other economic conditions may cause us to experience significant increases in freight charges and material costs. Substantial increases in the prices for our raw materials and components or prices charged to us, such as those charged by battery cell suppliers, would increase our operating costs, and could reduce our margins if the increased costs cannot be recouped through increased vehicle prices. Any attempts to increase product prices in response to increased material costs could result in cancellations of orders and therefore materially and adversely affect our brand, image, business, prospects and operating results.
+
+We depend upon third parties to manufacture and to supply key semiconductor chip components necessary for our vehicles. We do not have long-term agreements with all of our semiconductor chip manufacturers and suppliers, and if these manufacturers or suppliers become unwilling or unable to provide an adequate supply of semiconductor chips, with respect to which there is a global shortage, we would not be able to find alternative sources in a timely manner and our business would be adversely impacted.
+
+Semiconductor chips are a vital input component to the electrical architecture of our vehicles, controlling wide aspects of the vehicles’ operations. Due to our reliance on these semiconductor chips, we are subject to the risk of shortages and long lead times in their supply. We are still in the process of identifying alternative manufacturers for semiconductor chips. We have in the past experienced, and may in the future experience, semiconductor chip shortages, and the availability and cost of these components would be difficult to predict. For example, our manufacturers may experience temporary or permanent disruptions in their manufacturing operations due to equipment breakdowns, labor strikes or shortages, natural disasters, component or material shortages, cost increases, acquisitions, insolvency, changes in legal or regulatory requirements, or other similar problems.
+
+In particular, continued increased demand for semiconductor chips after 2020, due in part to the COVID-19 pandemic and increased demand for consumer electronics that use these chips, has resulted in a severe global shortage of chips in 2021 and 2022, which we expect to continue through 2023. As a result, our ability to source semiconductor chips used in our vehicles has been adversely affected. This shortage may result in increased chip delivery lead times, delays in the production of our vehicles, and increased costs to source available semiconductor chips. To the extent this semiconductor chip shortage continues, and we are unable to mitigate the effects of this shortage, our ability to deliver sufficient quantities of our vehicles to fulfill our preorders and to support our growth through sales to new customers would be adversely affected. In addition, we may be required to incur additional costs and expenses in managing ongoing chip shortages, including additional research and development expenses, engineering design and development costs in the event that new suppliers must be onboarded on an expedited basis. Further, ongoing delays in production and shipment of 
+
+35
+
+* * *
+vehicles due to a continuing shortage of semiconductor chips may harm our reputation and discourage additional preorders and vehicle sales, and otherwise materially and adversely affect our business and operations.
+
+We are dependent on our suppliers, some of which are single or limited source suppliers, and the inability of these suppliers to deliver necessary components of our EVs at prices and volumes, performance and specifications acceptable to us, could have a material adverse effect on our business, prospects, financial condition and operating results.
+
+We rely on third-party suppliers for the provision and development of many of the key components and materials used in our EVs. While we plan to obtain components from multiple sources whenever possible, some of the components used in our EVs will be purchased by us from a single source, at least initially or for certain markets. For example, our batteries will initially be purchased from a single source, Panasonic. See “—Increases in costs, disruption of supply or shortage of raw materials and, in particular for lithium-ion battery cells, and other components used in our vehicles, in particular lithium-ion battery cells, could harm our business.” Our third-party suppliers may not be able to meet their product specifications and performance characteristics, which would impact our ability to achieve our product specifications and performance characteristics as well. Additionally, our third-party suppliers may be unable to obtain required certifications for their products for which we plan to use or provide warranties that are necessary for our solutions. If we are unable to obtain components and materials used in our EVs from our suppliers or if our suppliers decide to create or supply a competing product, our business could be adversely affected. We have less negotiating leverage with suppliers than larger and more established automobile manufacturers and may not be able to obtain favorable pricing and other terms. While we believe that we may be able to establish alternate supply relationships and can obtain or engineer replacement components for our single source components, we may be unable to do so in the short term, or at all, at prices or quality levels that are favorable to us, which could have a material adverse effect on our business, prospects, financial condition and operating results.
+
+Certain of our strategic, development and operational arrangements could be terminated or may not ultimately result in the anticipated long-term contract partnership arrangements.
+
+We have and will continue to pursue arrangements with strategic, development and operational partners and collaborators. Some of these arrangements may be evidenced by non-binding letters of intent or other early stage agreements that are used for design and development purposes but will require renegotiation at later stages of development or production or master agreements that have yet to be implemented under separately negotiated statements of work or binding purchase orders, any of which could be terminated or may not result in next-stage contracts or long-term contract arrangements. If these arrangements are terminated or if we are unable to enter into next-stage contracts or long-term operational contracts, our business, prospects, financial condition and operating results may be materially adversely affected.
+
+If any of our suppliers become economically distressed or go bankrupt, we may be required to provide substantial financial support or take other measures to ensure supplies of components or materials, which could increase our costs, affect our liquidity or cause production disruptions.
+
+We expect to purchase various types of equipment, raw materials and manufactured component parts from our suppliers. If these suppliers experience substantial financial difficulties, cease operations, or otherwise face business disruptions, we may be required to provide substantial financial support to ensure supply continuity or would have to take other measures to ensure components and materials remain available. Any disruption could affect’s our ability to deliver EVs and could increase our costs and negatively affect our liquidity and financial performance.
+
+We are or may be subject to risks associated with strategic alliances or acquisitions and may not be able to identify adequate strategic relationship opportunities, or form strategic relationships, in the future.
+
+We have in the past entered into non-binding understandings and other similar arrangements with certain key suppliers and development partners to form strategic alliances with such third parties, and may in the future enter into additional strategic alliances or joint ventures or minority equity investments, in each case with various third parties for the production of our EVs as well as with other collaborators with capabilities on data and analytics and engineering. To the extent we have or in the future enter into non-binding understandings or similar arrangements with key suppliers and development partners, there is no guarantee that those arrangements would lead to any binding contract or lasting or successful business relationships with such key suppliers and development partners. If these strategic alliances are established, they may subject us to a number of risks, including risks associated with sharing proprietary information, non-performance by the third-party and increased expenses in establishing new strategic alliances, any of which may materially 
+
+36
+
+* * *
+and adversely affect our business. We may have limited ability to monitor or control the actions of these third parties and, to the extent any of these strategic third parties suffer negative publicity or harm to their reputation from events relating to their business, we may also suffer negative publicity or harm to our reputation by virtue of our association with any such third-party.
+
+Strategic business relationships will be an important factor in the growth and success of our business. However, there are no assurances that we will be able to continue to identify or secure suitable business relationship opportunities in the future or our competitors may capitalize on such opportunities before we do. Moreover, identifying such opportunities could require substantial management time and resources, and negotiating and financing relationships involves significant costs and uncertainties. If we are unable to successfully source and execute on strategic relationship opportunities in the future, our overall growth could be impaired, and our business, prospects, financial condition and operating results could be materially adversely affected.
+
+When appropriate opportunities arise, we may acquire additional assets, products, technologies or businesses that are complementary to our existing business. In addition to possible stockholder approval, we may need approvals and licenses from relevant government authorities for the acquisitions and to comply with any applicable laws and regulations, which could result in increased delay and costs, and may disrupt our business strategy if it fails to do so. Furthermore, acquisitions and the subsequent integration of new assets and businesses into our own require significant attention from our management and could result in a diversion of resources from our existing business, which in turn could have an adverse effect on our operations. Acquired assets or businesses may not generate the financial results we expect. Acquisitions could result in the use of substantial amounts of cash, potentially dilutive issuances of equity securities, the occurrence of significant goodwill impairment charges, amortization expenses for other intangible assets and exposure to potential unknown liabilities of the acquired business. Moreover, the costs of identifying and consummating acquisitions may be significant.
+
+Risks Related to Our Industry and Competitive Landscape
+
+The automotive market is highly competitive, and we may not be successful in competing in this industry.
+
+We face intense competition in bringing our EVs to market. Both the automobile industry generally, and the EV segment in particular, are highly competitive, and we will be competing for sales with both EV manufacturers and traditional automotive companies. Many major automobile manufacturers have EVs available today and other current and prospective automobile manufacturers are also developing EVs. In recent quarters, interest in EVs from public investors has made access to public capital more readily available for newer entrants into the EV market, which in turn has increased the number of viable competitors. The influx of new, well-capitalized entrants, some of whom may be better capitalized than us or differently focused in areas of the EV market with greater demand, could have a material adverse effect on our business, prospects, financial condition and operating results. Many of our current and potential competitors may have significantly greater financial, technical, manufacturing, marketing and other resources than we do and may be able to devote greater resources to the design, development, manufacturing, distribution, promotion, sale and support of their products, including their EVs. Additionally, many of our current and potential competitors may have greater name recognition, longer operating histories, larger sales forces, established servicing networks and broader customer and industry relationships and other resources than we do. These competitors also compete with us in recruiting and retaining qualified research and development, sales, marketing, servicing, software and hardware engineering, and management personnel, as well as with investment opportunities and acquiring technologies complementary to, or necessary for, our EVs. Additional mergers and acquisitions may result in even more resources being concentrated in our competitors. There are no assurances that customers will choose our EVs over those of our competitors, or over internal combustion engine vehicles. We expect additional competitors will continue to enter the industry. We also compete with companies offering automotive software products which may be comparable or fall into similar demand segments as our own.
+
+We expect competition in our industry to continue to intensify based on the current and future competitive landscape in light of an increasing demand and regulatory push for alternative fuel vehicles and EVs.
+
+If the market for EVs does not develop as we expect or develops more slowly than is expected, our business, prospects, financial condition and operating results will be adversely affected.
+
+Our growth is highly dependent upon the adoption by consumers and commercial fleets of EVs, the timely functioning of global and localized supply chains, and the public and private build out of EV charging infrastructure. The target demographics for our EVs are highly competitive. If the market for EVs does not develop at the rate or in the manner or to the extent that we expect, our business, prospects, financial condition and operating results will be harmed. The market for alternative fuels, hybrid and EVs is new and untested and is characterized by rapidly changing technologies, 
+
+37
+
+* * *
+price competition, numerous competitors, evolving government regulation and industry standards and uncertain customer demands and behaviors.
+
+The market for alternative fuel vehicles is rapidly evolving and as a result, the market for our EVs could be affected by numerous factors, such as:
+
+•perceptions about EV features, quality, safety, performance and cost;
+
+•perceptions about the limited range over which EVs may be driven on a single battery charge;
+
+•concerns over access to charging and charging stations, as well as the time required to charge EVs;
+
+•competition, including from other types of alternative fuel, including hydrogen or compressed natural gas (CNG) vehicles, plug-in hybrid EVs and high fuel-economy internal combustion engine vehicles;
+
+•fuel prices, including volatility in the cost of fossil fuels;
+
+•the timing of adoption and implementation of fully autonomous vehicles;
+
+•access to and pricing of raw materials;
+
+•government regulations, ESG restrictions, and economic incentives;
+
+•access to charging facilities and related infrastructure costs and standardization of EV charging systems;
+
+•electric grid capacity and reliability; 
+
+•macroeconomic factors;
+
+•continued disruption in global and local supply chains due to the COVID-19 pandemic or other factors; and 
+
+•perceptions of overall EV vehicle safety, such as those relating to battery combustibility.
+
+The demand for EVs depends, in part, on the continuation of current trends resulting from dependence on fossil fuels. Extended periods of low gasoline or other petroleum-based fuel prices could adversely affect demand for our EVs, which would adversely affect our business, prospects, financial condition and operating results.
+
+We believe that much of the present and projected demand for EVs results from concerns about volatility in the cost of gasoline and other petroleum-based fuel, the dependency of the United States on oil from unstable or hostile countries, government regulations and economic incentives promoting fuel efficiency and alternative forms of energy, as well as the belief that climate change results in part from the burning of fossil fuels. If the cost of gasoline and other petroleum-based fuel decreased significantly, the outlook for the long-term supply of oil to the United States improved, the government eliminated or modified our regulations or economic incentives related to fuel efficiency and alternative forms of energy, or if there is a change in the perception that the burning of fossil fuels negatively impacts the environment, the demand for EVs could be reduced, and our business and revenue may be harmed.
+
+Gasoline and other petroleum-based fuel prices have been extremely volatile, and we believe this continuing volatility will persist. Lower gasoline or other petroleum-based fuel prices over extended periods of time may lower the perception in government and the private sector that cheaper, more readily available energy alternatives should be developed and produced. If gasoline or other petroleum-based fuel prices remain at deflated levels for extended periods of time, the demand for EVs may decrease, which would have an adverse effect on our business, prospects, financial condition and operating results.
+
+38
+
+* * *
+We may not be able to obtain or agree on acceptable terms and conditions for all or a significant portion of the government grants, loans and other incentives for which we may apply. As a result, our business, prospects, financial condition and operating results may be adversely affected.
+
+We anticipate applying for federal and state grants, loans and tax and other economic incentives under government programs designed to stimulate the economy and support the production of alternative fuel and EVs and related technologies. We anticipate that in the future there will be new opportunities for us to apply for grants, loans and other incentives from federal, state and foreign governments. Our ability to obtain funds or incentives from government sources is subject to the availability of funds under applicable government programs and approval of our applications to participate in such programs. The application process for these funds and other incentives will likely be highly competitive. We cannot provide assurance that we will be successful in obtaining any of these additional grants, loans and other incentives or that our business model will in all cases be eligible for certain tax or other economic incentives.
+
+Risks Related to Technology, Data and Privacy-Related Matters
+
+Our EVs are based on the use of complex and novel steer-by-wire technology that is unproven on a wide commercial scale.
+
+Our true steer-by-wire system, specifically, our proprietary architecture in which all steering, braking and throttle function are controllable via a secure, redundant communication framework, is based on complex technology that has not been introduced to the consumer vehicle market. Given this technology is unproven on a wide commercial scale, it may not be successful and may not achieve widespread market acceptance among our prospective customers. This technology must interoperate with other complex EV technology in order to operate as designed and as expected.
+
+Any defects or errors in, or which are attributed to, our steer-by-wire technology, could result in:
+
+•delayed market acceptance of our EVs;
+
+•loss of customers or inability to attract new customers;
+
+•diversion of engineering or other resources for remedying the defect or error;
+
+•damage to our brand or reputation;
+
+•increased service and warranty costs;
+
+•legal action by customers or third parties, including product liability claims; and
+
+•penalties imposed by regulatory authorities.
+
+Our EVs rely on software and hardware that is highly technical, and if these systems contain errors, bugs or vulnerabilities, or if we are unsuccessful in addressing or mitigating technical limitations in our systems, our business could be adversely affected.
+
+Our EVs rely on software and hardware that is highly technical and complex and will require modification and updates over the life of the vehicle. In addition, our EVs depend on the ability of such software and hardware to store, retrieve, process and manage immense amounts of data. Our software and hardware may contain, errors, bugs or vulnerabilities, and our systems are subject to certain technical limitations that may compromise our ability to meet our objectives. Some errors, bugs or vulnerabilities inherently may be difficult to detect and may only be discovered after the code has been released for external or internal use. Errors, bugs, vulnerabilities, design defects or technical limitations may be found within our software and hardware. Although we attempt to remedy any issues we observe in our EVs as effectively and rapidly as possible, such efforts may not be timely, may hamper production or may not be to the satisfaction of our customers. Additionally, if we are able to deploy updates to the software addressing any issues but our over-the-air update procedures fails to properly update the software, our customers would then be responsible for installing such updates to the software and their software will be subject to these vulnerabilities until they do so. If we are unable to prevent or effectively remedy errors, bugs, vulnerabilities or defects in our software and hardware, we may suffer damage to our reputation, loss of customers, loss of revenue or liability for damages, any of which could adversely affect our business and financial results.
+
+39
+
+* * *
+We may be subject to risks associated with autonomous driving technology.
+
+Our EVs are being designed with connectivity for an autonomous hardware suite and will offer some autonomous functionality. Autonomous driving technologies are subject to risks and there have been accidents and fatalities associated with such technologies. The safety of such technologies depends in part on user interaction and users, as well as other drivers on the roadways, which may not be accustomed to using or adapting to such technologies. To the extent accidents associated with our autonomous driving systems occur, we could be subject to liability, negative publicity, government scrutiny and further regulation. Certain features of our ADAS are developed by or in conjunction with third-party partners, and any deficiencies in the autonomous driving features developed by these third-party partners that are deployed in our production vehicles could also subject us to liability and other adverse consequences. Any of the foregoing could materially and adversely affect our results of operations, financial condition and growth prospects.
+
+Autonomous driving technology is also subject to considerable regulatory uncertainty as the law evolves to catch up with the rapidly evolving nature of the technology itself, all of which are beyond our control. Our EVs also may not achieve the requisite level of autonomy required for certification and rollout to consumers or satisfy changing regulatory requirements which could require us to redesign, modify or update our autonomous hardware and related software systems.
+
+The automotive industry and our technology are rapidly evolving and may be subject to unforeseen changes which could adversely affect the demand for our EVs.
+
+We may be unable to keep up with changes in EV technology or alternatives to electricity as a fuel source and, as a result, our competitiveness may suffer. Developments in alternative technologies, such as advanced diesel, ethanol, hybrids, fuel cells, including liquid hydrogen, or compressed natural gas, improvements in battery technologies utilized by our competitors or improvements in the fuel economy of the internal combustion engine, may materially and adversely affect our business and prospects in ways we do not currently anticipate. In addition, rapid development is taking place in the automotive industry with respect to vehicle infotainment and connectivity software and ADAS systems, including autonomous driving. Any failure by us to successfully react to changes in technologies relevant to our industry could materially harm our competitive position and growth prospects.
+
+Developments in alternative technology or improvements in the internal combustion engine may adversely affect the demand for our EVs.
+
+Significant developments in alternative technologies, such as battery cell technology, advanced gasoline, ethanol or natural gas, or improvements in the fuel economy of the internal combustion engine, may materially and adversely affect our business, prospects, financial condition and operating results in ways we do not currently anticipate. Existing and other battery cell technologies, fuels or sources of energy may emerge as customers’ preferred alternative to our EVs. Any failure by us to develop new or enhanced technologies or processes, or to react to changes in existing technologies, could materially delay our development and introduction of new and enhanced alternative fuel and EVs, which could result in the loss of competitiveness of our EVs, decreased revenue and a loss of market share to competitors. Our research and development efforts may not be sufficient to adapt to changes in alternative fuel and EV technology. As technologies change, we plan to upgrade or adapt our EVs with the latest technology. However, our EVs may not compete effectively with alternative systems if we are not able to source and integrate the latest technology into our EVs.
+
+We are subject to cybersecurity risks to our operational systems, security systems, infrastructure, integrated software in our EVs and customer data processed by us or third-party vendors.
+
+We are at risk for interruptions, outages and breaches of our: (a) operational systems, including business, financial, accounting, product development, data processing or production processes, owned by us or our third-party vendors or suppliers; (b) facility security systems, owned by us or our third-party vendors or suppliers; (c) transmission control, battery management, steer-by-wire and autonomous driving systems or other in-product technology, owned by us or our third-party vendors or suppliers; (d) the integrated software in our EVs; or (e) customer data that we process or our third-party vendors or suppliers process on our behalf. Such incidents could: materially disrupt our operational systems; result in loss of intellectual property, trade secrets or other proprietary or competitively sensitive information; compromise certain information of customers, employees, suppliers, or others; jeopardize the security of our facilities; or affect the performance or safety of in-product technology and the integrated software in our EVs.
+
+We plan to include in-vehicle services and functionality that utilize data connectivity to monitor performance and timely capture opportunities to enhance on-the-road performance and for safety and cost-saving preventative maintenance. The availability and effectiveness of our services depend on the continued operation of information technology and 
+
+40
+
+* * *
+communications systems. Our systems or those of third parties upon whom we rely are vulnerable to damage or interruption from, among others, physical theft, fire, terrorist attacks, natural disasters, power loss, war, telecommunications failures, viruses, denial or degradation of service attacks, ransomware, social engineering schemes, employee error or malfeasance, insider theft or misuse or other attempts to harm the systems upon which we rely. We intend to use our in-vehicle services and functionality to log information about each vehicle’s use in order to aid us in vehicle diagnostics and servicing. Our customers may object to the use of this data, which may increase our vehicle maintenance costs and harm our business prospects.
+
+Moreover, there are inherent risks associated with developing, improving, expanding and updating our current systems, such as the disruption of our data management, procurement, production execution, finance, supply chain and sales and service processes. These risks may affect our ability to manage our data and inventory, procure parts or supplies or manufacture, deploy, deliver and service our EVs, adequately protect our intellectual property or achieve and maintain compliance with, or realize available benefits under, applicable laws, regulations and contracts. We cannot be sure that the systems upon which we rely, including those of our third-party vendors or suppliers, will be effectively implemented, maintained or expanded as planned. If we do not successfully implement, maintain or expand these systems as planned, our operations may be disrupted, our ability to accurately and timely report our financial results could be impaired, and deficiencies may arise in our internal control over financial reporting, which may impact our ability to certify our financial results. Moreover, our proprietary information or intellectual property could be compromised or misappropriated and our reputation may be adversely affected. If these systems do not operate as we expect them to, we may be required to expend significant resources to make corrections or find alternative sources for performing these functions.
+
+We collect, store, transmit, disclose and retain personal information about our customers, employees or others, and intend to collect, store, transmit, disclose and retain personal information about our drivers and their vehicles, when commercialized, that, if compromised, could materially adversely affect our financial performance and results of operations or prospects.
+
+As part of our business and operations, we collect, store, transmit, disclose, use and otherwise process data from customers, employees and others, and intend to collect, store, transmit, disclose and use data about our drivers and their vehicles upon commercialization. These data may include personal, confidential or proprietary information. We also work with partners and third-party service providers or vendors that collect, store, transmit, disclose use and otherwise process such data on our behalf and in connection with our EVs. There can be no assurance that any security measures that we or our third-party service providers or vendors have implemented will be effective against current or future security threats. If a compromise of data were to occur, we may become liable under our contracts with other parties and under applicable laws for damages and incur penalties and other costs to respond to, investigate and remedy such an incident. Our systems, networks and physical facilities could be breached or personal information could otherwise be compromised due to employee error or malfeasance, if, for example, threat actors attempt to fraudulently induce our employees or our customers to disclose information or usernames and/or passwords. Third parties may also exploit vulnerabilities in, or obtain unauthorized access to, platforms, systems, networks and/or physical facilities utilized by our service providers and vendors. A significant portion of our workforce works remotely and that has increased the risk to our information technology assets and data.
+
+The costs to respond to a security breach and/or to mitigate any security vulnerabilities that may be identified could be significant, our efforts to address these problems may not be successful, and these problems could result in unexpected interruptions, delays, cessation of service, negative publicity, and other harm to our business and our competitive position. In addition, the costs of maintaining or upgrading our cyber-security systems at the level necessary to keep up with our expanding operations and prevent against potential attacks are increasing, and despite our best efforts, our network security and data recovery measures and those of our vendors may still not be adequate to protect against such security breaches and disruptions, which could cause harm to our business, financial condition and results of operations. Moreover, if a security breach were to occur, our ability to accurately and/or timely report our financial results could be impaired and deficiencies may arise in our internal control over financial reporting, which may impact our ability to certify our financial results.
+
+Our EVs contain complex information technology systems and built-in data connectivity to accept and install periodic remote updates to improve or update functionality. We have designed, implemented and tested security measures intended to prevent unauthorized access to our information technology networks, our EVs and related systems. However, individuals may attempt to gain unauthorized access to modify, alter and use such networks, vehicles and systems to gain control of or to change our EVs’ functionality, user interface and performance characteristics, or to gain access to data stored in or generated by the vehicle. A significant breach of our third-party service providers’ or vendors’ or our own 
+
+41
+
+* * *
+network security and systems could have serious negative consequences for our business and future prospects, including possible fines, penalties and damages, reduced customer demand for our EVs and harm to our reputation and brand.
+
+We may not have insurance coverage or may not have insurance at adequate levels to cover security breaches. The successful assertion of one or more large claims against us that exceeds our available insurance coverage, or results in changes to our insurance policies (including premium increases or the imposition of large deductible or co-insurance requirements), could have an adverse effect on our business. In addition, we cannot be sure that our existing insurance coverage will continue to be available on acceptable terms or that our insurers will not deny coverage as to any future claim.
+
+We may need to defend against intellectual property infringement claims or misappropriation claims, which may be time-consuming and expensive and, if adversely determined, could limit our ability to commercialize our EVs.
+
+Companies, organizations or individuals, including our competitors, may own or obtain patents, trademarks or other proprietary rights that could prevent or limit our ability to make, use, develop or deploy our EVs, software and other products, which could make it more difficult for us to operate our business. We may receive inquiries from patent, copyright or trademark owners inquiring whether we infringe upon their proprietary rights. We may also be the subject of more formal allegations that we have misappropriated such parties' trade secrets or other proprietary rights. Companies owning patents or other intellectual property rights relating to battery packs, electric motors, fuel cells or electronic power management systems may allege infringement or misappropriation of such rights. In response to a determination that we have infringed upon or misappropriated a third-party's intellectual property rights, we may be required to do one or more of the following:
+
+•cease development, sales or use of our products that incorporate the asserted intellectual property;
+
+•pay substantial damages;
+
+•obtain a license from the owner of the asserted intellectual property right, which license may not be available on reasonable terms or available at all; or
+
+•re-design one or more systems, designs, features, or other attributes of our EVs, software or other products.
+
+A successful claim of infringement or misappropriation against us could materially adversely affect our business, prospects, financial condition and operating results. Even if we are successful in defending against these claims, litigation could result in substantial costs and demand on management resources.
+
+Our business may be adversely affected if we are unable to protect our intellectual property rights from unauthorized use by third parties. 
+
+Failure to adequately protect our intellectual property rights could result in our competitors offering similar products, potentially resulting in the loss of some of our competitive advantage and a decrease in our revenue, which could adversely affect our business, prospects, financial condition and operating results. Our success depends, at least in part, on our ability to protect our core technology and intellectual property. To accomplish this, we will rely on a combination of patents, trade secrets (including know-how), employee and third-party nondisclosure agreements, copyrights, trademarks, intellectual property licenses and other contractual rights to establish and protect our rights in our technology.
+
+The protection of our intellectual property rights will be important to our future business opportunities. However, the measures we take to protect our intellectual property from unauthorized use by others may not be effective for various reasons, including the following:
+
+•as noted below, any patent applications we submit may not result in the issuance of patents (and patents have not yet issued to us based on our pending applications);
+
+•the scope of our patents that may subsequently issue may not be broad enough to protect our proprietary rights;
+
+•our issued patents may be challenged or invalidated by third parties;
+
+42
+
+* * *
+•our employees or business partners may breach their confidentiality, non-disclosure and non-use obligations to us;
+
+•third parties may independently develop technologies that are the same or similar to ours;
+
+•the costs associated with enforcing patents, confidentiality and invention agreements or other intellectual property rights may make enforcement impracticable; and
+
+•current and future competitors may circumvent or otherwise design around our patents.
+
+Patent, trademark, copyright and trade secret laws vary throughout the world. Some foreign countries do not protect intellectual property rights to the same extent as do the laws of the U.S. Further, policing the unauthorized use of our intellectual property rights in foreign jurisdictions may be difficult. Therefore, our intellectual property rights may not be as strong or as easily enforced outside of the U.S.
+
+Also, while we have registered and applied for trademarks in an effort to protect our investment in our brand and goodwill with customers, competitors may challenge the validity of those trademarks and other brand names in which we have invested. Such challenges can be expensive and may adversely affect our ability to maintain the goodwill gained in connection with a particular trademark.
+
+Our patent applications for our proprietary technology may not be issued, which may have a material adverse effect on our ability to prevent others from commercially exploiting products similar to ours.
+
+We cannot be certain that we are the first inventor of the subject matter or the first to file a patent application for our proprietary technology, including for key features of our multi-purpose EV platform. If another party has filed a patent application to the same or similar subject matter as we have, we may not be entitled to the protection sought by the patent application. In some cases, the earlier invention of the subject matter, the public disclosure of the subject matter prior to our filing of a patent application, or other bars to patentability, depending on the jurisdiction, may prevent us from successfully attaining patent protection. We also cannot be certain whether the claims included in a filed patent application will ultimately be allowed in the applicable issued patent. Further, the scope of protection of issued patent claims is often difficult to determine. As a result, we cannot be certain that the patent applications that we file will issue, or that our issued patents will afford protection against competitors with similar technology. In addition, our competitors may design around our issued patents, which may adversely affect our business, prospects, financial condition and operating results.
+
+Our EVs make use of lithium-ion battery cells, which have been observed to catch fire or vent smoke and flame.
+
+The battery packs in our EVs use lithium-ion cells. On rare occasions, lithium-ion cells can rapidly release the energy they contain by venting smoke and flames in a manner that can ignite nearby materials as well as other lithium-ion cells. While we have taken measures to enhance the safety of our battery designs, a field or testing failure of our EVs could occur in the future, which could subject us to lawsuits, product recalls, or redesign efforts, all of which would be time-consuming and expensive. Also, negative public perceptions regarding the suitability of lithium-ion cells for automotive applications or any future incident involving lithium-ion cells such as a vehicle or other fire, even if such incident does not involve our EVs, could seriously harm our business.
+
+In addition, we and certain of our third party partners and suppliers are expected to store a significant number of lithium-ion cells at their facilities. Any mishandling of battery cells may cause disruption to the operation of such facilities. A safety issue or fire related to the cells could disrupt operations or cause manufacturing delays. Such damage or injury could lead to adverse publicity and potentially a safety recall. Moreover, any failure of a competitor’s EV or energy storage product may cause indirect adverse publicity for us and our EVs. Such adverse publicity could negatively affect our brand and harm our business, prospects, financial condition and operating results.
+
+43
+
+* * *
+Risks Related to Environmental, Regulatory and Tax Matters
+
+The unavailability, reduction or elimination of government and economic incentives due to policy changes or government regulation could have a material adverse effect on our business, prospects, financial condition and operating results.
+
+Any reduction, elimination or discriminatory application of government subsidies and economic incentives because of policy changes, the reduced need for such subsidies and incentives due to the perceived success of the EV industry or other reasons may result in the diminished competitiveness of the alternative fuel and EV industry generally or our EVs. While certain tax credits and other incentives for alternative energy production, alternative fuel and EVs have been available in the past, there is no guarantee these programs will be available in the future. If current tax incentives are not available in the future, our financial position could be harmed.
+
+We, our third party partners and our suppliers are subject to substantial regulation and unfavorable changes to, or failure by us, our third party partners or our suppliers to comply with, these regulations could substantially harm our business and operating results.
+
+Our EVs, and motor vehicles in general, as well as our third party partners and our suppliers are or will be subject to substantial regulation under federal, state and local, and foreign laws. We continue to evaluate requirements for licenses, approvals, certificates and governmental authorizations necessary to manufacture, deploy or service our vehicles in the jurisdictions in which it plans to operate and intends to take such actions necessary to comply. We may experience difficulties in obtaining or complying with various licenses, approvals, certifications and other governmental authorizations necessary to manufacture, deploy or service our vehicles in any of these jurisdictions. If we, our third-party partners or our suppliers are unable to obtain or comply with any of the licenses, approvals, certifications or other governmental authorizations necessary to carry out our operations in the jurisdictions in which they currently operate, or those jurisdictions in which they plan to operate in the future, our business, prospects, financial condition and operating results could be materially adversely affected. We expect to incur significant costs in complying with these regulations. Regulations related to the electric and alternative energy vehicle industry are evolving and we face risks associated with changes to these regulations, including but not limited to:
+
+•increased support for other alternative fuel systems, which could have an impact on the acceptance of our vehicles; and
+
+•increased sensitivity by regulators to the needs of established automobile manufacturers with large employment bases, high fixed costs and business models based on the internal combustion engine, which could lead them to pass regulations that could reduce the compliance costs of such established manufacturers or mitigate the effects of government efforts to promote alternative fuel vehicles.
+
+To the extent the laws change, our vehicles may not comply with applicable federal, state and local, or foreign laws, which would have an adverse effect on our business. Compliance with changing regulations could be burdensome, time consuming and expensive. To the extent compliance with new regulations is cost prohibitive, our business, prospects, financial condition and operating results would be adversely affected.
+
+Future changes to regulatory requirements may have a negative impact upon our business.
+
+While our vehicles are subject to substantial regulation under federal, state and local laws, our vehicles will comply with all applicable FMVSS laws when they are offered to the public. However, to the extent the laws change, new laws are introduced, or if we introduce new vehicles in the future, some or all of our vehicles may not comply with applicable international federal, state or local laws. Further, certain federal, state and local laws and industry standards currently regulate electrical and electronics equipment. Although standards for EVs are not yet generally available or accepted as industry standards, our vehicles may become subject to international, federal, state, and local regulation in the future. Compliance with these regulations could be burdensome, time consuming, and expensive.
+
+Our vehicles are subject to environmental and safety compliance with various federal and state regulations, including regulations promulgated by the Environmental Protection Agency, the National Highway Traffic and Safety Administration and various state boards, and compliance certification is required for each new model year. The cost of these compliance activities and the delays and risks associated with obtaining approval can be substantial. The risks, delays and expenses incurred in connection with such compliance could be substantial.
+
+44
+
+* * *
+In addition, our EVs involve a novel design and new technology, including for example our steer-by-wire technology, side facing seats and street view window, that may not meet existing safety standards or require modification in order to comply with various regulatory requirements. Compliance with regulatory requirements is expensive, at times requiring the replacement, enhancement or modification of equipment, facilities or operations. There can be no assurance that we will be able to maintain our profitability by offsetting any increased costs of complying with future regulatory requirements.
+
+Our EVs are subject to motor vehicle standards and the failure to satisfy such mandated safety standards would have a material adverse effect on our business and operating results.
+
+All vehicles sold must comply with applicable international, federal and state motor vehicle safety standards. In the United States, vehicles that meet or exceed all federally mandated safety standards are certified under the federal regulations. Rigorous testing and the use of approved materials and equipment are among the requirements for achieving federal certification. Failure by us to have our EVs satisfy motor vehicle standards would have a material adverse effect on our business and operating results.
+
+We are subject to stringent and evolving laws, regulations, standards and policies, governing data privacy and security as well as contractual obligations related to data privacy and security, and our actual or perceived failure to comply with such obligations could harm our reputation, subject us to significant fines, penalties or other liability, and otherwise adversely affect our business.
+
+We are subject to or affected by a number of foreign, federal, state and local laws and regulations, as well as contractual obligations and industry standards, that impose obligations and restrictions with respect to data privacy and security, and govern our collection, storage, retention, protection, use, transmission, sharing, and disclosure of personal information including that of our employees, customers and others. Most jurisdictions have enacted laws requiring companies to notify individuals, regulatory authorities and others of security breaches involving certain types of data. Such laws may be inconsistent or may change. Governmental authorities may adopt new or additional laws governing personal data.
+
+  
+
+
+The global data protection landscape is rapidly evolving, and implementation standards and enforcement practices are likely to remain uncertain for the foreseeable future. We may not be able to monitor and react to all developments in a timely manner. In the United States, California adopted the California Consumer Privacy Act (“CCPA”), which became effective in January 2020. The CCPA establishes a privacy framework for covered businesses, including an expansive definition of personal information and data privacy rights for California residents. The CCPA includes a framework with potentially severe statutory damages and private rights of action for data breaches. Specifically, the CCPA requires covered businesses to provide new disclosures to California residents, provide them new ways to opt-out of the sale of personal information. The CCPA provides for civil penalties for violations and statutory damages ranging from $100 to $750 per violation, which is expected to increase data breach class action litigation and result in exposure to costly legal judgments and settlements. The CCPA was expanded on January 1, 2023, when the California Privacy Rights Act (“CPRA”) becomes operative. The CPRA, among other things, gave California residents the ability to limit the use of certain sensitive personal information, further restricted the use of cross-contextual advertising, establish restrictions on the retention of personal information, expanded the types of data breaches subject to the CCPA’s private right of action, provide for increased penalties for CPRA violations concerning California residents under the age of 16, and established a new California Privacy Protection Agency to implement and enforce California’s privacy laws. As we expand our operations, the CCPA may increase our compliance costs and potential liability. Some observers have noted that the CCPA marks the beginning of a trend toward more stringent privacy legislation in the United States, evidenced by new privacy laws that have become effective in Utah, Virginia, Colorado and Connecticut. Other states have begun to propose or enact similar laws. 
+
+  
+
+
+In Europe, the General Data Protection Regulation (EU) 2016/679 (GDPR), applies across the European Economic Area (EEA). Also, notwithstanding the United Kingdom's (UK) withdrawal from the European Union, by operation of the so-called “UK GDPR,” the GDPR continues to apply in substantially equivalent form in the context of UK-focused personal data processing operations. Collectively, European data protection laws (including the GDPR) are wide-ranging in scope and impose numerous, significant and complex compliance burdens in relation to the processing of personal data such as, without limitation, with regard the international transfer of personal data out of the European Economic Area, Switzerland and United Kingdom. European data protection laws also provide for more robust regulatory enforcement and greater penalties for noncompliance than previous data protection laws, including, for example, under the GDPR, fines of up to €20 million or 4% of global annual revenue of any noncompliant organization for the preceding financial year, whichever is higher. The GDPR also confers regulators with the ability to impose personal data processing penalties; and a private right of action for data subjects and consumer associations to lodge complaints with supervisory authorities, seek judicial remedies, as well as obtain compensation for damages resulting from violations of the GDPR. 
+
+45
+
+* * *
+Compliance with any applicable privacy and data security laws and regulations is a cost and time-intensive process, and we may be required to put in place additional mechanisms to comply with such laws and regulations.
+
+  
+
+
+We publish privacy policies and other documentation regarding our collection, processing, use and disclosure of personal information and/or other confidential information. Although we endeavor to comply with our published policies and other documentation, we may at times fail to do so or may be perceived to have failed to do so. Moreover, despite our efforts, we may not be successful in achieving compliance if our employees, contractors, service providers or vendors fail to comply with our published policies and documentation. Such failures can subject us to potential local, state and federal action if they are found to be deceptive, unfair, or misrepresentative of our actual practices. Claims that we have violated individuals’ privacy rights or failed to comply with data protection laws or applicable privacy notices even if we are not found liable, could be expensive and time-consuming to defend and could result in adverse publicity that could harm our business.
+
+We are subject to various environmental laws and regulations that could impose substantial costs upon us and cause delays in building our production facilities.
+
+Our operations are and will be subject to international, federal, state and local environmental laws and regulations, including laws relating to the use, handling, storage, disposal of and human exposure to hazardous materials. Environmental and health and safety laws and regulations can be complex, and we have limited experience complying with them. Moreover, we expect that it will be affected by future amendments to such laws or other new environmental and health and safety laws and regulations which may require us to change our operations, potentially resulting in a material adverse effect on our business, prospects, financial condition and operating results. These laws can give rise to liability for administrative oversight costs, cleanup costs, property damage, bodily injury, fines and penalties. Capital and operating expenses needed to comply with environmental laws and regulations can be significant, and violations may result in substantial fines and penalties, third-party damages, suspension of production or a cessation of our operations.
+
+Contamination at properties we will own or operate, we formerly owned or operated or to which hazardous substances were sent by us, may result in liability for us under environmental laws and regulations, including, but not limited to, the Comprehensive Environmental Response, Compensation and Liability Act, which can impose liability for the full amount of remediation-related costs without regard to fault, for the investigation and cleanup of contaminated soil and ground water, for building contamination and impacts to human health and for damages to natural resources. The costs of complying with environmental laws and regulations and any claims concerning noncompliance, or liability with respect to contamination in the future, could have a material adverse effect on our financial condition or operating results.
+
+Changes in tax laws may materially adversely affect our business, prospects, financial condition and operating results.
+
+New income, sales, use or other tax laws, statutes, rules, regulations or ordinances could be enacted at any time, and failure to appropriately comply with such tax laws, statutes, rules and regulations could result in sanctions by regulatory agencies, civil money penalties and/or reputational damage, which could adversely affect our business, prospects, financial condition and operating results. Future guidance from the Internal Revenue Service (the “IRS”) with respect to the Tax Cuts and Jobs Act (the "Tax Act") may affect us, and certain aspects of the Tax Act could be repealed or modified in future legislation. The CARES Act has already modified certain provisions of the Tax Act. In addition, it is uncertain if and to what extent various states will conform to the Tax Act, the CARES Act or any newly enacted federal tax legislation. Changes in corporate tax rates, the realization of net deferred tax assets relating to our operations and the deductibility of expenses under the Tax Act or future reform legislation could have a material impact on the value of our deferred tax assets, could result in significant one-time charges, and could increase our future U.S. tax expense.
+
+Our ability to use net operating loss carryforwards and other tax attributes may be limited.
+
+We have incurred U.S. losses during our history and do not expect to become profitable in the near future and may never achieve profitability. To the extent that we continue to generate U.S. taxable losses, unused losses will carry forward to offset future taxable income, if any, until such unused losses expire, if at all.
+
+Under the Tax Act, as modified by the CARES Act, U.S. federal net operating loss carryforwards generated in taxable periods beginning after December 31, 2017, may be carried forward indefinitely, but the deductibility of such net operating loss carryforwards in taxable years beginning after December 31, 2020, is limited to 80% of taxable income. It is uncertain if and to what extent various states will conform to the Tax Act or the CARES Act.
+
+In addition, the U.S. net operating loss carryforwards are subject to review and possible adjustment by the IRS, and state tax authorities. Under Sections 382 and 383 of the Internal Revenue Code of 1986, as amended (the “Code”), 
+
+46
+
+* * *
+these federal net operating loss carryforwards and other tax attributes may become subject to an annual limitation in the event of certain cumulative changes in our ownership. An “ownership change” pursuant to Section 382 of the Code generally occurs if one or more stockholders or groups of stockholders who own at least 5% of a company’s stock increase their ownership by more than 50 percentage points over their lowest ownership percentage within a rolling three-year period. The ability to utilize net operating loss carryforwards and other tax attributes to offset future taxable income or tax liabilities may be limited as a result of ownership changes. Similar rules may apply under state tax laws. We determined that an ownership change occurred during the 2021 tax year, resulting in an annual limitation under Section 382. If we earn taxable income, such limitation could result in increased future income tax liability to us and our future cash flows could be adversely affected. We have recorded a full valuation allowance related to our net operating loss carryforwards and other deferred tax assets due to the uncertainty of the ultimate realization of the future benefits of those assets.
+
+The imposition of tariffs and the resulting consequences, could adversely affect our business, prospects, financial condition and operating results.
+
+Our business is subject to risks relating to the imposition of tariffs and other trade barriers, which may make it more costly for us to import certain raw materials and other components and, in the future, export our EVs. In recent years, the U.S. government has imposed tariffs on certain foreign goods, including steel and certain vehicle parts, which have begun to result in increased costs for goods imported into the United States. In response to these tariffs, a number of U.S. trading partners have imposed retaliatory tariffs on a wide range of U.S. products, which makes it more costly for us to export our EVs to those countries. If we are unable to pass price increases on to our customer base or otherwise mitigate the costs, or if demand for our exported EVs, if any, decreases due to the higher cost, our operating results could be materially adversely affected. In addition, further tariffs may be proposed at any time by the U.S. and our trading partners, as response to various geopolitical events, and additional trade restrictions could be implemented on a broader range of products or raw materials. The resulting environment of tariffs, trade restrictions or other practices could have a material adverse effect on our business, prospects, financial condition, operating results, customers, suppliers and the global economy.
+
+We are subject to governmental export and import controls and laws that could subject us to liability if we are not in compliance with such laws.
+
+Our EVs are subject to export control, import and economic sanctions laws and regulations, including the U.S. Export Administration Regulations, U.S. Customs regulations and various economic and trade sanctions regulations administered by the U.S. Treasury Department’s Office of Foreign Assets Control. Exports of our EVs and technology must be made in compliance with these laws and regulations. If we fail to comply with these laws and regulations, we and certain of our employees could be subject to substantial civil or criminal penalties, including the possible loss of export or import privileges; fines, which may be imposed on us and responsible employees or managers; and, in extreme cases, the incarceration of responsible employees or managers.
+
+In addition, changes to our EVs, or changes in applicable export control, import, or economic sanctions laws and regulations may create delays in the introduction and sale of our EVs and solutions or, in some cases, prevent the export or import of our EVs to certain countries, governments, or persons altogether. Any change in export, import, or economic sanctions laws and regulations, shift in the enforcement or scope of existing laws and regulations, or change in the countries, governments, persons, or technologies targeted by such laws and regulations, could also result in decreased use of our EVs, as well as our decreased ability to export or market our EVs to potential customers. Any decreased use of our EVs or limitation on our ability to export or market our EVs would likely adverse our business, financial condition and results of operations.
+
+We are subject to U.S. and foreign anti-corruption and anti-money laundering laws and regulations. We can face criminal liability and other serious consequences for violations, which can harm our business.
+
+We are subject to the U.S. Foreign Corrupt Practices Act of 1977, as amended, the U.S. domestic bribery statute contained in 18 U.S.C. § 201, the U.S. Travel Act, the USA PATRIOT Act and possibly other anti-bribery and anti-money laundering laws in countries in which we conduct activities. Anti-corruption laws are interpreted broadly and prohibit companies and their employees, agents, contractors and other collaborators from authorizing, promising, offering or providing, directly or indirectly, improper payments or anything else of value to recipients in the public or private sector. We can be held liable for the corrupt or other illegal activities of our employees, agents, contractors and other collaborators, even if we do not explicitly authorize or have actual knowledge of such activities. Any violations of the laws and regulations described above may result in substantial civil and criminal fines and penalties, imprisonment, the loss of 
+
+47
+
+* * *
+export or import privileges, debarment, tax reassessments, breach of contract and fraud litigation, reputational harm and other consequences.
+
+Investments in us have been and may be subject to U.S. foreign investment regulations which may impose conditions or limitations on certain investors (including, but not limited to, limits on purchasing our Common Stock, limits on information sharing with such investors, requiring a voting trust, governance modifications, forced divestiture, or other measures).
+
+Certain investments that involve the acquisition of, or investment in, a U.S. business may be subject to review and approval by the Committee on Foreign Investment in the United States (“CFIUS”), depending on the structure, beneficial ownership and control of interests in the U.S. business. Investments that result in control of a U.S. business by a foreign person are subject to CFIUS jurisdiction. Significant CFIUS reform legislation, which was fully implemented through regulations that became effective on February 13, 2020, among other things expanded the scope of CFIUS’s jurisdiction to investments that do not result in control of a U.S. business by a foreign person but afford certain foreign investors certain information or governance rights in a U.S. business that has a nexus to “critical technologies,” “critical infrastructure” and/or “sensitive personal data.” Moreover, other countries continue to strengthen their own foreign investment clearance (“FIC”) regimes, and investments and transactions outside of the U.S. may be subject to review by non-U.S. FIC regulators if such investments are perceived to implicate national security policy priorities. Any review and approval of an investment or transaction by CFIUS or another FIC regulator may have outsized impacts on transaction certainty, timing, feasibility, and cost, among other things. CFIUS and other FIC regulatory policies and practices are rapidly evolving, and in the event that CFIUS or another FIC regulator reviews one or more proposed or existing investment by investors in us, there can be no assurances that such investors will be able to maintain, or proceed with, such investments on terms acceptable to such investors. CFIUS has or another FIC regulator may seek to impose limitations or restrictions on, or prohibit, investments by such investors (including, but not limited to, limits on purchasing our Common Stock, limits on information sharing with such investors, requiring a voting trust, governance modifications, or forced divestiture, among other things). Such limitations, conditions, or restrictions may prevent us from maintaining or pursuing investments or adversely affect our performance. Failure to submit required filings may result in significant financial penalties for each transaction party, as well as reputational damage and potential legal restrictions on future investments. Additionally, we may invest in companies that are, or may become, subject to CFIUS requirements based on pre-existing foreign ownership and control; in such cases, CFIUS requirements may adversely impact our ability to obtain or retain business or otherwise make it more difficult for us to realize a strategic benefit from an investment or transaction.
+
+We face risks and uncertainties related to litigation, regulatory actions and government investigations and inquiries.
+
+We are, and may in the future become, subject to various litigations, other claims, suits, regulatory actions and government investigations and inquiries. See the description of certain current legal proceedings described under Note 12, Commitments and Contingencies, of the notes to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+In addition, from time to time, we may be involved in other legal proceedings arising in the ordinary course of business, including those relating to employment matters, relationships with collaboration partners, intellectual property disputes, and other business matters. Any such claims or investigations may be time-consuming, costly, divert management resources, or otherwise have a material adverse effect on our business or result of operations.
+
+The results of the current legal proceedings and any future legal proceedings cannot be predicted with certainty and adverse judgments or settlements in some or all of these legal proceedings may result in materially adverse monetary damages or injunctive relief against us. Any such payments or settlement arrangements in current or future litigation, could have a material adverse effect on our business, operating results or financial condition. Even if the plaintiffs’ claims are not successful, current or future litigation could result in substantial costs and significantly and adversely impact our reputation and divert management’s attention and resources, which could have a material adverse effect on our business, operating results and financial condition, and negatively affect the price of our Common Stock. In addition, such legal proceedings may make it more difficult to finance our operations.
+
+48
+
+* * *
+Risks Related to Our Securities
+
+Concentration of ownership among our existing executive officers, directors and their respective affiliates may prevent new investors from influencing significant corporate decisions.
+
+As of March 23, 2023, investment vehicles controlled by our Chief Executive Officer and Executive Chair beneficially own approximately 13.18% of our outstanding Common Stock and our executive officers, directors and their respective affiliates as a group beneficially own approximately 13.82% of our outstanding Common Stock. As a result, these stockholders are able to exercise a significant level of control over all matters requiring stockholder approval, including the election of directors, amendment of our Certificate of Incorporation and approval of significant corporate transactions. This control could have the effect of delaying or preventing a change of control of us or changes in management and will make the approval of certain transactions difficult or impossible without the support of these stockholders.
+
+We have been notified by The Nasdaq Stock Market LLC of our failure to comply with certain continued listing requirements and, if we are unable to regain compliance with all applicable continued listing requirements and standards of Nasdaq, our Common Stock could be delisted from Nasdaq, which would have an adverse impact on the trading, liquidity, and market price of our Common Stock. 
+
+  
+
+
+On March 27, 2023, we received a written notice from the Listing Qualifications Department of The Nasdaq Stock Market LLC (“Nasdaq”) indicating that, because the closing bid price for our Common Stock has fallen below $1.00 per share for 30 consecutive business days (February 9, 2023 through March 24, 2023), we no longer comply with the $1.00 Minimum Bid Price requirement set forth in Nasdaq Listing Rule 5450(a)(1) for continued listing on The Nasdaq Global Select Market (the “Bid Price Requirement”). Pursuant to Nasdaq Marketplace Rule 5810(c)(3)(A), we have been provided with a compliance period of 180 calendar days, or until September 25, 2023, to regain compliance with the Bid Price Requirement. To regain compliance, the closing bid price of our Common Stock must meet or exceed $1.00 per share for a minimum of ten consecutive business days prior to September 25, 2023.
+
+  
+
+
+If we do not regain compliance by September 25, 2023, we may be eligible for an additional grace period. To qualify, we must apply to transfer the listing of our Common Stock to The Nasdaq Capital Market, which requires us to meet the continued listing requirements for market value of publicly held shares and all other initial listing standards for The Nasdaq Capital Market, with the exception of the Bid Price Requirement, and provide written notice of our intention to cure the minimum bid price deficiency during the second compliance period. If we meet these requirements, the Nasdaq staff would be expected to grant an additional 180 calendar days for the Company to regain compliance with the minimum bid price requirement. If the Nasdaq staff determines that we will not be able to cure the deficiency, or if we are otherwise not eligible for such additional compliance period, Nasdaq will provide notice that our Common Stock will be subject to delisting. The Company would have the right to appeal a determination to delist its common stock, and the common stock would remain listed on the Nasdaq Global Select Market until the completion of the appeal process.
+
+  
+
+
+Although we intend to continue to monitor the bid price levels for our Common Stock and will consider appropriate alternatives to achieve compliance with the Bid Price Requirement within the compliance period, including, among other things, a potential reverse stock split, we cannot assure you that the price of our Common Stock will subsequently remain in compliance with the required listing standard or that we will remain in compliance with any of the other applicable continued listing standards of Nasdaq. Any continuing failure to remain in compliance with Nasdaq's continued listing standards, and any subsequent failure to timely resume compliance with Nasdaq's continued listing standards within the applicable cure period, could have adverse consequences including, among others, reducing the number of investors willing to hold or acquire our Common Stock, reducing the liquidity and market price of our Common Stock, adverse publicity and a reduced interest in us from investors, analysts and other market participants. If we are delisted from Nasdaq, our Common Stock may be eligible for trading on an over-the-counter market. If the Company is not able to obtain a listing on another stock exchange or quotation service for its common stock, it may be extremely difficult or impossible for stockholders to sell their shares of Common Stock. Moreover, if the Company is delisted from Nasdaq, but obtains a substitute listing for its Common Stock, it will potentially be on a market with less liquidity, and therefore experience potentially more price volatility than experienced on Nasdaq. Stockholders may not be able to sell their shares of Common Stock on any such substitute market in the quantities, at the times, or at the prices that could potentially be available on a more liquid trading market. As a result of these factors, if the Company’s Common Stock is delisted from Nasdaq, the value and liquidity of the Company’s Common Stock would likely be significantly adversely affected. A delisting of the Company’s common stock from Nasdaq could also adversely affect the Company’s ability to obtain financing for its operations and/or could result in a loss of confidence by investors, employees and/or business partners.
+
+49
+
+* * *
+We do not expect to declare any dividends in the foreseeable future.
+
+We currently intend to retain our future earnings, if any, to finance the further development and expansion of our business and do not intend to pay cash dividends in the foreseeable future. Any decision to declare and pay dividends in the future will be made at the discretion of our Board and will depend on then-existing conditions, including, among other things, our results of operations, financial condition, cash requirements, contractual restrictions, business prospects and other factors that the Board may deem relevant. Consequently, investors may need to rely on sales of their shares after price appreciation, which may never occur, as the only way to realize any future gains on their investment.
+
+Our stock price has been volatile, and the market price of our Common Stock may drop below the price you pay.
+
+Securities markets worldwide have experienced, and are likely to continue to experience, significant price and volume fluctuations. This market volatility, as well as general economic, market or political conditions, has subjected the market price of our shares to wide price fluctuations regardless of our operating performance. The market price of our common stock may fluctuate significantly in response to a number of factors, many of which we cannot control, including those described under "Risks Related to Our Business and Financial Results" and the following:
+
+•changes in financial estimates by any securities analysts who follow our common stock, our failure to meet these estimates or failure of those analysts to initiate or maintain coverage of our common stock;
+
+•downgrades by any securities analysts who follow our common stock or publications of these analysts of inaccurate or unfavorable research about our business;
+
+•future sales of our common stock by our officers, directors and significant stockholders; 
+
+•market conditions or trends in our industry or the economy as a whole;
+
+•investors' perceptions of our prospects;
+
+•announcements by us of significant contracts, acquisitions, joint ventures or capital commitments; and
+
+•changes in key personnel.
+
+In addition, in the past, when the market price of a stock has been volatile, holders of that stock have sometimes instituted securities class action litigation against the Company that issued the stock. If any of our stockholders brought a lawsuit against us, we could incur substantial costs defending the lawsuit. Such a lawsuit could also divert the time and attention of our management from our business, which could significantly harm our profitability and reputation.
+
+Our Certificate of Incorporation designates specific courts as the exclusive forum for certain stockholder litigation matters, which could limit the ability of our stockholders to obtain a favorable forum for disputes with us or our directors, officers or employees.
+
+Our Certificate of Incorporation requires, to the fullest extent permitted by law, that derivative actions brought in our name, actions against current or former directors, officers or other employees for breach of fiduciary duty, other similar actions, any other action as to which the DGCL confers jurisdiction to the Court of Chancery of the State of Delaware and any action or proceeding concerning the validity of our Certificate of Incorporation or our Bylaws may be brought only in the Court of Chancery in the State of Delaware (or, if and only if the Court of Chancery of the State of Delaware does not have subject matter jurisdiction thereof, any state court located in the State of Delaware or, if and only if all such state courts lack subject matter jurisdiction, the federal district court for the District of Delaware), unless we consent in writing to the selection of an alternative forum. This provision would not apply to suits brought to enforce a duty or liability created by the Exchange Act or any other claim for which the federal courts have exclusive jurisdiction. Our Certificate of Incorporation also provides that, unless we consent in writing to the selection of an alternative forum, the federal district courts of the U.S. shall be the exclusive forum for the resolution of any complaint asserting a cause of action arising under the Securities Act. This provision may limit our stockholder’s ability to bring a claim in a judicial forum that it finds favorable for disputes with us and our directors, officers or other employees and may have the effect of discouraging lawsuits against our directors, officers and other employees. Furthermore, our stockholders may be subject to increased costs to bring these claims, and the exclusive forum provision could have the effect of discouraging claims or limiting investors’ ability to bring claims in a judicial forum that they find favorable.
+
+50
+
+* * *
+In addition, the enforceability of similar exclusive forum provisions in other companies’ certificates of incorporation has been challenged in legal proceedings, and it is possible that, in connection with one or more actions or proceedings described above, a court could rule that this provision in our Certificate of Incorporation is inapplicable or unenforceable. In March 2020, the Delaware Supreme Court issued a decision in Salzburg et al. v. Sciabacucchi, which found that an exclusive forum provision providing for claims under the Securities Act to be brought in federal court is facially valid under Delaware law. We intend to enforce this provision, but we do not know whether courts in other jurisdictions will agree with this decision or enforce it. If a court were to find the exclusive forum provision contained in our Certificate of Incorporation to be inapplicable or unenforceable in an action, we may incur additional costs associated with resolving such action in other jurisdictions, which could harm our business, prospects, financial condition and operating results.
+
+The issuance of shares of our Common Stock upon exercise of our outstanding Public Warrants will increase the number of shares eligible for future resale in the public market and result in dilution to our stockholders.
+
+As of December 31, 2022, warrants to purchase an aggregate of approximately 23.8 million shares of our Common Stock were outstanding and exercisable (subject to the conditions set forth in the Public Warrant Agreement) (such warrants, "Public Warrants"). The exercise price of these Public Warrants is $11.50 per share. To the extent such Public Warrants are exercised, additional shares of our Common Stock will be issued, which will result in dilution to the holders of our Common Stock and increase the number of shares eligible for resale in the public market. Sales of substantial numbers of such shares in the public market or the fact that such Public Warrants may be exercised could adversely affect the market price of our Common Stock.
+
+There is no guarantee that our Public Warrants will be in the money at the time they are exercisable, and they may expire worthless.
+
+The exercise price for our Public Warrants is $11.50 per share of Common Stock. There is no guarantee that the Public Warrants will be in the money throughout the time they are exercisable and prior to their expiration, and as such, the Public Warrants may expire worthless.
+
+We may amend the terms of the Public Warrants in a manner that may be adverse to holders with the approval by the holders of at least 50% of the then-outstanding Public Warrants. As a result, the exercise price of your Public Warrants could be increased, the exercise period could be shortened and the number of shares of our Common Stock purchasable upon exercise of a Public Warrant could be decreased, all without your approval.
+
+Our Public Warrants are issued in registered form under a warrant agreement (the “Public Warrant Agreement”) between us and Continental Stock Transfer & Trust Company, as warrant agent. The Public Warrant Agreement provides that the terms of the Public Warrants may be amended without the consent of any holder to cure any ambiguity or correct any defective provision, but requires the approval by the holders of at least 50% of the then-outstanding Public Warrants to make any change that adversely affects the interests of the registered holders of Public Warrants. Accordingly, we may amend the terms of the Public Warrants in a manner adverse to a holder if holders of at least 50% of the then-outstanding Public Warrants approve of such amendment. Although our ability to amend the terms of the public warrants with the consent of at least 50% of the then-outstanding Public Warrants is unlimited, examples of such amendments could be amendments to, among other things, increase the exercise price of the Public Warrants, convert the Public Warrants into cash or stock (at a ratio different than initially provided), shorten the exercise period or decrease the number of shares of our Common Stock purchasable upon exercise of a Public Warrant.
+
+We may redeem unexpired Public Warrants prior to their exercise at a time that is disadvantageous to warrant holders, thereby making such Public Warrants worthless.
+
+We have the ability to redeem outstanding Public Warrants at any time after they become exercisable and prior to their expiration, at a price of $0.01 per warrant, provided that the last reported sales price of our Common Stock equals or exceeds $18 per share (as adjusted for stock splits, stock dividends, reorganizations, recapitalizations and the like) for any 20 trading days within a 30 trading-day period ending on the third trading day prior to the date on which we give proper notice of such redemption and provided certain other conditions are met. If and when the Public Warrants become redeemable by us, we may exercise our redemption right even if we are unable to register or qualify the underlying securities for sale under all applicable state securities laws. Redemption of the outstanding Public Warrants could force you (a) to exercise your Public Warrants and pay the exercise price therefor at a time when it may be disadvantageous for you to do so, (b) to sell your Public Warrants at the then-current market price when you might otherwise wish to hold your 
+
+51
+
+* * *
+Public Warrants or (c) to accept the nominal redemption price which, at the time the outstanding Public Warrants are called for redemption, is likely to be substantially less than the market value of your Public Warrants.
+
+In addition, we may redeem your Public Warrants after they become exercisable for a number of shares of Common Stock determined based on the redemption date and the fair market value of our Common Stock. Any such redemption may have similar consequences to a cash redemption described above. In addition, such redemption may occur at a time when the Public Warrants are “out-of-the-money,” in which case, you would lose any potential embedded value from a subsequent increase in the value of our Common Stock had your Public Warrants remained outstanding.
+
+If securities or industry analysts do not publish or cease publishing research or reports about us, our business or our market, or if they change their recommendations regarding our Common Stock adversely, the price and trading volume of our Common Stock could decline.
+
+The trading market for our Common Stock is influenced by the research and reports that industry or securities analysts may publish about us, our business, our market or our competitors. If any of the analysts who may cover us change their recommendation regarding our stock adversely, or provide more favorable relative recommendations about our competitors, the price of our Common Stock would likely decline. If any analyst who may cover us were to cease their coverage or fail to regularly publish reports on us, we could lose visibility in the financial markets, which could cause our stock price or trading volume to decline.
+
+An active trading market for our Common Stock or our Public Warrants may not be maintained.
+
+We can provide no assurance that we will be able to maintain an active trading market for our Common Stock or our Public Warrants on the Nasdaq Global Select Market, or Nasdaq, or any other exchange in the future. If an active market for our Common Stock or our Public Warrants is not maintained, or if we fail to satisfy the continued listing standards of Nasdaq for any reason and our securities are delisted, it may be difficult for our security holders to sell their securities without depressing the market price for the securities or at all. An inactive trading market may also impair our ability to both raise capital by selling shares of Common Stock and acquire other complementary products, technologies or businesses by using our shares of Common Stock as consideration.
+
+Registration of the shares of our Common Stock issuable upon exercise of the warrants under the Securities Act may not be in place when an investor desires to exercise warrants.
+
+Under the terms of the Public Warrant Agreement, as well as terms of the contractual agreements underlying the Yorkville Warrants, Investor Warrants, the Placement Agent Warrants, and the Walmart Warrants, we are obligated to file and maintain an effective registration statement under the Securities Act covering the issuance of shares of our Common Stock issuable upon exercise of the warrants. We cannot assure you that we will be able to do so if, for example, any facts or events arise that represent a fundamental change in the information set forth in the registration statement or prospectus, the financial statements contained or incorporated by reference therein are not current or correct or we are required to address any comments the SEC may issue in connection with such registration statement. For so long as the issuance of the shares of Common Stock issuable upon exercise of the warrants is not covered by an effective registration statement, registered under the Securities Act, we are required to permit holders to exercise their warrants on a cashless basis. However, no warrant will be exercisable for cash or on a cashless basis, and we will not be obligated to issue any shares to holders seeking to exercise their warrants, unless the issuance of the shares upon such exercise is registered or qualified under the securities laws of the state of the exercising holder or an exemption from registration is available. If and when the warrants become redeemable by us, we may exercise our redemption right even if we are unable to register or qualify the underlying shares of Common Stock for sale under all applicable state securities laws.
+
+We may issue additional shares of Common Stock or preferred stock, including under our equity incentive plan. Any such issuances would dilute the interest of our stockholders and likely present other risks.
+
+We may issue a substantial number of additional shares of Common Stock or preferred stock, including under our equity incentive plan. Any such issuances of additional shares of Common Stock or preferred stock:
+
+•may significantly dilute the equity interests of our investors;
+
+•may subordinate the rights of holders of Common Stock if preferred stock is issued with rights senior to those afforded our Common Stock;
+
+52
+
+* * *
+•could cause a change in control if a substantial number of shares of our Common Stock are issued, which may affect, among other things, our ability to use our net operating loss carry forwards, if any, and could result in the resignation or removal of our present officers and directors; and
+
+•may adversely affect prevailing market prices for our Common Stock and/or warrants.
+
+  
+
+
+The issuance of shares of our Common Stock upon exercise of our outstanding warrants will increase the number of shares eligible for future resale in the public market and result in dilution to our stockholders.
+
+  
+
+
+As of December 31, 2022, there were 23,755,069 Public Warrants outstanding. In February 2022, we also issued a warrant to purchase an aggregate of approximately 1.0 million shares of Common Stock to VDL Nedcar at exercise prices ranging from $18 to $40 per share. In connection with the Walmart EV Fleet Purchase Agreement, we issued to Walmart a Warrant to purchase an aggregate of 61.2 million shares of Common Stock, subject to certain anti-dilutive adjustments, at an exercise price of $2.15 per share (the "Walmart Warrants"). The Walmart Warrant is vested with respect to 15.3 million shares of Common Stock.
+
+  
+
+
+In connection with the Yorkville PPA (Note 9, 16 and 19), the Company issued warrants to Yorkville to purchase an aggregate of 34,230,870 shares of Common Stock (which aggregate number includes the 29,604,783 warrant shares issued on December 31, 2022 and the additional 4,626,087 warrant shares issued January 13, 2023) (the "Yorkville Warrants"). The Yorkville Warrants had an initial exercise price of $1.15 per share, which subject to certain anti-dilutive adjustments, was adjusted to $1.05 per share on on February 9, 2023. The Yorkville Warrants will expire on December 31, 2023.
+
+  
+
+
+On February 5, 2023, the Company entered into a securities purchase agreement (the “RD SPA”) with certain investors (the "Registered Direct Offering") (Note 19). The RD SPA provided for the sale and issuance by the Company of 50,000,000 million shares of the Company’s Common Stock, together with warrants to purchase up to 50,000,000 million shares of Common Stock (the “Investor Warrants”) at a combined purchase price of $1.05 per share and accompanying warrants. The Investor Warrants have an exercise price of $1.30 per share, will be initially exercisable beginning on August 8, 2023 and will expire on August 8, 2028. In connection with the Registered Direct Offering, the Company entered into a placement agency agreement (the “Placement Agency Agreement”) with A.G.P./Alliance Global Partners (“AGP”). Pursuant to the Placement Agency Agreement, AGP received warrants to purchase up to 2,000,000 million shares of Common Stock (the “Placement Agent Warrants”). The Placement Agent Warrants have an exercise price of $1.30 per share, will be initially exercisable beginning on August 8, 2023 and will expire on August 8, 2028.
+
+  
+
+
+To the extent any of our outstanding warrants are exercised, additional shares of our Common Stock will be issued, which will result in dilution to the holders of our Common Stock and increase the number of shares subject to resale in the public market. Sales of substantial numbers of such shares in the public market or the fact that such warrants may be exercised could adversely affect the market price of our Common Stock and may make it more difficult for you to sell your shares at a time and price that you deem appropriate.
+
+  
+
+
+Substantial blocks of our total outstanding shares may be sold into the market. If there are substantial sales or issuances of shares of our Common Stock, the price of our Common Stock could decline.
+
+  
+
+
+The price of our Common Stock could decline if there are substantial sales or issuances of shares of our Common Stock, particularly sales by our directors, executive officers, and significant stockholders or if there is a large number of shares of our Common Stock available for sale.
+
+  
+
+
+As of March 23, 2023, we have 474,140,598 shares of our Common Stock outstanding. Although Common Stock held by directors, executive officers and other affiliates are subject to volume limitations under Rule 144 under the Securities Act, and various vesting agreements, the market price of the shares of our Common Stock could decline as a result of the sale of a substantial number of our shares of Common Stock in the public market or the perception in the market that our directors, executive officers, significant stockholders or the holders of a large number of such shares of Common Stock intend to sell their shares. Furthermore, issuances of shares of our Common Stock pursuant to the equity and financing agreements that we may continue to utilize or enter into will continue to dilute the percentage ownership of our stockholders and may dilute the market price, the per share projected earnings (if any) or book value of our Common Stock. 
+
+  
+
+
+Sales of a substantial number of shares of our Common Stock in the public market or other issuances of shares of our Common Stock, or the perception that these sales or issuances could occur, could cause the market price of our Common Stock to decline and may make it more difficult for you to sell your shares at a time and price that you deem appropriate.
+
+  
+
+
+53
+
+* * *
+The actual number of shares of Common Stock we will issue pursuant to the ATM Offering, at any one time or in total, is uncertain.
+
+  
+
+
+Subject to certain conditions and compliance with applicable law, we may, or continue to issue, as applicable, shares of our Common Stock from time to time in the market under the ATM Offering. It is not possible at this stage to predict the total number of shares of Common Stock that will be ultimately issued pursuant to these programs.
+
+General Risk Factors
+
+  
+
+
+We have been, and may in the future be, adversely affected by health epidemics and pandemics, the duration and economic, governmental and social impact of which is difficult to predict, which may significantly harm our business, prospects, financial condition and operating results.
+
+We face various risks related to public health issues, including epidemics, pandemics and other outbreaks. For instance, the COVID-19 pandemic previously resulted in government authorities implementing numerous measures to try to contain the virus, such as travel bans and restrictions, quarantines, social distancing practices, stay-at-home or shelter-in-place orders, and business shutdowns. These measures had an adverse impact on our business and operations, including, for example, inefficiencies with testing and manufacturing of our EVs, which could not be conducted remotely in all cases, increased costs associated with working remotely or otherwise operating in compliance with regulatory restrictions related to the pandemic, or reduced availability of capital.
+
+Some members of our management team have limited experience in operating a public company.
+
+Some of our senior officers have limited experience in the management of a publicly traded company. Such members’ limited experience could expose us to risks, especially with respect to the application and interpretation of accounting policies, practices or internal control over financial reporting required of public companies. We continue to upgrade our finance and accounting systems to an enterprise system suitable for a public company, which will assist us in the timely filing of required reports with the SEC and complying with Section 404 of the Sarbanes-Oxley Act of 2002 (the “Sarbanes-Oxley Act”). If we are unable to continue hiring or are unable to retain senior officers and other personnel with public company experience, in particular public company reporting experience, our filings with the SEC may be delayed or we may suffer errors with respect to our internal control over financial reporting or otherwise with respect to our public filings, some of which could be material errors or result in claims of fraud or misrepresentation.
+
+  
+
+
+We incur increased costs and administrative burden as a result of operating as a public company, and our management devotes substantial time to maintaining compliance.
+
+As a public company, we incur significant legal, accounting and other expenses that we did not incur as a private company, and these expenses may increase even more now that we are no longer an emerging growth company. As a public company, we are subject to the requirements of the Exchange Act, the Sarbanes-Oxley Act, the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, and the rules and regulations promulgated and to be promulgated thereunder, Public Company Accounting Oversight Board (the “PCAOB”), as well as rules adopted, and to be adopted, by the SEC and Nasdaq. Our management and other personnel devote a substantial amount of time to maintaining compliance with these requirements, Moreover, these rules and regulations substantially increase our legal and financial compliance costs and make some activities more time-consuming and costly. The increased costs may increase our net loss and comprehensive loss.
+
+It may also be more expensive to obtain director and officer liability insurance. We cannot always predict or estimate the amount or timing of additional costs it may incur to respond to these requirements. The impact of these requirements could also make it more difficult for us to attract and retain qualified persons to serve on our board of directors, our board committees or as executive officers. The additional reporting and other obligations imposed by these rules and regulations may increase legal and financial compliance costs and the costs of related legal, accounting and administrative activities. These increased costs may require us to divert a significant amount of money that could otherwise be used to expand the business and achieve strategic objectives. Furthermore, if any issues in complying with the above requirements are identified (for example, if we or our independent registered public accounting firm identifies additional material weaknesses or significant deficiency in the internal control over financial reporting), we could incur additional costs rectifying those issues, and the existence of those issues could adversely affect our reputation or investor perceptions of it. Advocacy efforts by stockholders and third parties may also prompt additional changes in governance and reporting requirements, which could further increase costs.
+
+54
+
+* * *
+Increased scrutiny of our environmental, social or governance responsibilities have and will likely continue to result in additional costs and risks, and may adversely impact our reputation, employee retention, and willingness of customers and suppliers to do business with us. 
+
+There is increasing focus from customers, consumers, employees, regulators, lenders and other stakeholders concerning environmental, social and governance (“ESG”) matters, including corporate citizenship and sustainability. Additionally, public interest and legislative pressure related to public companies' ESG practices continues to grow. If our ESG practices fail to meet regulatory requirements or stakeholders' evolving expectations and standards for responsible corporate citizenship in areas including environmental stewardship, support for local communities, Board and employee diversity, human capital management, employee health and safety practices, corporate governance and transparency and employing ESG strategies in our operations, our brand, reputation and employee retention may be negatively impacted, and customers and suppliers may be unwilling to do business with us.
+
+Applying ESG approaches in our manufacturing, servicing and other processes is likely to incur additional costs, with growing regulatory requirements and market demand for the inclusion of more ESG compliant options in construction, manufacturing, waste processing and supply chains.
+
+In addition, as we work to align our ESG practices with industry standards, we have expanded and, in the future, will likely continue to expand our public disclosure in these areas. From time to time, we may communicate certain initiatives or goals regarding environmental and sustainability topics and other ESG matters either through disclosures in our public filings or documents that we publish on our website. In the U.S., amongst other regulatory efforts, in February 2021, the Acting Chair of the SEC issued a statement directing the Division of Corporation Finance to enhance its focus on climate-related disclosure in public company filings, and in March 2021, the SEC announced the creation of a Climate and ESG Task Force in the Division of Enforcement. We expect to incur additional costs and require additional resources to monitor, report and comply with regulatory requirements and our own-developed ESG practices. The standards for tracking and reporting on ESG matters are relatively new, have not been harmonized and continue to evolve. The disclosure frameworks we choose to align with, if any, may change from time to time and may result in a lack of consistent or meaningful comparative data from period to period. Ensuring there are systems and processes in place to comply with various ESG tracking and reporting obligations will require management time and expense. In addition, our processes and controls may not always comply with evolving standards for identifying, measuring, and reporting ESG metrics, our interpretation of reporting standards may differ from those of others and such standards may change over time, any of which could result in significant revisions to our goals or reported progress in achieving such goals. 
+
+Our employees and independent contractors may engage in misconduct or other improper activities, which could have an adverse effect on our business, prospects, financial condition and operating results.
+
+We are exposed to the risk that our employees and independent contractors may engage in misconduct or other illegal activity. Misconduct by these parties could include intentional, reckless or negligent conduct or other activities that violate laws and regulations, including production standards, U.S. federal and state fraud, abuse, data privacy and security laws, other similar non-U.S. laws or laws that require the true, complete and accurate reporting of financial information or data. It is not always possible to identify and deter misconduct by employees and other third parties, and the precautions we take to detect and prevent this activity may not be effective in controlling unknown or unmanaged risks or losses or in protecting us from governmental investigations or other actions or lawsuits stemming from a failure to be in compliance with such laws or regulations. In addition, we are subject to the risk that a person or government could allege such fraud or other misconduct, even if none occurred. If any such actions are instituted against us, and we are not successful in defending ourselves or asserting our rights, those actions could have a significant impact on our business, prospects, financial condition and operating results, including, without limitation, the imposition of significant civil, criminal and administrative penalties, damages, monetary fines, disgorgement, integrity oversight and reporting obligations to resolve allegations of non-compliance, imprisonment, other sanctions, contractual damages, reputational harm, diminished profits and future earnings and curtailment of our operations, any of which could adversely affect our business, prospects, financial condition and operating results.
+
+We expect initial launch of our EVs to be concentrated in certain targeted jurisdictions, putting it at risk of region-specific disruptions.
+
+We expect to initially launch our EV offerings in limited jurisdictions. Accordingly, our business and results of operations are particularly susceptible to adverse economic, regulatory, political, weather and other conditions in other markets that may become similarly concentrated. Further, as compared to our competitors who operate on a wider 
+
+55
+
+* * *
+geographic scale, any adverse changes or events in our targeted jurisdictions may expose our business and results of operations to more significant risks.
+
+We may become subject to product liability claims, including possible class action and derivative lawsuits, which could harm our financial condition and liquidity if we are not able to successfully defend or insure against such claims.
+
+Product liability claims, even those without merit or those that do not involve our EVs, could harm our business, prospects, financial condition and operating results. The automobile industry in particular experiences significant product liability claims, and we face inherent risk of exposure to claims in the event our EVs do not perform or are claimed to not have performed as expected. As is true for other EV suppliers, we expect in the future that our EVs will be involved in crashes resulting in death or personal injury. Additionally, product liability claims that affect our competitors or suppliers may cause indirect adverse publicity for us and our EVs.
+
+A successful product liability claim against us could require us to pay a substantial monetary award. Our risks in this area are particularly pronounced given we have not deployed our EVs for consumer use to date and the limited field experience of our EVs. Moreover, a product liability claim against us or our competitors could generate substantial negative publicity about our EVs and business and could have a material adverse effect on our brand, business, prospects, financial condition and operating results. We may self-insure against the risk of product liability claims for vehicle exposure, meaning that any product liability claims will likely have to be paid from company funds, not by insurance.
+
+Our business may be adversely affected by labor and union activities.
+
+Although none of our employees are currently represented by a labor union, it is common throughout the automobile industry generally for many employees at automobile companies to belong to a union, which can result in higher employee costs and increased risk of work stoppages. We may also directly and indirectly depend upon other companies with unionized work forces, such as our manufacturing partners, parts suppliers and trucking and freight companies, and work stoppages or strikes organized by such unions could have a material adverse impact on our business, financial condition or operating results.
+
+We no longer qualify as an “emerging growth company” within the meaning of the Securities Act and in the future will be required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act.
+
+We previously qualified as an “emerging growth company” as defined in Section 2(a) of the Securities Act, as amended, and elected to take advantage of the benefits of the extended transition period for new or revised financial accounting standards and certain other exemptions and reduced reporting requirements provided by the JOBS Act. Accordingly, we have previously not been required to provide an auditor’s attestation report on our system of internal control over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act. Based on the Company’s aggregate worldwide market value of voting and non-voting common equity held by non-affiliates as of June 30, 2021, we lost our emerging growth company status and became a “large accelerated filer” beginning with this Annual Report on Form 10-K for the year ending December 31, 2021. As a result, our independent registered public accounting firm was required for the first time to provide the attestation report on our system of internal control over financial reporting in this Annual Report on Form 10-K and will be required to do so in subsequent Annual Reports. If we are unable to in any such Annual Report assert that our internal control over financial reporting is effective or if our independent registered public accounting firm is unable to express an opinion as to the effectiveness of our internal control over financial reporting, or expresses an adverse opinion, investors may lose confidence in the accuracy and completeness of our financial reports, we may face restricted access to the capital markets or other sources of funds and our stock price may be adversely affected.
+
+  
+
+
+We have re-qualified as a “smaller reporting company” within the meaning of the Securities Act. The reduced disclosure requirements applicable to smaller reporting companies may make our Common Stock less attractive to investors.
+
+  
+
+
+Based on the aggregate worldwide market value of voting and non-voting Common Stock held by non-affiliates as of June 30, 2022, we re-qualified as a “smaller reporting company” as defined in Rule 12b-2 under the Exchange Act and for so long as we remain a smaller reporting company, we are permitted and intend to rely on exemptions from certain disclosure requirements that are applicable to other public companies that are not smaller reporting companies. These exemptions include, among others:
+
+  
+
+
+56
+
+* * *
+•being permitted to provide only two years of audited financial statements, in addition to any required unaudited interim financial statements, with correspondingly reduced “Management’s Discussion and Analysis of Financial Condition and Results of Operations” disclosure;
+
+•being permitted to omit quantitative and qualitative disclosures of market risk; and
+
+•not being required to comply with the auditor attestation requirements in the assessment of our internal control over financial reporting of Section 404(b) of the Sarbanes-Oxley Act.
+
+  
+
+
+These scaled disclosures may make comparison of our disclosures with another public company, which is not a smaller reporting company, difficult because of the differences in the extent of such disclosure. We cannot predict whether investors will find our Common Stock less attractive if we rely on these exemptions. If some investors find our Common Stock less attractive as a result, we could experience greater difficulty raising equity capital, there may be a less active trading market for our Common Stock, and our stock price may be more volatile.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+Not applicable.
+
+ITEM 2. PROPERTIES

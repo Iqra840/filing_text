@@ -1,0 +1,543 @@
+Item 1. Business
+
+Overview
+
+We are a networking systems, services and software company, providing solutions that enable a wide range of network operators to deploy and manage next-generation networks that deliver services to businesses and consumers. We provide hardware, software and services that support the delivery of video, data and voice traffic over core, metro, aggregation and access communications networks. Our solutions are used globally by communications service providers, cable and multiservice operators, Web-scale providers, submarine network operators, governments, and enterprises across multiple industry verticals.
+
+  
+
+
+Our portfolio is designed to enable the Adaptive Network™, which is our vision for a network end state that leverages a programmable and scalable network infrastructure, driven by software control and automation capabilities, that are informed by analytics and intelligence. By transforming network infrastructures into dynamic, programmable environments driven by automation and analytics, network operators can realize greater business agility, dynamically adapt to changing end-user service demands and rapidly introduce new revenue-generating services. They can also gain valuable real-time network insights, allowing them to optimize network performance and maximize the return on their network infrastructure investment.
+
+  
+
+
+Our solutions include Networking Platforms, including our Converged Packet Optical and Routing and Switching portfolios, which can be applied from the network core to end-user access points, and which allow network operators to scale capacity, increase transmission speeds, allocate traffic efficiently and adapt dynamically to changing end-user service demands. Our Converged Packet Optical portfolio includes products that support long haul and regional networks, submarine and data center interconnect networks, and metro and edge networks. Our Routing and Switching portfolio includes products and solutions that enable efficient internet protocol (“IP”) transport in next-generation metro edge, access and aggregation networks. 
+
+  
+
+
+To complement our Networking Platforms, we offer Platform Software, which includes our Manage, Control and Plan (“MCP”) applications that deliver advanced multi-layer domain control and operations. Through our Blue Planet® Software we also enable complete service lifecycle management automation with productized operational support systems (“OSS”) and service assurance solutions that help our customers to achieve closed loop automation across multi-vendor and multi-domain environments. 
+
+  
+
+
+In addition to our systems and software, we also offer a broad range of services that help our customers build, operate and improve their networks and associated operational environments. These include network transformation, consulting, implementation, systems integration, maintenance, network operations center (“NOC”) management, learning, and optimization services.
+
+  
+
+
+Recent and Pending Acquisitions
+
+In the first quarter of fiscal 2023, we entered into a definitive agreement to acquire Tibit Communications, Inc., a provider of passive optical network solutions, and we completed our acquisition of Benu Networks, Inc., a provider of broadband network gateway software. See Note 28, “Subsequent Events” to to our Consolidated Financial Statements included in Item 8 of Part II of this annual report for additional information.
+
+  
+
+
+5
+
+* * *
+Industry Background
+
+Network Traffic Growth and Increased Capacity Requirements
+
+The market in which we sell is dynamic and characterized by a high rate of change. Optical networks – which carry video, data and voice traffic by encoding digital information on multiple wavelengths of light traveling across fiber optic cables – have experienced strong traffic growth. This network traffic growth is being driven by a diverse set of communications services that often require on-demand service levels by enterprise and consumer end users, as well as cloud-based services and applications:
+
+•Cloud-Based Services. Enterprises and consumers continue to replace locally-housed computing and storage by adopting a broad array of innovative cloud-based models – including Platform as a Service (PaaS), Software as a Service (SaaS) and Infrastructure as a Service (IaaS) – and an expanding range of cloud-based services that host key applications, store data, enable the viewing and downloading of content, and utilize on-demand computing resources. In addition, content is increasingly moving to the network edge, creating new capacity and traffic demands closer to the user.
+
+•Over-the-Top (“OTT”) Services and Video Streaming. OTT content refers to video, multimedia and other applications provided directly from the content source to the viewer or end user across a third-party network. Traffic from streaming and OTT services, including high definition and ultra-high definition video, has expanded with the increased availability of, and end-user demand for, video content accessible through a variety of devices and media.
+
+•Mobile Traffic and Applications. Traffic from mobile web applications, including video, internet and data services, has expanded with the continued proliferation of smartphones and other wireless devices. Because much of wireless traffic ultimately travels across a wireline network to reach its destination, growth in mobile communications continues to place demands upon wireline networks, including the backhaul and fronthaul portions of networks emanating from cell sites.
+
+•Residential Access Applications and Enterprise Applications. In recent years there has been a shift in bandwidth demands, traffic patterns and computing functions to the edge of networks. This trend has been meaningfully accelerated by the COVID-19 pandemic, including due to an increase in remote and hybrid working, distance learning, and work from home arrangements. With a higher percentage of data flows concentrating closer to the network edge, more capacity and higher bandwidth to home and enterprise locations is required. These shifts could be permanent, and could influence network architectures and require network operators to adapt.
+
+Emerging technologies, services and applications are further impacting or expected to impact network infrastructures, particularly at the edge of networks, where increased computing power and automation are required to meet the quality of experience required by end users. These include:
+
+•5G. Fifth-generation wireless broadband (“5G”) technology is enabling meaningful increases in bandwidth and performance, and enabling emerging applications and services that 4G/LTE networks cannot support. To fully capitalize on these opportunities, network operators will need to consider the demands 5G technology will place on their wireline infrastructures, including through the addition of additional cell sites as part of the network densification efforts that are paving the way for 5G implementation. 
+
+•Fiber-Based Access Networks. Network densification initiatives by cable and multiservice operators seek to push more digital fiber closer to the end user in an effort to increase potential bandwidth, computing capability and data speeds to homes and enterprises, while decreasing power, space and operating costs. Wireline service providers are responding to similar service and end customer demands by extending fiber to the home and deeper into access networks.
+
+•Internet of Things (“IoT”). As networked connections between devices and servers grow, machine-to-machine-related traffic (“M2M”) is expected to represent an increasing portion of traffic. These connections allow sharing of data that can be monitored and analyzed, including in smart grid applications, health care and safety monitoring, resource and inventory management, home entertainment, consumer appliances, connected transportation and other M2M data applications.
+
+•Immersive Technologies and Ultra-High Definition Video (“UHD”). Immersive technologies like virtual reality (“VR”), augmented reality (“AR”), interactive experiences, gaming and 360° video, as well as UHD (4K and 8K) video, are likely to place further capacity demands on networks as adoption of these technologies grows. Consumer electronics and other technology companies are rapidly advancing these applications,which require high bandwidth and low latency, and making the associated devices more widely available and affordable to consumers.
+
+6
+
+* * *
+•Edge Computing. To provide end user’s with the required experience for a growing set of immersive cloud services, network operators have increased, and are expected to continue to increase, the number and capabilities of edge computing locations to allow these latency-sensitive workloads to be processed closer to users. These changes at the edge of networks may affect network topologies, demands and traffic patterns.
+
+•Machine Learning (“ML”) and Artificial Intelligence (“AI”). By increasing network intelligence and improving automation, ML and AI can enable improvements in network planning, operations, user experience and trouble resolution. Adoption of these technologies is expected to continue to increase as the IoT expands and additional services are created, and ML and AI will serve as drivers of further network traffic and solutions innovation.
+
+We believe that increased adoption of these technologies, services, and applications and their performance requirements will further increase network traffic and place additional service challenges on network infrastructures, requiring network operators to invest in their metro, access and aggregation networks, as well as their core networks.
+
+Demand for More Programmable and Automated Networks
+
+To create a more digital experience for their end users, reduce operational costs and introduce more service agility, network operators are investing in next-generation infrastructures that combine end-to-end service automation with the deployment of highly programmable infrastructures. We expect network operators will continue to pursue strategies that emphasize one or more of the following:
+
+•Closed Loop Automation. Network operators are seeking to reduce network operating costs and better leverage analytics and control capabilities to automate end-to-end service creation and operation. Closed loop automation is a continuous cycle of communications between the programmable network infrastructure and software control elements to analyze network conditions, traffic demands, and resource availability to determine the best placement of traffic or network functions to deliver optimal service quality and resource utilization. 
+
+•Software-Defined Networking (“SDN”). SDN seeks to simplify networks to create more open environments that ease management, support automation and quickly deliver services to end users. SDN enables individual network elements to be directly programmable by standards-based software control. This results in end-to-end visibility of network flows, and the optimization of traffic paths and the control of data flows through a network.
+
+•Network Function Virtualization (“NFV”). NFV is the separation of network services or capabilities from the physical network assets that traditionally provide these services or capabilities to end users. To accelerate the introduction of new services, network operators are increasingly using solutions like NFV, which enables network functions that traditionally would have run on specialized or dedicated hardware to be provided through software that runs on industry-standard servers and network and storage platforms. 
+
+We believe that adoption of these strategies, and the related evolution of core, metro, aggregation and access network infrastructures, will require network operators and their network solutions vendors to increasingly look to utilize an ecosystem of both physical and virtual network resources, optimized through software. We expect that these network architectural approaches, in turn, will require an increased degree of cooperation, collaboration and interoperability among networking solutions vendors.
+
+Different Approaches to Design and Procure Network Infrastructure Solutions
+
+Network operators are pursuing a diverse range of approaches, or “consumption models,” in their design and procurement of network infrastructure solutions. In addition to purchasing fully integrated network solutions including hardware, software and services from the same vendor, new consumption models include the procurement or use of: 
+
+•a fully integrated infrastructure solution from one vendor with the separate use of a network operator’s own software or that of another vendor; 
+
+•integrated photonic line systems with open interfaces from one vendor and the separate or “disaggregated” procurement of modem technology from a different vendor; 
+
+•open source software in concert with or as an alternative to integrated, proprietary third-party software solutions;
+
+•open IP network operating systems running on off-the-shelf third-party equipment; and
+
+•system integration services or customer self-integration to reconstitute the disaggregated components.
+
+Some network operators, including certain of our largest customers, have adopted or are pursuing development and use of published reference designs and open source specifications for the procurement of off-the-shelf or commoditized hardware (often referred to as “white box” hardware). This commoditized hardware could be used with in-house developed data path and 
+
+7
+
+* * *
+control software or third-party developed network operating software. Further, some network operators are pursuing network strategies that emphasize the deployment of smaller form factor, pluggable modem technology, that can be housed in a switch or router platform, or used in place of a modem in a traditional optical system. 
+
+The consumption models that ultimately emerge and their level of adoption will depend in significant part on the circumstances and strategies of certain network operators. While the adoption of these approaches has been limited to date, we expect that continued customer consideration of a variety of consumption models will require network operators and vendors alike to assess, and possibly broaden, their offerings and commercial models over time, thereby placing a premium on a vendor’s ability to provide robust network solutions with the maximum amount of flexibility and choice.
+
+Supply Chain Constraints
+
+In the face of extraordinary demand across a range of industries, global supply for certain raw materials and components, including, in particular, semiconductor, integrated circuits and other electronic components, has experienced substantial constraint and disruption in recent periods. These conditions are impacting a wide range of industries and, across the networking industry, participants are experiencing component shortages, extended lead times, increased costs, and unexpected cancellation or delay of previously committed supply. We believe these supply chain challenges and their adverse impact on our industry will continue at least through fiscal 2023 and expect that the extended lead times and elevated supply chain costs experienced by our industry will persist for the reasonably foreseeable future. It is unclear when the supply environment will become less volatile and what impacts the supply environment will have on the industry in future periods.
+
+  
+
+
+Product Development and Sustainability
+
+As network traffic and service expansion continue to grow, network operators are looking toward technology innovation as a means to help support their business models and prepare for a low carbon future. Network operators are increasingly looking to their technology vendor partners to help them manage the environmental impact of their networks, including energy use, greenhouse gas emissions, and equipment refurbishment and recycling. For innovation leaders capable of advancing a development strategy and product roadmap that addresses the network performance and sustainability outcomes sought by network operators, a market transition to a low carbon future and the ability to offer greener technology offerings present meaningful opportunities for enhanced competitive position and business growth. 
+
+Strategy
+
+Our strategy is to leverage our technology leadership, diversification and global scale to drive the profitable growth of our business. Key elements of this strategy include:
+
+Extend Innovation Leadership in Core and Optical Networking. We are focused on using our significant research and development investment capacity to push the pace of innovation in our traditional markets and provide leading offerings that leverage our Adaptive Network vision to make our customers’ networks more dynamic through further advances in programmable network platforms, analytics, control and automation. To strengthen our optical leadership, during fiscal 2022, we acquired Xelic, Inc. (“Xelic”), a provider and developer of field-programmable gate array (“FPGA”) and application-specific integrated circuit (ASIC) technology and optical networking IP cores. We also continue to innovate, increase the performance of, and enhance the capabilities for our leading WaveLogic® coherent modem technology in multiple form factors. To support our enhanced portfolio and solutions offerings, we intend to grow our attached services business and leverage network transformation with a broader service offering that includes network migration, optimization and multi-vendor network integration.
+
+  
+
+
+Invest in Next Generation Metro and Edge Networking Solutions. To expand our addressable markets and capture additional opportunities in metro and edge applications, we are making significant investments in our Routing and Switching solutions. We are leveraging our optical expertise to offer new architectural approaches to address Metro and Edge network use cases. Among other things, in fiscal 2022, we launched our Residential Broadband Coherent Routing solutions, and we are developing Routing and Switching solutions with enhanced IP/Ethernet capabilities, including packet routing, aggregation and switching, 5G cross-haul, fiber-based passive optical network (“PON”) access, and edge computing. To advance our strategy and transform the network edge, including in 5G networks and cloud environments, in the first quarter of fiscal 2022, we acquired from AT&T its Vyatta virtual routing and switching technology (“Vyatta”). During the first quarter of fiscal 2023, we also acquired Benu Networks, Inc. (“Benu”) and its portfolio of cloud-native software solutions, including a virtual Broadband Network Gateway (“(v)BNG”), which complements and extends our existing portfolio of broadband access solutions. During the first quarter of fiscal 2023, we also entered into a definitive agreement to acquire Tibit Communications, Inc., a provider of passive optical network solutions.
+
+  
+
+
+8
+
+* * *
+Embrace Multiple Consumption Models and Promote Choice. We are offering a range of networking solutions across different consumption models to drive the evolution of next-generation network infrastructures and to promote choice in our markets. We have made our coherent technology available in both integrated systems and pluggable form factors that together address a range of technical and economic requirements of network operators. We are pursuing sales opportunities that leverage our WaveLogic technology in the form of high-performance transceivers/modems – the combination of a Ciena-designed optical chipset and ASIC with other key optical components that is sold independently of integrated systems. By addressing multiple consumption models, we seek to secure a larger portion of the world’s optical network wavelengths, expand our addressable market and access new customer verticals and applications. 
+
+  
+
+
+Promote Enhanced Software Automation. To support our customers business needs for rapid service introduction and optimized network operation, we seek to improve network layer automation and programmability by advancing our multi-layer domain controller - MCP software and applications. We are also focused on gaining adoption and expanding application for our Adaptive IP software, leveraging our Service-Aware Operating System (“SAOS”) embedded in our Routing and Switching products. We also seek to promote broader adoption of our Blue Planet Automation Software, highlighting its ability to automate the service management lifecycle. In so doing, we believe that Blue Planet can help customers with their digital transformations by transitioning legacy networks into “service ready” networks, accelerating the creation, delivery and management of new services. A key part of our strategy is to grow our software business as a portion of our total business through expanded customer adoption and broader applications, and to gain adoption of recurring and subscription-based models. 
+
+  
+
+
+Focus Diversification on High-Growth Applications and Customer Segments. We believe that the continued diversification of our business is important to address the dynamic industry environment in which we operate, continue to grow our business, and better withstand potential slowdowns adversely affecting particular geographies, markets or customer segments. We seek to continue diversifying our solutions offerings, customer base and geographic reach to address fast-growing applications and markets, including those that are adjacent to or complementary with our current addressable market. Our go-to-market strategy seeks to capture additional market share with existing customers and emerging network operators, and to displace competitors, particularly in international markets. 
+
+Customers and Markets
+
+We sell our product and service solutions through direct and indirect sales channels to network operators in the following customer and market segments:
+
+•Communications Service Providers. Our communications service provider customers include regional, metro, national and international wireline and wireless carriers, and access network providers.
+
+•Web-scale Providers. Our “Web-scale” provider customers – also often referred to in the market as hyper-scale providers – include internet content providers (“ICPs”) and providers of internet services and infrastructure, including data centers, cloud networking, storage infrastructure and web hosting services. These providers are focused on applications such as search, social media, video, real-time communications and cloud-based service offerings, as well as other emerging network services. In addition to their direct investment in building and operating networks, as significant purchasers of capacity on submarine networks and from communications service providers on a global basis, these customers can also influence networking solution alternatives by those network operators.
+
+•Cable and Multiservice Operators (MSO). Our customers include regional, metro, national and international cable and multiservice operators.
+
+•Submarine Network Operators. Our customers include service providers, Web-scale providers and consortia operators of submarine communications networks across the globe.
+
+•Enterprises. Our enterprise customers include large, multi-site commercial organizations, including participants in the financial, healthcare, transportation, utilities, energy and retail industries.
+
+•Government. Our government customers include federal and state agencies in the United States as well as international governmental entities. 
+
+Products and Services
+
+Our products and services include the solutions described below within our Networking Platforms, Platform Software and Services, Blue Planet Automation Software and Services, and Global Services operating segments. We also offer solutions that 
+
+9
+
+* * *
+bring together multiple products and services from across our operating segments and portfolios to address key customer use cases and infrastructure needs with an aim to enable our customers to evolve their existing network environments.
+
+Networking Platforms
+
+Our Networking Platforms segment consists of our Converged Packet Optical and Routing and Switching portfolios.
+
+Converged Packet Optical. Our Converged Packet Optical portfolio includes a range of products and solutions that use our WaveLogic coherent optical technology and our intelligent photonics solutions and are optimized for the convergence of coherent optical transport, open optical networking, Optical Transport Network (“OTN”) switching and IP routing and switching.
+
+Our 6500 Packet-Optical Platform provides a flexible and scalable converged multi-layer transport solution that adds capacity to core, regional, metro and submarine networks and enables efficient transport at high transmission speeds. This platform provides leading coherent wavelength capacities, from 100G to 800G, along with a flexible photonic layer and multi-layer control plane capabilities for scale and service differentiation. This platform, which includes several chassis sizes and a comprehensive set of line cards optimized for individual services or applications, can be used throughout the network, from customer premises to access and metropolitan networks, regional and core networks, and submarine cable landing sites. 
+
+Our Waveserver® family of products consists of compact, modular interconnect platforms that allow network operators to scale bandwidth and support high-bandwidth interconnect applications, such as high-speed data transfer, content delivery, virtual machine migration and disaster recovery/backup between data centers. Waveserver is purpose-built to address disaggregated transponder, data center and general space-constrained applications using a small footprint and low power design. With its modern software architecture, open APIs, and common data models, Waveserver is easy to operate and integrate into existing networks and facilitates deployment of on-demand cloud and high-capacity connectivity services.
+
+Our 6500 Reconfigurable Line System (“RLS”) is a compact, simple-to-deploy, disaggregated intelligent photonic layer line system that improves scalability, reduces footprint, and offers more flexibility and programmability. Its applications include long-haul and metro data center interconnection and general network modernization and simplification. It offers increased fiber capacity through automated C- and L-band deployments and provides highly dense, remote optical add/drop multiplexing and switching features that enable network operators to react to unpredictable traffic requirements by scaling connectivity and capacity.
+
+Our 5400 family of Packet-Optical Platforms consist of multi-terabit reconfigurable switching systems that consolidate the functionality of an add/drop multiplexer and a digital cross-connect into a single, high-capacity intelligent switching system. These products address both core and metro segments of communications networks and support key managed services, including Ethernet/TDM Private Line and IP services. These products provide for optical transport, traffic aggregation at the network edge and switching that are optimized for handoff at the network core.
+
+Our coherent-optimized edge line system, Coherent ELS, is a high-capacity disaggregated line system that is designed to address next-generation access photonic line system requirements, including the transport of coherent wavelengths originating from pluggables, through a compact, hardened form factor designed to accommodate outside plant deployments. With a focus on reducing operational complexity, our Coherent ELS open line system (OLS) uses integrated intelligence and automation to simplify and scale deployments. 
+
+We also offer footprint-optimized WL5n 100G-400G coherent pluggable transceivers to address next-generation access, metro, regional and data center interconnect network applications, which are supported across both our systems and third-party equipment. With respect to the transceiver market, our opportunities with high-performance coherent transceiver module and pluggables remain in the early stages, and revenue has not been significant to date. Sales of these products are reflected within the Converged Packet Optical product line of our Networking Platforms segment.
+
+Routing and Switching. Our Routing and Switching portfolio includes products and solutions that enable next-generation metro, access and aggregation or “edge” networks, including solutions that allow customers to simplify their network designs while delivering new, revenue-generating services. These products route, aggregate and switch IP-based traffic to support such applications as IP services, Ethernet business services, cell site routing, mobile cross-haul, converged haul, and services, 5G and fiber-based access networks, and consumer/residential broadband access, as well as ongoing network infrastructure scaling. Our Routing and Switching products are based on our Adaptive IP approach, which delivers end-to-end IP-based services in an automated and more simplified manner than traditional IP network designs. Our Routing and Switching products enable operators to achieve improved network cost effectiveness, including reduced costs associated with power and space, as compared to more complex, traditional IP routing.
+
+  
+
+
+10
+
+* * *
+Central to our Routing and Switching platforms is our SAOS and next-gen IP network operating system, which provide the software-based capabilities to support 5G, IP VPN services, access, passive optical network (PON), converged interconnect network (CIN) architectures, coherent optical transport, and NFV applications in our portfolio. SAOS provides automation-friendly intelligence and operational data to enable network-level programmability supported by open standards. 
+
+  
+
+
+Our 3000 family of Service Delivery Platforms and our 5000 family of Service Aggregation Platforms support network access and aggregation, respectively, and have been principally deployed to support IP and Ethernet business services, wireless front haul, backhaul and mid-backhaul applications, and residential broadband applications. Our 3000 family of platforms are purpose-built to fit small to large customer sites as well as multi-tenant offices, residential buildings or homes, and edge office or outside plant applications. They also allow customers to migrate toward software-based networking and services based on NFV. Our 5000 family provides aggregation to fill higher capacity links within both the metro access and aggregation tiers of networks, allowing operators to reduce the number of router assets required in the core and to better implement edge cloud architectures. 
+
+Our 8100 Coherent Routing platforms combine high-capacity multi-terabit IP routing and switching from 1GbE to 100GbE with high capacity WaveLogic 5 Nano coherent optical transport from 100/200/400GbE for next-generation metro and edge applications. 
+
+Our Vyatta virtual routing and switching technology and products were acquired from AT&T in the first quarter of fiscal 2022. These products include a cloud-grade router and software for enterprise and cloud networks that enable hardware-like routing performance for enterprises across multi-cloud and virtualized edge networks. This scalable and modular software can be deployed as a Virtual Machine (VM) application as well as in virtualized and disaggregated network environment.
+
+Our 6500 Packet Transport System (“PTS”) combines packet switching, control plane operation and integrated optics. Together with our 3900 platforms, PTS enables our service provider customers to migrate their legacy TDM (SONET/SDH/PDH) services to a scalable, lower operational cost packet solution.
+
+Our Routing and Switching portfolio also includes our 8700 Packetwave Platform, a multi-terabit packet switching platform for high-density metro networks and inter-data center wide area networks. The 8700 Packetwave Platform combines packet switching and coherent WaveLogic dense wavelength division multiplexing (“DWDM”) optical transport technologies for both data center networks and metro networks.
+
+Our Routing and Switching portfolio will also include cloud-native software solutions, including a virtual Broadband Network Gateway, which we acquired in our acquisition of Benu in the first quarter of fiscal 2023.
+
+Platform Software and Services
+
+Our software offerings also include our Platform Software, which provides domain control management, analytics, data and planning tools and applications to assist customers in managing their networks, including by creating more efficient operations and more proactive visibility into their networks. Our Platform Software includes:
+
+•Manage, Control and Plan. MCP software provides intelligent, multi-layer network control of our routing, switching and optical solutions, enabling simplification, acceleration and automation of multi-layer network operations. Our MCP domain controller provides fault, configuration, accounting, performance and security (“FCAPS”) management for multi-layer networks, in combination with services management and online network planning. MCP simplifies multi-layer lifecycle operations – including equipment commissioning, service provisioning, service assurance and performance monitoring. MCP provides this functionality for Ciena-developed products as well as a number of products developed by other vendors where they form a unified solution. 
+
+•MCP Apps. Our suite of MCP applications integrate software control and analytics applications in a unified interface that provides network performance data. Through our suite of MCP applications and open APIs, MCP software can integrate into network operators’ Operational Support Systems (“OSS”) and business processes, supporting our customers’ journey towards automation of end-to-end operational workflows. 
+
+•Platform Software Services. To complement our Platform Software portfolio, we offer a range of related services that include software subscription services, consulting, network migration and integration, installation and upgrade support services, and technical support relating to our Platform Software offerings. These services are focused on enabling our customers to operate their Ciena networks most efficiently, and to modernize their operations.
+
+Our Platform Software offering also includes planning tools as well as a number of legacy software solutions, including our OneControl unified management system, that support our installed base of network solutions. As we achieve further customer 
+
+11
+
+* * *
+adoption of our MCP software platform, and as we transition features, functionality and customers to that platform, we expect revenue to decline for our legacy Platform Software solutions.
+
+Blue Planet Automation Software and Services 
+
+Our Blue Planet Automation Software is a comprehensive, cloud native, and standards-based software portfolio that enables customers to realize digital transformation through the automation of the services lifecycle. Our Blue Planet applications are open and modular, and can be deployed either individually or in any combination. These applications include:
+
+  
+
+
+•Multi-Domain Service Orchestration (MDSO). Network infrastructures are comprised of multiple technology layers and domains – such as the radio access network (RAN), data center, cloud, access, transport, and mobile core networks. With new 5G network implementations, it is often complex for network operators to offer automated, end-to-end services in this environment. Blue Planet enables service orchestration across multiple physical and virtual network domains, multiple layers (Optical, Ethernet, IP and Mobile Core) and multiple hardware and software vendors. 
+
+•Inventory (“BPI”). By integrating or “federating” data from multiple inventory systems and presenting it in a single dynamic view, BPI allows real-time visibility into the end-to-end topology and status of network and service resources. Integrating with legacy OSS, BPI helps network providers simplify key operational processes such as service fulfillment, network planning and service assurance.
+
+•Route Optimization and Analysis (“ROA”). ROA combines routing, traffic and performance analytics for real-time monitoring of IP services across domains and across the cloud. These capabilities provide enhanced network observability capabilities and enable troubleshooting of latent or transient network problems, and modeling, to predict the impact of network infrastructure, service and workload changes, to build more resilient networks.
+
+•NFV Orchestration (“NFVO”). Blue Planet provides NFV management and orchestration capabilities for creating and managing virtualized network functions and data center resources. NFVO uses an open, vendor-agnostic approach that allows network operators to select and scale virtual network functions (“VNFs”) or cloud-native network functions (“CNFs”) they wish to offer to customers.
+
+•Unified Assurance & Analytics (“UAA”). UAA leverages multi-layer/multi-domain assurance and AI-powered analytics to provide insights into the health and performance of network resources and services, ensuring an end-customer quality of experience and availability to meet dynamic service demands.
+
+•Blue Planet Services. To complement our software portfolio, we offer a range of related services that include professional services for solution customization and OSS integration, software and solution support services, consulting and design, and technical support relating to our software offerings. These services are focused on enhancing network automation and network analytics, enabling multi-vendor integration and support, and implementing programmable multi-domain next-generation networks.
+
+The Blue Planet Automation Software portfolio allows operators to fulfill services rapidly and to meet end-customer quality-of-experience expectations via an entire services lifecycle approach. It also advances network operators towards their vision of self-healing and self-optimizing networks via closed loop automation. Our entrance into the market relating to these software automation capabilities remains in the early stages and, as such, revenue from our Blue Planet Automation Software and Services segment continues to represent a relatively small portion of our total revenue. 
+
+Global Services
+
+We offer a broad suite of value-added services that help our customers to build, operate and improve their networks. We believe that our services offerings and our close collaboration with our customers provide us with valuable insight into the network and business challenges they face, allowing us to provide services to meet their desired business outcomes. We have completed a multi-year transformation process to enhance our service delivery capabilities, reorganizing our resources into regional service delivery and customer success functions to better serve our customers, and streamlining our services cost structure. At the same time, we have broadened our services portfolio to include additional advanced services, including network migration and network transformation, optimization, and multi-vendor service capabilities. Through these initiatives, we believe that we can improve the cost model of our services offerings and drive greater business value for our customers.
+
+Our Global Services portfolio includes a range of offerings to meet customer needs and maximize their network infrastructure investment throughout the network lifecycle. These include:
+
+12
+
+* * *
+•Build. Consulting services to enhance network performance or plan migration to next-generation infrastructures, implementation services to deliver proper planning, design, and deployment services, and systems integration services to integrate third-party solutions;
+
+•Operate. Maintenance services that provide end-to-end support for network hardware and software, and managed services to provide management of network infrastructure operations; and
+
+•Improve. Optimization services designed to ensure that networks are running at peak performance, and learning services designed to enable customers to better understand and operate their networks.
+
+These services are delivered using a combination of our internal services resources, technical support engineers, and qualified and authorized third-party service partners.
+
+Product Development
+
+To remain competitive, we must continually invest in and enhance our solutions offerings, addressing new market opportunities, adding new features and functionality and ensuring alignment with market demand. Our product development efforts seek to design and bring to market solutions that embrace our Adaptive Network vision through further advances in programmable systems and software, analytics, and control and automation. Through our development efforts, we seek to support network operators as they pursue new business models and sources of revenue from their network infrastructure, and to achieve improved economics and return on their network infrastructure investment. We seek to develop products aimed at optimizing price for performance, managing power consumption, lifecycle operating costs and space requirements, and minimizing the environmental impact of our customers’ network operations. Our approach is also focused on designing products that address a range of emerging consumption models for networking solutions. Our current development efforts are focused on:
+
+•Reinforcing our coherent optical leadership with continued development that advances reach, transmission speed and spectral efficiency, including by leading in intelligent photonics;
+
+•Executing on parallel innovation paths for our next generation modem technology, including expanding our WaveLogic 5n offerings;
+
+•Delivering on our Adaptive IP approach and extending the IP/routing capabilities and use cases of our Routing and Switching solutions to support mobile network cross-haul, edge cloud, and network densification and virtualization initiatives, such as 5G, fiber-based access networks, and residential access; 
+
+•Pursuing development to address different consumption models, including our module, pluggable, component, disaggregated IP NOS and VNF development initiatives; 
+
+•Enhancing our Adaptive Network vision through advances in hardware programmability and software-based domain control, automation and analytics through MCP and purpose-built applications; 
+
+•Advancing our software-led transformation strategy and product development for our Blue Planet Automation Software to enable generation OSS transformation and closed loop automation
+
+•Developing products that enhance security and minimize the risk to our customers networks from cyberattacks; and
+
+•Delivering products that minimize the lifecycle climate impacts of our customers’ networks and support their sustainability goals. 
+
+  
+
+
+Our research and development efforts are also geared toward portfolio optimization and engineering changes intended to drive product and manufacturing cost reductions across our platforms, and enable muti-vendor sourcing of components.
+
+We regularly review our existing solutions offerings and prospective development of new components, features or products in order to determine their fit within our portfolio and broader corporate strategy. We also assess the market demand, technology evolution, prospective return on investment and growth opportunities, as well as the costs and resources necessary to develop and support these products. To ensure that our product development investments and solutions offerings are closely aligned with market demand, we continually seek input from customers and promote collaboration among our product development, marketing and sales organizations. In some cases, where we seek to utilize or gain access to complementary or emerging technologies or solutions, we may obtain technology through an acquisition or, alternatively, through initiatives with third parties pursuant to technology licenses, OEM arrangements and other strategic technology relationships or investments. In addition, we participate in industry and standards organizations and, where appropriate, incorporate information from these affiliations throughout the product development process.
+
+Customer Engagement
+
+13
+
+* * *
+Our Global Customer Engagement organization includes a direct sales presence that is organized geographically around the following markets: (i) the United States, Canada, the Caribbean and Latin America (“Americas”); (ii) Europe, Middle East and Africa (“EMEA”); and (iii) Asia Pacific, Japan and India (“APAC”). Within each geographic area, we maintain specific teams or personnel that focus on a particular region, country, customer or market vertical, or portfolio. These teams include sales management, account salespersons and sales engineers, as well as partner resources, field marketing, services professionals and commercial management personnel, who ensure that we maintain a high-touch, consultative relationship with our customers.
+
+We also maintain a global partner program that includes distributors, resellers, systems integrators, service providers and other third-party distributors who market and sell our products and services. We utilize these third-party channel partners to market and sell our solutions into specific geographies, applications or customer verticals. We believe there are opportunities to leverage these relationships to expand our addressable market, while at the same time reducing the financial and operational risk of entering additional markets. For third parties in our Ciena Partner Network, we maintain a code of conduct that is available on our website and that sets forth our expectations for the high standards of ethical and legally compliant conduct we require of them in supporting our business. 
+
+To support our global customer engagement efforts, we invest in marketing activities to generate demand for our products and services. Our marketing strategy is highly focused on building our brand to create customer preference for Ciena, engaging in thought leadership programs to illustrate how our innovations solve customer business problems, and enabling our sales teams to drive customer adoption of our solutions. Our marketing team supports our sales efforts through a variety of activities, including direct customer interaction, account-based marketing campaigns, portfolio marketing, industry events, media relations, industry analyst relations, social media, trade shows, our website and other marketing vehicles for our customers and channel partners.
+
+Operations and Supply Chain Management
+
+Our operations personnel manage the relationships with our third-party manufacturers and global supply chain, addressing component sourcing, manufacturing, product testing and quality, and fulfillment and logistics relating to the distribution and support of our products.
+
+We utilize a sourcing strategy that emphasizes global procurement of materials and product manufacturing in lower labor cost regions. We rely upon third-party contract manufacturers, including those with facilities in Canada, Mexico, Thailand and the United States, to manufacture, support and ship our products, and therefore are exposed to risks associated with their businesses, financial condition and the geographies in which they operate, including political risk, changes in tax and trade policy involving such countries, and physical risk, including the impact of climate change in such geographies. We also rely upon contract manufacturers and other third parties to perform design and prototype development, component procurement, full production, final assembly, testing and distribution operations. Our manufacturers procure components necessary for assembly and manufacture of our products based on our specifications, approved vendor lists, bills of materials and testing and quality standards. Our manufacturers’ activity is based on rolling forecasts that we provide to them to estimate demand for our products. We work closely with our manufacturers and suppliers to manage material, quality, cost and delivery times, and we continually evaluate their services to ensure performance on a reliable and cost-effective basis. Generally, our agreements with our supply chain and contract manufacturers are frame agreements against which we place purchase orders and do not represent long-term commitments. However, in the face of supply chain challenges experienced in recent periods, including extended lead times, we have placed advance commitments for inventory to mitigate the impact of these supply constraints on our and our customers’ businesses. 
+
+We currently use distribution partners to fulfill and deliver our products. We believe that our sourcing, manufacturing and distribution strategies allow us to conserve capital, lower costs of product sales, adjust quickly to changes in market demand and operate without dedicating significant resources to manufacturing-related plant and equipment.
+
+We continue to focus on a range of initiatives that seek to optimize our operations, improve our resiliency, and drive cost reductions. We seek to balance these goals through our sourcing and supply chain strategy, outsourcing and use of lower cost geographies. Our efforts also include process optimization initiatives, such as vendor-managed inventory, and other operational models and strategies designed to drive improved efficiencies in our sourcing, production, logistics and fulfillment.
+
+We actively work with our third-party vendors and business partners to promote socially responsible business practices within our own business and those within our global supply chain. To that end, we have adopted the principles set forth in the Responsible Business Alliance (“RBA”) Code of Conduct. The RBA Code of Conduct establishes standards that aim to ensure working conditions in the electronics industry, or industries in which electronics are a key component, and its supply chains are safe, that workers are treated with respect and dignity, and that business operations are environmentally responsible and conducted ethically. We promote these principles and require our suppliers to agree to adhere to these same standards. We also 
+
+14
+
+* * *
+publish a Sustainability Report and maintain a Human Rights Policy applicable to suppliers, each of which includes more detail about our efforts to promote responsible business practices.
+
+For a discussion of actions taken to manage through the ongoing global supply chain constraints, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations- Overview - Supply Chain Constraints” in Item 7 of Part II of this report.
+
+Seasonality
+
+Like other companies in our industry, we have historically experienced quarterly fluctuations in customer activity due to seasonal considerations. We have typically experienced reductions in order volume toward the end of the calendar year, as the procurement cycles of some of our customers slow and network deployment activity by service providers is curtailed. This period coincides with the first quarter of our fiscal year. This seasonality in our order flows has typically resulted in weaker revenue results in the first quarter of our fiscal year. These seasonal effects may not apply consistently in future periods and may not be a reliable indicator of our future revenue or results of operations. In fact, the effects of the dynamic supply and demand environment we have experienced in recent periods, together with our increased backlog, may impact the traditional seasonality in our business. For a more detailed discussion of the current supply and demand environment and our backlog, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations- Overview” in Item 7 of Part II of this report.
+
+Competition
+
+Competition among networking solution vendors remains intense on a global basis. The market in which we compete is characterized by rapidly advancing technologies, frequent introduction of new solutions and aggressive selling efforts, including using significant pricing pressure to displace incumbent vendors and capture market share. Competition for sales of networking solutions, including our Networking Platforms and Platform Software and Services, is dominated by a small number of very large, multi-national companies. Our competitors include Nokia, Huawei (as defined below), Cisco, Juniper Networks and ZTE. As compared to us, many of these competitors have substantially greater financial, operational and marketing resources, significantly broader product offerings and more established relationships with service providers and other customer segments. Because of their scale and resources, they may be perceived to be a better fit for the procurement or network strategies of larger network operators. We also continue to compete with several smaller but established companies that offer one or more products that compete directly or indirectly with our offerings or whose products address specific niches within the markets and customer segments we address. These competitors include Infinera, ADVA, Ribbon Communications, Calix, and Adtran. We also compete with a number of companies that provide significant competition for a specific product, application, service, customer segment or geographic market.
+
+  
+
+
+Keeping pace with the market’s demands for technology innovation requires considerable research and development investment capacity. As a result, some of our competitors, both large and small, have chosen to rely upon component and module technology developed by and procured from third-party providers, including NTT Electronics, Marvell Technology Group and Cisco. We may compete with these providers, either indirectly as a result of their technology being a key enabling technology for our competitors or an alternative consumption model such as “white box” technology, or directly in module, pluggable and component sales opportunities.
+
+As we promote our corporate strategy and seek increased customer adoption of our Blue Planet Automation Software, we expect to compete more directly with software vendors and traditional IT services vendors. Competitors for our Blue Planet Automation Software include Cisco, Nokia, Amdocs, Netcracker and Ericsson.
+
+Across our markets and segments, the principal competitive factors can include, among others:
+
+•functionality, speed, capacity, scalability and performance of network solutions;
+
+•the ability to meet business needs and drive successful outcomes;
+
+•price for performance, cost per bit and total cost of ownership of network solutions; 
+
+•incumbency and strength of existing business relationships;
+
+•technology roadmap and forward innovation capacity, including the ability to invest significant sums in research and development;
+
+•time-to-market in delivering products and features;
+
+•company stability and financial health;
+
+•ability to offer comprehensive networking solutions, consisting of hardware, software and services;
+
+•flexibility and openness of platforms, including ease of integration, interoperability and integrated management; 
+
+•ability to offer solutions that accommodate a range of different consumption models;
+
+•operating costs, space requirements and power consumption of network solutions;
+
+15
+
+* * *
+•software and network automation capabilities; 
+
+•ability to manage challenging supply chain environments, including manufacturing and lead-time capability; 
+
+•services and support capabilities;
+
+•security of enterprise, product development, support processes, and products; and
+
+•ability to offer solutions that help customers meet their business needs while achieving their climate sustainability goals.
+
+  
+
+
+Our competitive landscape has been and is likely to continue to be impacted by international trade and related matters, in particular between the U.S. and China. For example, in May 2019, the U.S. Department of Commerce amended the U.S. Export Administration Regulations (“EAR”) by adding Huawei Technologies Co., Ltd. (“Huawei”) and certain affiliates to the “Entity List,” resulting in significant new restrictions on export, reexport and transfer of U.S. regulated technologies and products to Huawei. In August 2020, the U.S. Department of Commerce added additional Huawei affiliates to the Entity List, confirmed the expiration of a temporary general license applicable to Huawei, and amended the foreign direct product rule under the EAR in a manner that significantly expanded its application to Huawei. Separately, the U.S. has taken steps to restrict federal agencies from doing business with, and U.S. wireless carriers from using federal subsidies to buy equipment from, Huawei and ZTE. The U.S. has also encouraged other governments to consider similar restrictions. These actions have resulted in escalating tensions between the U.S. and China and introduce a risk that the Chinese government may take steps to retaliate against U.S. industries or companies. 
+
+We also expect the competition in our industry to continue to broaden and to intensify as network operators pursue a diverse range of network strategies and consumption models. As these changes occur, we expect that our business will overlap more directly with additional networking solution suppliers, including IP router vendors, data center switch providers and other suppliers or integrators of networking technology traditionally geared toward different network applications, layers or functions. We may also face competition from system and component vendors, including those in our supply chain, who develop pluggable modem technology or other networking products based on off-the-shelf or commoditized hardware technology, referred to as “white box” hardware, particularly where a customer’s network strategy seeks to emphasize deployment of such product offerings or to adopt a disaggregated approach to the procurement of hardware and software.
+
+Patents, Trademarks and Other Intellectual Property Rights
+
+The success of our business and technology leadership depends significantly on our proprietary and internally developed technology. We rely upon the intellectual property protections afforded by patents, copyrights, trademarks and trade secret laws to establish, maintain and enforce rights in our proprietary technologies and product branding. We regularly file applications for patents and have a significant number of patents in the United States and other countries where we do business. As of December 1, 2022, we had approximately 2,100 issued patents and more than 580 pending patent applications worldwide.
+
+Enforcing proprietary rights, especially patents, can be costly, and we cannot be certain that the steps that we are taking will detect, prevent, or minimize the risks of all unauthorized use. The industry in which we compete is characterized by rapidly changing technology, a large number of patents, and frequent claims and related litigation regarding patent and other intellectual property rights. We have been subject to several claims related to patent infringement, and we have been requested to indemnify customers pursuant to contractual indemnity obligations relating to infringement claims made by third parties. Intellectual property infringement assertions could cause us to incur substantial costs, including settlement costs and legal fees in the defense of related actions. If we are not successful in defending these claims, our business could be adversely affected. 
+
+Our operating system software, Platform Software, Blue Planet Automation Software and other solutions incorporate software and components under licenses from third parties, including software subject to various open source software licenses. Failure to obtain or maintain such licenses or other third-party intellectual property rights could affect our development efforts and market opportunities, or could require us to re-engineer our products or to obtain alternate technologies. Moreover, there is a risk that open source and other technology licenses could be construed in a manner that could impose unanticipated conditions or restrictions on our ability to commercialize our products.
+
+Environment and Sustainability 
+
+Our innovation efforts and our environmental sustainability initiatives are closely linked. Our products and product development efforts are designed to offer significant improvements in footprint and power savings, in order to help enable more efficient and sustainable networks for our customers. We promote environmental sustainability through our efforts to improve the energy efficiency per gigabit of throughput in our networking solutions, as well as our initiatives to reduce the total number of network elements required to operate a network. We pursue opportunities to minimize the resource impacts in our product design, and to manage the life cycle impact of our products, including packaging and distribution, support, and end-of-life reuse, refurbishment, and recycling. We voluntarily provide on an annual basis CDP climate change and water disclosures and 
+
+16
+
+* * *
+are a member of the RBA. We have adopted, and seek to ensure that our key direct suppliers adopt, the standards and principles set forth in the RBA Code of Conduct. 
+
+People and Culture
+
+Our technology solutions are developed, marketed, sold and supported by the talented individuals that make up our global workforce of our 8,079 persons as of October 29, 2022, over 98% of whom were full-time employees. We have a broad base of talent in more than 35 countries, with approximately 57% in the Americas, 35% in APAC, and 8% in EMEA, the majority of whom are in engineering, operations or sales roles.
+
+We understand that our industry and innovation leadership is ultimately rooted in people. Competition for qualified personnel in the technology space is intense, and our success depends in large part on our ability to recruit, develop and retain a productive and engaged workforce. Accordingly, investing in our employees and their well-being, offering competitive compensation and benefits, and adopting progressive human capital management practices constitute a core element of our corporate strategy.
+
+Our Board of Directors oversees our corporate strategy, which includes management’s design and execution of our “people strategy.” This strategy seeks to ensure that we continue to attract and retain the talent necessary to execute on our business plans, and that we have programs, initiatives, rewards and recognition that are well aligned and support these goals.Through our “People Promise,” we promote a workplace environment where our employees are empowered, feel included and have an opportunity to make a difference through their work at Ciena. In doing so, we seek to cultivate for employees a culture of vibrancy, belonging and happiness, while enabling us to be an attractive employer of choice within our markets. Our executive team is actively involved in and sponsors key initiatives and employee resource groups intended to promote this corporate culture. To that end, our people strategy is focused on the following:
+
+•Promote Belonging through Diversity and Inclusion Initiatives. We promote an inclusive and diverse workplace, where all individuals are respected and feel they belong regardless of their age, race, national origin, gender, religion, disability, sexual orientation or gender identity through recruiting outreach, internal networking and resource groups, inclusivity networks, and mentoring programs. As of October 29, 2022, our global workforce was approximately 21.6% female. Our Board of Directors is 30% female and 20% ethnically diverse. As of December 31, 2021, in the U.S., where we are headquartered, our 1,760 employee workforce approximately reflected the following ethnicities: 65.5% White, 21.3% Asian, 5.8% Hispanic or Latino, 4.7% Black or African American, 2.1% two or more races (Not Hispanic or Latino), and 0.6% additional groups (including American Indian, Alaska Native, Native Hawaiian or Other Pacific Islander). We are committed to increasing diversity in our workforce at all levels, and regularly monitor our recruitment process to improve the diversity of our workforce and candidate pool. Our commitment to providing an inclusive workplace is demonstrated through the introduction of a corporate objective for fiscal 2022 to have 80% of our global workforce participate in our Conscious Inclusion Workshops, which we exceeded by achieving 90% participation as of the end of fiscal 2022. In addition, we support multiple active internal networking and resource groups, including our Women@Ciena group, Black & African Heritage group, LatinX group, Pride@Ciena LGBT+ group, and our Next@Ciena early in career group. In fiscal 2022, we also launched Vets at Ciena, our veterans’ employee resource group. In fiscal 2022, we continued to run a targeted development program aimed at strengthening underrepresented individuals’ sense of belonging and enhancing communication, confidence, self-awareness and financial acumen. We also maintain a global Inclusivity Council, which is led by two of our executives and aims to address actions for inclusion, and we have signed The CEO Action for Diversity & Inclusion. 
+
+•Support Employee Wellbeing and Engagement. We prioritize supporting the overall wellbeing of our employees and their eligible dependents. We provide a broad and diverse suite of offerings that focus on physical, mental and emotional, financial and social wellbeing and, during fiscal 2022, we expanded our offerings to include a focus on key life events such as aging and retirement readiness. Our wellbeing programs are deployed through a variety of means including expense reimbursement benefits, wellbeing challenges and rewards, 24x7 crisis support, employee assistance resources, mental health coaching, and a library of resources accessible to participants digitally and through hosted webinars. We regularly seek input from employees through employee engagement and pulse surveys on specific issues that are intended to assess our degree of success in promoting an environment that supports our People Promise and measures our culture of compliance. Our fiscal 2022 employee engagement survey had a participation rate of approximately 77% and resulted in engagement scores across all indexes that met or exceeded industry benchmarks. Our global wellbeing program also includes a long-standing practice of remote and flexible working arrangements and flexible paid time off in many of our geographies.
+
+•Offer Competitive Compensation and Ensure Pay Equity. We strive to ensure that our employees receive competitive, fair and transparent compensation and progressive benefits offerings. We conduct an annual pay fairness assessment of 
+
+17
+
+* * *
+gender globally and of ethnicity in the U.S. and take action to ensure we are paying individuals performing similar work equitably. We deployed Syndio’s workplace equity platform beginning in fiscal 2020 to fine-tune our methodology and enable regular global pay fairness assessments. To align performance and stockholder interest, we base our annual incentive compensation on both business and individual performance, we maintain an employee stock purchase plan and we have broadly expanded employee participation in equity compensation in recent years. We also offer competitive family leave, including global family leave to support employees throughout various life stages, carer’s leave, bereavement leave, parental leave that includes a minimum of 18 weeks paid time off for new mothers (including eight weeks recovery and ten weeks bonding) and ten weeks paid time off for new fathers and adoptive parents, and financial assistance for adoptive parents, and recently expanded flexible paid time-off to more than 98% of our workforce globally. We offer meaningful retirement benefits and programming to promote retirement readiness among our employee base. In recent years, we have enhanced employer contributions to our North America retirement plans, added our first ESG fund option for employees and, as of October 29, 2022, achieved greater than 99% participation of eligible employees in the U.S. and Canada in our defined contribution retirement plans.
+
+•Provide Programs for Employee Recognition. We also offer rewards and recognition programs to our employees, including peer and management-initiated awards to recognize employees who best exemplify our core values, patent incentive and distinguished engineer awards, and awards recognizing employees who exemplify our commitment to our communities and volunteerism. We believe that providing these recognition programs helps drive strong employee performance.
+
+•Create Opportunities for Growth and Development. As of October 29, 2022, approximately 20.8% of our employees are “early in career,” or age 30 and under, 51.4% are “mid-career,” or age 31 to 50, and 27.8% are “late in career,” or age 51 and over. We focus on creating opportunities for employee growth, development, training and education at all career stages, including opportunities to cultivate talent and identify candidates for new roles from within the company, early in career and new graduate networking and development programs, management and leadership development programs, coaching and mentoring programs, and support for continuing education through tuition reimbursement. We operate a leadership succession planning process that aims to develop and retain key talent and ensure business continuity for key roles. We also recently launched a program to identify individuals throughout the organization who have been identified as having high potential for the future growth and development, so that this earlier in career talent can be nurtured for future leadership roles.
+
+•Promote Community Outreach and Support. We believe it is important to give back and promote community outreach and support through corporate giving, charitable matching, and employee volunteerism in the communities in which we live and work. Through our “Ciena Cares” community program, we provide corporate matching of employee charitable donations, flexible volunteering during work time, and corporate rewards for service hours that can be donated by employees. In fiscal 2020, we launched our Digital Inclusion initiative, which aims to mobilize our global workforce, leverage our innovation leadership, and collaborate with customers, suppliers and other partners to bridge the digital divide. Through this initiative, we have funded programming to support underserved students in our global communities by emphasizing digital inclusion and equity through greater connectivity, access to enabling technologies and digital skills development. We have also partnered with Tree-Nation by planting a tree for each existing and new employee at Ciena.
+
+•Promote a Strong Ethical Business Culture. We believe that commitments to good corporate governance and the highest ethical standards are essential to our long-term success, and we are dedicated to instilling in our employees a commitment to integrity and business ethics. We maintain a Code of Business Conduct and Ethics that sets standards of conduct for Ciena’s directors, officers and employees. All employees are required to complete training on our Code of Business Conduct and Ethics, and we conduct recurring employee affirmations with respect to our Code of Business Conduct and Ethics and periodic training and communication related to specific topics contained therein. In addition, we maintain a Corporate Compliance Committee that promotes integrity and compliance leadership throughout Ciena, and a dedicated function focused exclusively on Compliance and Ethics. We also maintain several easily accessible internal and external methods by which our employees, business partners, and investors can report concerns relating to the ethical operation of our business, including anonymously where permitted. We conduct surveys of all employees on our compliance program and culture of integrity in order to assess and strengthen our culture and practices and received feedback from approximately 69% of our employees in fiscal 2022.
+
+Response to the COVID-19 Pandemic. In response to the COVID-19 pandemic, we have prioritized the safety of our employees and business partners, while continuing to support the needs of our customers and communities during this unprecedented period. Beginning in March 2020, we temporarily closed most of our offices globally, implemented travel restrictions and withdrew from certain industry events. Subsequently and in accordance with relevant public health guidance 
+
+18
+
+* * *
+and local conditions, we conducted a phased return to our offices and facilities, implemented a hybrid remote/office working model for most of our employees, and resumed certain travel. We have also maintained employee benefits and wellbeing initiatives adopted during the COVID-19 pandemic, including physical, emotional, mental, and social programming.
+
+Governmental Regulations
+
+Environmental Matters
+
+Environmental regulation is increasing across various jurisdictions, and we expect that our domestic and international operations may be subject to additional environmental compliance requirements, which could require us to incur additional costs. To date, our compliance actions and costs relating to environmental regulations have not resulted in a material cost or effect on our capital expenditures, earnings or competitive position. Our business and operations are currently subject to environmental laws in various jurisdictions around the world, including the Waste Electrical and Electronic Equipment (“WEEE”) and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (“RoHS”) regulations adopted by the European Union (the “EU”). We are also subject to disclosure and related requirements that apply to the presence of “conflict minerals” in our products or supply chain. We seek to operate our business in compliance with applicable laws relating to the materials and content of our products and product takeback and recycling, and have programs, policies, and customer offerings that help us to address these laws.
+
+Other Regulations 
+
+As a company with global operations, we are subject to complex foreign and U.S. laws and regulations, including trade regulations, tariffs, import and export regulations, anti-bribery and corruption laws, antitrust or competition laws, data privacy laws, such as the EU General Data Protection Regulation (the “GDPR”), and environmental regulations, among others. We have policies and procedures in place to promote compliance with these laws and regulations. To date, our compliance actions and costs relating to these laws, rules and regulations have not resulted in a material cost or effect on our capital expenditures, earnings or competitive position. Government regulations are subject to change, and accordingly we are unable to assess the possible effect of compliance with future requirements or whether our compliance with such regulations will materially impact our business in the future. For further discussion of how government regulations may affect our business, see the related discussion in “Risk Factors – Risks Related to Intellectual Property, Litigation, Regulation and Government Policy.”
+
+Access to SEC Reports
+
+Our website address is www.ciena.com. We make our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports, available free of charge in the “Investors” section of our website as soon as reasonably practicable after we file these reports with the Securities and Exchange Commission (the “SEC”). We routinely post these reports, recent news and announcements, financial results and other important information about our business on our website at www.ciena.com. Information contained on our website is not a part of this annual report.
+
+19
+
+* * *
+Information About Our Directors and Executive Officers
+
+The table below sets forth certain information concerning our directors and executive officers:
+
+                              
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- ---  
+Name    Age    Position  
+Patrick H. Nettles, Ph.D.    79       Executive Chairman of the Board of Directors  
+Gary B. Smith    62       President, Chief Executive Officer and Director  
+Stephen B. Alexander    63       Senior Vice President and Chief Technology Officer  
+Rick L. Hamilton    51       Senior Vice President, Blue Planet Software  
+Scott A. McFeely    59       Senior Vice President, Global Products and Services  
+James E. Moylan, Jr.    71       Senior Vice President and Chief Financial Officer  
+Andrew C. Petrik    59       Vice President and Controller  
+Jason M. Phipps    50       Senior Vice President, Global Customer Engagement  
+David M. Rothenstein    54       Senior Vice President, General Counsel and Secretary, and acting Chief Strategy Officer  
+Hassan M. Ahmed, Ph.D. (1)(3)    64       Director  
+Bruce L. Claflin (1)(2)    71       Director  
+Lawton W. Fitt (2)    69       Director  
+Patrick T. Gallagher (1)(3)    67       Director  
+Devinder Kumar (2)    67       Director  
+T. Michael Nevens (2)    73       Director  
+Judith M. O’Brien (1)(3)    72       Director  
+Joanne B. Olsen (1)(3)    64       Director  
+  
+_________________________________
+
+(1)Member of the Compensation Committee
+
+(2)Member of the Audit Committee
+
+(3)Member of the Governance and Nominations Committee
+
+  
+
+
+Our Directors hold staggered terms of office, expiring as follows: Ms. O’Brien, Ms. Olsen and Mr. Smith in 2023; Dr. Ahmed, Mr. Claflin, Mr. Gallagher and Mr. Nevens in 2024; and Ms. Fitt, Mr. Kumar and Dr. Nettles in 2025. 
+
+Patrick H. Nettles, Ph.D. has served as a Director of Ciena since April 1994 and as Executive Chairman of the Board of Directors since May 2001. From October 2000 to May 2001, Dr. Nettles was Chairman of the Board of Directors and Chief Executive Officer of Ciena, and he was President and Chief Executive Officer from April 1994 to October 2000. Dr. Nettles serves as a Trustee for the California Institute of Technology. Dr. Nettles previously served on the boards of directors of Axcelis Technologies, Inc., where he was independent chairman of the board, The Progressive Corporation, where he was chair of the audit committee, Apptrigger, Inc., which was formerly known as Carrius Technologies, Inc., and Optiwind Corp, and previously served as a Trustee for the Georgia Tech Foundation, Inc.
+
+Gary B. Smith joined Ciena in 1997 and has served as President and Chief Executive Officer since May 2001. Mr. Smith has served on Ciena’s Board of Directors since October 2000. Prior to his current role, his positions with Ciena included Chief Operating Officer and Senior Vice President, Worldwide Sales. Mr. Smith previously served as Vice President of Sales and Marketing for INTELSAT and Cray Communications, Inc. Mr. Smith previously served on the boards of directors of CommVault Systems, Inc. and Avaya Inc. Mr. Smith is a member of the President’s National Security Telecommunications Advisory Committee, serves on the Wake Forest University Entrepreneurship Advisory Council, and participates in initiatives with the Center for Corporate Innovation.
+
+Stephen B. Alexander joined Ciena in 1994 and has served as Chief Technology Officer since September 1998 and as a Senior Vice President since January 2000. Mr. Alexander has previously served as General Manager of Products and Technology and General Manager of Transport and Switching and Data Networking.
+
+Rick L. Hamilton joined Ciena in October 2016 and has served as Senior Vice President, Blue Planet Software since February 2017. Mr. Hamilton is responsible for managing Ciena’s Blue Planet Automation Software and Services portfolio. Mr. Hamilton previously served as Senior Vice President, Global Services & Automation. Prior to joining Ciena, he served as 
+
+20
+
+* * *
+Corporate Vice President, Professional Services for Juniper Networks from January to October 2016. From January 2004 to December 2015, Mr. Hamilton served with Cisco Systems in various services leadership positions, including most recently as Vice President, Cloud & Managed Services.
+
+Scott A. McFeely joined Ciena in March 2010 and has served as Senior Vice President, Global Products and Services since May 2018. Mr. McFeely is responsible for all aspects of Ciena’s networking portfolio including research and development activities relating to its Converged Packet Optical and Routing and Switching portfolios, Platform Software and Services, product line management, supply chain operations, and Global Services. From November 2015 to May 2018, Mr. McFeely served as Senior Vice President, Networking Platforms and became an executive officer in February 2017. From March 2010 to October 2015, he served as Vice President, Global Portfolio Management and Business Operations. Mr. McFeely joined Ciena in connection with its acquisition of Nortel’s Metro Ethernet Networks business, with which he spent more than 20 years in a variety of technical and management roles.
+
+James E. Moylan, Jr. joined Ciena in 2007 and has served as Senior Vice President and Chief Financial Officer since December 2007. 
+
+Andrew C. Petrik joined Ciena in 1996 and has served as Vice President, Controller since August 1997. He also served as Treasurer from August 1997 to October 2008.
+
+Jason M. Phipps joined Ciena in 2002 and has served as Senior Vice President, Global Customer Engagement (formerly titled Senior Vice President, Global Sales and Marketing) since February 2017, in which capacity he is responsible for Ciena’s global sales organization. From January 2014 to February 2017, Mr. Phipps served as Vice President and General Manager, North America Sales, during which time he also oversaw the Global Partners & Channels practice, and from March 2011 to December 2013 he served as Vice President, Global Sales Operations. Mr. Phipps has also previously held a number of sales and marketing leadership positions with Ciena.
+
+David M. Rothenstein joined Ciena in January 2001 and has served as Senior Vice President, General Counsel and Secretary since November 2008. Mr. Rothenstein has also served as acting Chief Strategy Officer since March 2022. Mr. Rothenstein served as Vice President and Associate General Counsel from July 2004 to October 2008 and previously as Assistant General Counsel.
+
+Hassan M. Ahmed, Ph.D. has served as a Director of Ciena since June 2020. Dr. Ahmed has served as Executive Chairman and CEO of Sway AI, Inc. since March 2021 and served as Executive Chairman of Founder SPAC from March 2021 to August 2022. He previously served as Chairman of the board of directors and Chief Executive Officer of Affirmed Networks, Inc., which was acquired by Microsoft in April 2020. Before founding Affirmed Networks in 2010, he was a senior advisor at Charles River Ventures. From 1998 to 2008, Dr. Ahmed served as Chairman and Chief Executive Officer of Sonus Networks, Inc. Prior to that time, he served in various executive roles at Ascend Communications, Inc., Cascade Communications Corporation and Analog Devices, Inc. He also served as President and founder of WaveAccess, Inc., and founded and served as director of the VLSI Systems Group of Motorola Codex. Dr. Ahmed previously served as Associate Professor of Electrical, Computer and Systems Engineering and Associate Professor of Finance at Boston University. Dr. Ahmed currently serves on the board of directors of KINS Technology Group, Inc., a publicly traded company, and Vesper Technologies, Inc., Oxefit, Inc., Avesha Inc., and Sway AI, Inc., all private companies. Dr. Ahmed previously served on the board of directors of and Founder SPAC, a publicly traded company.
+
+Bruce L. Claflin has served as a Director of Ciena since August 2006. Mr. Claflin served as President and Chief Executive Officer of 3Com Corporation from January 2001 until his retirement in February 2006. Mr. Claflin joined 3Com as President and Chief Operating Officer in August 1998. Prior to 3Com, Mr. Claflin served as Senior Vice President and General Manager, Sales and Marketing, for Digital Equipment Corporation. Mr. Claflin also worked for 22 years at IBM, where he held various sales, marketing and management positions, including general manager of IBM PC Company’s worldwide research and development, product and brand management, as well as president of IBM PC Company Americas. Mr. Claflin currently serves on the board of directors of IDEXX Laboratories, Inc., a publicly traded company, where he is Chair of the Governance and Corporate Responsibility Committee and serves on the Audit Committee. Mr. Claflin previously served on the board of directors of Advanced Micro Devices, Inc. (“AMD”), where he served as Chairman for 10 years. 
+
+Lawton W. Fitt has served as a Director of Ciena since November 2000. From October 2002 to March 2005, Ms. Fitt served as Director of the Royal Academy of Arts in London. From 1979 to October 2002, Ms. Fitt was an investment banker with Goldman Sachs & Co., where she was a partner from 1994 to October 2002. Ms. Fitt currently serves on the boards of directors of The Carlyle Group Inc., where she serves as Lead Independent Director, The Progressive Corporation, where she serves as Chairperson of the Board, and Micro Focus International PLC, all publicly traded companies. Ms. Fitt also serves as a 
+
+21
+
+* * *
+director or trustee of several non-profit organizations. Ms. Fitt previously served on the boards of directors of ARM Holdings PLC and Thomson Reuters Corporation. 
+
+Patrick T. Gallagher has served as a Director of Ciena since May 2009. Since October 2007, Mr. Gallagher has served as Chairman of Harmonic Inc., a publicly traded company and global provider of high-performance video solutions to the broadcast, cable, telecommunications and managed service provider sectors. Mr. Gallagher has served as Chairman of privately held Mirabeau SAS, a French wine producer, since August 2019. From January 2014 until January 2022, Mr. Gallagher served as Chairman of privately-held Intercloud SAS, an international software defined cloud interconnect company. Previously, from March 2008 until April 2012, Mr. Gallagher served as Chairman of Ubiquisys Ltd, from January 2008 until February 2009, Mr. Gallagher served as Chairman of Macro 4 plc, and from May 2006 until March 2008, he served as Vice Chairman of Golden Telecom Inc. From 2003 until 2006, Mr. Gallagher was Executive Vice Chairman and served as Chief Executive Officer of FLAG Telecom Group Ltd. and, prior to that role, he held various senior management positions at British Telecom. Mr. Gallagher also previously served on the board of directors of Sollers JSC.
+
+Devinder Kumar has served as a Director of Ciena since August 2019. Mr. Kumar currently serves as Executive Vice President, Chief Financial Officer and Treasurer of AMD, a publicly traded company, in which capacity he is responsible for the global finance organization as well as global corporate services and facilities. He was appointed Chief Financial Officer in January 2013 and Treasurer in April 2015. Since he joined AMD in 1984, Mr. Kumar has progressed through several leadership positions in corporate accounting and corporate finance, including serving as CFO, corporate controller and assistant treasurer. He also spent 10 years in Asia as financial controller for AMD Penang and group finance director for AMD’s Manufacturing Services Group across Singapore, Thailand, China and Malaysia. 
+
+T. Michael Nevens has served as a Director of Ciena since February 2014. Since 2006, Mr. Nevens has served as senior adviser to Permira Advisers, LLC, an international private equity fund. From 1980 to 2002, Mr. Nevens held various leadership positions at McKinsey & Co., most recently as a director (senior partner) and as managing partner of the firm’s Global Technology Practice. He also served on the board of the McKinsey Global Institute, which conducts research on economic and policy issues. Mr. Nevens has been an adjunct professor of Corporate Governance and Strategy at the Mendoza College of Business at the University of Notre Dame. Mr. Nevens also serves as Chairman of the board of directors of NetApp, Inc., a publicly traded company, and on the board of directors of TalonX, Inc., a private company. Mr. Nevens previously served on the board of directors of Altera Corporation.
+
+Judith M. O’Brien has served as a Director of Ciena since July 2000. From November 2012 until her retirement in December 2019, Ms. O’Brien served as a partner and head or co-head of the Emerging Company Practice Group at the law firm of King & Spalding. Ms. O’Brien served as Executive Vice President and General Counsel of Obopay, Inc., a provider of mobile payment services, from November 2006 through December 2010. From February 2001 until October 2006, Ms. O’Brien served as a Managing Director at Incubic Venture Fund, a venture capital firm. From August 1980 until February 2001, Ms. O’Brien was a lawyer with Wilson Sonsini Goodrich & Rosati, where, from February 1984 to February 2001, she was a partner specializing in corporate finance, mergers and acquisitions, and general corporate matters. Ms. O’Brien serves on the boards of directors of privately held companies Theatro Labs, Inc., MagicCube, Inc., and LightDeck Diagnostics, Inc. Ms. O’Brien also previously served on the boards of directors of Adaptec, Inc. and Inform, Inc.
+
+Joanne B. Olsen has served as a Director of Ciena since October 2018. Ms. Olsen previously served as Executive Vice President of Global Cloud Services and Support at Oracle from 2016 until her retirement in August 2017. In that role, she drove Oracle’s cloud transformation services and support strategy, partnering with leaders across all business units. Ms. Olsen previously served as Senior Vice President and leader of Oracle’s applications sales, alliances, and consulting organizations in North America from 2012 through 2016, and from 2010 through 2012 served in various general management positions at Oracle. Ms. Olsen began her career with IBM, where, between 1979 and 2010, she held a variety of executive management positions across sales, global financing and hardware. Ms. Olsen also serves on the boards of directors of Teradata Corporation and Keysight Technologies, Inc., both publicly traded companies.
+
+  
+
+
+22
+
+* * *
+Item 1A. Risk Factors

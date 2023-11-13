@@ -1,0 +1,526 @@
+Item 1A.
+
+  
+
+Risk Factors.  
+  
+--- ---  
+  
+An investment in us involves a high degree of risk and may result in the loss of all or part of your investment. You should consider carefully all of the information set out in this document and the risks attaching to an investment in us, including, in particular, the risks described below. The information below does not purport to be an exhaustive list and should be considered in conjunction with the contents of the rest of this document.
+
+Risks Related to Economic Conditions, Governmental Action, and our Industry
+
+Our industry is greatly influenced by the overall global economy and as such we have the potential to be adversely affected by the COVID-19 public health pandemic and the resultant impact on our business, results of operations or financial condition.
+
+The global outbreak of the COVID-19 pandemic caused governments and industry to take measures to mitigate the spread of the virus. We source certain raw materials for our chemicals segment internationally, and as such we are subject to supply chain disruptions and price inflation for those raw materials. We have so far absorbed those impacts in our business; however, our ability to competitively source these raw materials after such time is uncertain given the unknown impacts of COVID-19 and potentially more disruptive future variants.
+
+Additionally, any further spread of COVID-19, which may negatively impact on our customers and thus on our business still remains unpredictable and as such, we cannot predict the degree to, or the time period over, which our sales and operations will be affected by this outbreak, and the effects could be material. The impacts include, but are not limited to:
+
+  
+
+●
+
+  
+
+a significant decline in demand for our products due to market disruptions, resulting in a decline in sales and prices;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+limitations of feedstocks, price volatility, or disruptions to our suppliers’ operations;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+the complete or partial closure of our manufacturing facility;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+the interruption of our distribution system, or temporary or long-term disruption in our supply chains, or delays in the delivery of our product;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+suspension of renewable fuel and/or low carbon fuel policies;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+limitations on our ability to operate our business as a result of federal, state or local regulations, including any changes to the designation of our business as “essential” by the U.S. Department of Homeland Security;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+decreases in the demand for and price of RINs and LCFS credits as a result of reduced demand for petroleum-based gasoline and diesel fuel; and  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+our management of the impact of COVID-19 has and will continue to require significant investment of time and may cause the Company to divert or delay the application of its resources toward other or new initiatives or investments, which may cause a material adverse impact on the results of operations.  
+  
+--- --- ---  
+  
+The extent of the impact of the COVID-19 pandemic on our business will continue to be uncertain in the near future as it continues to evolve globally. We cannot reasonably estimate the continued duration and severity of the COVID-19 pandemic, or its impact, which may be significantly harmful to our operations and profitability.
+
+We operate within the biomass-based diesel industry, which relies on governmental programs requiring or incentivizing the consumption of biofuels, including the BTC. The expiration or loss of mandates or incentives would have a material adverse effect on our business.
+
+The most significant tax incentive program in the biomass-based diesel industry has been the BTC. Under the BTC, the first person to blend pure biomass-based diesel with petroleum-based diesel fuel receives a one dollar per gallon refundable tax credit. The BTC was not in place during 2018 and not in place for the majority of 2019. However, in late December 2019, the BTC was retroactively reinstated from its expiry on January 1, 2018 through December 31, 2022. With the passage of the Inflation Reduction Act in August 2022, the BTC has been extended through December 31, 2024. There is no guarantee that the BTC will be extended after 2024, which could have a material adverse effect on us and on the biodiesel industry in general.
+
+We operate within the biomass-based diesel industry, which relies on governmental programs requiring or incentivizing the consumption of biofuels. Biomass-based diesel has historically been more expensive to produce than petroleum-based diesel fuel and these governmental programs support a market for biomass-based diesel that might not otherwise exist. The petroleum industry is opposed to many of these government incentives and can be expected to continue to challenge these incentives.
+
+If biodiesel feedstock costs do not decrease significantly relative to biodiesel prices, we could realize a negative gross margin on biodiesel. As a result, we could cease producing biodiesel, which could have an adverse effect on our financial condition.
+
+15 
+
+* * *
+Our biofuels operations may be harmed if federal or state governments were to change current laws and regulations.
+
+Alternative fuels businesses benefit from government subsidies and mandates. If any of the state or federal laws and regulations relating to the government subsidies and mandates change, including failure to reinstate the federal biodiesel BTC, our ability to benefit from our alternative fuels business could be harmed.
+
+With respect to our biofuels platform, the United States Congress could repeal, curtail or otherwise change the RFS2 program in a manner adverse to us. Similarly, the USEPA could curtail or otherwise change its administration of the RFS2 program in a manner adverse to us, including by not increasing or even decreasing the required renewable fuel volumes, by waiving compliance with the required renewable fuel volumes or otherwise. In addition, while Congress specified RFS2 renewable fuel volume requirements through 2022 (subject to adjustment in the rulemaking process), beginning in 2023 required volumes of renewable fuel will be largely at the discretion of the USEPA (in coordination with the Secretary of Energy and Secretary of Agriculture). We cannot predict what changes, if any, will be instituted or the impact of any changes on our business, although adverse changes could seriously harm our revenues, earnings and financial condition.
+
+Further, our biofuels platform is subject to federal, state, and local laws and regulations governing the application and use of alternative energy products, including those related specifically to biodiesel. For instance, biodiesel benefits from successful completion of USEPA Tier I and Tier II health effects testing under Section 211(b) of the Clean Air Act. This testing verified biodiesel does not pose a threat to human health and improves air quality as a replacement for petroleum diesel. Also, portions of our biofuels may, from time to time, be registered in states where we obtain benefits from state specific subsidies, mandates or programs. If federal or state agency determinations, laws, and regulations relating to the application and use of alternative energy are changed, the marketability and sales of biodiesel production could be materially adversely affected.
+
+We have historically derived a significant portion of our revenues from sales of our biofuels in the State of California primarily as a result of California’s Low Carbon Fuel Standard (“LCFS”); adverse changes in this law or reductions in the value of LCFS credits would harm our revenues and profits.
+
+The LCFS is designed to reduce greenhouse gas (“GHG”) emissions associated with transportation fuels used in California by ensuring that the total amount of fuel consumed meets declining targets for such emissions. The regulation quantifies lifecycle GHG emissions by assigning a “carbon intensity” ("CI") score to each transportation fuel based on that fuel’s lifecycle assessment. Each petroleum fuel provider, generally the fuel’s producer or importer is required to ensure that the overall CI score for its fuel pool meets the annual carbon intensity target for a given year. This obligation is tracked through credits and deficits and credits can be traded. We generate LCFS credits when we sell qualified fuels which are used in California. As a result of the trading price of LCFS credits, California has become a desirable market in which to sell our biodiesel. If the value of LCFS credits were to materially decrease as a result of over-supply, as a result of reduced demand for our fuels, or for other reasons including the continued impact of the COVID-19 pandemic, if the fuel produced is deemed not to qualify for LCFS credits; or if the LCFS or the manner in which it is administered or applied were otherwise changed in a manner adverse to us, our revenues and profits could be seriously harmed.
+
+16 
+
+* * *
+The industries in which we compete are highly competitive.
+
+The biodiesel and specialty chemical industries are highly competitive. There is competition within these industries and also with other industries in supplying the energy, fuel, and chemical needs of industry and individual customers. We compete with other firms in the sale or purchase of various goods or services in many national and international markets. We compete with large national and multi-national companies that have longer operating histories, greater financial, technical, and other resources, and greater name recognition than we do. In addition, we compete with several smaller companies capable of competing effectively on a regional or local basis, and the number of these smaller companies is increasing. Our competitors may be able to respond more quickly to new or emerging technologies and services and changes in customer requirements. As a result of competition, we may lose market share or be unable to maintain or increase prices for our products and/or services or to acquire additional business opportunities, which could have a material adverse effect on our business, financial condition, results of operations, and cash flows. Although we will employ all methods of competition that are lawful and appropriate for such purposes, no assurances can be made that they will be successful. A key component of our competitive position, particularly given the commodity-based nature of many of our products, will be our ability to manage expenses successfully, which requires continuous management focus on reducing unit costs and improving efficiency. No assurances can be given that we will be able to successfully manage such expenses.
+
+Our competitive position in the markets in which we participate is, in part, subject to external factors, in addition to those that we can impact. Natural disasters, changes in laws or regulations, trade disputes, war or other outbreak of hostilities, or other political factors in any of the countries or regions in which we operate or do business, or in countries or regions that are key suppliers of strategic raw materials, could negatively impact our competitive position and our ability to maintain market share.
+
+As to our biofuels segment, biodiesel produced in Canada, South America, Europe, Eastern Asia, the Pacific Rim, or other regions may be imported into the United States to compete with U.S. -produced biodiesel. These regions may benefit from biodiesel production incentives or other financial incentives in their home countries that offset some of their biodiesel production costs and enable them to profitably sell biodiesel in the U.S. at lower prices than U.S.-based biodiesel producers. Under the RFS2, imported biodiesel may be eligible to satisfy an obligated party’s requirements and, therefore, may compete to meet the volumetric requirements of RFS2. This could make it more challenging for us to market or sell biodiesel in the United States, which would have a material adverse effect on our revenues.
+
+The total current U.S. production capacity for biodiesel is in excess of the current RFS2 mandate for 2022 and 2023. Excess production capacity over the annual mandates could result in a decline in biodiesel prices and profitability, negatively impacting our ability to maintain the profitability of our biofuels segment and recover capital expenditures in this business segment.
+
+Biodiesel is encountering increased competition from renewable diesel, which is produced via hydrotreating a biomass-based feedstock. Renewable diesel can be used interchangeably with conventional petroleum diesel, is not limited in blends, and can be transported via existing fuel pipeline infrastructure. A significant capital investment would be required for the Company to produce renewable diesel, and the current economics and business uncertainty do not support this level of investment.
+
+17 
+
+* * *
+Fluctuations in commodity prices may cause a reduction in the demand or profitability of the products or services we produce.
+
+Prices for alternative fuels tend to fluctuate widely based on a variety of political and economic factors. These price fluctuations heavily influence the oil and gas industry. Lower energy prices for existing products tend to limit the demand for alternative forms of energy services and related products and infrastructure. Historically, the markets for alternative fuels have been volatile, and they are likely to continue to be volatile. Wide fluctuations in alternative fuel prices may result from relatively minor changes in the supply of and demand for oil and natural gas, market uncertainty, and other factors that are beyond our control, including:
+
+  
+
+●
+
+  
+
+worldwide and domestic supplies of oil and gas;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+the price and/or availability of biodiesel feedstocks;  
+  
+  
+
+●
+
+  
+
+weather conditions;  
+  
+  
+
+●
+
+  
+
+the level of consumer demand;  
+  
+  
+
+●
+
+  
+
+the price and availability of alternative fuels;  
+  
+  
+
+●
+
+  
+
+the availability of pipeline and refining capacity;  
+  
+  
+
+●
+
+  
+
+the price and level of foreign imports;  
+  
+  
+
+●
+
+  
+
+domestic and foreign governmental regulations and taxes;  
+  
+  
+
+●
+
+  
+
+the ability of the members of the Organization of Petroleum Exporting Countries (OPEC) to agree to and maintain oil price and production controls;  
+  
+  
+
+●
+
+  
+
+political instability or armed conflict in oil-producing regions;  
+  
+  
+
+●
+
+  
+
+pandemics, epidemics, or disease outbreaks, such as COVID-19; and  
+  
+  
+
+●
+
+  
+
+the overall economic environment.  
+  
+These factors and the volatility of the commodity markets make it extremely difficult to predict future alternative fuel price movements with any certainty. There may be a decrease in the demand for our products or services and our profitability could be adversely affected.
+
+We are reliant on certain strategic raw materials for our operations.
+
+We are reliant on certain strategic raw materials (such as biodiesel feedstocks and methanol) for our operations. We have implemented certain risk management tools, such as multiple suppliers and hedging, to mitigate short-term market fluctuations in raw material supply and costs. There can be no assurance, however, that such measures will result in cost savings or supply stability or that all market fluctuation exposure will be eliminated. In addition, inflation, natural disasters, changes in laws or regulations, war or other outbreak of hostilities, or other political factors in any of the countries or regions in which we operate or do business, or in countries or regions that are key suppliers of strategic raw materials, could affect availability and costs of raw materials.
+
+While temporary shortages of raw materials may occasionally occur, these items have historically been sufficiently available to cover current requirements. However, their continuous availability and price are impacted by natural disasters, plant interruptions occurring during periods of high demand, domestic and world market and political conditions, changes in government regulation, and war or other outbreak of hostilities. In addition, as we increase our biodiesel capacity, we will require larger supplies of raw materials, which have not yet been secured and may not be available for the foregoing reasons or may be available only at prices higher than current levels. Our operations or products may, at times, be adversely affected by these factors.
+
+18 
+
+* * *
+Market conditions or transportation impediments may hinder access to raw goods and distribution markets.
+
+Market conditions, the unavailability of satisfactory transportation, or the location of our manufacturing complex from more lucrative markets may hinder our access to raw goods and/or distribution markets. The availability of a ready market for biodiesel depends on a number of factors, including the demand for and supply of biodiesel and the proximity of the plant to trucking and terminal facilities. The sale of large quantities of biodiesel necessitates that we transport our biodiesel to other markets, since the Batesville, Arkansas regional market is not expected to absorb all of our contemplated production. Common carrier pipelines do not transport biodiesel or biodiesel/ petrodiesel blends, which means trucks, barges, and rail cars are the potentially available means of distribution of our product from the plant to these storage terminals for further distribution. However, the availability of rail cars is limited and at times unavailable because of repairs or improvements, or as a result of priority transportation agreements with other shippers. Additionally, the current availability of barges is limited, particularly heated barges to transport biodiesel during winter months. If transportation is restricted or is unavailable, we may not be able to sell into more lucrative markets, and consequently our cash flow from sales of biodiesel could be restricted.
+
+If automobile manufacturers and other industry groups express reservations regarding the use of biodiesel, our ability to sell biodiesel will be negatively impacted.
+
+Research on biodiesel use in automobiles is ongoing. Some industry groups have recommended that blends of no more than 5% biodiesel be used for automobile fuel due to concerns about fuel quality, engine performance problems, and possible detrimental effects of biodiesel on rubber components and other engine parts. Although some manufacturers have encouraged use of biodiesel fuel in their vehicles, cautionary pronouncements by other manufacturers or industry groups may impact our ability to market our biodiesel.
+
+Perception about “food vs. fuel” could impact public policy, which could impair our ability to operate at a profit and substantially harm our revenues and operating margins.
+
+Some people believe that biodiesel may increase the cost of food, as some feedstocks, such as soybean oil, used to make biodiesel can also be used for food products. This debate is often referred to as “food vs. fuel.” Though our biodiesel is sourced from non-food grade feedstocks, this is a concern to the biodiesel industry because biodiesel demand is heavily influenced by government policy, and if public opinion was to erode, it is possible that these policies would lose political support. These views could also negatively impact public perception of biodiesel. Such claims have led some, including members of Congress, to urge the modification of current government policies that affect the production and sale of biofuels in the United States.
+
+Concerns regarding the environmental impact of biodiesel production could affect public policy, which could impair our ability to operate at a profit and substantially harm our revenues and operating margins.
+
+The environmental impacts associated with biodiesel production and use have not yet been fully analyzed. Under the 2007 Energy Independence and Security Act, the USEPA is required to produce a study every three years of the environmental impacts associated with current and future biofuel production and use, including effects on air and water quality, soil quality and conservation, water availability, energy recovery from secondary materials, ecosystem health and biodiversity, invasive species, and international impacts. The first such triennial report was published in January 2011. The second triennial report was published June 29, 2018. The 2018 report reaffirms the findings of the 2011 report and reflects the current understanding about biofuel production using data gathered through May 2017. On January 3 2023, the USEPA released for public comment an external review draft of its third triennial report to Congress on biofuels and environment. A 60-day public comment period was open through March 6, 2023. The USEPA is required to report to Congress on the environmental and resource conservation impacts of the Renewable Fuel Standard program under Section 2004 of the Energy Independence and Security Act of 2007. We expect the third report will build on the previous two reports and provide an update of the impacts to date of the RFS program on the environment.
+
+To the extent that state or federal laws are modified, or public perception turns against biodiesel, use requirements, such as RFS2, may not continue, which could materially harm our ability to operate profitably.
+
+Climate change regulations may impact our ability to operate at a profit and harm our operating margins.
+
+Future regulations may impose new operational burdens, require investment in additional emission control technology, or result in unfavorable market changes. The cost of compliance with stringent climate change regulations could adversely affect our ability to compete with companies in locations that are not subject to stringent climate change regulations.
+
+Growth in the sale and distribution of biodiesel is dependent on the expansion of related infrastructure, which may not occur on a timely basis, if at all, and our operations could be adversely affected by infrastructure limitations or disruptions.
+
+Growth in the biodiesel industry depends on substantial development of infrastructure for the distribution of biodiesel. Substantial investment required for these infrastructure changes and expansions may not be made on a timely basis or at all. The scope and timing of any infrastructure expansion are generally beyond our control. Also, we compete with other biofuel companies for access to some of the key infrastructure components, such as terminal capacity. As a result, increased production of biodiesel or other biofuels will increase the demand and competition for necessary infrastructure. Any delay or failure in expanding distribution infrastructure could hurt the demand for or prices of biodiesel, impede delivery of our biodiesel, and impose additional costs, each of which would have a material adverse effect on our results of operations and financial condition. Our business will be dependent on the continuing availability of infrastructure for the distribution of increasing volumes of biodiesel and any infrastructure disruptions could materially harm our business.
+
+19 
+
+* * *
+Nitrogen oxide emissions from biodiesel may harm its appeal as a renewable fuel and increase costs.
+
+In some instances, biodiesel may increase emissions of nitrogen oxide as compared to petrodiesel, which could harm air quality. Nitrogen oxide is a contributor to ozone depletion and smog. These emissions may decrease the appeal of biodiesel to environmental groups and agencies who have been historic supporters of the biodiesel industry, potentially harming our ability to market our biodiesel.
+
+In addition, several states have acted to regulate potential nitrogen oxide emissions from biodiesel. Texas currently requires that biodiesel blends contain an additive to eliminate this perceived nitrogen oxide increase. California is in the process of formulating biodiesel regulations that may also require such an additive. The USEPA may also institute requirements for such an additive. In states where such an additive is required to sell biodiesel, the additional cost of the additive may make biodiesel less profitable or make biodiesel less cost competitive against petrodiesel or renewable diesel, which would negatively impact our ability to sell our products in such states and therefore have an adverse effect on our revenues and profitability.
+
+Risks Related to our Business
+
+We are reliant upon a relatively small number of customers.
+
+Our chemical business is concentrated with four large customers covering multiple products representing greater than 72% of our chemicals segment product sales, or 15% of total revenues. Although this business is contracted in longer-term production agreements, the loss of any of these strategic customers could have a material adverse effect on our chemicals business.
+
+Additionally, our biofuels segment has two large customers. Sales to these biodiesel customers totaled approximately 27% of total revenue (or $107,898) in 2022. Sales in 2021 to our three largest customers represented 52% of total revenues (or $133,231). Sales to one biodiesel customer totaled 12% of total revenues in 2020 (or $25,460). We do not have a contract with these customers but rather sell based on monthly or short-term, multi-month purchase orders placed with us by the customers at prices based upon then-prevailing market rates.
+
+Changes in technology may render our products or services obsolete.
+
+The alternative fuel and chemical industries may be substantially affected by rapid and significant changes in technology. Examples include competitive product technologies, such as green gasoline, renewable diesel produced from catalytic hydrotreating of renewable feedstock oils, and competitive process technologies, such as advanced biodiesel continuous reactor and washing designs that increase throughput. Additionally, new supplies of natural gas in the U.S., primarily as a result of shale gas development, have lowered natural gas prices. Lower natural gas prices may lead to increased use of natural gas as a transportation fuel. Increased usage of natural gas in the transportation market, or other markets that have traditionally used petrodiesel or biodiesel, may lead to declines in the demand for petrodiesel and biodiesel. Lastly, new and more active compounds may be discovered that require less volume or different manufacturing methods, or the end products may become obsolete and be replaced with differing materials.
+
+These changes may render obsolete certain existing products, energy sources, services, and technologies currently used by us. We cannot provide assurances that the technologies used by or relied upon by us will not be subject to such obsolescence. While we may attempt to adapt and apply the services provided by us to newer technologies, we cannot provide assurances that we will have sufficient resources to fund these changes or that these changes will ultimately prove successful.
+
+Failure to comply with governmental regulations could result in the imposition of penalties, fines or restrictions on operations and remedial liabilities.
+
+The biofuel and chemical industries are subject to extensive federal, state, local, and foreign laws and regulations related to the general population’s health and safety and those associated with compliance and permitting obligations (including those related to the use, storage, handling, discharge, emission, and disposal of municipal solid waste and other waste, pollutants or hazardous substances or waste, or discharges and air and other emissions) as well as land use and development. Existing laws also impose obligations to clean up contaminated properties, or to pay for the cost of such remediation, often upon parties that did not cause the contamination. Compliance with these laws, regulations, and obligations could require substantial capital expenditures. Failure to comply could result in the imposition of penalties, fines, or restrictions on operations and remedial liabilities. These costs and liabilities could adversely affect our operations.
+
+20 
+
+* * *
+Changes in environmental laws and regulations occur frequently, and any changes that result in more stringent or costly waste handling, storage, transport, disposal, or cleanup requirements could require us to make significant expenditures to attain and maintain compliance and may otherwise have a material adverse effect on our business segments in general and on our results of operations, competitive position, or financial condition. We are unable to predict the effect of additional environmental laws and regulations that may be adopted in the future, including whether any such laws or regulations would materially adversely increase our cost of doing business or affect our operations in any area.
+
+Under certain environmental laws and regulations, we could be held strictly liable for the removal or remediation of previously released materials or property contamination regardless of whether we were responsible for the release or contamination, or if current or prior operations were conducted consistent with accepted standards of practice. Such liabilities can be significant and, if imposed, could have a material adverse effect on our financial condition or results of operations.
+
+21 
+
+* * *
+Our insurance may not protect us against our business and operating risks.
+
+We maintain insurance for some, but not all, of the potential risks and liabilities associated with our business. For some risks, we may not obtain insurance if we believe the cost of available insurance is excessive relative to the risks presented. As a result of market conditions, premiums and deductibles for certain insurance policies can increase substantially and, in some instances, certain insurance policies may become unavailable or available only for reduced amounts of coverage. As a result, we may not be able to renew our existing insurance policies or procure other desirable insurance on commercially reasonable terms, if at all. Although we will maintain insurance at levels we believe are appropriate for our business and consistent with industry practice, we will not be fully insured against all risks that cannot be sourced on economic terms. In addition, pollution and environmental risks generally are not fully insurable. Losses and liabilities from uninsured and underinsured events and delay in the payment of insurance proceeds could have a material adverse effect on our financial condition and results of operations.
+
+If a significant accident or other event resulting in damage to our operations (including severe weather, terrorist acts, war, civil disturbances, pollution, or environmental damage) occurs and is not fully covered by insurance or a recoverable indemnity from a customer, it could adversely affect our financial condition and results of operations.
+
+We depend on key personnel, the loss of any of whom could materially adversely affect our future operations.
+
+Our success depends to a significant extent upon the efforts and abilities of our executive officers and lead management team. The loss of the services of one or more of these key employees could have a material adverse effect on us. Our business is also dependent upon our ability to attract and retain qualified personnel. Acquiring or retaining these personnel could prove more difficult to hire or cost substantially more than estimated. This could cause us to incur greater costs.
+
+22 
+
+* * *
+If we are unable to effectively manage the commodity price risk of our raw materials or finished goods, we may have unexpected losses.
+
+We hedge our raw materials and/or finished products for our biofuels segment to some degree to manage the commodity price risk of such items. This requires the purchase or sale of commodity futures contracts and/or options on those contracts or similar financial instruments. We may be forced to make cash deposits available to counterparties as they mark-to-market these financial hedges. This funding requirement may limit the level of commodity price risk management that we are prudently able to complete. If we do not manage or are not capable of managing the commodity price risk of our raw materials and/or finished products for our biofuels segment, we may incur losses as a result of price fluctuations with respect to these raw materials and/or finished products.
+
+In most cases, we are not capable of hedging raw material and/or finished products for our chemicals segment. Certain of our products are produced under manufacturing agreements with our customers, which provide us the contractual ability to pass along raw material price increases. However, we do not have this protection for all product lines within the chemicals segment. If we do not manage or are not capable of managing escalating raw material prices and/or passing these increases along to our customers via increased prices for our finished products, we may incur losses.
+
+If we are unable to acquire or renew permits and approvals required for our operations, we may be forced to suspend or cease operations altogether.
+
+The operation of our manufacturing plant requires numerous permits and approvals from governmental agencies. We may not be able to obtain or renew all necessary permits (or modifications thereto) and approvals and, as a result, our operations may be adversely affected. In addition, obtaining all necessary renewal permits (or modifications to existing permits) and approvals for future expansions may necessitate substantial expenditures and may create a significant risk of expensive delays or loss of value if a project is unable to function as planned due to changing requirements.
+
+Our indebtedness may limit our ability to borrow additional funds or capitalize on acquisition or other business opportunities.
+
+We hold a $100 million revolving credit facility with a commercial bank. This credit facility expires in March 2025. Although as of the date of this report we have no outstanding borrowings under the existing facility, if and when we do borrow, the restrictions governing this type of indebtedness (such as total debt to EBITDA limitations) could reduce our ability to incur additional indebtedness, engage in certain transactions, or capitalize on acquisition or other business opportunities. On March 1, 2023, the credit facility was amended to transition it from LIBOR to the secured overnight financing rate (“SOFR”) and to reflect other conforming changes. We do not expect the transition from LIBOR to have a material impact on our credit facility.
+
+We expect to have capital expenditure requirements, and we may be unable to obtain needed financing on satisfactory terms.
+
+We expect to make capital expenditures for the expansion of our biofuels and chemicals production capacity and complementary infrastructure. We intend to finance these capital expenditures primarily through cash flow from our operations, borrowings under our credit facility, and existing cash. However, if our capital requirements vary materially from those provided for in our current projections, we may require additional financing sooner than anticipated. A decrease in expected revenues or adverse change in market conditions could make obtaining this financing economically unattractive or impossible. As a result, we may lack the capital necessary to complete the projected expansions or capitalize on other business opportunities.
+
+23 
+
+* * *
+We may be unable to successfully integrate future acquisitions with our operations or realize all of the anticipated benefits of such acquisitions.
+
+Failure to successfully integrate future acquisitions, if any, in a timely manner may have a material adverse effect on our business, financial condition, results of operations, and cash flows. The difficulties of combining acquired operations include, among other things:
+
+  
+
+●
+
+  
+
+operating a significantly larger combined organization;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+consolidating corporate technological and administrative functions;  
+  
+  
+
+●
+
+  
+
+integrating internal controls and other corporate governance matters; and  
+  
+  
+
+●
+
+  
+
+diverting management’s attention from other business concerns.  
+  
+In addition, we may not realize all of the anticipated benefits from future acquisitions, such as increased earnings, cost savings, and revenue enhancements, for various reasons, including difficulties integrating operations and personnel, higher and unexpected acquisition and operating costs, unknown liabilities, and fluctuations in markets. If benefits from future acquisitions do not meet the expectations of financial or industry analysts, the market price of our shares of common stock may decline.
+
+If we are unable to respond to changes in ASTM or customer standards, our ability to sell biodiesel may be harmed.
+
+We currently produce biodiesel to conform to or exceed standards established by ASTM. ASTM standards for biodiesel and biodiesel blends may be modified in response to new observations from the industries involved with diesel fuel. New tests or more stringent standards may require us to make additional capital investments in, or modify, plant operations to meet these standards. In addition, some biodiesel customers have developed their own biodiesel standards that are stricter than the ASTM standards. If we are unable to meet new ASTM standards or our biodiesel customers’ standards cost effectively or at all, our production technology may become obsolete, and our ability to sell biodiesel may be harmed, negatively impacting our revenues and profitability.
+
+If we fail to maintain effective internal control over financial reporting, we might not be able to report our financial results accurately or prevent fraud; in that case, our stockholders could lose confidence in our financial reporting, which would harm our business and could negatively impact the value of our stock.
+
+Effective internal controls are necessary for us to provide reliable financial reports and prevent fraud. The process of maintaining our internal controls may be expensive, and time consuming, and may require significant attention from management. Although we have concluded as of December 31, 2022, that our internal control over financial reporting provides reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with GAAP, because of its inherent limitations, internal control over financial reporting may not prevent or detect fraud or misstatements. Failure to implement required new or improved controls, or difficulties encountered in their implementation, could harm our results of operations or cause us to fail to meet our reporting obligations. If we or our independent registered public accounting firm discover a material weakness, the disclosure of that fact could harm the value of our stock and our business.
+
+The risk of loss of the Company’s intellectual property, trade secrets or other sensitive business information or disruption of operations could negatively impact the Company’s financial results.
+
+The Company has information and information processing assets, including intellectual property, trade secrets, and other sensitive, business critical information as well as on-premises and cloud-based business applications critical to conducting business. In addition, our chemical manufacturing facilities are highly automated using modern computer systems. Cyber-attacks affecting the Company, its supply chain or customers could compromise confidential, business critical information, cause a disruption in the Company’s operations, harm the Company's reputation, or endanger the environment if the Company, its suppliers or customers do not effectively prevent, detect and recover from these or other security breaches. The Company, like many companies today, is the target of industrial espionage, including cyber-attacks. The Company has determined that these attacks have resulted, and could result in the future, in unauthorized parties gaining access to certain confidential business information. When unauthorized access is discovered, the Company reports such situations to governmental authorities for investigation, as appropriate, and takes measures to mitigate any potential impact.
+
+24 
+
+* * *
+Although management does not believe that the Company has experienced any material losses to date related to these cyber security breaches, there can be no assurance that such losses will not be suffered in the future. The Company seeks to actively manage the risks within its control that could lead to business disruptions and cyber security breaches through a comprehensive cyber security program that is continuously reviewed (through internal and external, third party, auditing), maintained, and upgraded. As these threats continue to evolve, particularly around cybersecurity, the Company may be required to expend significant resources to enhance its control environment, processes, practices, and other protective measures. Despite these efforts, such events could have a material adverse effect on the Company’s business, results of operations, financial condition and cash flows. 
+
+Confidentiality agreements with customers, employees, and others may not adequately prevent disclosures of confidential information, trade secrets, and other proprietary information.
+
+We rely in part on trade secret protection to protect our confidential and proprietary information and processes. However, trade secrets are difficult to protect. We have taken measures to protect our trade secrets and proprietary information, but these measures may not be effective. For example, we require new custom manufacturing chemical customers to execute confidentiality agreements before we begin manufacturing custom chemicals for them. We also require employees and consultants to execute confidentiality agreements upon the commencement of their employment or consulting arrangement with us. These agreements generally require that all confidential information developed by the individual or made known to the individual by us during the course of the individual’s relationship with us be kept confidential and not disclosed to third parties. These agreements also generally provide that know-how and inventions conceived by the individual in the course of rendering services to us are our exclusive property. Nevertheless, these agreements may be breached, or may not be enforceable, and our proprietary information may be disclosed. Further, despite the existence of these agreements, third parties may independently develop substantially equivalent proprietary information and techniques. Accordingly, it may be difficult for us to protect our trade secrets. Costly and time-consuming litigation could be necessary to enforce and determine the scope of our proprietary rights, and failure to obtain or maintain trade secret protection could adversely affect our competitive business position.
+
+Moreover, we cannot assure that our technology does not infringe upon any valid claims of patents that other parties own. In the future, if we were found to be infringing on a patent owned by a third party, we might have to seek a license from such third party to use the patented technology. We cannot assure that, if required, we would be able to obtain such a license on terms acceptable to us, if at all. If a third party brought a legal action against us or our licensors, we could incur substantial costs in defending ourselves, and we cannot assure that such an action would be resolved in our favor. If such a dispute were to be resolved against us, we could be subject to significant damages.
+
+We depend on our ability to maintain relationships with industry participants, including our strategic partners.
+
+Our ability to maintain commercial arrangements with chemical and biodiesel customers, raw material and feedstock suppliers, and transportation and logistics services providers may depend on maintaining close working relationships with industry participants. There can be no assurance that we will be able to maintain or establish additional necessary strategic relationships, in which case the opportunity to grow our business may be negatively affected.
+
+25 
+
+* * *
+There is currently excess renewable fuel production capacity and low utilization in the industry and if non-operational and underused facilities commence or increase operations, our results of operations may be negatively affected.
+
+Many biodiesel plants in the United States do not operate at full capacity. Further, a number of renewable diesel plants are under construction in the United States as of December 2022, if completed, would add additional renewable fuel production capacity. The annual production capacity of existing plants and plants under construction far exceeds both historic consumption of renewable fuels in the United States and required consumption under RFS2. If this excess production capacity was used, it would increase competition for our feedstocks, increase the volume of renewable fuels on the market, and may reduce our biodiesel gross margins, harming our revenues and profitability.
+
+Several biofuel companies throughout the United States have filed for bankruptcy over the last several years due to industry and economic conditions.
+
+Unfavorable worldwide economic conditions, lack of financing, and volatile biofuel prices and feedstock costs have likely contributed to the necessity of bankruptcy filings by biofuel producers. Our business may be negatively impacted by the industry conditions that influenced the bankruptcy proceedings of other biofuel producers, or we may encounter new competition from buyers of distressed biodiesel properties who enter the industry at a lower cost than original plant investors.
+
+We are exposed to credit risk and fluctuations in market values of our investments and cash and cash equivalent portfolio.
+
+We could experience significant declines in the market value of our investment or cash and cash equivalent portfolio. Credit ratings and pricing of these investments can be negatively affected by liquidity, credit deterioration, financial results, economic risk, political risk, sovereign risk, or other factors. As a result, the value and liquidity of our cash, cash equivalents, and marketable securities could decline and result in impairment losses. In addition, at various times, we have deposits with certain U.S. banks in excess of the maximum amounts insured by the U.S. Federal Deposit Insurance Corporation (the “FDIC"). As of December 31, 2022, we maintained with such banks cash balances of approximately $173.7 million in excess of the amounts insured by the FDIC.
+
+The impact of the COVID-19 pandemic and any future variants still has the potential to disrupt trade and create significant volatility in global financial markets. In this scenario, global market values and the value of our investments could experience significant declines.
+
+We are exposed to operating risks.
+
+As a manufacturer of diversified chemical products and biofuels, our business is subject to operating risks common to chemical manufacturing, storage, handling, and transportation. These risks include, but are not limited to, fires, explosions, inclement weather, natural disasters, mechanical failure, unscheduled downtime, transportation interruptions, remediation, chemical spills, discharges or releases of toxic or hazardous substances or gases. Significant limitation on our ability to manufacture products due to disruption of manufacturing operations or related infrastructure could have a material adverse effect on our sales revenue, costs, results of operations, and financial condition.
+
+Disruptions could also occur due to internal factors such as computer or equipment malfunction (accidental or intentional), operator error, or process failures; or external factors such as computer or equipment malfunction at third-party service providers, natural disasters, pandemic illness, changes in laws or regulations, war or other outbreak of hostilities or terrorism, cyber-attacks, or breakdown or degradation of transportation infrastructure used for delivery of supplies to the Company or for delivery of products to customers. No assurances can be provided that any future disruptions due to these, or other, circumstances will not have a material effect on operations. Such disruptions could result in an unplanned event that could be significant in scale and could negatively impact operations, neighbors, and the environment, and could have a negative impact on our results of operations.
+
+26 
+
+* * *
+Risks Associated With Owning Our Shares
+
+We may issue substantial amounts of additional shares without stockholder approval.
+
+Our certificate of incorporation authorizes the issuance of 75,000,000 shares of common stock and 5,000,000 shares of preferred stock. As of the date of this report, 43,763,243 shares of our common stock currently are outstanding. The issuance of any additional shares of our common stock or preferred stock would dilute the percentage ownership of our company held by existing stockholders.
+
+The market price of our common stock is highly volatile and may increase or decrease dramatically at any time.
+
+The market price of our common stock is highly volatile, and our shares are thinly traded. Our stock price may change dramatically as the result of: (i) announcements of new products or innovations by us or our competitors; (ii) uncertainty regarding the viability of any of our product initiatives; (iii) significant customer contracts; (iv) significant litigation; (v) the loss of or changes to the BTC or RFS2 mandate; or (vi) other factors or events that would be expected to affect our business, financial condition, results of operations, and future prospects.
+
+The market price for our common stock may also be affected by various factors not directly related to our business or future prospects, including the following:
+
+  
+
+●
+
+  
+
+a reaction by investors to trends in our stock rather than the fundamentals of our business;  
+  
+--- --- ---  
+  
+
+●
+
+  
+
+a single acquisition or disposition, or several related acquisitions or dispositions, of a large number of our shares, including by short sellers covering their position;  
+  
+  
+
+●
+
+  
+
+the interest of the market in our business sector, without regard to our financial condition, results of operations, or business prospects;  
+  
+  
+
+●
+
+  
+
+positive or negative statements or projections about us or our industry by analysts and other persons;  
+  
+  
+
+●
+
+  
+
+the adoption of governmental regulations or government grant programs and similar developments in the United States or abroad that may enhance or detract from our ability to offer our products and services or affect our cost structure; and  
+  
+  
+
+●
+
+  
+
+economic and other external market factors, such as a general decline in market price due to poor economic conditions, investor distrust, or a financial crisis.  
+  
+If securities or industry analysts issue an adverse or misleading opinion regarding our stock or do not publish research or reports about our business, our stock price and trading volume could decline.
+
+The trading market for shares of our common stock will rely in part on the research and reports that equity research analysts publish about us and our business. The price of our common stock could decline if one or more equity research analysts downgrade our common stock or if those analysts issue other unfavorable commentary or cease publishing reports about us or our business.
+
+If Mr. Novelly or his designees exercises his registration rights, such exercise may have an adverse effect on the market price of our shares of common stock.
+
+St. Albans Global Management, LLC (“St. Albans”), an entity affiliated with Mr. P. A. Novelly II, a member of the board, is entitled to demand that the Company register under the Securities Act of 1933, as amended (the “Securities Act”), the resale of all shares of the Company’s common stock beneficially owned by it. If St. Albans exercises its registration rights with respect to all 17,085,100 shares of the Company’s common stock currently owned by it, there will be an additional 6,637,600 registered shares of common stock available for trading in the public market, which may have an adverse effect on the market price of our common stock.
+
+We may be suspended or delisted from the New York Stock Exchange if we do not satisfy their continued listing requirements.
+
+Our common stock trades on the NYSE under the symbol “FF”. Securities admitted to the NYSE may be suspended from dealing or delisted at any time the listed company fails to satisfy certain continued listing criteria. These criteria could be triggered if, among other things, the number of our publicly-held shares falls below 600,000, the average closing price of our common stock is less than $1.00 per share over a consecutive 30 trading-day period, or we fail to file certain reports with the SEC. As a matter of practice, the NYSE generally gives a listed company notice if any of these criteria are triggered, and generally provides the listed company with certain cure periods. If we suffer such an event but do not cure it, or if such event cannot be cured, trading of our common stock on the NYSE may be suspended from dealing or our stock may be delisted. Any such suspension or delisting may have an adverse effect on the market price of our common stock.
+
+27 
+
+* * *
+Item 1B. 
+
+  
+
+Unresolved Staff Comments.  
+  
+--- ---  
+  
+None.
+
+Item 2\. 
+
+  
+
+Properties.

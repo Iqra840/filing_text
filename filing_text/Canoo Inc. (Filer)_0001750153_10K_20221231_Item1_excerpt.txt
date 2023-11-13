@@ -1,0 +1,594 @@
+PART I
+
+ITEM 1. BUSINESS
+
+Company Overview
+
+Canoo is a high tech advanced mobility technology company with a mission to bring electric vehicles (“EVs”) to everyone and provide connected services that improve the fleet or individual vehicle ownership experience. We are developing a technology platform that we believe will enable us to rapidly innovate, iterate and bring new products, addressing multiple use cases, to market faster than our competition and at lower cost. Our vehicle architecture and design philosophy are aimed at driving productivity and returning capital to our customers, and we believe the software and technology capabilities we are developing, packaged around a modular, customizable product, have the potential to empower the customer experience across a vehicle’s lifecycle. We remain committed to the environment and to delivering sustainable mobility that is accessible to everyone. We proudly intend to manufacture our fully electric vehicles in Oklahoma, bringing advanced manufacturing and technology jobs to communities in America's heartland. We are committed to building a diverse workforce that will draw heavily upon the local communities of Native Americans and veterans. 
+
+We believe we are one of the first automotive manufacturers focused on monetizing value across the entirety of the vehicle lifecycle, across multiple owners. Our platform and data architecture is purpose-built to be durable and serve as the foundation for the vehicles we intend to offer, unlocking a highly differentiated, multi-layer business model. The foundational layer is our Multi-Purpose Platform (“MPP” or “platform”) architecture, which serves as the base of our vehicles, including the Lifestyle Vehicle and its Delivery, Base, Premium, and Adventure trims; the Multi-Purpose Delivery Vehicle (“MPDV”) and the Pickup. The next layer is cybersecurity which is embedded in our vehicle to ensure the privacy and protection of vehicle data. Our top hats, or cabins, are modular and purpose-built to provide tailored solutions for our customers. This intentional design enables us to efficiently use resources to produce only what is necessary, underscoring our focus on sustainability and returning capital to customers. The remaining layers, connected accessories and digital customer ecosystem, present high-margin opportunities that extend beyond the initial vehicle sale, across multiple owners. Owners will further be able to customize their vehicles by adding connected accessories such as Bluetooth devices or infotainment systems. In addition, there are opportunities for software sales throughout the vehicle life, including predictive maintenance and service software or advanced driver assistance systems (“ADAS”) upgrades. 
+
+  
+
+
+Our platform architecture is a self-contained, fully functional rolling chassis that directly houses the most critical components for operation of an EV, including our in-house designed proprietary electric drivetrain, battery systems, advanced vehicle control electronics and software and other critical components, which all have been optimized for functional integration. Both our true steer-by-wire system, believed to be the first such system applied to a production-intent vehicle, and our transverse composite leaf-spring suspension system are core components of our platform’s differentiated functionality, enabling the development of a broad range of vehicle types and use cases due to the chassis’ flat profile and fully variable steering positions. All of our announced vehicles, including the Lifestyle Vehicle and the Lifestyle Delivery Vehicle, the MPDV and the Pickup, will share a common platform architecture paired with different top hats to create a range of uniquely customized and use case optimized purpose-built mobility solutions targeting multiple segments of the rapidly expanding EV marketplace.
+
+  
+
+
+In addition to our vehicle technology, we are developing an in-house designed and proprietary software platform that aggregates car data from both Canoo and non-Canoo vehicles and delivers valuable insights to our customers. Collected over-the-air for connected vehicles or via an on-board diagnostics (“OBD”) device for non-connected vehicles, we believe car data is critical to powering the customer journey and maximizing utility and value from the vehicle ownership experience. Leveraging our data aggregation platform, we aim to create the Canoo Digital Ecosystem, an application store that centralizes all vehicle information for customers and provides key tools across Security & Safety, Household Vehicle Management, Fleet Management, Lifecycle Management and Vehicle Asset Management. Through our software offering, we believe we can provide substantial value to both commercial customers and consumers by staying connected throughout the vehicle lifecycle, across multiple owners.
+
+  
+
+
+Core to our values is delivering high quality products while empowering local communities, which drove our decision to build in America and source a majority of our parts from America and allied nations. We believe vertical integration across our manufacturing and assembly process will enable us to achieve in-house scale production with less supply chain risk and provide us better oversight of our vehicle manufacturing. We are building production facilities in states and communities that are investing in high-tech manufacturing alongside us, creating American jobs and driving innovation.
+
+  
+
+
+6
+
+* * *
+We have made strategic investments in our technology and products that position us to capture three large and growing markets - commercial and passenger vehicles, upfitting and accessories, and telematics data. 
+
+  
+
+
+Since our founding in 2017, we continue to innovate on our technology and strategy. In 2022, we have achieved critical milestones in the development, testing, and manufacturing of our platform and product, as well as important developments for our business:
+
+  
+
+
+•Selected by NASA to provide crew transport for Artemis lunar exploration launch
+
+•Received Walmart order to purchase up to 10,000 units 
+
+•Announced binding orders from Zeeba and KingBee totaling 12,300 vehicles
+
+•Successfully built and tested 118 Gamma properties during the program
+
+•Announced battery module manufacturing facility in Pryor, OK
+
+•Delivered Light Tactical Vehicle (LTV) to US Army for analysis and demonstration
+
+•Announced in-house vehicle manufacturing facility in Oklahoma City
+
+•Declared start of production
+
+We continue to innovate and develop every aspect of our business, from our non-traditional business model to our built in America, highly utilitarian vehicles optimized to return capital to our customers. We believe being forward-thinking across these areas has set the foundation for us to develop into a scalable business that is differentiated from our peers across the automotive original equipment manufacturer (“OEM”) landscape. 
+
+  
+
+
+Our Foundational Chassis and Purpose-Built Vehicles
+
+  
+
+
+Our Multi-Purpose Platform
+
+  
+
+
+Technology first, we view our vehicles as hardware and software solutions and look at our business as a technology equipment manufacturer (TEM). We have designed what we believe to be the world’s most modular, flattest, production-ready EV platform. It is purposefully engineered to provide maximum consumer and cargo space on a small vehicle footprint. The platform’s modularity supports a wide range of vehicle applications and use cases. With our common platform architecture, we expect to enable the production of our Lifestyle Vehicle and Lifestyle Delivery Vehicle, MPDV, and Pickup, among other additional vehicle variants. By using a uniquely versatile platform architecture strategy as the foundation for multiple vehicles, we expect to reduce both time and expense in research and development, testing and manufacturing. These efficiencies enable us to develop and scale future vehicle programs faster and at a significantly lower overall cost than other vehicle manufacturers. In addition, by allowing us to develop and bring new products to market, our platform architecture will enable us to more efficiently allocate capital to meet current and evolving areas of demand and market opportunities.
+
+Our proprietary platform architecture directly houses all of the most critical components of an EV. This includes the market’s first true steer-by-wire platform, a composite leaf spring suspension system, an advanced fully electric drivetrain, a modular battery and battery management systems, “DC fast charge” and bi-directional charging capabilities, and an innovative electrical systems architecture. Each of these component systems has been engineered not only for optimal performance but also for efficient packaging into our compact platform. We place a strong emphasis on efficiency and functional integration, and have designed many components to fulfill as many functions as possible. This strategy reduces the total number of parts and platform size and weight, ultimately providing a more spacious, utilitarian interior and cost-effective vehicle. 
+
+  
+
+
+7
+
+* * *
+![goev-20221231_g1.jpg](goev-20221231_g1.jpg)
+
+  
+
+
+The system's innovative architecture consolidates our domain functions across 15 core ECUs, compared to over 150 ECUs for some modern-day luxury vehicles. All of our ECUs support over-the-air updating and data collection via our proprietary hardware and software stack.
+
+  
+
+
+Purpose-Built Vehicles
+
+  
+
+
+Lifestyle Delivery Vehicle
+
+  
+
+
+![goev-20221231_g2.jpg](goev-20221231_g2.jpg)
+
+  
+
+
+The Lifestyle Delivery Vehicle, a variant of our Lifestyle Vehicle designed for fleets, offers a spacious cargo capacity on a Class-1 footprint to deliver maximized return on investment for a wide range of commercial customers. Our upfit-ready design and top hat is tailored for commercial delivery, providing customization flexibility to meet business needs without compromising space or performance.
+
+  
+
+
+Lifestyle Vehicle
+
+  
+
+
+Our consumer-oriented Lifestyle Vehicle is the result of a completely re-engineered vehicle design, eliminating wasted space throughout the vehicle and providing exceptional utility to the user. By capitalizing on EV architecture, our Lifestyle Vehicle eliminates compartmentalization, featuring more interior volume than a SUV and an exterior footprint comparable to a compact car, the Lifestyle Vehicle accommodates space for up to seven people.
+
+  
+
+
+8
+
+* * *
+![goev-20221231_g3.jpg](goev-20221231_g3.jpg)
+
+  
+
+
+The Lifestyle Vehicle is expected to feature a minimalist concealed infotainment panel and seamless mobile phone and device connection. It is also expected to have SAE Level 2.5 ADAS with compatibility for more advanced levels of autonomy. We have in sourced all the advanced IP development, including test and validation of ADAS software for the Lifestyle Vehicle. The vehicle architecture is designed to integrate with advanced driver assist technology. As a result, the vehicle will be positioned to evolve and adapt to the next generation of transportation.
+
+  
+
+
+Multi-Purpose Delivery Vehicle
+
+  
+
+
+Designed from the inside out, our MPDV will be constructed to be a productivity tool built for small businesses and last-mile delivery companies. With last-mile delivery customers in mind, the vehicle is designed to maximize productivity gains with high roof heights, storage lockers, and slide-out ramps. The unique body design for our top hats allows for modifications as required to facilitate dimensional, performance, and cost requirements, providing maximum utility to each business owner. 
+
+  
+
+
+![goev-20221231_g4.jpg](goev-20221231_g4.jpg)
+
+  
+
+
+Pickup
+
+  
+
+
+Our Pickup is versatile and incorporate an array of innovative features, designed to help commercial and passenger customers do more with their vehicles. High-utility features include integrated worktables, multi-accessory charge ports for work tools and devices, and multiple spaces for cargo storage to be a ready-for-work vehicle. The Pickup 
+
+9
+
+* * *
+can also be retrofitted with accessories, such as roof racks, camper shells, modular bed dividers and stowage solutions to further customize per the customers’ needs, for work or adventure.
+
+  
+
+
+![goev-20221231_g5.jpg](goev-20221231_g5.jpg)
+
+  
+
+
+Canoo Digital Ecosystem
+
+  
+
+
+Our digital ecosystem will be a suite of proprietary products and software tools consisting of our fleet optimized CanooHub, driver mobile app, vehicle Human Machine Interface ("HMI") and data analytics. 
+
+  
+
+
+CanooHub is a proprietary web-based fleet management portal that empowers Canoo’s commercial customers to effectively manage their fleet. To complement Canoo’s Lifestyle Delivery Vehicle, CanooHub will support: tracking and management of vehicles, management of driver and vehicle assignments, user and permissions options, sending vehicle commands, keyless entry to vehicles, bulk operations such as OTA, charging, as well as climate and customer support. It will incorporate data and insight on the individual vehicle and fleet such as trips, battery health and vehicle efficiency. CanooHub will be updated continually and serve as a tool for commercial customers to manage their fleet’s performance, adding more features and expanding insights over time based on feedback from driving optimizations, charging patterns, recommendations, and fleet performance. CanooHub is intended to be customizable and integrate with existing solutions from our customers.
+
+  
+
+
+Canoo’s driver mobile app will incorporate valuable insights for real-time vehicle status and access to remote commands. The driver app will enable Passive Keyless Entry (PKE) for keyless entry access and operation of multiple Canoo vehicles and assignment to the appropriate number of drivers for our customers. Our driver mobile app will provide remote commands--such as lock/unlock, charging, climate--live vehicle data and insights on vehicle status and performance, vehicle alerts and notifications for safety, and accessing ecosystem of multiple Canoo vehicles. The driver mobile app is intended for fleet drivers and designed to scale to consumer driver’s needs.. 
+
+  
+
+
+Related, vehicle HMI is another component of Canoo’s digital ecosystem where it is interconnected with software applications such as CanooHub, web, and driver app. Vehicle HMI encompasses vehicle controls, customizable settings, range mode, cruise control, vehicle alerts, camera feeds for safety and connectivity such as cellular, Wi-Fi and Bluetooth. 
+
+  
+
+
+Canoo’s interconnected ecosystem is powered by a proprietary data and analytics infrastructure. Our streaming cloud data platform and tooling aggregates, processes, and acts on the vast amounts of data generated by our vehicles and products from battery performance to driving behavior to product usage. This data is analyzed to optimize vehicle performance, improve safety, and enhance the overall user experience throughout the vehicle’s lifecycle. At scale for fleets, these optimizations may be utilized to add significant cost savings and efficiencies.
+
+  
+
+
+Canoo secures all our systems and products including data. Our cybersecurity team keeps our networks, systems, and applications secure using a wide variety of tools to constantly monitor our information technology assets. Telemetry data from various systems is sent to our Security Operations Center (SOC) for proactive actions to ensure security. We follow the NIST Cybersecurity framework and are working towards compliance with NIST 800-53. We have an active Cloud Security program to monitor assets and remediate issues. We use tools to ensure compliance with our security rules 
+
+10
+
+* * *
+and alerts us of any deviations. We conduct regular internal and external penetration tests, utilize tools for detection of malware/viruses on endpoints, follow incident response procedures, and remediate vulnerabilities according to security and risk.
+
+  
+
+
+Canoo digital ecosystem allows continuous innovation and improvement of our products and services with insights we gain from the entire vehicle lifecycle as well as every single product and service touchpoint across the customer journey. Our end-to-end ownership of digital environment enables us to scale our offerings and our efficiency for rapid innovation to deliver customized, secured and valuable experiences to our customers. We are continuously improving our offerings by adding new capabilities and functionalities. 
+
+  
+
+
+With our integrated digital environment and ecosystem, we are able to increase customer engagement, improve customer trust and loyalty, enhance customer experience across all touchpoints, and achieve greater efficiency in our software development and innovation. Our customers will have access to a seamless experience across all touchpoints within their vehicle lifecycle and related third party services outside of the automotive sector. We are able to offer personalized experience allowing for quick and easy adaptation and transition between our products and services to increase likelihood for the customer to return as well as to make recommend our brand to others. We are able to offer consistent and efficient experiences through the sales funnel all the way through product and asset management experiences. We are continuing our efforts in increasing our innovation efficiency and scalability made possible by our digital ecosystem in terms of automation, integration and personalization capabilities.
+
+  
+
+
+  
+
+
+Manufacturing & Product Development Strategy
+
+  
+
+
+Manufacturing
+
+  
+
+
+Our objective is to maximize return on capital by matching our cost structure with our projected production while meeting timing and quality expectations. We have carefully assessed various manufacturing footprint options and have concluded that building in America is best aligned with our mission and current focus to invest in the communities and states that are investing in high-tech, innovative manufacturing alongside us, creating American jobs. In addition, we are exploring the use of advanced manufacturing techniques including additive manufacturing, laser welding, and flexible factory machinery and equipment, which we believe will enable us to efficiently manufacture top hats serving multiple use cases. This will allow us to more effectively allocate capital to respond to market demand. We plan to produce the Lifestyle Delivery Vehicle in 2023, preceding the Lifestyle Vehicle, Pickup and Multi-Purpose Delivery Vehicle, which all sits on our Multi-Purpose Platform.
+
+  
+
+
+Currently, we have secured commitments with the states of Oklahoma and Arkansas for manufacturing, R&D, software development and customer support and finance facilities. We are in the process of completing definitive agreements with both states including approximately $440 million of non-dilutive financial incentives. We leveraged slow builds with our contract manufacturing partner to validate and test our processes in advance of starting high-volume scaled production in Oklahoma. 
+
+  
+
+
+In addition, we are focused on optimizing our manufacturing plants for capital efficiency. We expect to generate significant capital efficiencies in production as our MPP allows for the production of different vehicle derivatives on the same production line. The platform was engineered for optimal production flexibility, and can be manufactured on an entirely independent basis, or in parallel with a vehicle top hat, a considerable innovation in design that reduces complexity in assembly and will facilitate more efficient production at scale.
+
+  
+
+
+We announced our battery module manufacturing facility in Pryor, Oklahoma. This facility, utilizing highly automated assembly lines, will produce our proprietary battery modules, leveraging our intellectual property on both thermal management and battery management systems. Our battery modules, currently utilizing standard 21700 cylindrical cells, are applicable beyond Canoo vehicles and can be deployed for different energy use cases with a scalable and flexible configuration including those being evaluated by the US Army.
+
+  
+
+
+Product Development
+
+  
+
+
+Consistent with a focus on continuing to develop proprietary technology, our team has accelerated the research and development of several prototype configurations, enabling us to accelerate the development of the Lifestyle Delivery Vehicle and to design, develop and ultimately present to the public our MPDV, which was revealed in December 2020, the segment defining Canoo Pickup, which was revealed in March 2021, and three additional derivatives of our Lifestyle 
+
+11
+
+* * *
+Vehicle. We will continue to seek out new use cases and applications currently not addressed by any of our peers or other market participants.
+
+  
+
+
+We are targeting an overall five-star U.S. New Car Assessment Program (“NCAP”) crash rating for our Lifestyle Vehicles. In designing our platform and our Lifestyle Vehicle, we have conducted thousands of computer-aided engineering (“CAE”) crash simulations to define appropriate crumple zones and optimize the structural design of our vehicles quickly and at a reduced cost relative to traditional automotive development processes.
+
+  
+
+
+We believe the results of our physical structural and sub-system crash tests to date have validated the accuracy and utility of our predictive CAE crash modeling and our overall more efficient, digitized approach to vehicle development. 
+
+  
+
+
+![goev-20221231_g6.jpg](goev-20221231_g6.jpg)
+
+  
+
+
+Importantly, we believe the crash tests conducted on our platform will also aid us in more rapidly bringing our future vehicle models to market, as the majority of research and development and a significant portion of crash structure is integrated into the platform design. We believe this provides a critical advantage over our competitors in terms of required capital deployment and program development timing. 
+
+  
+
+
+  
+
+
+Sales and Distribution Strategy 
+
+  
+
+
+We aim to provide a frictionless experience that puts our products in the hands of customers efficiently and in the manner that works best for their lifestyle and purchasing habits. 
+
+  
+
+
+We expect to offer direct sales through our website for fleets, individuals, and volume orders. We also anticipate that a future revenue channel for us will be through sales and licensing the design of secondary market or aftermarket products, such as vehicle accessories, wraps, and other customizable add-ons. Through thoughtful design choices, such as our differentiated vehicle peg boards which can be accessorized with any number of attachments and fastenings for add-ons such as roof racks, additional storage and even a camper, our vehicles have been purpose-built so that each customer, even downstream customers, can have the chance to personalize the vehicle for their own uses or aesthetic preferences. We anticipate that both direct and third-party partners, such as dealerships, will also support our customers for purchase and installation of our growing catalog of secondary and aftermarket products. 
+
+  
+
+
+Additionally, while some Canoo Digital Ecosystem functionalities will be packaged with the vehicle, others are expected to be offered as upgradeable options accessed as a subscription service. For service and maintenance, we will apply accessible service solutions, so owners of our vehicles can receive fast and seamless service wherever they are. As a technology-forward company, much of our service support will be done via over-the-air connection to the vehicles. Our customer journey software will ensure that throughout the course of a vehicle’s life, from production and delivery to its first drive and service visit, each event is recorded so that the owner has the most up-to-date and accurate information.
+
+  
+
+
+  
+
+
+Competitive Strengths
+
+12
+
+* * *
+  
+
+
+We believe our intentional strategy to focus on the entirety of the vehicle lifecycle provides distinct advantages that position us to win:
+
+  
+
+
+•Non-traditional business model drives revenue throughout the vehicle lifecycle: Today, OEMs are primarily focused on selling vehicles to their first owner, leaving significant opportunity behind in the aftermarket. We estimate there are 50-70 monetizable touchpoints across a vehicle’s entire lifetime, such as car part replacements, service and maintenance. These incremental opportunities come from our durable MPP, adaptable top hats, customizable connected accessories, automotive service-related software offerings and over-the-air upgrades. With this approach, we have innovated and rethought the traditional OEM business model and positioned ourselves to capture more value.
+
+•Highly configurable vehicle platform designed and engineered in-house: We have developed critical technologies in-house that allow for our vehicle platform to be highly modular and efficient. Over 70% of critical functions for our vehicles are delivered in this platform, enabling us to develop utilitarian vehicles that can address a wide range of use cases and applications. Our current platform architecture can support multiple vehicles, addressing different segments of the vehicle market. Additionally, our vehicle design and engineering is functionality-focused, differentiated by its simplicity and intended superior performance. For example, our drive unit has less than 10% of the parts an average vehicle with an internal combustion engine would have. All of these key innovations are protected intellectual IP, such as our drive-by-wire packaging, suspension and battery pack thermal management, differentiating us from our peers. 
+
+•Software centric ecosystem built upon access to harmonized vehicle data enabling monetization opportunities: We believe our software and its vehicle agnostic approach is a critical differentiator relative to our peers. By harnessing vehicle data across both Canoo and other vehicles, we position ourselves to become the vehicle asset management platform of entire households or fleets. Our software platform is designed to aggregate and anonymize vehicle data such as motor temperature, diagnostic status, and tire pressure either over-the-air from Canoo and other connected vehicles, or via an OBD device for legacy vehicles. We expect the Canoo Digital Ecosystem will be built upon this harmonized vehicle data, which will be analyzed to deliver insights to customers about all their vehicles in one centralized location. As a part of the Canoo Digital Ecosystem, we intend to ultimately build a robust ecosystem of partner solutions including fleet logistics, insurance, charging stations, and body and repair shops, to deepen our value proposition to customers while driving business for our partners.
+
+Most importantly, the Canoo Digital Ecosystem is intended to enable us to maintain connectivity to our customers throughout the vehicle lifecycle, regardless of whether they are the 1st, 2nd, 3rd or 4th vehicle owner. By capturing all the potential touchpoints throughout a vehicle’s lifecycle, across multiple owners, we can better understand our customers, enabling us to continue building the most utilitarian, innovative solutions to address their needs.
+
+•Experienced leadership with a long track record of success and deep expertise in automotive vehicle lifecycle technologies: Our CEO and Executive Chair of the Board, Tony Aquila, has deep expertise in vehicle asset management software as a pioneer and innovator in this category. He brings a proven track record of building and scaling highly profitable, global businesses. As the founder and former CEO, Tony built Solera Holdings into a leader in vehicle lifecycle management software and services, with over 5 petabytes of data gathered through AI driven data and solutions. Between Solera’s initial public offering in 2007 to its acquisition in 2015, Tony helped generate approximately $3 billion of market capitalization value creation, further establishing his success as a leader in the space.
+
+  
+
+
+Our leadership team are automotive and technology industry veterans with extensive experience in each step of the vehicle lifecycle. Management has a collective 100+ years of automotive industry experience. We have selectively chosen a highly experienced management team built to take our products and services to market, supported by an accomplished design and engineering team with deep expertise in automotive and EVs. As we grow, we will continue to add experienced team members to key functions in order to support our mission of bringing EVs to everyone.
+
+  
+
+
+Growth Strategies
+
+  
+
+
+We intend to continue to invest in the growth of our business to drive revenue and improve customer satisfaction. We believe the growth strategies that we will employ will help maintain strong customer relationships and generate value for stakeholders over the long-term. We plan to achieve this by providing a strategic product that enables our customers to 
+
+13
+
+* * *
+purchase modular accessories, hardware, software products, and variants while continuing to invest in our proprietary technology platform.
+
+  
+
+
+The key elements to our growth strategy include:
+
+  
+
+
+•Introducing Next-Generation Models and Variants: By leveraging our modular platform, we anticipate that new vehicle models and variants can be developed more quickly than traditional models. The new models and variants provide flexibility with launching new use cases, price alternatives and geographies. 
+
+•Bringing Non-Canoo Vehicles into our Ecosystem: Our software ecosystem is intended to incorporate vehicles produced by us as well as those from other manufacturers. This will increase the number of vehicles our products have access to, and the monetizable services we offer our customers. We aim to offer customers the full suite of services in all of their cars resulting in an opportunity to generate additional revenue streams. 
+
+•Growing Market Share and Expanding Internationally: We believe our unique modular design, proprietary software ecosystem, customizable customer experience and vehicle technology will allow us to gain market share domestically. As we grow, we may expand internationally increasing our total addressable market. Our standard modular platform will drive efficiency in homologation in new markets. The platform’s size is also well suited for international markets. 
+
+•Increasing Penetration of our Digital Ecosystem: Over time we anticipate that we will be able to capture a higher percentage of the 50-70 customer transactions over a vehicle’s lifecycle as we develop additional software capabilities. As we grow our network of customers, we will continue to invest in and enhance our software ecosystem by adding additional vehicle options and services through partnerships. 
+
+  
+
+
+INTELLECTUAL PROPERTY
+
+  
+
+
+Our ability to protect our material intellectual property is important to our business. We rely upon a combination of protections afforded to owners of patents, copyrights, trade secrets, and trademarks, along with employee and third-party non-disclosure agreements and other contractual restrictions to establish and protect our intellectual property rights. In particular, unpatented trade secrets in the fields of research, development and engineering are an important aspect of our business, ensuring that our technology remains confidential. We also pursue patent protection when we believe we have developed a patentable invention and the benefits of obtaining a patent outweigh the risks of making the invention public through patent filings.
+
+  
+
+
+As of December 31, 2022, we had 114 pending or allowed U.S. patents and 106 pending or allowed international patent applications. Our patents and patent applications are related to, among other things, EV platforms, powertrain technologies, suspension systems, battery systems, drive-by-wire design, impact features, manufacturing methods and vehicle and product design. We pursue the registration of our domain names and material trademarks and service marks in the United States and in some locations abroad. In an effort to protect our brand, as of December 31, 2022, we had one U.S. registered trademark, one pending U.S. trademark application, and 67 registered or pending international trademarks. 
+
+  
+
+
+We regularly review our development efforts to assess the existence and patentability of new inventions, and we file additional patent applications when it is determined it would benefit our business to do so.
+
+  
+
+
+EMPLOYEES AND HUMAN CAPITAL
+
+  
+
+
+As an organization, we pride ourselves on attracting and developing a skilled workforce drawing from deep automotive and technology experience. As of December 31, 2022, we had 812 employees. Approximately 75% of our workforce is engaged in research and development, manufacturing and related engineering and testing functions.
+
+  
+
+
+We maintain a robust compensation and benefits program to attract, retain, incentivize and reward the talented employees who contribute to our business and who share in our vision to create a cleaner planet and bring EVs to everyone. In addition to a competitive base salary, our compensation and benefits program includes heavily subsidized healthcare and insurance benefits, health savings accounts, equity-based compensation awards, 401(k), flexible paid time off and paid family leave. We provide our employees and their families with access to a variety of flexible and convenient health programs that allow employees to customize their benefits to best meet the needs of their individual families. We provide an employee stock purchase program for employees to increase their ownership and investment in the company. We also provide competitive stock-based awards and performance bonus targets to attract, retain and motivate employees, 
+
+14
+
+* * *
+consultants and directors. Beyond our broad-based stock award programs, we use targeted equity-based grants for most employees, with longer term vesting conditions, to facilitate the future performance and retention of key people with critical roles, skills and experience. These programs are continually evaluated and updated by the Compensation Committee of our Board of Directors (our “Board”) and management team, as appropriate, to reflect the maturation of our business and to remain competitive in attracting and retaining skilled talent.
+
+  
+
+
+Our management team invests significant time and attention to the continued development of our workforce and to our employee career growth and retention efforts. We continue ramping up additional hiring efforts across our organization as we develop our announced vehicle programs and software offerings, expand our geographic footprint and, in particular, as we ready and ramp our manufacturing facilities in Oklahoma and support of announced vehicle and software programs. We accelerated hiring in the first half of 2022 as we build our facilities and staff up for production. As part of our growth and retention strategy, we identify and recruit in particular from well-respected OEMs, tier one automotive suppliers, automotive engineering firms, software enterprises and high-growth technology companies, while also incentivizing talent development within our existing organization. As we transfer key operations to the States of Oklahoma and Arkansas, we are partnering with local agencies to attract residents of those states, which include a significant native American and veteran population. We are committed to attracting and retaining a workforce which is ethnically, racially and gender diverse, and we integrate diversity, equity and inclusion principles and practices into our corporate recruiting, onboarding and long-term retention strategies. 
+
+  
+
+
+We are invested in seeing that our corporate values are reflected in all aspects of our operations and decision-making, and that our policies and practices reflect our commitment to fostering high ethical standards across our entire organization. We promote a safe work environment by conducting annual anti-harassment training for management and employees alike. Any employee with concerns related to our ethics or integrity, or who wishes to report incidents of fraud or abuse, may lodge an anonymous complaint through an externally-managed web-based platform or hotline without fear of retaliation. 
+
+  
+
+
+We actively seek to comply with all local, state and federal employment laws and we monitor current and emerging labor and human capital management risks and mitigate exposure to those risks. 
+
+GOVERNMENT REGULATIONS
+
+We operate in an industry that is subject to extensive environmental regulation, which has become more stringent over time. The laws and regulations to which we are subject govern, among others, vehicle emissions and the storage, handling, treatment, transportation and disposal of hazardous materials and the remediation of environmental contamination. Compliance with such laws and regulations at an international, regional, national, provincial and local level is an important aspect of our ability to continue our operations.
+
+Environmental standards applicable to us are established by the laws and regulations of the countries in which we operate, standards adopted by regulatory agencies and the permits and licenses issued to us. Each of these sources is subject to periodic modifications and what we anticipate will be increasingly stringent requirements. Violations of these laws, regulations or permits and licenses may result in substantial administrative, civil or even criminal fines, penalties and possibly orders to cease any violating operations or to conduct or pay for corrective works. In some instances, violations may also result in the suspension or revocation of permits or licenses.
+
+Emissions
+
+California has greenhouse gas emissions standards that closely follow the standards of the U.S. Environmental Protection Agency (the “EPA”), as well as requirements for automakers to sell increasing fractions of zero emission vehicles ("ZEVs"). The registration and sale of ZEVs in California could earn us ZEV credits that we could in turn sell to traditional OEMs looking to meet their ZEV sales and greenhouse gas reduction targets in order to meet California’s ZEV targets and state and federal emissions regulations. Other U.S. states have adopted similar ZEV standards including Colorado, Connecticut, Maine, Maryland, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Virginia, and Washington. We intend to take advantage of these regimes by registering and selling ZEVs in these other U.S. states. 
+
+  
+
+
+ZEV credits in California or other states are calculated under the California Air Resources Board (“CARB”) ZEV Regulation in relation to ZEVs sold and registered in California or those states, and include Battery Electric Vehicles (“BEVs”), Fuel Cell Electric Vehicles (“FCEVs”), and Plug-In Hybrid Electric Vehicles ("PHEVs"). The ZEV program assigns ZEV credits to each vehicle manufacturer. Vehicle manufacturers are required to maintain ZEV credits equal to a set percentage of total vehicles sold and registered in California. Under the current ZEV rule (through model year 2025), 
+
+15
+
+* * *
+each ZEV sold and registered in California earns a number of credits based on the drivetrain type and the all-electric range (“AER”) of the vehicle under the Urban Dynamometer Driving Schedule Test Cycle. Plug-in hybrid vehicles (“PHEVs”) receive between 0.4 and 1.3 credits per vehicle sold and registered in California. Battery electric and fuel cell vehicles receive between 1 and 4 credits per vehicle sold in California, based on range. The credit requirement was 9.5% in 2020, which required about 3% of sales to be ZEVs. The credit requirement will rise to 22% in 2025, which will require about 8% of sales to be ZEVs. If a vehicle manufacturer does not produce enough EVs to meet our quota, it can choose to buy credits from other manufacturers or pay a $5,000 fine for each credit it is short. Rules related to crediting and requirements will change beginning in model year 2026 under the recently adopted Advanced Clean Cars II regulation. 
+
+  
+
+
+Federal and State Incentives in the United States
+
+  
+
+
+Canoo and its customers may benefit from certain provisions of the Inflation Reduction Act (“IRA”), which Congress passed and the President signed into law in 2022. Many of the provisions of that law took effect after December 31, 2022. 
+
+  
+
+
+Specifically, Canoo customers will benefit from the IRA’s Commercial Clean Vehicle Tax Credit (Internal Revenue Code (“I.R.C.”) Section 45W). Customers that place Canoo vehicles into service in 2023 are eligible for the maximum amount of that credit ($7,500 per vehicle). Tribal, state, and local governments may be able to realize comparable benefits utilizing the IRA’s direct pay provisions. 
+
+  
+
+
+Canoo’s fleet customers also may benefit from the IRA’s Alternative Fuel Infrastructure Tax Credit (I.R.C. Section 30C). Subject to certain conditions, customers who place a charging station in service 2023 may be eligible for a tax credit of up to 30% (up to $100,000) of the cost of the qualified property alternative fuel vehicle refueling property placed into service through December 31, 2032. 
+
+  
+
+
+Canoo makes battery modules and announced plans in 2022 to establish a battery module production facility in Pryor, Oklahoma. As such, the Company may benefit from the IRA’s Advanced Manufacturing Production Tax Credit (I.R.C. Section 45X). Subject to certain conditions, manufacturers can claim a credit for each battery module or other eligible component made in the United States. 
+
+  
+
+
+Canoo may benefit indirectly from $7.5 billion in Bipartisan Infrastructure Law funding made available beginning in 2022 to build out a nationwide network of electric vehicle fast charging stations. The Company may also be eligible for a loan pursuant to the Advanced Technology Vehicles Manufacturing Loan Program administered by the U.S. Department of Energy. 
+
+  
+
+
+In addition to federal tax credits, some U.S. states maintain laws that encourage the purchase of eligible zero emission vehicles. For example, California, Colorado, Oregon, and Texas provide state tax credits or rebates for the purchase of EVs. New Jersey and Washington exempt the purchase of EVs from state sales tax. Other inducements include preferential parking or dedicated highway lanes. 
+
+  
+
+
+Some of these programs have eligibility limits based on either consumer income or the manufacturer’s suggested retail price of the vehicle. Others will supply rebates or credits only until a set aside amount of funding or credit authority exists. Several states plan to phase out inducements over time or as a specific volume of eligible vehicles is sold. 
+
+  
+
+
+Many U.S. states and municipalities, as well as certain private organizations, offer financial and other incentives to businesses to encourage investment and economic development in particular areas. These incentives generally are conditional and depend on meeting agreed performance requirements, such as creating a specific number of jobs or paying a minimum average annual wage. 
+
+  
+
+
+In 2022, Canoo announced plans to establish a vehicle manufacturing facility in Oklahoma City, Oklahoma and a battery module manufacturing facility in Pryor, Oklahoma. For these planned investments, state and local governments and other partners offered Canoo economic development incentives. Those incentive offers apply to facilities Canoo has announced in the state of Oklahoma. 
+
+  
+
+
+EPA Emissions and Certificate of Conformity
+
+The U.S. Clean Air Act requires that we obtain a Certificate of Conformity issued by the EPA and a California Executive Order issued by CARB certifying that our vehicles comply with all applicable emissions and related certification requirements. A Certificate of Conformity is required for vehicles sold in states covered by the Clean Air Act’s standards and a CARB Executive Order is required for vehicles sold in California and states that have adopted California’s stricter standards for emissions controls related to new vehicles and engines sold in such states. States that have adopted the California standards as approved by EPA also recognize the CARB Executive Order for sales of vehicles. In addition to 
+
+16
+
+* * *
+California, there are 17 other states that have either adopted or are in the process of adopting the stricter California standards, including New York, Massachusetts, Vermont, Maine, Pennsylvania, Connecticut, Rhode Island, Washington, Oregon, New Jersey, Maryland, Delaware, Colorado, Minnesota, Nevada, Virginia, and New Mexico.
+
+Although our vehicles have zero tailpipe emissions, we are required to seek an EPA Certificate of Conformity for vehicles sold in states covered by the Clean Air Act’s standards and a CARB Executive Order for vehicles sold in California or any of the other 13 states identified above that have adopted the stricter California standards.
+
+Vehicle Safety and Testing
+
+Our vehicles will be subject to, and will be required to comply with, the National Traffic and Motor Vehicle Safety Act, as amended, and numerous regulatory requirements established by the National Highway Traffic Safety Administration (“NHTSA”), an operating administration of the U.S. Department of Transportation, including applicable U.S. federal motor vehicle safety standards (“FMVSS”). We intend for our Lifestyle Vehicles to fully comply with all applicable FMVSS without the need for any exemptions, and expect our future EVs to either fully comply or comply with limited exemptions related to new technologies. 
+
+As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS, as well as the NHTSA bumper standard, or otherwise are exempt, before the vehicles can be manufactured for sale, sold, offered for sale, introduced or delivered for introduction in interstate commerce, or imported into the United States. Numerous FMVSS will apply to our vehicles, such as crash-worthiness requirements, crash avoidance requirements and EV-specific requirements. We will also be required to comply with other federal laws and regulations administered by NHTSA, including, among other things, ensuring our vehicles do not contain defects related to motor vehicle safety, recall requirements, the corporate average fuel economy (“CAFE”) standards, Theft Prevention Act requirements, consumer information labeling requirements, reporting required notices, bulletins and other communications, TREAD Act/Early Warning Information reporting, foreign recall reporting and owner’s manual requirements.
+
+The Automobile Information and Disclosure Act requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer’s suggested retail price, optional equipment and pricing. In addition, this law allows inclusion of city and highway fuel economy ratings, as determined by EPA, as well as crash test ratings as determined by NHTSA if such tests are conducted.
+
+If we expand our offerings outside of the United States, our vehicles will be subject to foreign safety, environmental and other regulations. Many of those regulations are different from those applicable in the United States and may require redesign and/or retesting. For example, the European Union (“E.U.”) has established new approval and oversight rules requiring that a national authority certify compliance with heightened safety rules, emissions limits and production requirements before vehicles can be sold in each E.U. member state, the initial of which rules were rolled out on September 1, 2020. Both domestically and abroad regulations that apply to our vehicles may change over time, so we will regularly evaluate these change and proposed changes to ensure our vehicles can remain available to the markets we serve.
+
+In addition to the various territorial legal requirements we are obligated to meet, our Lifestyle Vehicles are engineered to deliver overall 5-star performance in the two main voluntary vehicle safety performance assessment programs, U.S. NCAP and Euro NCAP. Five-star is the maximum attainable score. These independent organizations have introduced a number of additional safety related tests aimed at improving the safety of passenger vehicles, both for occupants and pedestrians involved in collisions with vehicles.
+
+Automobile Manufacturer and Dealer Regulation
+
+  
+
+
+In the United States, state laws regulate the manufacture, distribution, sale and service of automobiles, and generally require motor vehicle manufacturers and dealers to be licensed in order to sell vehicles directly to residents. Canoo currently is licensed to sell vehicles by the State of California. With that license, we can sell to customers across the country as a matter of interstate commerce. 
+
+However, certain other states do not permit automobile manufacturers to be licensed as dealers or to act in the capacity of a dealer, or otherwise restrict a manufacturer’s ability to deliver or service vehicles. Some automobile dealer trade associations have challenged the legality of direct selling by motor vehicle manufacturers in court or have used administrative and legislative processes to attempt to prohibit or limit manufacturers’ ability to operate existing dealerships or to expand to new locations. Certain dealer associations have lobbied state licensing agencies and legislators to interpret existing laws or to enact new laws in ways that prevent manufacturers from selling vehicles to customers. 
+
+17
+
+* * *
+Canoo will continue to support laws, regulations and policies that enable motor vehicle manufacturers to distribute, sell and service their vehicles efficiently and in ways that best meet the needs of their customers. 
+
+Battery Safety and Testing Regulation
+
+Our battery pack conforms to mandatory regulations that govern transport of “dangerous goods,” defined to include lithium-ion batteries, which may present a risk in transportation. The governing regulations, which are issued by the Pipeline and Hazardous Materials Safety Administration, are based on the UN Recommendations on the Safe Transport of Dangerous Goods Model Regulations and related UN Manual Tests and Criteria. The regulations vary by mode of shipping transportation, such as by ocean vessel, rail, truck or air. Prior to launch, we plan to complete all applicable transportation tests for our battery packs, demonstrating our compliance with applicable regulations. We will use lithium-ion cells in the high voltage battery packs in our vehicles. The use, storage, and disposal of our battery packs is regulated under federal law.
+
+Our battery packs are intended to meet the applicable compliance requirements of the UN Manual of Tests and Criteria demonstrating our ability to ship battery packs by any method.
+
+These tests include:
+
+Altitude simulation — simulating air transport;
+
+Thermal cycling — assessing cell and battery seal integrity;
+
+Vibration — simulating vibration during transport;
+
+Shock — simulating possible impacts during transport;
+
+External short circuit — simulating an external short circuit; and
+
+Overcharge — evaluating the ability of a rechargeable battery to withstand overcharging.
+
+COMPETITION
+
+We have experienced, and expect to continue to experience, intense competition from a number of companies, particularly as the transportation sector increasingly shifts towards low-emission, zero-emission or carbon neutral solutions. Competing vehicles include internal combustion vehicles from established automobile manufacturers as well as alternative fuel and electric vehicles manufactured, or to be manufactured, by established and new automobile manufacturers. Many major automobile manufacturers currently offer EVs and hybrid vehicles, including plug-in versions, and many prospective automobile manufacturers are developing EVs. In recent years, interest in EVs from public investors has made access to public capital more readily available for newer entrants into the EV market, which in turn has increased the number of viable competitors. We believe the primary competitive factors in the EV market include, but are not limited to:
+
+•product availability;
+
+•technological innovation;
+
+•product quality, reliability and safety;
+
+•service options;
+
+•product performance;
+
+•design and styling;
+
+•product price; 
+
+•manufacturing efficiency; 
+
+18
+
+* * *
+•access to reliable supply for raw materials and parts, including batteries;
+
+•marketing and consumer adoption; and
+
+•access to and efficient allocation of capital.
+
+We believe that our EVs will compete favorably on the basis of these factors; however, many of our current and potential competitors have greater financial, technical, manufacturing, marketing and other resources than we do. Our competitors may be able to deploy greater resources to the design, development, manufacturing, distribution, promotion, sales, marketing and support of their alternative fuel vehicle and EV programs. Additionally, our competitors may also have greater name recognition, longer operating histories, larger sales forces, more traditional sales and distribution strategies, broader customer and industry relationships and other tangible and intangible resources than we do. These competitors also compete with us in recruiting and retaining qualified research and development, manufacturing, sales, marketing and management personnel, as well as in acquiring technologies complementary to, or necessary for, our products. Additional mergers and acquisitions in the EV market may result in even more resources being concentrated in our competitors.
+
+AVAILABLE INFORMATION
+
+We file electronically with the SEC our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. We make available on our website at www.canoo.com, free of charge, copies of these reports and other information as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Information found on, or accessible through, our website is not a part of, and is not incorporated into, this Annual Report on Form 10-K. 
+
+ITEM 1A. RISK FACTORS
